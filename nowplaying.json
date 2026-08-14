@@ -1,0 +1,14 @@
+{
+    "channel":  "FIRMELAB Cinema",
+    "updated":  "2026-08-14T06:14:52.8820110Z",
+    "nowPlaying":  {
+                       "title":  "D1_t00",
+                       "start":  "\/Date(1786712594000)\/",
+                       "stop":  "\/Date(1786720492000)\/"
+                   },
+    "upNext":  {
+                   "title":  "E1_t00",
+                   "start":  "\/Date(1786720492000)\/",
+                   "stop":  "\/Date(1786726437000)\/"
+               }
+}
