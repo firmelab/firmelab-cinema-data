@@ -1,14 +1,14 @@
 {
     "channel":  "FIRMELAB Cinema",
-    "updated":  "2026-08-19T05:44:31.3561262Z",
+    "updated":  "2026-08-19T19:18:46.5169031Z",
     "nowPlaying":  {
-                       "title":  "Scarface",
-                       "start":  "\/Date(1787134252000)\/",
-                       "stop":  "\/Date(1787144479000)\/"
+                       "title":  "The Patriot",
+                       "start":  "\/Date(1787192220000)\/",
+                       "stop":  "\/Date(1787202119000)\/"
                    },
     "upNext":  {
-                   "title":  "Firmelab Cinema",
-                   "start":  "\/Date(1787144479000)\/",
-                   "stop":  "\/Date(1787151600000)\/"
+                   "title":  "Conan The Barbarian",
+                   "start":  "\/Date(1787202119000)\/",
+                   "stop":  "\/Date(1787209950000)\/"
                }
 }
