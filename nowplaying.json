@@ -1,14 +1,14 @@
 {
     "channel":  "FIRMELAB Cinema",
-    "updated":  "2026-08-19T22:01:05.8273887Z",
+    "updated":  "2026-08-19T22:02:05.7736468Z",
     "nowPlaying":  {
-                       "title":  "The Patriot",
-                       "start":  "2026-08-19T19:17:00.0000000Z",
-                       "stop":  "2026-08-19T22:01:59.0000000Z"
+                       "title":  "Conan The Barbarian",
+                       "start":  "2026-08-19T22:01:59.0000000Z",
+                       "stop":  "2026-08-20T00:12:30.0000000Z"
                    },
     "upNext":  {
-                   "title":  "Conan The Barbarian",
-                   "start":  "2026-08-19T22:01:59.0000000Z",
-                   "stop":  "2026-08-20T00:12:30.0000000Z"
+                   "title":  "Resident Evil",
+                   "start":  "2026-08-20T00:12:30.0000000Z",
+                   "stop":  "2026-08-20T01:53:33.0000000Z"
                }
 }
