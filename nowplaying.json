@@ -1,14 +1,14 @@
 {
     "channel":  "FIRMELAB Cinema",
-    "updated":  "2026-08-19T20:27:05.2278706Z",
+    "updated":  "2026-08-19T20:27:17.6242943Z",
     "nowPlaying":  {
                        "title":  "The Patriot",
-                       "start":  "\/Date(1787167020000)\/",
-                       "stop":  "\/Date(1787176919000)\/"
+                       "start":  "2026-08-19T19:17:00.0000000Z",
+                       "stop":  "2026-08-19T22:01:59.0000000Z"
                    },
     "upNext":  {
                    "title":  "Conan The Barbarian",
-                   "start":  "\/Date(1787176919000)\/",
-                   "stop":  "\/Date(1787184750000)\/"
+                   "start":  "2026-08-19T22:01:59.0000000Z",
+                   "stop":  "2026-08-20T00:12:30.0000000Z"
                }
 }
