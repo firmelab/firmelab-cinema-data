@@ -1,22 +1,17 @@
 {
     "channel":  "FIRMELAB Cinema",
-    "updated":  "2026-08-20T14:10:04.9178385Z",
+    "updated":  "2026-08-20T14:11:04.9188037Z",
     "nowPlaying":  {
-                       "title":  "Dawn of the Dead",
-                       "start":  "2026-08-20T12:08:58.0000000Z",
-                       "stop":  "2026-08-20T14:10:15.0000000Z"
+                       "title":  "Scarface",
+                       "start":  "2026-08-20T14:10:15.0000000Z",
+                       "stop":  "2026-08-20T17:04:06.0000000Z"
                    },
     "upNext":  {
-                   "title":  "Scarface",
-                   "start":  "2026-08-20T14:10:15.0000000Z",
-                   "stop":  "2026-08-20T17:04:06.0000000Z"
+                   "title":  "Master and Commander",
+                   "start":  "2026-08-20T17:04:06.0000000Z",
+                   "stop":  "2026-08-20T19:26:22.0000000Z"
                },
     "upcoming":  [
-                     {
-                         "title":  "Scarface",
-                         "start":  "2026-08-20T14:10:15.0000000Z",
-                         "stop":  "2026-08-20T17:04:06.0000000Z"
-                     },
                      {
                          "title":  "Master and Commander",
                          "start":  "2026-08-20T17:04:06.0000000Z",
