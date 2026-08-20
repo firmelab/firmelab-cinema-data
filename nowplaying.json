@@ -1,6 +1,6 @@
 {
     "channel":  "FIRMELAB Cinema",
-    "updated":  "2026-08-20T17:13:04.9794201Z",
+    "updated":  "2026-08-20T17:14:04.9645056Z",
     "nowPlaying":  {
                        "title":  "Master and Commander",
                        "start":  "2026-08-20T17:04:06.0000000Z",
@@ -23,19 +23,19 @@
                          "stop":  "2026-08-20T21:33:21.0000000Z"
                      },
                      {
+                         "title":  "Bourne Identity",
+                         "start":  "2026-08-20T19:29:01.0000000Z",
+                         "stop":  "2026-08-20T21:27:17.0000000Z"
+                     },
+                     {
                          "title":  "Land of the Dead",
                          "start":  "2026-08-20T20:54:23.0000000Z",
                          "stop":  "2026-08-20T22:36:59.0000000Z"
                      },
                      {
-                         "title":  "The Patriot",
-                         "start":  "2026-08-20T21:33:21.0000000Z",
-                         "stop":  "2026-08-21T00:22:03.0000000Z"
-                     },
-                     {
-                         "title":  "Dawn of the Dead",
-                         "start":  "2026-08-20T22:36:59.0000000Z",
-                         "stop":  "2026-08-21T00:31:59.0000000Z"
+                         "title":  "Bourne Supremacy",
+                         "start":  "2026-08-20T21:27:17.0000000Z",
+                         "stop":  "2026-08-20T23:15:50.0000000Z"
                      }
                  ]
 }
