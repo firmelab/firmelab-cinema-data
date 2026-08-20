@@ -1,22 +1,17 @@
 {
     "channel":  "FIRMELAB Cinema",
-    "updated":  "2026-08-20T12:08:05.2425515Z",
+    "updated":  "2026-08-20T12:09:05.2368527Z",
     "nowPlaying":  {
-                       "title":  "Conan The Destroyer",
-                       "start":  "2026-08-20T10:23:56.0000000Z",
-                       "stop":  "2026-08-20T12:08:58.0000000Z"
+                       "title":  "Dawn of the Dead",
+                       "start":  "2026-08-20T12:08:58.0000000Z",
+                       "stop":  "2026-08-20T14:10:15.0000000Z"
                    },
     "upNext":  {
-                   "title":  "Dawn of the Dead",
-                   "start":  "2026-08-20T12:08:58.0000000Z",
-                   "stop":  "2026-08-20T14:10:15.0000000Z"
+                   "title":  "Scarface",
+                   "start":  "2026-08-20T14:10:15.0000000Z",
+                   "stop":  "2026-08-20T17:04:06.0000000Z"
                },
     "upcoming":  [
-                     {
-                         "title":  "Dawn of the Dead",
-                         "start":  "2026-08-20T12:08:58.0000000Z",
-                         "stop":  "2026-08-20T14:10:15.0000000Z"
-                     },
                      {
                          "title":  "Scarface",
                          "start":  "2026-08-20T14:10:15.0000000Z",
