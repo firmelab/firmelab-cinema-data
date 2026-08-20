@@ -1,22 +1,17 @@
 {
     "channel":  "FIRMELAB Cinema",
-    "updated":  "2026-08-20T19:26:05.2612827Z",
+    "updated":  "2026-08-20T19:27:05.4008405Z",
     "nowPlaying":  {
-                       "title":  "Master and Commander",
-                       "start":  "2026-08-20T17:04:06.0000000Z",
-                       "stop":  "2026-08-20T19:26:22.0000000Z"
+                       "title":  "World War Z",
+                       "start":  "2026-08-20T19:26:22.0000000Z",
+                       "stop":  "2026-08-20T21:33:21.0000000Z"
                    },
     "upNext":  {
-                   "title":  "World War Z",
-                   "start":  "2026-08-20T19:26:22.0000000Z",
-                   "stop":  "2026-08-20T21:33:21.0000000Z"
+                   "title":  "Black Hawk Down",
+                   "start":  "2026-08-20T19:29:01.0000000Z",
+                   "stop":  "2026-08-20T21:53:22.0000000Z"
                },
     "upcoming":  [
-                     {
-                         "title":  "World War Z",
-                         "start":  "2026-08-20T19:26:22.0000000Z",
-                         "stop":  "2026-08-20T21:33:21.0000000Z"
-                     },
                      {
                          "title":  "Black Hawk Down",
                          "start":  "2026-08-20T19:29:01.0000000Z",
@@ -36,6 +31,11 @@
                          "title":  "Bourne Identity",
                          "start":  "2026-08-20T21:53:22.0000000Z",
                          "stop":  "2026-08-20T23:51:38.0000000Z"
+                     },
+                     {
+                         "title":  "Dawn of the Dead",
+                         "start":  "2026-08-20T22:36:59.0000000Z",
+                         "stop":  "2026-08-21T00:31:59.0000000Z"
                      }
                  ]
 }
