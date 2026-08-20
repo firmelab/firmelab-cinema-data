@@ -1,22 +1,17 @@
 {
     "channel":  "FIRMELAB Cinema",
-    "updated":  "2026-08-20T21:53:05.1285694Z",
+    "updated":  "2026-08-20T21:54:05.1217030Z",
     "nowPlaying":  {
                        "title":  "The Patriot",
                        "start":  "2026-08-20T21:33:21.0000000Z",
                        "stop":  "2026-08-21T00:22:03.0000000Z"
                    },
     "upNext":  {
-                   "title":  "Bourne Identity",
-                   "start":  "2026-08-20T21:53:22.0000000Z",
-                   "stop":  "2026-08-20T23:51:38.0000000Z"
+                   "title":  "Dawn of the Dead",
+                   "start":  "2026-08-20T22:36:59.0000000Z",
+                   "stop":  "2026-08-21T00:31:59.0000000Z"
                },
     "upcoming":  [
-                     {
-                         "title":  "Bourne Identity",
-                         "start":  "2026-08-20T21:53:22.0000000Z",
-                         "stop":  "2026-08-20T23:51:38.0000000Z"
-                     },
                      {
                          "title":  "Dawn of the Dead",
                          "start":  "2026-08-20T22:36:59.0000000Z",
@@ -36,6 +31,11 @@
                          "title":  "Underworld Evolution",
                          "start":  "2026-08-21T00:31:59.0000000Z",
                          "stop":  "2026-08-21T02:24:10.0000000Z"
+                     },
+                     {
+                         "title":  "Brightburn",
+                         "start":  "2026-08-21T01:40:11.0000000Z",
+                         "stop":  "2026-08-21T03:10:41.0000000Z"
                      }
                  ]
 }
