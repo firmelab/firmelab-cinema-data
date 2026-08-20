@@ -1,22 +1,17 @@
 {
     "channel":  "FIRMELAB Cinema",
-    "updated":  "2026-08-20T22:36:08.5907137Z",
+    "updated":  "2026-08-20T22:37:06.8669969Z",
     "nowPlaying":  {
                        "title":  "The Patriot",
                        "start":  "2026-08-20T21:33:21.0000000Z",
                        "stop":  "2026-08-21T00:22:03.0000000Z"
                    },
     "upNext":  {
-                   "title":  "Dawn of the Dead",
-                   "start":  "2026-08-20T22:36:59.0000000Z",
-                   "stop":  "2026-08-21T00:31:59.0000000Z"
+                   "title":  "Bourne Supremacy",
+                   "start":  "2026-08-20T23:51:38.0000000Z",
+                   "stop":  "2026-08-21T01:40:11.0000000Z"
                },
     "upcoming":  [
-                     {
-                         "title":  "Dawn of the Dead",
-                         "start":  "2026-08-20T22:36:59.0000000Z",
-                         "stop":  "2026-08-21T00:31:59.0000000Z"
-                     },
                      {
                          "title":  "Bourne Supremacy",
                          "start":  "2026-08-20T23:51:38.0000000Z",
@@ -36,6 +31,11 @@
                          "title":  "Brightburn",
                          "start":  "2026-08-21T01:40:11.0000000Z",
                          "stop":  "2026-08-21T03:10:41.0000000Z"
+                     },
+                     {
+                         "title":  "Boogeyman",
+                         "start":  "2026-08-21T02:24:10.0000000Z",
+                         "stop":  "2026-08-21T04:04:46.0000000Z"
                      }
                  ]
 }
