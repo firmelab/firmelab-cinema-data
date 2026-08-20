@@ -1,22 +1,17 @@
 {
     "channel":  "FIRMELAB Cinema",
-    "updated":  "2026-08-20T20:54:05.9693612Z",
+    "updated":  "2026-08-20T20:55:05.9004535Z",
     "nowPlaying":  {
                        "title":  "World War Z",
                        "start":  "2026-08-20T19:26:22.0000000Z",
                        "stop":  "2026-08-20T21:33:21.0000000Z"
                    },
     "upNext":  {
-                   "title":  "Land of the Dead",
-                   "start":  "2026-08-20T20:54:23.0000000Z",
-                   "stop":  "2026-08-20T22:36:59.0000000Z"
+                   "title":  "The Patriot",
+                   "start":  "2026-08-20T21:33:21.0000000Z",
+                   "stop":  "2026-08-21T00:22:03.0000000Z"
                },
     "upcoming":  [
-                     {
-                         "title":  "Land of the Dead",
-                         "start":  "2026-08-20T20:54:23.0000000Z",
-                         "stop":  "2026-08-20T22:36:59.0000000Z"
-                     },
                      {
                          "title":  "The Patriot",
                          "start":  "2026-08-20T21:33:21.0000000Z",
@@ -36,6 +31,11 @@
                          "title":  "Bourne Supremacy",
                          "start":  "2026-08-20T23:51:38.0000000Z",
                          "stop":  "2026-08-21T01:40:11.0000000Z"
+                     },
+                     {
+                         "title":  "Sherlock Holmes",
+                         "start":  "2026-08-21T00:22:03.0000000Z",
+                         "stop":  "2026-08-21T02:34:25.0000000Z"
                      }
                  ]
 }
