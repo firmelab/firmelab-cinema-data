@@ -1,22 +1,17 @@
 {
     "channel":  "FIRMELAB Cinema",
-    "updated":  "2026-08-20T07:59:05.1241793Z",
+    "updated":  "2026-08-20T08:00:05.1999845Z",
     "nowPlaying":  {
-                       "title":  "Inside Man",
-                       "start":  "2026-08-20T05:43:46.0000000Z",
-                       "stop":  "2026-08-20T08:00:00.0000000Z"
+                       "title":  "BATMAN BEGINS",
+                       "start":  "2026-08-20T08:00:00.0000000Z",
+                       "stop":  "2026-08-20T10:23:56.0000000Z"
                    },
     "upNext":  {
-                   "title":  "BATMAN BEGINS",
-                   "start":  "2026-08-20T08:00:00.0000000Z",
-                   "stop":  "2026-08-20T10:23:56.0000000Z"
+                   "title":  "Conan The Destroyer",
+                   "start":  "2026-08-20T10:23:56.0000000Z",
+                   "stop":  "2026-08-20T12:08:58.0000000Z"
                },
     "upcoming":  [
-                     {
-                         "title":  "BATMAN BEGINS",
-                         "start":  "2026-08-20T08:00:00.0000000Z",
-                         "stop":  "2026-08-20T10:23:56.0000000Z"
-                     },
                      {
                          "title":  "Conan The Destroyer",
                          "start":  "2026-08-20T10:23:56.0000000Z",
