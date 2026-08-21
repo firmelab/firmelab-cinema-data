@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-21T21:06:53.1139243Z",
+    "updated":  "2026-08-21T21:07:05.0677481Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -41,21 +41,16 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Underworld Evolution",
-                                                  "start":  "2026-08-21T19:16:06.0000000Z",
-                                                  "stop":  "2026-08-21T21:06:59.0000000Z"
+                                                  "title":  "World War Z",
+                                                  "start":  "2026-08-21T21:06:59.0000000Z",
+                                                  "stop":  "2026-08-21T23:14:32.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "World War Z",
-                                              "start":  "2026-08-21T21:06:59.0000000Z",
-                                              "stop":  "2026-08-21T23:14:32.0000000Z"
+                                              "title":  "Land of the Dead",
+                                              "start":  "2026-08-21T23:14:32.0000000Z",
+                                              "stop":  "2026-08-22T00:55:51.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "World War Z",
-                                                    "start":  "2026-08-21T21:06:59.0000000Z",
-                                                    "stop":  "2026-08-21T23:14:32.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Land of the Dead",
                                                     "start":  "2026-08-21T23:14:32.0000000Z",
