@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-21T16:59:05.3444252Z",
+    "updated":  "2026-08-21T17:00:05.0262074Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -46,21 +46,16 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Wrong Turn",
-                                                  "start":  "2026-08-21T15:30:00.0000000Z",
-                                                  "stop":  "2026-08-21T17:00:00.0000000Z"
+                                                  "title":  "D1_t00",
+                                                  "start":  "2026-08-21T17:00:00.0000000Z",
+                                                  "stop":  "2026-08-21T19:16:06.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "D1_t00",
-                                              "start":  "2026-08-21T17:00:00.0000000Z",
-                                              "stop":  "2026-08-21T19:16:06.0000000Z"
+                                              "title":  "Underworld Evolution",
+                                              "start":  "2026-08-21T19:16:06.0000000Z",
+                                              "stop":  "2026-08-21T21:06:59.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "D1_t00",
-                                                    "start":  "2026-08-21T17:00:00.0000000Z",
-                                                    "stop":  "2026-08-21T19:16:06.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Underworld Evolution",
                                                     "start":  "2026-08-21T19:16:06.0000000Z",
@@ -192,21 +187,16 @@
                                "number":  6,
                                "name":  "FIRMELAB CRIME",
                                "nowPlaying":  {
-                                                  "title":  "Carlitos Way",
-                                                  "start":  "2026-08-21T14:35:09.0000000Z",
-                                                  "stop":  "2026-08-21T16:59:19.0000000Z"
+                                                  "title":  "Jacky Brown",
+                                                  "start":  "2026-08-21T16:59:19.0000000Z",
+                                                  "stop":  "2026-08-21T19:33:40.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Jacky Brown",
-                                              "start":  "2026-08-21T16:59:19.0000000Z",
-                                              "stop":  "2026-08-21T19:33:40.0000000Z"
+                                              "title":  "Inside Man",
+                                              "start":  "2026-08-21T19:33:40.0000000Z",
+                                              "stop":  "2026-08-21T21:42:27.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Jacky Brown",
-                                                    "start":  "2026-08-21T16:59:19.0000000Z",
-                                                    "stop":  "2026-08-21T19:33:40.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Inside Man",
                                                     "start":  "2026-08-21T19:33:40.0000000Z",
