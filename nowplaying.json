@@ -1,22 +1,17 @@
 {
     "channel":  "FIRMELAB Cinema",
-    "updated":  "2026-08-21T00:31:05.3710014Z",
+    "updated":  "2026-08-21T00:32:05.4908478Z",
     "nowPlaying":  {
                        "title":  "Sherlock Holmes",
                        "start":  "2026-08-21T00:22:03.0000000Z",
                        "stop":  "2026-08-21T02:34:25.0000000Z"
                    },
     "upNext":  {
-                   "title":  "Underworld Evolution",
-                   "start":  "2026-08-21T00:31:59.0000000Z",
-                   "stop":  "2026-08-21T02:24:10.0000000Z"
+                   "title":  "Brightburn",
+                   "start":  "2026-08-21T01:40:11.0000000Z",
+                   "stop":  "2026-08-21T03:10:41.0000000Z"
                },
     "upcoming":  [
-                     {
-                         "title":  "Underworld Evolution",
-                         "start":  "2026-08-21T00:31:59.0000000Z",
-                         "stop":  "2026-08-21T02:24:10.0000000Z"
-                     },
                      {
                          "title":  "Brightburn",
                          "start":  "2026-08-21T01:40:11.0000000Z",
@@ -36,6 +31,11 @@
                          "title":  "Commando",
                          "start":  "2026-08-21T03:10:41.0000000Z",
                          "stop":  "2026-08-21T04:40:54.0000000Z"
+                     },
+                     {
+                         "title":  "D1_t00",
+                         "start":  "2026-08-21T04:04:46.0000000Z",
+                         "stop":  "2026-08-21T06:28:06.0000000Z"
                      }
                  ]
 }
