@@ -1,22 +1,17 @@
 {
     "channel":  "FIRMELAB Cinema",
-    "updated":  "2026-08-21T06:55:14.3402158Z",
+    "updated":  "2026-08-21T06:56:11.6569996Z",
     "nowPlaying":  {
                        "title":  "Underworld Evolution",
                        "start":  "2026-08-21T06:05:37.0000000Z",
                        "stop":  "2026-08-21T08:00:00.0000000Z"
                    },
     "upNext":  {
-                   "title":  "Carrito",
-                   "start":  "2026-08-21T06:55:39.0000000Z",
-                   "stop":  "2026-08-21T07:03:18.0000000Z"
+                   "title":  "Dancing Cobra",
+                   "start":  "2026-08-21T07:03:18.0000000Z",
+                   "stop":  "2026-08-21T07:04:24.0000000Z"
                },
     "upcoming":  [
-                     {
-                         "title":  "Carrito",
-                         "start":  "2026-08-21T06:55:39.0000000Z",
-                         "stop":  "2026-08-21T07:03:18.0000000Z"
-                     },
                      {
                          "title":  "Dancing Cobra",
                          "start":  "2026-08-21T07:03:18.0000000Z",
@@ -36,6 +31,11 @@
                          "title":  "JamminG",
                          "start":  "2026-08-21T07:07:03.0000000Z",
                          "stop":  "2026-08-21T07:10:55.0000000Z"
+                     },
+                     {
+                         "title":  "Never 3Nding",
+                         "start":  "2026-08-21T07:11:00.0000000Z",
+                         "stop":  "2026-08-21T07:13:12.0000000Z"
                      }
                  ]
 }
