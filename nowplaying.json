@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-21T22:31:06.2802270Z",
+    "updated":  "2026-08-21T22:32:06.3374183Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -82,21 +82,16 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Bourne Supremacy",
-                                                  "start":  "2026-08-21T20:43:15.0000000Z",
-                                                  "stop":  "2026-08-21T22:31:47.0000000Z"
+                                                  "title":  "Brightburn",
+                                                  "start":  "2026-08-21T22:31:47.0000000Z",
+                                                  "stop":  "2026-08-22T00:02:17.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Brightburn",
-                                              "start":  "2026-08-21T22:31:47.0000000Z",
-                                              "stop":  "2026-08-22T00:02:17.0000000Z"
+                                              "title":  "Commando",
+                                              "start":  "2026-08-22T00:02:17.0000000Z",
+                                              "stop":  "2026-08-22T01:32:31.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Brightburn",
-                                                    "start":  "2026-08-21T22:31:47.0000000Z",
-                                                    "stop":  "2026-08-22T00:02:17.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Commando",
                                                     "start":  "2026-08-22T00:02:17.0000000Z",
