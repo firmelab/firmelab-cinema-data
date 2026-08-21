@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-21T16:44:04.8933134Z",
+    "updated":  "2026-08-21T16:45:04.9885352Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -133,21 +133,16 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "Get Shorty",
-                                                  "start":  "2026-08-21T14:59:20.0000000Z",
-                                                  "stop":  "2026-08-21T16:44:08.0000000Z"
+                                                  "title":  "Undercover Brother",
+                                                  "start":  "2026-08-21T16:44:08.0000000Z",
+                                                  "stop":  "2026-08-21T18:10:14.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Undercover Brother",
-                                              "start":  "2026-08-21T16:44:08.0000000Z",
-                                              "stop":  "2026-08-21T18:10:14.0000000Z"
+                                              "title":  "Who.Framed.Roger.Rabbit",
+                                              "start":  "2026-08-21T18:10:14.0000000Z",
+                                              "stop":  "2026-08-21T19:54:00.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Undercover Brother",
-                                                    "start":  "2026-08-21T16:44:08.0000000Z",
-                                                    "stop":  "2026-08-21T18:10:14.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Who.Framed.Roger.Rabbit",
                                                     "start":  "2026-08-21T18:10:14.0000000Z",
@@ -238,21 +233,16 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Carrito",
-                                                  "start":  "2026-08-21T16:36:34.0000000Z",
-                                                  "stop":  "2026-08-21T16:44:12.0000000Z"
+                                                  "title":  "Dancing Cobra",
+                                                  "start":  "2026-08-21T16:44:12.0000000Z",
+                                                  "stop":  "2026-08-21T16:45:18.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Dancing Cobra",
-                                              "start":  "2026-08-21T16:44:12.0000000Z",
-                                              "stop":  "2026-08-21T16:45:18.0000000Z"
+                                              "title":  "DnBaPCsht",
+                                              "start":  "2026-08-21T16:45:18.0000000Z",
+                                              "stop":  "2026-08-21T16:46:05.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Dancing Cobra",
-                                                    "start":  "2026-08-21T16:44:12.0000000Z",
-                                                    "stop":  "2026-08-21T16:45:18.0000000Z"
-                                                },
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-08-21T16:45:18.0000000Z",
@@ -287,6 +277,11 @@
                                                     "title":  "BloodJoke",
                                                     "start":  "2026-08-21T16:55:38.0000000Z",
                                                     "stop":  "2026-08-21T16:57:14.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "Carrito",
+                                                    "start":  "2026-08-21T16:57:19.0000000Z",
+                                                    "stop":  "2026-08-21T17:04:57.0000000Z"
                                                 }
                                             ]
                            },
