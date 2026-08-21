@@ -1,6 +1,6 @@
 {
     "channel":  "FIRMELAB Cinema",
-    "updated":  "2026-08-21T05:12:09.3949812Z",
+    "updated":  "2026-08-21T05:13:06.4889909Z",
     "nowPlaying":  {
                        "title":  "Land of the Dead",
                        "start":  "2026-08-21T04:24:53.0000000Z",
@@ -28,14 +28,14 @@
                          "stop":  "2026-08-21T08:32:24.0000000Z"
                      },
                      {
+                         "title":  "Undercover Brother",
+                         "start":  "2026-08-21T06:54:48.0000000Z",
+                         "stop":  "2026-08-21T08:20:54.0000000Z"
+                     },
+                     {
                          "title":  "Sherlock Holmes",
                          "start":  "2026-08-21T08:00:00.0000000Z",
                          "stop":  "2026-08-21T10:12:55.0000000Z"
-                     },
-                     {
-                         "title":  "Wrong Turn",
-                         "start":  "2026-08-21T08:14:25.0000000Z",
-                         "stop":  "2026-08-21T09:56:15.0000000Z"
                      }
                  ]
 }
