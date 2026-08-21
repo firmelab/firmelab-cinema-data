@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-21T19:53:38.8499307Z",
+    "updated":  "2026-08-21T19:54:42.7858099Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -138,21 +138,16 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "Who.Framed.Roger.Rabbit",
-                                                  "start":  "2026-08-21T18:10:14.0000000Z",
-                                                  "stop":  "2026-08-21T19:54:00.0000000Z"
+                                                  "title":  "Get Shorty",
+                                                  "start":  "2026-08-21T19:54:00.0000000Z",
+                                                  "stop":  "2026-08-21T21:38:48.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Get Shorty",
-                                              "start":  "2026-08-21T19:54:00.0000000Z",
-                                              "stop":  "2026-08-21T21:38:48.0000000Z"
+                                              "title":  "Undercover Brother",
+                                              "start":  "2026-08-21T21:38:48.0000000Z",
+                                              "stop":  "2026-08-21T23:04:54.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Get Shorty",
-                                                    "start":  "2026-08-21T19:54:00.0000000Z",
-                                                    "stop":  "2026-08-21T21:38:48.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Undercover Brother",
                                                     "start":  "2026-08-21T21:38:48.0000000Z",
@@ -238,21 +233,16 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Duende",
-                                                  "start":  "2026-08-21T19:53:00.0000000Z",
-                                                  "stop":  "2026-08-21T19:54:09.0000000Z"
+                                                  "title":  "JamminG",
+                                                  "start":  "2026-08-21T19:54:41.0000000Z",
+                                                  "stop":  "2026-08-21T19:58:33.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "JamminG",
-                                              "start":  "2026-08-21T19:54:41.0000000Z",
-                                              "stop":  "2026-08-21T19:58:33.0000000Z"
+                                              "title":  "Never 3Nding",
+                                              "start":  "2026-08-21T19:58:38.0000000Z",
+                                              "stop":  "2026-08-21T20:00:50.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "JamminG",
-                                                    "start":  "2026-08-21T19:54:41.0000000Z",
-                                                    "stop":  "2026-08-21T19:58:33.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-08-21T19:58:38.0000000Z",
@@ -287,6 +277,11 @@
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-08-21T20:12:46.0000000Z",
                                                     "stop":  "2026-08-21T20:13:33.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "Duende",
+                                                    "start":  "2026-08-21T20:13:44.0000000Z",
+                                                    "stop":  "2026-08-21T20:14:54.0000000Z"
                                                 }
                                             ]
                            },
