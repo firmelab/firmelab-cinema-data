@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-21T11:17:05.3702321Z",
+    "updated":  "2026-08-21T11:18:05.3708149Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -304,21 +304,16 @@
                                "number":  8,
                                "name":  "FIRMELAB FRONTIER",
                                "nowPlaying":  {
-                                                  "title":  "The Patriot",
-                                                  "start":  "2026-08-21T08:32:45.0000000Z",
-                                                  "stop":  "2026-08-21T11:17:32.0000000Z"
+                                                  "title":  "Master and Commander",
+                                                  "start":  "2026-08-21T11:17:32.0000000Z",
+                                                  "stop":  "2026-08-21T13:35:53.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Master and Commander",
-                                              "start":  "2026-08-21T11:17:32.0000000Z",
-                                              "stop":  "2026-08-21T13:35:53.0000000Z"
+                                              "title":  "Brave Heart",
+                                              "start":  "2026-08-21T13:35:53.0000000Z",
+                                              "stop":  "2026-08-21T16:33:34.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Master and Commander",
-                                                    "start":  "2026-08-21T11:17:32.0000000Z",
-                                                    "stop":  "2026-08-21T13:35:53.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Brave Heart",
                                                     "start":  "2026-08-21T13:35:53.0000000Z",
