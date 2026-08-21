@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-21T08:20:07.4868645Z",
+    "updated":  "2026-08-21T08:21:08.8733222Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -133,21 +133,16 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "Undercover Brother",
-                                                  "start":  "2026-08-21T06:54:48.0000000Z",
-                                                  "stop":  "2026-08-21T08:20:54.0000000Z"
+                                                  "title":  "Who.Framed.Roger.Rabbit",
+                                                  "start":  "2026-08-21T08:20:54.0000000Z",
+                                                  "stop":  "2026-08-21T10:04:40.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Who.Framed.Roger.Rabbit",
-                                              "start":  "2026-08-21T08:20:54.0000000Z",
-                                              "stop":  "2026-08-21T10:04:40.0000000Z"
+                                              "title":  "Get Shorty",
+                                              "start":  "2026-08-21T10:04:40.0000000Z",
+                                              "stop":  "2026-08-21T11:49:28.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Who.Framed.Roger.Rabbit",
-                                                    "start":  "2026-08-21T08:20:54.0000000Z",
-                                                    "stop":  "2026-08-21T10:04:40.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Get Shorty",
                                                     "start":  "2026-08-21T10:04:40.0000000Z",
