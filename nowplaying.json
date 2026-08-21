@@ -1,22 +1,17 @@
 {
     "channel":  "FIRMELAB Cinema",
-    "updated":  "2026-08-21T06:53:19.3332392Z",
+    "updated":  "2026-08-21T06:54:22.4660111Z",
     "nowPlaying":  {
                        "title":  "Underworld Evolution",
                        "start":  "2026-08-21T06:05:37.0000000Z",
                        "stop":  "2026-08-21T08:00:00.0000000Z"
                    },
     "upNext":  {
-                   "title":  "BloodJoke",
-                   "start":  "2026-08-21T06:53:59.0000000Z",
-                   "stop":  "2026-08-21T06:55:34.0000000Z"
+                   "title":  "Undercover Brother",
+                   "start":  "2026-08-21T06:54:48.0000000Z",
+                   "stop":  "2026-08-21T08:20:54.0000000Z"
                },
     "upcoming":  [
-                     {
-                         "title":  "BloodJoke",
-                         "start":  "2026-08-21T06:53:59.0000000Z",
-                         "stop":  "2026-08-21T06:55:34.0000000Z"
-                     },
                      {
                          "title":  "Undercover Brother",
                          "start":  "2026-08-21T06:54:48.0000000Z",
@@ -36,6 +31,11 @@
                          "title":  "DnBaPCsht",
                          "start":  "2026-08-21T07:04:24.0000000Z",
                          "stop":  "2026-08-21T07:05:10.0000000Z"
+                     },
+                     {
+                         "title":  "Duende",
+                         "start":  "2026-08-21T07:05:22.0000000Z",
+                         "stop":  "2026-08-21T07:06:31.0000000Z"
                      }
                  ]
 }
