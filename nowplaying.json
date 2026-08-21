@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-21T07:47:05.1342583Z",
+    "updated":  "2026-08-21T07:48:04.9910229Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -247,11 +247,7 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "Duende",
-                                                  "start":  "2026-08-21T07:46:51.0000000Z",
-                                                  "stop":  "2026-08-21T07:48:01.0000000Z"
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
                                               "title":  "JamminG",
                                               "start":  "2026-08-21T07:48:33.0000000Z",
