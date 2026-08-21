@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-21T10:04:04.7941484Z",
+    "updated":  "2026-08-21T10:05:04.8369171Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -123,21 +123,16 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "Who.Framed.Roger.Rabbit",
-                                                  "start":  "2026-08-21T08:20:54.0000000Z",
-                                                  "stop":  "2026-08-21T10:04:40.0000000Z"
+                                                  "title":  "Get Shorty",
+                                                  "start":  "2026-08-21T10:04:40.0000000Z",
+                                                  "stop":  "2026-08-21T11:49:28.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Get Shorty",
-                                              "start":  "2026-08-21T10:04:40.0000000Z",
-                                              "stop":  "2026-08-21T11:49:28.0000000Z"
+                                              "title":  "Undercover Brother",
+                                              "start":  "2026-08-21T11:49:28.0000000Z",
+                                              "stop":  "2026-08-21T13:15:34.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Get Shorty",
-                                                    "start":  "2026-08-21T10:04:40.0000000Z",
-                                                    "stop":  "2026-08-21T11:49:28.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Undercover Brother",
                                                     "start":  "2026-08-21T11:49:28.0000000Z",
