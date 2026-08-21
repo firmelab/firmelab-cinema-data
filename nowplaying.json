@@ -1,22 +1,17 @@
 {
     "channel":  "FIRMELAB Cinema",
-    "updated":  "2026-08-21T04:40:08.5252017Z",
+    "updated":  "2026-08-21T04:41:08.2074324Z",
     "nowPlaying":  {
                        "title":  "Land of the Dead",
                        "start":  "2026-08-21T04:24:53.0000000Z",
                        "stop":  "2026-08-21T06:05:37.0000000Z"
                    },
     "upNext":  {
-                   "title":  "Conan The Barbarian",
-                   "start":  "2026-08-21T04:40:54.0000000Z",
-                   "stop":  "2026-08-21T06:51:15.0000000Z"
+                   "title":  "Underworld Evolution",
+                   "start":  "2026-08-21T06:05:37.0000000Z",
+                   "stop":  "2026-08-21T08:00:00.0000000Z"
                },
     "upcoming":  [
-                     {
-                         "title":  "Conan The Barbarian",
-                         "start":  "2026-08-21T04:40:54.0000000Z",
-                         "stop":  "2026-08-21T06:51:15.0000000Z"
-                     },
                      {
                          "title":  "Underworld Evolution",
                          "start":  "2026-08-21T06:05:37.0000000Z",
@@ -36,6 +31,11 @@
                          "title":  "Sherlock Holmes",
                          "start":  "2026-08-21T08:00:00.0000000Z",
                          "stop":  "2026-08-21T10:12:55.0000000Z"
+                     },
+                     {
+                         "title":  "Wrong Turn",
+                         "start":  "2026-08-21T08:14:25.0000000Z",
+                         "stop":  "2026-08-21T09:56:15.0000000Z"
                      }
                  ]
 }
