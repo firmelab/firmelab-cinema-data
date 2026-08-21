@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-21T11:36:05.5526143Z",
+    "updated":  "2026-08-21T11:37:05.5656331Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -51,21 +51,16 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Boogeyman",
-                                                  "start":  "2026-08-21T09:56:15.0000000Z",
-                                                  "stop":  "2026-08-21T11:36:48.0000000Z"
+                                                  "title":  "Dawn of the Dead",
+                                                  "start":  "2026-08-21T11:36:48.0000000Z",
+                                                  "stop":  "2026-08-21T13:31:46.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Dawn of the Dead",
-                                              "start":  "2026-08-21T11:36:48.0000000Z",
-                                              "stop":  "2026-08-21T13:31:46.0000000Z"
+                                              "title":  "Resident Evil",
+                                              "start":  "2026-08-21T13:31:46.0000000Z",
+                                              "stop":  "2026-08-21T15:30:00.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Dawn of the Dead",
-                                                    "start":  "2026-08-21T11:36:48.0000000Z",
-                                                    "stop":  "2026-08-21T13:31:46.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Resident Evil",
                                                     "start":  "2026-08-21T13:31:46.0000000Z",
@@ -248,21 +243,16 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Duende",
-                                                  "start":  "2026-08-21T11:35:04.0000000Z",
-                                                  "stop":  "2026-08-21T11:36:13.0000000Z"
+                                                  "title":  "JamminG",
+                                                  "start":  "2026-08-21T11:36:46.0000000Z",
+                                                  "stop":  "2026-08-21T11:40:38.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "JamminG",
-                                              "start":  "2026-08-21T11:36:46.0000000Z",
-                                              "stop":  "2026-08-21T11:40:38.0000000Z"
+                                              "title":  "Never 3Nding",
+                                              "start":  "2026-08-21T11:40:43.0000000Z",
+                                              "stop":  "2026-08-21T11:42:55.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "JamminG",
-                                                    "start":  "2026-08-21T11:36:46.0000000Z",
-                                                    "stop":  "2026-08-21T11:40:38.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-08-21T11:40:43.0000000Z",
@@ -297,6 +287,11 @@
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-08-21T11:54:51.0000000Z",
                                                     "stop":  "2026-08-21T11:55:38.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "Duende",
+                                                    "start":  "2026-08-21T11:55:49.0000000Z",
+                                                    "stop":  "2026-08-21T11:56:58.0000000Z"
                                                 }
                                             ]
                            },
