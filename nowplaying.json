@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-21T10:18:04.9774276Z",
+    "updated":  "2026-08-21T10:19:04.8888039Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -77,21 +77,16 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Predator",
-                                                  "start":  "2026-08-21T08:32:24.0000000Z",
-                                                  "stop":  "2026-08-21T10:18:58.0000000Z"
+                                                  "title":  "Rambo First Blood",
+                                                  "start":  "2026-08-21T10:18:58.0000000Z",
+                                                  "stop":  "2026-08-21T11:52:07.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Rambo First Blood",
-                                              "start":  "2026-08-21T10:18:58.0000000Z",
-                                              "stop":  "2026-08-21T11:52:07.0000000Z"
+                                              "title":  "Sherlock Holmes",
+                                              "start":  "2026-08-21T11:52:07.0000000Z",
+                                              "stop":  "2026-08-21T14:00:36.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Rambo First Blood",
-                                                    "start":  "2026-08-21T10:18:58.0000000Z",
-                                                    "stop":  "2026-08-21T11:52:07.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Sherlock Holmes",
                                                     "start":  "2026-08-21T11:52:07.0000000Z",
