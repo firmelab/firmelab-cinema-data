@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-21T14:35:05.0653393Z",
+    "updated":  "2026-08-21T14:36:04.9204888Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -167,21 +167,16 @@
                                "number":  6,
                                "name":  "FIRMELAB CRIME",
                                "nowPlaying":  {
-                                                  "title":  "Scarface",
-                                                  "start":  "2026-08-21T11:45:13.0000000Z",
-                                                  "stop":  "2026-08-21T14:35:09.0000000Z"
+                                                  "title":  "Carlitos Way",
+                                                  "start":  "2026-08-21T14:35:09.0000000Z",
+                                                  "stop":  "2026-08-21T16:59:19.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Carlitos Way",
-                                              "start":  "2026-08-21T14:35:09.0000000Z",
-                                              "stop":  "2026-08-21T16:59:19.0000000Z"
+                                              "title":  "Jacky Brown",
+                                              "start":  "2026-08-21T16:59:19.0000000Z",
+                                              "stop":  "2026-08-21T19:33:40.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Carlitos Way",
-                                                    "start":  "2026-08-21T14:35:09.0000000Z",
-                                                    "stop":  "2026-08-21T16:59:19.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Jacky Brown",
                                                     "start":  "2026-08-21T16:59:19.0000000Z",
