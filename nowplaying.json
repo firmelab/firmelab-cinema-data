@@ -1,22 +1,17 @@
 {
     "channel":  "FIRMELAB Cinema",
-    "updated":  "2026-08-21T06:51:06.8187106Z",
+    "updated":  "2026-08-21T06:52:17.1200837Z",
     "nowPlaying":  {
                        "title":  "Underworld Evolution",
                        "start":  "2026-08-21T06:05:37.0000000Z",
                        "stop":  "2026-08-21T08:00:00.0000000Z"
                    },
     "upNext":  {
-                   "title":  "Conan The Destroyer",
-                   "start":  "2026-08-21T06:51:15.0000000Z",
-                   "stop":  "2026-08-21T08:32:24.0000000Z"
+                   "title":  "Ninja Now",
+                   "start":  "2026-08-21T06:52:27.0000000Z",
+                   "stop":  "2026-08-21T06:53:10.0000000Z"
                },
     "upcoming":  [
-                     {
-                         "title":  "Conan The Destroyer",
-                         "start":  "2026-08-21T06:51:15.0000000Z",
-                         "stop":  "2026-08-21T08:32:24.0000000Z"
-                     },
                      {
                          "title":  "Ninja Now",
                          "start":  "2026-08-21T06:52:27.0000000Z",
@@ -36,6 +31,11 @@
                          "title":  "Undercover Brother",
                          "start":  "2026-08-21T06:54:48.0000000Z",
                          "stop":  "2026-08-21T08:20:54.0000000Z"
+                     },
+                     {
+                         "title":  "Carrito",
+                         "start":  "2026-08-21T06:55:39.0000000Z",
+                         "stop":  "2026-08-21T07:03:18.0000000Z"
                      }
                  ]
 }
