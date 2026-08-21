@@ -1,22 +1,17 @@
 {
     "channel":  "FIRMELAB Cinema",
-    "updated":  "2026-08-21T04:24:05.5703146Z",
+    "updated":  "2026-08-21T04:25:05.3567753Z",
     "nowPlaying":  {
-                       "title":  "Predator",
-                       "start":  "2026-08-21T02:34:25.0000000Z",
-                       "stop":  "2026-08-21T04:24:53.0000000Z"
+                       "title":  "Land of the Dead",
+                       "start":  "2026-08-21T04:24:53.0000000Z",
+                       "stop":  "2026-08-21T06:05:37.0000000Z"
                    },
     "upNext":  {
-                   "title":  "Land of the Dead",
-                   "start":  "2026-08-21T04:24:53.0000000Z",
-                   "stop":  "2026-08-21T06:05:37.0000000Z"
+                   "title":  "Conan The Barbarian",
+                   "start":  "2026-08-21T04:40:54.0000000Z",
+                   "stop":  "2026-08-21T06:51:15.0000000Z"
                },
     "upcoming":  [
-                     {
-                         "title":  "Land of the Dead",
-                         "start":  "2026-08-21T04:24:53.0000000Z",
-                         "stop":  "2026-08-21T06:05:37.0000000Z"
-                     },
                      {
                          "title":  "Conan The Barbarian",
                          "start":  "2026-08-21T04:40:54.0000000Z",
@@ -36,6 +31,11 @@
                          "title":  "Conan The Destroyer",
                          "start":  "2026-08-21T06:51:15.0000000Z",
                          "stop":  "2026-08-21T08:32:24.0000000Z"
+                     },
+                     {
+                         "title":  "Sherlock Holmes",
+                         "start":  "2026-08-21T08:00:00.0000000Z",
+                         "stop":  "2026-08-21T10:12:55.0000000Z"
                      }
                  ]
 }
