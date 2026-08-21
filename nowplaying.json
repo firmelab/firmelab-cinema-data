@@ -1,22 +1,17 @@
 {
     "channel":  "FIRMELAB Cinema",
-    "updated":  "2026-08-21T06:05:05.2908900Z",
+    "updated":  "2026-08-21T06:06:05.3500663Z",
     "nowPlaying":  {
-                       "title":  "Land of the Dead",
-                       "start":  "2026-08-21T04:24:53.0000000Z",
-                       "stop":  "2026-08-21T06:05:37.0000000Z"
+                       "title":  "Underworld Evolution",
+                       "start":  "2026-08-21T06:05:37.0000000Z",
+                       "stop":  "2026-08-21T08:00:00.0000000Z"
                    },
     "upNext":  {
-                   "title":  "Underworld Evolution",
-                   "start":  "2026-08-21T06:05:37.0000000Z",
-                   "stop":  "2026-08-21T08:00:00.0000000Z"
+                   "title":  "Resident Evil",
+                   "start":  "2026-08-21T06:28:06.0000000Z",
+                   "stop":  "2026-08-21T08:14:25.0000000Z"
                },
     "upcoming":  [
-                     {
-                         "title":  "Underworld Evolution",
-                         "start":  "2026-08-21T06:05:37.0000000Z",
-                         "stop":  "2026-08-21T08:00:00.0000000Z"
-                     },
                      {
                          "title":  "Resident Evil",
                          "start":  "2026-08-21T06:28:06.0000000Z",
@@ -36,6 +31,11 @@
                          "title":  "Inside Man",
                          "start":  "2026-08-21T07:57:21.0000000Z",
                          "stop":  "2026-08-21T10:06:08.0000000Z"
+                     },
+                     {
+                         "title":  "Sherlock Holmes",
+                         "start":  "2026-08-21T08:00:00.0000000Z",
+                         "stop":  "2026-08-21T10:12:55.0000000Z"
                      }
                  ]
 }
