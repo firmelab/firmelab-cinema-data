@@ -1,22 +1,17 @@
 {
     "channel":  "FIRMELAB Cinema",
-    "updated":  "2026-08-21T02:34:05.3810250Z",
+    "updated":  "2026-08-21T02:35:05.3712122Z",
     "nowPlaying":  {
-                       "title":  "Sherlock Holmes",
-                       "start":  "2026-08-21T00:22:03.0000000Z",
-                       "stop":  "2026-08-21T02:34:25.0000000Z"
+                       "title":  "Predator",
+                       "start":  "2026-08-21T02:34:25.0000000Z",
+                       "stop":  "2026-08-21T04:24:53.0000000Z"
                    },
     "upNext":  {
-                   "title":  "Predator",
-                   "start":  "2026-08-21T02:34:25.0000000Z",
-                   "stop":  "2026-08-21T04:24:53.0000000Z"
+                   "title":  "Commando",
+                   "start":  "2026-08-21T03:10:41.0000000Z",
+                   "stop":  "2026-08-21T04:40:54.0000000Z"
                },
     "upcoming":  [
-                     {
-                         "title":  "Predator",
-                         "start":  "2026-08-21T02:34:25.0000000Z",
-                         "stop":  "2026-08-21T04:24:53.0000000Z"
-                     },
                      {
                          "title":  "Commando",
                          "start":  "2026-08-21T03:10:41.0000000Z",
@@ -36,6 +31,11 @@
                          "title":  "Conan The Barbarian",
                          "start":  "2026-08-21T04:40:54.0000000Z",
                          "stop":  "2026-08-21T06:51:15.0000000Z"
+                     },
+                     {
+                         "title":  "Underworld Evolution",
+                         "start":  "2026-08-21T06:05:37.0000000Z",
+                         "stop":  "2026-08-21T08:00:00.0000000Z"
                      }
                  ]
 }
