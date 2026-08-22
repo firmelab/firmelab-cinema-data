@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-22T22:51:04.9406211Z",
+    "updated":  "2026-08-22T22:52:04.9374660Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -46,21 +46,16 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "World War Z",
-                                                  "start":  "2026-08-22T20:44:33.0000000Z",
-                                                  "stop":  "2026-08-22T22:51:28.0000000Z"
+                                                  "title":  "Underworld Evolution",
+                                                  "start":  "2026-08-22T22:51:28.0000000Z",
+                                                  "stop":  "2026-08-23T00:45:41.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Underworld Evolution",
-                                              "start":  "2026-08-22T22:51:28.0000000Z",
-                                              "stop":  "2026-08-23T00:45:41.0000000Z"
+                                              "title":  "D1_t00",
+                                              "start":  "2026-08-23T00:45:41.0000000Z",
+                                              "stop":  "2026-08-23T03:05:12.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Underworld Evolution",
-                                                    "start":  "2026-08-22T22:51:28.0000000Z",
-                                                    "stop":  "2026-08-23T00:45:41.0000000Z"
-                                                },
                                                 {
                                                     "title":  "D1_t00",
                                                     "start":  "2026-08-23T00:45:41.0000000Z",
@@ -207,11 +202,7 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "Chingadasos",
-                                                  "start":  "2026-08-22T22:50:38.0000000Z",
-                                                  "stop":  "2026-08-22T22:51:24.0000000Z"
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
                                               "title":  "Mr J-Carry",
                                               "start":  "2026-08-22T22:52:30.0000000Z",
