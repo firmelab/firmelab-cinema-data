@@ -1,25 +1,20 @@
 {
-    "updated":  "2026-08-22T11:14:08.1122230Z",
+    "updated":  "2026-08-22T11:15:06.5252468Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Land of the Dead",
-                                                  "start":  "2026-08-22T09:34:01.0000000Z",
-                                                  "stop":  "2026-08-22T11:14:36.0000000Z"
+                                                  "title":  "Conan The Destroyer",
+                                                  "start":  "2026-08-22T11:14:36.0000000Z",
+                                                  "stop":  "2026-08-22T12:59:32.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Conan The Destroyer",
-                                              "start":  "2026-08-22T11:14:36.0000000Z",
-                                              "stop":  "2026-08-22T12:59:32.0000000Z"
+                                              "title":  "Undercover Brother",
+                                              "start":  "2026-08-22T12:59:32.0000000Z",
+                                              "stop":  "2026-08-22T14:29:26.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Conan The Destroyer",
-                                                    "start":  "2026-08-22T11:14:36.0000000Z",
-                                                    "stop":  "2026-08-22T12:59:32.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Undercover Brother",
                                                     "start":  "2026-08-22T12:59:32.0000000Z",
@@ -248,21 +243,16 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Mr J-Carry",
-                                                  "start":  "2026-08-22T11:12:43.0000000Z",
-                                                  "stop":  "2026-08-22T11:15:03.0000000Z"
+                                                  "title":  "T2",
+                                                  "start":  "2026-08-22T11:13:40.0000000Z",
+                                                  "stop":  "2026-08-22T11:18:39.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Ricardo \u0026 Mocoso",
-                                              "start":  "2026-08-22T11:14:12.0000000Z",
-                                              "stop":  "2026-08-22T11:16:27.0000000Z"
+                                              "title":  "XocoBruja",
+                                              "start":  "2026-08-22T11:16:27.0000000Z",
+                                              "stop":  "2026-08-22T11:20:35.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Ricardo \u0026 Mocoso",
-                                                    "start":  "2026-08-22T11:14:12.0000000Z",
-                                                    "stop":  "2026-08-22T11:16:27.0000000Z"
-                                                },
                                                 {
                                                     "title":  "XocoBruja",
                                                     "start":  "2026-08-22T11:16:27.0000000Z",
@@ -297,6 +287,11 @@
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-08-22T11:33:28.0000000Z",
                                                     "stop":  "2026-08-22T11:34:34.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "DnBaPCsht",
+                                                    "start":  "2026-08-22T11:34:34.0000000Z",
+                                                    "stop":  "2026-08-22T11:35:21.0000000Z"
                                                 }
                                             ]
                            },
