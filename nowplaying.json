@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-22T06:23:06.7449798Z",
+    "updated":  "2026-08-22T06:24:06.5861476Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -213,21 +213,16 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Ass Kicker Bruce",
-                                                  "start":  "2026-08-22T06:17:31.0000000Z",
-                                                  "stop":  "2026-08-22T06:23:27.0000000Z"
+                                                  "title":  "Biggie Mobbing",
+                                                  "start":  "2026-08-22T06:23:27.0000000Z",
+                                                  "stop":  "2026-08-22T06:24:08.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Biggie Mobbing",
-                                              "start":  "2026-08-22T06:23:27.0000000Z",
-                                              "stop":  "2026-08-22T06:24:08.0000000Z"
+                                              "title":  "Chingadasos",
+                                              "start":  "2026-08-22T06:24:08.0000000Z",
+                                              "stop":  "2026-08-22T06:24:54.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Biggie Mobbing",
-                                                    "start":  "2026-08-22T06:23:27.0000000Z",
-                                                    "stop":  "2026-08-22T06:24:08.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Chingadasos",
                                                     "start":  "2026-08-22T06:24:08.0000000Z",
@@ -262,6 +257,11 @@
                                                     "title":  "Carrito",
                                                     "start":  "2026-08-22T06:32:52.0000000Z",
                                                     "stop":  "2026-08-22T06:40:31.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "Dancing Cobra",
+                                                    "start":  "2026-08-22T06:40:31.0000000Z",
+                                                    "stop":  "2026-08-22T06:41:36.0000000Z"
                                                 }
                                             ]
                            },
