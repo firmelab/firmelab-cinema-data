@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-22T05:23:05.8601373Z",
+    "updated":  "2026-08-22T05:24:05.9046465Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -92,21 +92,16 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Conan The Destroyer",
-                                                  "start":  "2026-08-22T03:42:52.0000000Z",
-                                                  "stop":  "2026-08-22T05:24:00.0000000Z"
+                                                  "title":  "Predator",
+                                                  "start":  "2026-08-22T05:24:00.0000000Z",
+                                                  "stop":  "2026-08-22T07:10:34.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Predator",
-                                              "start":  "2026-08-22T05:24:00.0000000Z",
-                                              "stop":  "2026-08-22T07:10:34.0000000Z"
+                                              "title":  "Rambo First Blood",
+                                              "start":  "2026-08-22T07:10:34.0000000Z",
+                                              "stop":  "2026-08-22T08:43:44.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Predator",
-                                                    "start":  "2026-08-22T05:24:00.0000000Z",
-                                                    "stop":  "2026-08-22T07:10:34.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Rambo First Blood",
                                                     "start":  "2026-08-22T07:10:34.0000000Z",
