@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-22T03:42:06.2317001Z",
+    "updated":  "2026-08-22T03:43:06.4124247Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -102,21 +102,16 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Conan The Barbarian",
-                                                  "start":  "2026-08-22T01:32:31.0000000Z",
-                                                  "stop":  "2026-08-22T03:42:52.0000000Z"
+                                                  "title":  "Conan The Destroyer",
+                                                  "start":  "2026-08-22T03:42:52.0000000Z",
+                                                  "stop":  "2026-08-22T05:24:00.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Conan The Destroyer",
-                                              "start":  "2026-08-22T03:42:52.0000000Z",
-                                              "stop":  "2026-08-22T05:24:00.0000000Z"
+                                              "title":  "Predator",
+                                              "start":  "2026-08-22T05:24:00.0000000Z",
+                                              "stop":  "2026-08-22T07:10:34.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Conan The Destroyer",
-                                                    "start":  "2026-08-22T03:42:52.0000000Z",
-                                                    "stop":  "2026-08-22T05:24:00.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Predator",
                                                     "start":  "2026-08-22T05:24:00.0000000Z",
@@ -253,21 +248,16 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Never 3Nding",
-                                                  "start":  "2026-08-22T03:40:41.0000000Z",
-                                                  "stop":  "2026-08-22T03:42:53.0000000Z"
+                                                  "title":  "Ninja Now",
+                                                  "start":  "2026-08-22T03:42:53.0000000Z",
+                                                  "stop":  "2026-08-22T03:50:26.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Ninja Now",
-                                              "start":  "2026-08-22T03:42:53.0000000Z",
-                                              "stop":  "2026-08-22T03:50:26.0000000Z"
+                                              "title":  "SSBI4649",
+                                              "start":  "2026-08-22T03:43:36.0000000Z",
+                                              "stop":  "2026-08-22T03:49:13.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Ninja Now",
-                                                    "start":  "2026-08-22T03:42:53.0000000Z",
-                                                    "stop":  "2026-08-22T03:50:26.0000000Z"
-                                                },
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-08-22T03:43:36.0000000Z",
@@ -302,6 +292,11 @@
                                                     "title":  "Chingadasos",
                                                     "start":  "2026-08-22T03:54:07.0000000Z",
                                                     "stop":  "2026-08-22T03:54:53.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "Mr J-Carry",
+                                                    "start":  "2026-08-22T03:55:58.0000000Z",
+                                                    "stop":  "2026-08-22T03:56:30.0000000Z"
                                                 }
                                             ]
                            },
