@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-22T07:28:05.3269660Z",
+    "updated":  "2026-08-22T07:29:05.8041568Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -138,21 +138,16 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "Get Shorty",
-                                                  "start":  "2026-08-22T05:43:20.0000000Z",
-                                                  "stop":  "2026-08-22T07:28:09.0000000Z"
+                                                  "title":  "Undercover Brother",
+                                                  "start":  "2026-08-22T07:28:09.0000000Z",
+                                                  "stop":  "2026-08-22T08:54:15.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Undercover Brother",
-                                              "start":  "2026-08-22T07:28:09.0000000Z",
-                                              "stop":  "2026-08-22T08:54:15.0000000Z"
+                                              "title":  "Who.Framed.Roger.Rabbit",
+                                              "start":  "2026-08-22T08:54:15.0000000Z",
+                                              "stop":  "2026-08-22T10:38:00.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Undercover Brother",
-                                                    "start":  "2026-08-22T07:28:09.0000000Z",
-                                                    "stop":  "2026-08-22T08:54:15.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Who.Framed.Roger.Rabbit",
                                                     "start":  "2026-08-22T08:54:15.0000000Z",
@@ -248,21 +243,16 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Ninja Now",
-                                                  "start":  "2026-08-22T07:27:55.0000000Z",
-                                                  "stop":  "2026-08-22T07:28:37.0000000Z"
+                                                  "title":  "SSBI4649",
+                                                  "start":  "2026-08-22T07:28:37.0000000Z",
+                                                  "stop":  "2026-08-22T07:29:27.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "SSBI4649",
-                                              "start":  "2026-08-22T07:28:37.0000000Z",
-                                              "stop":  "2026-08-22T07:29:27.0000000Z"
+                                              "title":  "Arnold Dynamite",
+                                              "start":  "2026-08-22T07:29:27.0000000Z",
+                                              "stop":  "2026-08-22T07:30:54.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "SSBI4649",
-                                                    "start":  "2026-08-22T07:28:37.0000000Z",
-                                                    "stop":  "2026-08-22T07:29:27.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-08-22T07:29:27.0000000Z",
@@ -297,6 +287,11 @@
                                                     "title":  "Mr J-Carry",
                                                     "start":  "2026-08-22T07:41:00.0000000Z",
                                                     "stop":  "2026-08-22T07:46:45.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "T2",
+                                                    "start":  "2026-08-22T07:41:56.0000000Z",
+                                                    "stop":  "2026-08-22T07:50:25.0000000Z"
                                                 }
                                             ]
                            },
