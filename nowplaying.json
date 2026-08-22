@@ -1,25 +1,20 @@
 {
-    "updated":  "2026-08-22T02:37:06.8300069Z",
+    "updated":  "2026-08-22T02:40:20.9213185Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Rambo First Blood",
-                                                  "start":  "2026-08-22T01:02:44.0000000Z",
-                                                  "stop":  "2026-08-22T02:38:02.0000000Z"
+                                                  "title":  "BATMAN BEGINS",
+                                                  "start":  "2026-08-22T02:38:02.0000000Z",
+                                                  "stop":  "2026-08-22T05:00:11.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "BATMAN BEGINS",
-                                              "start":  "2026-08-22T02:38:02.0000000Z",
-                                              "stop":  "2026-08-22T05:00:11.0000000Z"
+                                              "title":  "Brave Heart",
+                                              "start":  "2026-08-22T05:00:11.0000000Z",
+                                              "stop":  "2026-08-22T08:00:00.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "BATMAN BEGINS",
-                                                    "start":  "2026-08-22T02:38:02.0000000Z",
-                                                    "stop":  "2026-08-22T05:00:11.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Brave Heart",
                                                     "start":  "2026-08-22T05:00:11.0000000Z",
@@ -237,27 +232,13 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "Ass Kicker Bruce",
-                                                  "start":  "2026-08-22T02:32:29.0000000Z",
-                                                  "stop":  "2026-08-22T02:38:25.0000000Z"
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
-                                              "title":  "Biggie Mobbing",
-                                              "start":  "2026-08-22T02:38:25.0000000Z",
-                                              "stop":  "2026-08-22T02:39:06.0000000Z"
+                                              "title":  "Mr J-Carry",
+                                              "start":  "2026-08-22T02:40:58.0000000Z",
+                                              "stop":  "2026-08-22T02:41:30.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Biggie Mobbing",
-                                                    "start":  "2026-08-22T02:38:25.0000000Z",
-                                                    "stop":  "2026-08-22T02:39:06.0000000Z"
-                                                },
-                                                {
-                                                    "title":  "Chingadasos",
-                                                    "start":  "2026-08-22T02:39:06.0000000Z",
-                                                    "stop":  "2026-08-22T02:39:52.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Mr J-Carry",
                                                     "start":  "2026-08-22T02:40:58.0000000Z",
@@ -287,6 +268,16 @@
                                                     "title":  "Carrito",
                                                     "start":  "2026-08-22T02:47:50.0000000Z",
                                                     "stop":  "2026-08-22T02:55:29.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "Dancing Cobra",
+                                                    "start":  "2026-08-22T02:55:29.0000000Z",
+                                                    "stop":  "2026-08-22T02:56:34.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "DnBaPCsht",
+                                                    "start":  "2026-08-22T02:56:34.0000000Z",
+                                                    "stop":  "2026-08-22T02:57:21.0000000Z"
                                                 }
                                             ]
                            },
