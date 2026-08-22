@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-22T16:59:06.3960646Z",
+    "updated":  "2026-08-22T17:00:37.8599087Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -41,21 +41,16 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "D1_t00",
-                                                  "start":  "2026-08-22T14:43:54.0000000Z",
-                                                  "stop":  "2026-08-22T17:00:00.0000000Z"
+                                                  "title":  "World War Z",
+                                                  "start":  "2026-08-22T17:00:00.0000000Z",
+                                                  "stop":  "2026-08-22T19:06:54.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "World War Z",
-                                              "start":  "2026-08-22T17:00:00.0000000Z",
-                                              "stop":  "2026-08-22T19:06:54.0000000Z"
+                                              "title":  "Resident Evil- Apocalypse",
+                                              "start":  "2026-08-22T19:06:54.0000000Z",
+                                              "stop":  "2026-08-22T20:44:33.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "World War Z",
-                                                    "start":  "2026-08-22T17:00:00.0000000Z",
-                                                    "stop":  "2026-08-22T19:06:54.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Resident Evil- Apocalypse",
                                                     "start":  "2026-08-22T19:06:54.0000000Z",
@@ -223,21 +218,16 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Ass Kicker Bruce",
-                                                  "start":  "2026-08-22T16:54:08.0000000Z",
-                                                  "stop":  "2026-08-22T17:00:04.0000000Z"
+                                                  "title":  "Biggie Mobbing",
+                                                  "start":  "2026-08-22T17:00:04.0000000Z",
+                                                  "stop":  "2026-08-22T17:00:45.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Biggie Mobbing",
-                                              "start":  "2026-08-22T17:00:04.0000000Z",
-                                              "stop":  "2026-08-22T17:00:45.0000000Z"
+                                              "title":  "Chingadasos",
+                                              "start":  "2026-08-22T17:00:45.0000000Z",
+                                              "stop":  "2026-08-22T17:01:31.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Biggie Mobbing",
-                                                    "start":  "2026-08-22T17:00:04.0000000Z",
-                                                    "stop":  "2026-08-22T17:00:45.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Chingadasos",
                                                     "start":  "2026-08-22T17:00:45.0000000Z",
@@ -272,6 +262,11 @@
                                                     "title":  "MrPayo",
                                                     "start":  "2026-08-22T17:11:16.0000000Z",
                                                     "stop":  "2026-08-22T17:11:58.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "Oz",
+                                                    "start":  "2026-08-22T17:12:21.0000000Z",
+                                                    "stop":  "2026-08-22T17:13:34.0000000Z"
                                                 }
                                             ]
                            },
