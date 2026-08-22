@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-22T22:34:06.2573552Z",
+    "updated":  "2026-08-22T22:35:06.2784318Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -177,21 +177,16 @@
                                "number":  6,
                                "name":  "FIRMELAB CRIME",
                                "nowPlaying":  {
-                                                  "title":  "Reservor Dogs",
-                                                  "start":  "2026-08-22T20:55:06.0000000Z",
-                                                  "stop":  "2026-08-22T22:34:11.0000000Z"
+                                                  "title":  "Scarface",
+                                                  "start":  "2026-08-22T22:34:11.0000000Z",
+                                                  "stop":  "2026-08-23T01:24:08.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Scarface",
-                                              "start":  "2026-08-22T22:34:11.0000000Z",
-                                              "stop":  "2026-08-23T01:24:08.0000000Z"
+                                              "title":  "Carlitos Way",
+                                              "start":  "2026-08-23T01:24:08.0000000Z",
+                                              "stop":  "2026-08-23T03:48:18.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Scarface",
-                                                    "start":  "2026-08-22T22:34:11.0000000Z",
-                                                    "stop":  "2026-08-23T01:24:08.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Carlitos Way",
                                                     "start":  "2026-08-23T01:24:08.0000000Z",
