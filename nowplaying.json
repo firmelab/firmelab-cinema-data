@@ -1,25 +1,20 @@
 {
-    "updated":  "2026-08-22T09:33:08.8338509Z",
+    "updated":  "2026-08-22T09:34:06.8877850Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Commando",
-                                                  "start":  "2026-08-22T08:00:00.0000000Z",
-                                                  "stop":  "2026-08-22T09:34:01.0000000Z"
+                                                  "title":  "Land of the Dead",
+                                                  "start":  "2026-08-22T09:34:01.0000000Z",
+                                                  "stop":  "2026-08-22T11:14:36.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Land of the Dead",
-                                              "start":  "2026-08-22T09:34:01.0000000Z",
-                                              "stop":  "2026-08-22T11:14:36.0000000Z"
+                                              "title":  "Conan The Destroyer",
+                                              "start":  "2026-08-22T11:14:36.0000000Z",
+                                              "stop":  "2026-08-22T12:59:32.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Land of the Dead",
-                                                    "start":  "2026-08-22T09:34:01.0000000Z",
-                                                    "stop":  "2026-08-22T11:14:36.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Conan The Destroyer",
                                                     "start":  "2026-08-22T11:14:36.0000000Z",
@@ -228,21 +223,16 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "SSBI4649",
-                                                  "start":  "2026-08-22T09:32:53.0000000Z",
-                                                  "stop":  "2026-08-22T09:33:42.0000000Z"
+                                                  "title":  "Arnold Dynamite",
+                                                  "start":  "2026-08-22T09:33:42.0000000Z",
+                                                  "stop":  "2026-08-22T09:35:09.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Arnold Dynamite",
-                                              "start":  "2026-08-22T09:33:42.0000000Z",
-                                              "stop":  "2026-08-22T09:35:09.0000000Z"
+                                              "title":  "0Ld Sc00L",
+                                              "start":  "2026-08-22T09:35:09.0000000Z",
+                                              "stop":  "2026-08-22T09:35:58.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Arnold Dynamite",
-                                                    "start":  "2026-08-22T09:33:42.0000000Z",
-                                                    "stop":  "2026-08-22T09:35:09.0000000Z"
-                                                },
                                                 {
                                                     "title":  "0Ld Sc00L",
                                                     "start":  "2026-08-22T09:35:09.0000000Z",
@@ -277,6 +267,11 @@
                                                     "title":  "T2",
                                                     "start":  "2026-08-22T09:46:11.0000000Z",
                                                     "stop":  "2026-08-22T09:46:43.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "Ricardo \u0026 Mocoso",
+                                                    "start":  "2026-08-22T09:46:43.0000000Z",
+                                                    "stop":  "2026-08-22T09:48:59.0000000Z"
                                                 }
                                             ]
                            },
