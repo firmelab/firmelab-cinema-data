@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-22T19:38:06.1415686Z",
+    "updated":  "2026-08-22T19:39:05.8034491Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -247,18 +247,17 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  null,
+                               "nowPlaying":  {
+                                                  "title":  "JamminG",
+                                                  "start":  "2026-08-22T19:38:19.0000000Z",
+                                                  "stop":  "2026-08-22T19:48:16.0000000Z"
+                                              },
                                "upNext":  {
-                                              "title":  "JamminG",
-                                              "start":  "2026-08-22T19:38:19.0000000Z",
-                                              "stop":  "2026-08-22T19:48:16.0000000Z"
+                                              "title":  "Never 3Nding",
+                                              "start":  "2026-08-22T19:42:16.0000000Z",
+                                              "stop":  "2026-08-22T19:48:45.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "JamminG",
-                                                    "start":  "2026-08-22T19:38:19.0000000Z",
-                                                    "stop":  "2026-08-22T19:48:16.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-08-22T19:42:16.0000000Z",
@@ -293,6 +292,11 @@
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-08-22T19:49:05.0000000Z",
                                                     "stop":  "2026-08-22T19:55:00.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "Biggie Mobbing",
+                                                    "start":  "2026-08-22T19:55:00.0000000Z",
+                                                    "stop":  "2026-08-22T20:01:40.0000000Z"
                                                 }
                                             ]
                            },
