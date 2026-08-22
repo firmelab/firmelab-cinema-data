@@ -1,25 +1,20 @@
 {
-    "updated":  "2026-08-22T16:17:05.5953842Z",
+    "updated":  "2026-08-22T16:18:05.6940039Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Get Shorty",
-                                                  "start":  "2026-08-22T14:29:26.0000000Z",
-                                                  "stop":  "2026-08-22T16:18:01.0000000Z"
+                                                  "title":  "Scarface",
+                                                  "start":  "2026-08-22T16:18:01.0000000Z",
+                                                  "stop":  "2026-08-22T19:11:44.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Scarface",
-                                              "start":  "2026-08-22T16:18:01.0000000Z",
-                                              "stop":  "2026-08-22T19:11:44.0000000Z"
+                                              "title":  "Brightburn",
+                                              "start":  "2026-08-22T19:11:44.0000000Z",
+                                              "stop":  "2026-08-22T20:49:58.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Scarface",
-                                                    "start":  "2026-08-22T16:18:01.0000000Z",
-                                                    "stop":  "2026-08-22T19:11:44.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Brightburn",
                                                     "start":  "2026-08-22T19:11:44.0000000Z",
