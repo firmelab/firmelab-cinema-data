@@ -1,23 +1,5 @@
 {
-    "updated":  "2026-08-22T01:30:21.7480405Z",
-    "channels":  {
-                     "1":  {
-                               "number":  1,
-                               "name":  "FIRMELAB CINEMA",
-                               "nowPlaying":  {
-                                                  "title":  "Rambo First Blood",
-                                                  "start":  "2026-08-22T01:02:44.0000000Z",
-                                                  "stop":  "2026-08-22T02:38:02.0000000Z"
-                                              },
-                               "upNext":  {
-                                              "title":  "BATMAN BEGINS",
-                                              "start":  "2026-08-22T02:38:02.0000000Z",
-                                              "stop":  "2026-08-22T05:00:11.0000000Z"
-                                          },
-                               "upcoming":  [
-                                                {
-            {
-    "updated":  "2026-08-22T01:30:20.5674298Z",
+    "updated":  "2026-08-22T01:31:06.7546505Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -246,21 +228,16 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "JamminG",
-                                                  "start":  "2026-08-22T01:26:38.0000000Z",
-                                                  "stop":  "2026-08-22T01:30:30.0000000Z"
+                                                  "title":  "Never 3Nding",
+                                                  "start":  "2026-08-22T01:30:35.0000000Z",
+                                                  "stop":  "2026-08-22T01:32:47.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Never 3Nding",
-                                              "start":  "2026-08-22T01:30:35.0000000Z",
-                                              "stop":  "2026-08-22T01:32:47.0000000Z"
+                                              "title":  "Ninja Now",
+                                              "start":  "2026-08-22T01:32:47.0000000Z",
+                                              "stop":  "2026-08-22T01:33:29.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Never 3Nding",
-                                                    "start":  "2026-08-22T01:30:35.0000000Z",
-                                                    "stop":  "2026-08-22T01:32:47.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-08-22T01:32:47.0000000Z",
@@ -295,6 +272,11 @@
                                                     "title":  "Duende",
                                                     "start":  "2026-08-22T01:45:41.0000000Z",
                                                     "stop":  "2026-08-22T01:46:50.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "JamminG",
+                                                    "start":  "2026-08-22T01:47:23.0000000Z",
+                                                    "stop":  "2026-08-22T01:51:15.0000000Z"
                                                 }
                                             ]
                            },
