@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-22T04:07:05.6957313Z",
+    "updated":  "2026-08-22T04:08:05.4967079Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -299,21 +299,16 @@
                                "number":  8,
                                "name":  "FIRMELAB FRONTIER",
                                "nowPlaying":  {
-                                                  "title":  "Young Guns",
-                                                  "start":  "2026-08-22T02:21:08.0000000Z",
-                                                  "stop":  "2026-08-22T04:07:54.0000000Z"
+                                                  "title":  "The Patriot",
+                                                  "start":  "2026-08-22T04:07:54.0000000Z",
+                                                  "stop":  "2026-08-22T06:52:41.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "The Patriot",
-                                              "start":  "2026-08-22T04:07:54.0000000Z",
-                                              "stop":  "2026-08-22T06:52:41.0000000Z"
+                                              "title":  "Master and Commander",
+                                              "start":  "2026-08-22T06:52:41.0000000Z",
+                                              "stop":  "2026-08-22T09:11:02.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "The Patriot",
-                                                    "start":  "2026-08-22T04:07:54.0000000Z",
-                                                    "stop":  "2026-08-22T06:52:41.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Master and Commander",
                                                     "start":  "2026-08-22T06:52:41.0000000Z",
