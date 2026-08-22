@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-22T04:34:06.6567746Z",
+    "updated":  "2026-08-22T04:35:06.3047079Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -51,21 +51,16 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Underworld Evolution",
-                                                  "start":  "2026-08-22T02:34:07.0000000Z",
-                                                  "stop":  "2026-08-22T04:34:18.0000000Z"
+                                                  "title":  "Land of the Dead",
+                                                  "start":  "2026-08-22T04:34:18.0000000Z",
+                                                  "stop":  "2026-08-22T06:15:37.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Land of the Dead",
-                                              "start":  "2026-08-22T04:34:18.0000000Z",
-                                              "stop":  "2026-08-22T06:15:37.0000000Z"
+                                              "title":  "Resident Evil- Apocalypse",
+                                              "start":  "2026-08-22T06:15:37.0000000Z",
+                                              "stop":  "2026-08-22T07:58:34.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Land of the Dead",
-                                                    "start":  "2026-08-22T04:34:18.0000000Z",
-                                                    "stop":  "2026-08-22T06:15:37.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Resident Evil- Apocalypse",
                                                     "start":  "2026-08-22T06:15:37.0000000Z",
@@ -242,23 +237,17 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  null,
+                               "nowPlaying":  {
+                                                  "title":  "Ricardo \u0026 Mocoso",
+                                                  "start":  "2026-08-22T04:34:57.0000000Z",
+                                                  "stop":  "2026-08-22T04:37:12.0000000Z"
+                                              },
                                "upNext":  {
-                                              "title":  "T2",
-                                              "start":  "2026-08-22T04:34:25.0000000Z",
-                                              "stop":  "2026-08-22T04:34:57.0000000Z"
+                                              "title":  "XocoBruja",
+                                              "start":  "2026-08-22T04:37:12.0000000Z",
+                                              "stop":  "2026-08-22T04:38:41.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "T2",
-                                                    "start":  "2026-08-22T04:34:25.0000000Z",
-                                                    "stop":  "2026-08-22T04:34:57.0000000Z"
-                                                },
-                                                {
-                                                    "title":  "Ricardo \u0026 Mocoso",
-                                                    "start":  "2026-08-22T04:34:57.0000000Z",
-                                                    "stop":  "2026-08-22T04:37:12.0000000Z"
-                                                },
                                                 {
                                                     "title":  "XocoBruja",
                                                     "start":  "2026-08-22T04:37:12.0000000Z",
@@ -288,6 +277,16 @@
                                                     "title":  "Duende",
                                                     "start":  "2026-08-22T04:50:04.0000000Z",
                                                     "stop":  "2026-08-22T04:51:13.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "JamminG",
+                                                    "start":  "2026-08-22T04:51:45.0000000Z",
+                                                    "stop":  "2026-08-22T04:55:37.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "Never 3Nding",
+                                                    "start":  "2026-08-22T04:55:42.0000000Z",
+                                                    "stop":  "2026-08-22T04:57:54.0000000Z"
                                                 }
                                             ]
                            },
