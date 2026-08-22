@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-22T00:55:06.5302625Z",
+    "updated":  "2026-08-22T00:56:06.4560028Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -46,21 +46,16 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Land of the Dead",
-                                                  "start":  "2026-08-21T23:14:32.0000000Z",
-                                                  "stop":  "2026-08-22T00:55:51.0000000Z"
+                                                  "title":  "Resident Evil- Apocalypse",
+                                                  "start":  "2026-08-22T00:55:51.0000000Z",
+                                                  "stop":  "2026-08-22T02:34:07.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Resident Evil- Apocalypse",
-                                              "start":  "2026-08-22T00:55:51.0000000Z",
-                                              "stop":  "2026-08-22T02:34:07.0000000Z"
+                                              "title":  "Underworld Evolution",
+                                              "start":  "2026-08-22T02:34:07.0000000Z",
+                                              "stop":  "2026-08-22T04:34:18.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Resident Evil- Apocalypse",
-                                                    "start":  "2026-08-22T00:55:51.0000000Z",
-                                                    "stop":  "2026-08-22T02:34:07.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Underworld Evolution",
                                                     "start":  "2026-08-22T02:34:07.0000000Z",
