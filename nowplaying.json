@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-22T13:12:06.3741855Z",
+    "updated":  "2026-08-22T13:13:06.2232039Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -82,21 +82,16 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "BATMAN BEGINS",
-                                                  "start":  "2026-08-22T10:52:13.0000000Z",
-                                                  "stop":  "2026-08-22T13:12:14.0000000Z"
+                                                  "title":  "Black Hawk Down",
+                                                  "start":  "2026-08-22T13:12:14.0000000Z",
+                                                  "stop":  "2026-08-22T15:36:35.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Black Hawk Down",
-                                              "start":  "2026-08-22T13:12:14.0000000Z",
-                                              "stop":  "2026-08-22T15:36:35.0000000Z"
+                                              "title":  "Bourne Identity",
+                                              "start":  "2026-08-22T15:36:35.0000000Z",
+                                              "stop":  "2026-08-22T17:34:52.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Black Hawk Down",
-                                                    "start":  "2026-08-22T13:12:14.0000000Z",
-                                                    "stop":  "2026-08-22T15:36:35.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Bourne Identity",
                                                     "start":  "2026-08-22T15:36:35.0000000Z",
@@ -228,21 +223,16 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "SSBI4649",
-                                                  "start":  "2026-08-22T13:11:33.0000000Z",
-                                                  "stop":  "2026-08-22T13:12:22.0000000Z"
+                                                  "title":  "Arnold Dynamite",
+                                                  "start":  "2026-08-22T13:12:22.0000000Z",
+                                                  "stop":  "2026-08-22T13:13:50.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Arnold Dynamite",
-                                              "start":  "2026-08-22T13:12:22.0000000Z",
-                                              "stop":  "2026-08-22T13:13:50.0000000Z"
+                                              "title":  "0Ld Sc00L",
+                                              "start":  "2026-08-22T13:13:50.0000000Z",
+                                              "stop":  "2026-08-22T13:14:38.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Arnold Dynamite",
-                                                    "start":  "2026-08-22T13:12:22.0000000Z",
-                                                    "stop":  "2026-08-22T13:13:50.0000000Z"
-                                                },
                                                 {
                                                     "title":  "0Ld Sc00L",
                                                     "start":  "2026-08-22T13:13:50.0000000Z",
@@ -277,6 +267,11 @@
                                                     "title":  "T2",
                                                     "start":  "2026-08-22T13:24:52.0000000Z",
                                                     "stop":  "2026-08-22T13:25:24.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "Ricardo \u0026 Mocoso",
+                                                    "start":  "2026-08-22T13:25:24.0000000Z",
+                                                    "stop":  "2026-08-22T13:27:40.0000000Z"
                                                 }
                                             ]
                            },
