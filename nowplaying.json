@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-22T20:44:05.6398794Z",
+    "updated":  "2026-08-22T20:45:05.6196086Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -51,21 +51,16 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Resident Evil- Apocalypse",
-                                                  "start":  "2026-08-22T19:06:54.0000000Z",
-                                                  "stop":  "2026-08-22T20:44:33.0000000Z"
+                                                  "title":  "World War Z",
+                                                  "start":  "2026-08-22T20:44:33.0000000Z",
+                                                  "stop":  "2026-08-22T22:51:28.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "World War Z",
-                                              "start":  "2026-08-22T20:44:33.0000000Z",
-                                              "stop":  "2026-08-22T22:51:28.0000000Z"
+                                              "title":  "Underworld Evolution",
+                                              "start":  "2026-08-22T22:51:28.0000000Z",
+                                              "stop":  "2026-08-23T00:45:41.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "World War Z",
-                                                    "start":  "2026-08-22T20:44:33.0000000Z",
-                                                    "stop":  "2026-08-22T22:51:28.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Underworld Evolution",
                                                     "start":  "2026-08-22T22:51:28.0000000Z",
@@ -243,21 +238,16 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Ricardo \u0026 Mocoso",
-                                                  "start":  "2026-08-22T20:42:45.0000000Z",
-                                                  "stop":  "2026-08-22T20:45:01.0000000Z"
+                                                  "title":  "XocoBruja",
+                                                  "start":  "2026-08-22T20:45:01.0000000Z",
+                                                  "stop":  "2026-08-22T20:46:29.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "XocoBruja",
-                                              "start":  "2026-08-22T20:45:01.0000000Z",
-                                              "stop":  "2026-08-22T20:46:29.0000000Z"
+                                              "title":  "COKCE6139",
+                                              "start":  "2026-08-22T20:47:46.0000000Z",
+                                              "stop":  "2026-08-22T20:48:47.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "XocoBruja",
-                                                    "start":  "2026-08-22T20:45:01.0000000Z",
-                                                    "stop":  "2026-08-22T20:46:29.0000000Z"
-                                                },
                                                 {
                                                     "title":  "COKCE6139",
                                                     "start":  "2026-08-22T20:47:46.0000000Z",
@@ -292,6 +282,11 @@
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-08-22T21:03:08.0000000Z",
                                                     "stop":  "2026-08-22T21:03:55.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "Duende",
+                                                    "start":  "2026-08-22T21:04:06.0000000Z",
+                                                    "stop":  "2026-08-22T21:05:15.0000000Z"
                                                 }
                                             ]
                            },
