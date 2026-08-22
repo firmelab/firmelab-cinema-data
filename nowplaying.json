@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-22T05:09:05.9462540Z",
+    "updated":  "2026-08-22T05:10:06.1382149Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -227,22 +227,13 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "Biggie Mobbing",
-                                                  "start":  "2026-08-22T05:08:26.0000000Z",
-                                                  "stop":  "2026-08-22T05:09:07.0000000Z"
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
-                                              "title":  "Chingadasos",
-                                              "start":  "2026-08-22T05:09:07.0000000Z",
-                                              "stop":  "2026-08-22T05:09:53.0000000Z"
+                                              "title":  "Mr J-Carry",
+                                              "start":  "2026-08-22T05:10:59.0000000Z",
+                                              "stop":  "2026-08-22T05:11:31.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Chingadasos",
-                                                    "start":  "2026-08-22T05:09:07.0000000Z",
-                                                    "stop":  "2026-08-22T05:09:53.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Mr J-Carry",
                                                     "start":  "2026-08-22T05:10:59.0000000Z",
@@ -277,6 +268,11 @@
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-08-22T05:25:30.0000000Z",
                                                     "stop":  "2026-08-22T05:26:36.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "DnBaPCsht",
+                                                    "start":  "2026-08-22T05:26:36.0000000Z",
+                                                    "stop":  "2026-08-22T05:27:22.0000000Z"
                                                 }
                                             ]
                            },
