@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-22T06:15:05.8791790Z",
+    "updated":  "2026-08-22T06:16:05.9151957Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -46,21 +46,16 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Land of the Dead",
-                                                  "start":  "2026-08-22T04:34:18.0000000Z",
-                                                  "stop":  "2026-08-22T06:15:37.0000000Z"
+                                                  "title":  "Resident Evil- Apocalypse",
+                                                  "start":  "2026-08-22T06:15:37.0000000Z",
+                                                  "stop":  "2026-08-22T07:58:34.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Resident Evil- Apocalypse",
-                                              "start":  "2026-08-22T06:15:37.0000000Z",
-                                              "stop":  "2026-08-22T07:58:34.0000000Z"
+                                              "title":  "Wrong Turn",
+                                              "start":  "2026-08-22T07:58:34.0000000Z",
+                                              "stop":  "2026-08-22T09:27:13.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Resident Evil- Apocalypse",
-                                                    "start":  "2026-08-22T06:15:37.0000000Z",
-                                                    "stop":  "2026-08-22T07:58:34.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Wrong Turn",
                                                     "start":  "2026-08-22T07:58:34.0000000Z",
@@ -218,21 +213,16 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Arnold Dynamite",
-                                                  "start":  "2026-08-22T06:14:26.0000000Z",
-                                                  "stop":  "2026-08-22T06:15:54.0000000Z"
+                                                  "title":  "0Ld Sc00L",
+                                                  "start":  "2026-08-22T06:15:54.0000000Z",
+                                                  "stop":  "2026-08-22T06:16:42.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "0Ld Sc00L",
-                                              "start":  "2026-08-22T06:15:54.0000000Z",
-                                              "stop":  "2026-08-22T06:16:42.0000000Z"
+                                              "title":  "After H0uRs",
+                                              "start":  "2026-08-22T06:16:42.0000000Z",
+                                              "stop":  "2026-08-22T06:17:31.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "0Ld Sc00L",
-                                                    "start":  "2026-08-22T06:15:54.0000000Z",
-                                                    "stop":  "2026-08-22T06:16:42.0000000Z"
-                                                },
                                                 {
                                                     "title":  "After H0uRs",
                                                     "start":  "2026-08-22T06:16:42.0000000Z",
@@ -267,6 +257,11 @@
                                                     "title":  "Ricardo \u0026 Mocoso",
                                                     "start":  "2026-08-22T06:27:28.0000000Z",
                                                     "stop":  "2026-08-22T06:29:43.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "XocoBruja",
+                                                    "start":  "2026-08-22T06:29:43.0000000Z",
+                                                    "stop":  "2026-08-22T06:31:11.0000000Z"
                                                 }
                                             ]
                            },
