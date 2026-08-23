@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-23T10:03:05.8586559Z",
+    "updated":  "2026-08-23T10:04:05.8792593Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -82,21 +82,16 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "BATMAN BEGINS",
-                                                  "start":  "2026-08-23T07:43:50.0000000Z",
-                                                  "stop":  "2026-08-23T10:03:51.0000000Z"
+                                                  "title":  "Black Hawk Down",
+                                                  "start":  "2026-08-23T10:03:51.0000000Z",
+                                                  "stop":  "2026-08-23T12:28:12.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Black Hawk Down",
-                                              "start":  "2026-08-23T10:03:51.0000000Z",
-                                              "stop":  "2026-08-23T12:28:12.0000000Z"
+                                              "title":  "Bourne Identity",
+                                              "start":  "2026-08-23T12:28:12.0000000Z",
+                                              "stop":  "2026-08-23T14:26:28.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Black Hawk Down",
-                                                    "start":  "2026-08-23T10:03:51.0000000Z",
-                                                    "stop":  "2026-08-23T12:28:12.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Bourne Identity",
                                                     "start":  "2026-08-23T12:28:12.0000000Z",
