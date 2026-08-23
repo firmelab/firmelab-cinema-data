@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-23T17:45:05.6879626Z",
+    "updated":  "2026-08-23T17:46:06.1149314Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -87,21 +87,16 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Brightburn",
-                                                  "start":  "2026-08-23T16:15:01.0000000Z",
-                                                  "stop":  "2026-08-23T17:45:31.0000000Z"
+                                                  "title":  "Commando",
+                                                  "start":  "2026-08-23T17:45:31.0000000Z",
+                                                  "stop":  "2026-08-23T19:15:44.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Commando",
-                                              "start":  "2026-08-23T17:45:31.0000000Z",
-                                              "stop":  "2026-08-23T19:15:44.0000000Z"
+                                              "title":  "Conan The Barbarian",
+                                              "start":  "2026-08-23T19:15:44.0000000Z",
+                                              "stop":  "2026-08-23T21:26:06.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Commando",
-                                                    "start":  "2026-08-23T17:45:31.0000000Z",
-                                                    "stop":  "2026-08-23T19:15:44.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Conan The Barbarian",
                                                     "start":  "2026-08-23T19:15:44.0000000Z",
