@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-23T22:52:05.9181932Z",
+    "updated":  "2026-08-23T22:53:05.1343136Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -77,21 +77,16 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Black Hawk Down",
-                                                  "start":  "2026-08-23T20:28:18.0000000Z",
-                                                  "stop":  "2026-08-23T22:52:39.0000000Z"
+                                                  "title":  "Bourne Identity",
+                                                  "start":  "2026-08-23T22:52:39.0000000Z",
+                                                  "stop":  "2026-08-24T00:50:55.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Bourne Identity",
-                                              "start":  "2026-08-23T22:52:39.0000000Z",
-                                              "stop":  "2026-08-24T00:50:55.0000000Z"
+                                              "title":  "Bourne Supremacy",
+                                              "start":  "2026-08-24T00:50:55.0000000Z",
+                                              "stop":  "2026-08-24T02:39:28.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Bourne Identity",
-                                                    "start":  "2026-08-23T22:52:39.0000000Z",
-                                                    "stop":  "2026-08-24T00:50:55.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Bourne Supremacy",
                                                     "start":  "2026-08-24T00:50:55.0000000Z",
