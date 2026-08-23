@@ -1,25 +1,20 @@
 {
-    "updated":  "2026-08-23T20:36:05.9183762Z",
+    "updated":  "2026-08-23T20:37:05.7314605Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Reservor Dogs",
-                                                  "start":  "2026-08-23T18:46:10.0000000Z",
-                                                  "stop":  "2026-08-23T20:36:06.0000000Z"
+                                                  "title":  "Young Guns",
+                                                  "start":  "2026-08-23T20:36:06.0000000Z",
+                                                  "stop":  "2026-08-23T22:28:13.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Young Guns",
-                                              "start":  "2026-08-23T20:36:06.0000000Z",
-                                              "stop":  "2026-08-23T22:28:13.0000000Z"
+                                              "title":  "Predator",
+                                              "start":  "2026-08-23T22:28:13.0000000Z",
+                                              "stop":  "2026-08-24T00:20:08.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Young Guns",
-                                                    "start":  "2026-08-23T20:36:06.0000000Z",
-                                                    "stop":  "2026-08-23T22:28:13.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Predator",
                                                     "start":  "2026-08-23T22:28:13.0000000Z",
