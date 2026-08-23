@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-23T12:59:05.9292973Z",
+    "updated":  "2026-08-23T13:00:12.4650785Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -46,21 +46,16 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Wrong Turn",
-                                                  "start":  "2026-08-23T11:32:00.0000000Z",
-                                                  "stop":  "2026-08-23T13:00:04.0000000Z"
+                                                  "title":  "World War Z",
+                                                  "start":  "2026-08-23T13:00:04.0000000Z",
+                                                  "stop":  "2026-08-23T15:06:58.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "World War Z",
-                                              "start":  "2026-08-23T13:00:04.0000000Z",
-                                              "stop":  "2026-08-23T15:06:58.0000000Z"
+                                              "title":  "Dawn of the Dead",
+                                              "start":  "2026-08-23T15:06:58.0000000Z",
+                                              "stop":  "2026-08-23T17:00:00.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "World War Z",
-                                                    "start":  "2026-08-23T13:00:04.0000000Z",
-                                                    "stop":  "2026-08-23T15:06:58.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Dawn of the Dead",
                                                     "start":  "2026-08-23T15:06:58.0000000Z",
