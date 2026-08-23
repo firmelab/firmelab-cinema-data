@@ -1,25 +1,20 @@
 {
-    "updated":  "2026-08-23T03:08:05.6025647Z",
+    "updated":  "2026-08-23T03:09:05.7294579Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Inside Man",
-                                                  "start":  "2026-08-23T00:56:27.0000000Z",
-                                                  "stop":  "2026-08-23T03:09:02.0000000Z"
+                                                  "title":  "Predator",
+                                                  "start":  "2026-08-23T03:09:02.0000000Z",
+                                                  "stop":  "2026-08-23T04:59:23.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Predator",
-                                              "start":  "2026-08-23T03:09:02.0000000Z",
-                                              "stop":  "2026-08-23T04:59:23.0000000Z"
+                                              "title":  "Wrong Turn",
+                                              "start":  "2026-08-23T04:59:23.0000000Z",
+                                              "stop":  "2026-08-23T06:27:22.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Predator",
-                                                    "start":  "2026-08-23T03:09:02.0000000Z",
-                                                    "stop":  "2026-08-23T04:59:23.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Wrong Turn",
                                                     "start":  "2026-08-23T04:59:23.0000000Z",
@@ -253,9 +248,9 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "0Ld Sc00L",
-                                                  "start":  "2026-08-23T03:04:49.0000000Z",
-                                                  "stop":  "2026-08-23T03:08:40.0000000Z"
+                                                  "title":  "Ass Kicker Bruce",
+                                                  "start":  "2026-08-23T03:06:26.0000000Z",
+                                                  "stop":  "2026-08-23T03:13:45.0000000Z"
                                               },
                                "upNext":  {
                                               "title":  "Biggie Mobbing",
