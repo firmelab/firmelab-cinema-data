@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-23T12:28:05.8824942Z",
+    "updated":  "2026-08-23T12:29:05.9138631Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -92,21 +92,16 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Black Hawk Down",
-                                                  "start":  "2026-08-23T10:03:51.0000000Z",
-                                                  "stop":  "2026-08-23T12:28:12.0000000Z"
+                                                  "title":  "Bourne Identity",
+                                                  "start":  "2026-08-23T12:28:12.0000000Z",
+                                                  "stop":  "2026-08-23T14:26:28.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Bourne Identity",
-                                              "start":  "2026-08-23T12:28:12.0000000Z",
-                                              "stop":  "2026-08-23T14:26:28.0000000Z"
+                                              "title":  "Bourne Supremacy",
+                                              "start":  "2026-08-23T14:26:28.0000000Z",
+                                              "stop":  "2026-08-23T16:15:01.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Bourne Identity",
-                                                    "start":  "2026-08-23T12:28:12.0000000Z",
-                                                    "stop":  "2026-08-23T14:26:28.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Bourne Supremacy",
                                                     "start":  "2026-08-23T14:26:28.0000000Z",
@@ -243,21 +238,16 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "JamminG",
-                                                  "start":  "2026-08-23T12:24:15.0000000Z",
-                                                  "stop":  "2026-08-23T12:28:06.0000000Z"
+                                                  "title":  "Never 3Nding",
+                                                  "start":  "2026-08-23T12:28:12.0000000Z",
+                                                  "stop":  "2026-08-23T12:30:24.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Never 3Nding",
-                                              "start":  "2026-08-23T12:28:12.0000000Z",
-                                              "stop":  "2026-08-23T12:30:24.0000000Z"
+                                              "title":  "Ninja Now",
+                                              "start":  "2026-08-23T12:30:24.0000000Z",
+                                              "stop":  "2026-08-23T12:31:06.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Never 3Nding",
-                                                    "start":  "2026-08-23T12:28:12.0000000Z",
-                                                    "stop":  "2026-08-23T12:30:24.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-08-23T12:30:24.0000000Z",
@@ -292,6 +282,11 @@
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-08-23T12:40:56.0000000Z",
                                                     "stop":  "2026-08-23T12:41:37.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "Chingadasos",
+                                                    "start":  "2026-08-23T12:41:37.0000000Z",
+                                                    "stop":  "2026-08-23T12:42:23.0000000Z"
                                                 }
                                             ]
                            },
