@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-23T00:26:49.9764462Z",
+    "updated":  "2026-08-23T00:28:19.2654689Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -242,11 +242,7 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "COKCE6139",
-                                                  "start":  "2026-08-23T00:26:26.0000000Z",
-                                                  "stop":  "2026-08-23T00:27:28.0000000Z"
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
                                               "title":  "MrPayo",
                                               "start":  "2026-08-23T00:28:37.0000000Z",
