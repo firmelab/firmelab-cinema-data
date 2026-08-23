@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-23T13:32:05.7273919Z",
+    "updated":  "2026-08-23T13:33:05.5690070Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -222,11 +222,7 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "XocoBruja",
-                                                  "start":  "2026-08-23T13:30:56.0000000Z",
-                                                  "stop":  "2026-08-23T13:32:24.0000000Z"
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
                                               "title":  "COKCE6139",
                                               "start":  "2026-08-23T13:33:41.0000000Z",
