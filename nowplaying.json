@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-23T00:34:05.9566314Z",
+    "updated":  "2026-08-23T00:35:05.9592616Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -97,21 +97,16 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Conan The Barbarian",
-                                                  "start":  "2026-08-22T22:24:07.0000000Z",
-                                                  "stop":  "2026-08-23T00:34:29.0000000Z"
+                                                  "title":  "Conan The Destroyer",
+                                                  "start":  "2026-08-23T00:34:29.0000000Z",
+                                                  "stop":  "2026-08-23T02:15:37.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Conan The Destroyer",
-                                              "start":  "2026-08-23T00:34:29.0000000Z",
-                                              "stop":  "2026-08-23T02:15:37.0000000Z"
+                                              "title":  "Predator",
+                                              "start":  "2026-08-23T02:15:37.0000000Z",
+                                              "stop":  "2026-08-23T04:02:11.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Conan The Destroyer",
-                                                    "start":  "2026-08-23T00:34:29.0000000Z",
-                                                    "stop":  "2026-08-23T02:15:37.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Predator",
                                                     "start":  "2026-08-23T02:15:37.0000000Z",
