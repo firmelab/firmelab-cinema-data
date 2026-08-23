@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-23T14:33:06.0644937Z",
+    "updated":  "2026-08-23T14:34:06.1780412Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -208,21 +208,16 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "DnBaPCsht",
-                                                  "start":  "2026-08-23T14:32:47.0000000Z",
-                                                  "stop":  "2026-08-23T14:33:34.0000000Z"
+                                                  "title":  "Duende",
+                                                  "start":  "2026-08-23T14:33:45.0000000Z",
+                                                  "stop":  "2026-08-23T14:34:55.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Duende",
-                                              "start":  "2026-08-23T14:33:45.0000000Z",
-                                              "stop":  "2026-08-23T14:34:55.0000000Z"
+                                              "title":  "JamminG",
+                                              "start":  "2026-08-23T14:35:27.0000000Z",
+                                              "stop":  "2026-08-23T14:39:19.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Duende",
-                                                    "start":  "2026-08-23T14:33:45.0000000Z",
-                                                    "stop":  "2026-08-23T14:34:55.0000000Z"
-                                                },
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-08-23T14:35:27.0000000Z",
@@ -257,6 +252,11 @@
                                                     "title":  "After H0uRs",
                                                     "start":  "2026-08-23T14:45:23.0000000Z",
                                                     "stop":  "2026-08-23T14:46:12.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "Ass Kicker Bruce",
+                                                    "start":  "2026-08-23T14:46:12.0000000Z",
+                                                    "stop":  "2026-08-23T14:52:08.0000000Z"
                                                 }
                                             ]
                            },
@@ -264,21 +264,16 @@
                                "number":  8,
                                "name":  "FIRMELAB FRONTIER",
                                "nowPlaying":  {
-                                                  "title":  "Master and Commander",
-                                                  "start":  "2026-08-23T12:15:23.0000000Z",
-                                                  "stop":  "2026-08-23T14:33:44.0000000Z"
+                                                  "title":  "Brave Heart",
+                                                  "start":  "2026-08-23T14:33:44.0000000Z",
+                                                  "stop":  "2026-08-23T17:31:24.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Brave Heart",
-                                              "start":  "2026-08-23T14:33:44.0000000Z",
-                                              "stop":  "2026-08-23T17:31:24.0000000Z"
+                                              "title":  "Young Guns",
+                                              "start":  "2026-08-23T17:31:24.0000000Z",
+                                              "stop":  "2026-08-23T19:18:10.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Brave Heart",
-                                                    "start":  "2026-08-23T14:33:44.0000000Z",
-                                                    "stop":  "2026-08-23T17:31:24.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Young Guns",
                                                     "start":  "2026-08-23T17:31:24.0000000Z",
