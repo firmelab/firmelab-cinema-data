@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-23T23:11:05.9593686Z",
+    "updated":  "2026-08-23T23:12:09.1480218Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -248,9 +248,9 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "BloodJoke",
-                                                  "start":  "2026-08-23T23:07:12.0000000Z",
-                                                  "stop":  "2026-08-23T23:12:02.0000000Z"
+                                                  "title":  "Carrito",
+                                                  "start":  "2026-08-23T23:08:53.0000000Z",
+                                                  "stop":  "2026-08-23T23:16:31.0000000Z"
                                               },
                                "upNext":  {
                                               "title":  "Dancing Cobra",
@@ -304,21 +304,16 @@
                                "number":  8,
                                "name":  "FIRMELAB FRONTIER",
                                "nowPlaying":  {
-                                                  "title":  "The Patriot",
-                                                  "start":  "2026-08-23T20:26:48.0000000Z",
-                                                  "stop":  "2026-08-23T23:11:35.0000000Z"
+                                                  "title":  "Master and Commander",
+                                                  "start":  "2026-08-23T23:11:35.0000000Z",
+                                                  "stop":  "2026-08-24T01:29:55.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Master and Commander",
-                                              "start":  "2026-08-23T23:11:35.0000000Z",
-                                              "stop":  "2026-08-24T01:29:55.0000000Z"
+                                              "title":  "Brave Heart",
+                                              "start":  "2026-08-24T01:29:55.0000000Z",
+                                              "stop":  "2026-08-24T04:27:36.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Master and Commander",
-                                                    "start":  "2026-08-23T23:11:35.0000000Z",
-                                                    "stop":  "2026-08-24T01:29:55.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Brave Heart",
                                                     "start":  "2026-08-24T01:29:55.0000000Z",
