@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-23T09:27:05.5033538Z",
+    "updated":  "2026-08-23T09:28:06.5457539Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -133,21 +133,16 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "Undercover Brother",
-                                                  "start":  "2026-08-23T08:01:29.0000000Z",
-                                                  "stop":  "2026-08-23T09:27:36.0000000Z"
+                                                  "title":  "Who.Framed.Roger.Rabbit",
+                                                  "start":  "2026-08-23T09:27:36.0000000Z",
+                                                  "stop":  "2026-08-23T11:11:21.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Who.Framed.Roger.Rabbit",
-                                              "start":  "2026-08-23T09:27:36.0000000Z",
-                                              "stop":  "2026-08-23T11:11:21.0000000Z"
+                                              "title":  "Get Shorty",
+                                              "start":  "2026-08-23T11:11:21.0000000Z",
+                                              "stop":  "2026-08-23T12:56:09.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Who.Framed.Roger.Rabbit",
-                                                    "start":  "2026-08-23T09:27:36.0000000Z",
-                                                    "stop":  "2026-08-23T11:11:21.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Get Shorty",
                                                     "start":  "2026-08-23T11:11:21.0000000Z",
@@ -228,21 +223,16 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "DnBaPCsht",
-                                                  "start":  "2026-08-23T09:26:38.0000000Z",
-                                                  "stop":  "2026-08-23T09:27:25.0000000Z"
+                                                  "title":  "Duende",
+                                                  "start":  "2026-08-23T09:27:36.0000000Z",
+                                                  "stop":  "2026-08-23T09:28:46.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Duende",
-                                              "start":  "2026-08-23T09:27:36.0000000Z",
-                                              "stop":  "2026-08-23T09:28:46.0000000Z"
+                                              "title":  "JamminG",
+                                              "start":  "2026-08-23T09:29:18.0000000Z",
+                                              "stop":  "2026-08-23T09:33:10.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Duende",
-                                                    "start":  "2026-08-23T09:27:36.0000000Z",
-                                                    "stop":  "2026-08-23T09:28:46.0000000Z"
-                                                },
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-08-23T09:29:18.0000000Z",
@@ -277,6 +267,11 @@
                                                     "title":  "After H0uRs",
                                                     "start":  "2026-08-23T09:39:14.0000000Z",
                                                     "stop":  "2026-08-23T09:40:03.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "Ass Kicker Bruce",
+                                                    "start":  "2026-08-23T09:40:03.0000000Z",
+                                                    "stop":  "2026-08-23T09:45:59.0000000Z"
                                                 }
                                             ]
                            },
