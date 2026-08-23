@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-23T15:24:05.5308018Z",
+    "updated":  "2026-08-23T15:25:05.3695269Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -212,21 +212,16 @@
                                "number":  6,
                                "name":  "FIRMELAB CRIME",
                                "nowPlaying":  {
-                                                  "title":  "Carlitos Way",
-                                                  "start":  "2026-08-23T13:00:27.0000000Z",
-                                                  "stop":  "2026-08-23T15:24:37.0000000Z"
+                                                  "title":  "Jacky Brown",
+                                                  "start":  "2026-08-23T15:24:37.0000000Z",
+                                                  "stop":  "2026-08-23T17:58:58.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Jacky Brown",
-                                              "start":  "2026-08-23T15:24:37.0000000Z",
-                                              "stop":  "2026-08-23T17:58:58.0000000Z"
+                                              "title":  "Inside Man",
+                                              "start":  "2026-08-23T17:58:58.0000000Z",
+                                              "stop":  "2026-08-23T20:07:45.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Jacky Brown",
-                                                    "start":  "2026-08-23T15:24:37.0000000Z",
-                                                    "stop":  "2026-08-23T17:58:58.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Inside Man",
                                                     "start":  "2026-08-23T17:58:58.0000000Z",
