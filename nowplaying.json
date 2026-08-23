@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-23T08:31:05.3373230Z",
+    "updated":  "2026-08-23T08:32:05.7432153Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -192,21 +192,16 @@
                                "number":  6,
                                "name":  "FIRMELAB CRIME",
                                "nowPlaying":  {
-                                                  "title":  "Inside Man",
-                                                  "start":  "2026-08-23T06:22:39.0000000Z",
-                                                  "stop":  "2026-08-23T08:31:26.0000000Z"
+                                                  "title":  "Reservor Dogs",
+                                                  "start":  "2026-08-23T08:31:26.0000000Z",
+                                                  "stop":  "2026-08-23T10:10:31.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Reservor Dogs",
-                                              "start":  "2026-08-23T08:31:26.0000000Z",
-                                              "stop":  "2026-08-23T10:10:31.0000000Z"
+                                              "title":  "Scarface",
+                                              "start":  "2026-08-23T10:10:31.0000000Z",
+                                              "stop":  "2026-08-23T13:00:27.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Reservor Dogs",
-                                                    "start":  "2026-08-23T08:31:26.0000000Z",
-                                                    "stop":  "2026-08-23T10:10:31.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Scarface",
                                                     "start":  "2026-08-23T10:10:31.0000000Z",
@@ -232,11 +227,7 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "Oz",
-                                                  "start":  "2026-08-23T08:30:48.0000000Z",
-                                                  "stop":  "2026-08-23T08:32:01.0000000Z"
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
                                               "title":  "BloodJoke",
                                               "start":  "2026-08-23T08:32:29.0000000Z",
