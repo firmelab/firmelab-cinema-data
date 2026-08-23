@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-23T19:18:05.9965696Z",
+    "updated":  "2026-08-23T19:19:05.7177667Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -253,16 +253,11 @@
                                                   "stop":  "2026-08-23T19:21:33.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Ricardo \u0026 Mocoso",
-                                              "start":  "2026-08-23T19:18:34.0000000Z",
-                                              "stop":  "2026-08-23T19:20:49.0000000Z"
+                                              "title":  "XocoBruja",
+                                              "start":  "2026-08-23T19:20:49.0000000Z",
+                                              "stop":  "2026-08-23T19:23:34.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Ricardo \u0026 Mocoso",
-                                                    "start":  "2026-08-23T19:18:34.0000000Z",
-                                                    "stop":  "2026-08-23T19:20:49.0000000Z"
-                                                },
                                                 {
                                                     "title":  "XocoBruja",
                                                     "start":  "2026-08-23T19:20:49.0000000Z",
@@ -297,6 +292,11 @@
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-08-23T19:37:51.0000000Z",
                                                     "stop":  "2026-08-23T19:38:56.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "DnBaPCsht",
+                                                    "start":  "2026-08-23T19:38:56.0000000Z",
+                                                    "stop":  "2026-08-23T19:39:43.0000000Z"
                                                 }
                                             ]
                            },
@@ -304,21 +304,16 @@
                                "number":  8,
                                "name":  "FIRMELAB FRONTIER",
                                "nowPlaying":  {
-                                                  "title":  "Young Guns",
-                                                  "start":  "2026-08-23T17:31:24.0000000Z",
-                                                  "stop":  "2026-08-23T19:18:10.0000000Z"
+                                                  "title":  "The Patriot",
+                                                  "start":  "2026-08-23T19:18:10.0000000Z",
+                                                  "stop":  "2026-08-23T22:02:57.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "The Patriot",
-                                              "start":  "2026-08-23T19:18:10.0000000Z",
-                                              "stop":  "2026-08-23T22:02:57.0000000Z"
+                                              "title":  "Master and Commander",
+                                              "start":  "2026-08-23T22:02:57.0000000Z",
+                                              "stop":  "2026-08-24T00:21:18.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "The Patriot",
-                                                    "start":  "2026-08-23T19:18:10.0000000Z",
-                                                    "stop":  "2026-08-23T22:02:57.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Master and Commander",
                                                     "start":  "2026-08-23T22:02:57.0000000Z",
