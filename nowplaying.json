@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-24T17:11:05.0847520Z",
+    "updated":  "2026-08-24T17:12:05.1214114Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -177,21 +177,16 @@
                                "number":  6,
                                "name":  "FIRMELAB CRIME",
                                "nowPlaying":  {
-                                                  "title":  "Jacky Brown",
-                                                  "start":  "2026-08-24T14:37:16.0000000Z",
-                                                  "stop":  "2026-08-24T17:11:37.0000000Z"
+                                                  "title":  "Inside Man",
+                                                  "start":  "2026-08-24T17:11:37.0000000Z",
+                                                  "stop":  "2026-08-24T19:20:24.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Inside Man",
-                                              "start":  "2026-08-24T17:11:37.0000000Z",
-                                              "stop":  "2026-08-24T19:20:24.0000000Z"
+                                              "title":  "Reservor Dogs",
+                                              "start":  "2026-08-24T19:20:24.0000000Z",
+                                              "stop":  "2026-08-24T20:59:29.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Inside Man",
-                                                    "start":  "2026-08-24T17:11:37.0000000Z",
-                                                    "stop":  "2026-08-24T19:20:24.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Reservor Dogs",
                                                     "start":  "2026-08-24T19:20:24.0000000Z",
