@@ -1,25 +1,20 @@
 {
-    "updated":  "2026-08-24T13:02:04.7377965Z",
+    "updated":  "2026-08-24T13:03:04.7444577Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Boogeyman",
-                                                  "start":  "2026-08-24T11:24:42.0000000Z",
-                                                  "stop":  "2026-08-24T13:02:50.0000000Z"
+                                                  "title":  "Sherlock Holmes",
+                                                  "start":  "2026-08-24T13:02:50.0000000Z",
+                                                  "stop":  "2026-08-24T15:20:38.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Sherlock Holmes",
-                                              "start":  "2026-08-24T13:02:50.0000000Z",
-                                              "stop":  "2026-08-24T15:20:38.0000000Z"
+                                              "title":  "Rambo First Blood",
+                                              "start":  "2026-08-24T15:20:38.0000000Z",
+                                              "stop":  "2026-08-24T17:03:04.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Sherlock Holmes",
-                                                    "start":  "2026-08-24T13:02:50.0000000Z",
-                                                    "stop":  "2026-08-24T15:20:38.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Rambo First Blood",
                                                     "start":  "2026-08-24T15:20:38.0000000Z",
