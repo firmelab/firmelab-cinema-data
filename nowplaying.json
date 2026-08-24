@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-24T01:42:06.1190571Z",
+    "updated":  "2026-08-24T01:43:06.6355545Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -223,21 +223,16 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "After H0uRs",
-                                                  "start":  "2026-08-24T01:41:25.0000000Z",
-                                                  "stop":  "2026-08-24T01:42:14.0000000Z"
+                                                  "title":  "Ass Kicker Bruce",
+                                                  "start":  "2026-08-24T01:42:14.0000000Z",
+                                                  "stop":  "2026-08-24T01:48:10.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Ass Kicker Bruce",
-                                              "start":  "2026-08-24T01:42:14.0000000Z",
-                                              "stop":  "2026-08-24T01:48:10.0000000Z"
+                                              "title":  "Biggie Mobbing",
+                                              "start":  "2026-08-24T01:48:10.0000000Z",
+                                              "stop":  "2026-08-24T01:48:51.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Ass Kicker Bruce",
-                                                    "start":  "2026-08-24T01:42:14.0000000Z",
-                                                    "stop":  "2026-08-24T01:48:10.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-08-24T01:48:10.0000000Z",
@@ -272,6 +267,11 @@
                                                     "title":  "COKCE6139",
                                                     "start":  "2026-08-24T01:57:11.0000000Z",
                                                     "stop":  "2026-08-24T01:58:13.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "MrPayo",
+                                                    "start":  "2026-08-24T01:59:22.0000000Z",
+                                                    "stop":  "2026-08-24T02:00:05.0000000Z"
                                                 }
                                             ]
                            },
