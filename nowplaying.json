@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-24T01:49:06.6527411Z",
+    "updated":  "2026-08-24T01:50:06.2331069Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -222,11 +222,7 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "Chingadasos",
-                                                  "start":  "2026-08-24T01:48:51.0000000Z",
-                                                  "stop":  "2026-08-24T01:49:37.0000000Z"
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
                                               "title":  "Mr J-Carry",
                                               "start":  "2026-08-24T01:50:43.0000000Z",
