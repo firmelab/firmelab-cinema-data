@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-24T07:06:05.1306594Z",
+    "updated":  "2026-08-24T07:07:05.1009860Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -153,21 +153,16 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "Get Shorty",
-                                                  "start":  "2026-08-24T05:21:23.0000000Z",
-                                                  "stop":  "2026-08-24T07:06:11.0000000Z"
+                                                  "title":  "Undercover Brother",
+                                                  "start":  "2026-08-24T07:06:11.0000000Z",
+                                                  "stop":  "2026-08-24T08:32:17.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Undercover Brother",
-                                              "start":  "2026-08-24T07:06:11.0000000Z",
-                                              "stop":  "2026-08-24T08:32:17.0000000Z"
+                                              "title":  "Who.Framed.Roger.Rabbit",
+                                              "start":  "2026-08-24T08:32:17.0000000Z",
+                                              "stop":  "2026-08-24T10:16:03.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Undercover Brother",
-                                                    "start":  "2026-08-24T07:06:11.0000000Z",
-                                                    "stop":  "2026-08-24T08:32:17.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Who.Framed.Roger.Rabbit",
                                                     "start":  "2026-08-24T08:32:17.0000000Z",
@@ -263,21 +258,16 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "MrPayo",
-                                                  "start":  "2026-08-24T07:05:31.0000000Z",
-                                                  "stop":  "2026-08-24T07:06:36.0000000Z"
+                                                  "title":  "Oz",
+                                                  "start":  "2026-08-24T07:06:36.0000000Z",
+                                                  "stop":  "2026-08-24T07:11:32.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Oz",
-                                              "start":  "2026-08-24T07:06:36.0000000Z",
-                                              "stop":  "2026-08-24T07:11:32.0000000Z"
+                                              "title":  "BloodJoke",
+                                              "start":  "2026-08-24T07:08:18.0000000Z",
+                                              "stop":  "2026-08-24T07:09:53.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Oz",
-                                                    "start":  "2026-08-24T07:06:36.0000000Z",
-                                                    "stop":  "2026-08-24T07:11:32.0000000Z"
-                                                },
                                                 {
                                                     "title":  "BloodJoke",
                                                     "start":  "2026-08-24T07:08:18.0000000Z",
@@ -312,6 +302,11 @@
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-08-24T07:25:19.0000000Z",
                                                     "stop":  "2026-08-24T07:28:50.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "Ninja Now",
+                                                    "start":  "2026-08-24T07:27:31.0000000Z",
+                                                    "stop":  "2026-08-24T07:28:13.0000000Z"
                                                 }
                                             ]
                            },
