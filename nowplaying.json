@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-24T00:50:21.5612979Z",
+    "updated":  "2026-08-24T00:51:10.8042799Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -87,21 +87,16 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Bourne Identity",
-                                                  "start":  "2026-08-23T22:52:39.0000000Z",
-                                                  "stop":  "2026-08-24T00:50:55.0000000Z"
+                                                  "title":  "Bourne Supremacy",
+                                                  "start":  "2026-08-24T00:50:55.0000000Z",
+                                                  "stop":  "2026-08-24T02:39:28.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Bourne Supremacy",
-                                              "start":  "2026-08-24T00:50:55.0000000Z",
-                                              "stop":  "2026-08-24T02:39:28.0000000Z"
+                                              "title":  "Brightburn",
+                                              "start":  "2026-08-24T02:39:28.0000000Z",
+                                              "stop":  "2026-08-24T04:09:58.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Bourne Supremacy",
-                                                    "start":  "2026-08-24T00:50:55.0000000Z",
-                                                    "stop":  "2026-08-24T02:39:28.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Brightburn",
                                                     "start":  "2026-08-24T02:39:28.0000000Z",
