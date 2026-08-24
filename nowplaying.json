@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-24T11:33:05.5205213Z",
+    "updated":  "2026-08-24T11:34:05.2905731Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -46,21 +46,16 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Land of the Dead",
-                                                  "start":  "2026-08-24T09:40:09.0000000Z",
-                                                  "stop":  "2026-08-24T11:33:50.0000000Z"
+                                                  "title":  "Resident Evil- Apocalypse",
+                                                  "start":  "2026-08-24T11:33:50.0000000Z",
+                                                  "stop":  "2026-08-24T13:13:09.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Resident Evil- Apocalypse",
-                                              "start":  "2026-08-24T11:33:50.0000000Z",
-                                              "stop":  "2026-08-24T13:13:09.0000000Z"
+                                              "title":  "D1_t00",
+                                              "start":  "2026-08-24T13:13:09.0000000Z",
+                                              "stop":  "2026-08-24T15:30:18.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Resident Evil- Apocalypse",
-                                                    "start":  "2026-08-24T11:33:50.0000000Z",
-                                                    "stop":  "2026-08-24T13:13:09.0000000Z"
-                                                },
                                                 {
                                                     "title":  "D1_t00",
                                                     "start":  "2026-08-24T13:13:09.0000000Z",
