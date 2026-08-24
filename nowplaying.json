@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-24T14:59:05.3099618Z",
+    "updated":  "2026-08-24T15:00:05.3230575Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -77,21 +77,16 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Sherlock Holmes",
-                                                  "start":  "2026-08-24T12:51:25.0000000Z",
-                                                  "stop":  "2026-08-24T14:59:54.0000000Z"
+                                                  "title":  "Fast N Furious",
+                                                  "start":  "2026-08-24T14:59:54.0000000Z",
+                                                  "stop":  "2026-08-24T16:46:49.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Fast N Furious",
-                                              "start":  "2026-08-24T14:59:54.0000000Z",
-                                              "stop":  "2026-08-24T16:46:49.0000000Z"
+                                              "title":  "John Wick",
+                                              "start":  "2026-08-24T16:46:49.0000000Z",
+                                              "stop":  "2026-08-24T18:28:03.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Fast N Furious",
-                                                    "start":  "2026-08-24T14:59:54.0000000Z",
-                                                    "stop":  "2026-08-24T16:46:49.0000000Z"
-                                                },
                                                 {
                                                     "title":  "John Wick",
                                                     "start":  "2026-08-24T16:46:49.0000000Z",
@@ -198,21 +193,16 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "T2",
-                                                  "start":  "2026-08-24T14:58:54.0000000Z",
-                                                  "stop":  "2026-08-24T14:59:26.0000000Z"
+                                                  "title":  "Ricardo \u0026 Mocoso",
+                                                  "start":  "2026-08-24T14:59:26.0000000Z",
+                                                  "stop":  "2026-08-24T15:01:41.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Ricardo \u0026 Mocoso",
-                                              "start":  "2026-08-24T14:59:26.0000000Z",
-                                              "stop":  "2026-08-24T15:01:41.0000000Z"
+                                              "title":  "XocoBruja",
+                                              "start":  "2026-08-24T15:01:41.0000000Z",
+                                              "stop":  "2026-08-24T15:03:09.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Ricardo \u0026 Mocoso",
-                                                    "start":  "2026-08-24T14:59:26.0000000Z",
-                                                    "stop":  "2026-08-24T15:01:41.0000000Z"
-                                                },
                                                 {
                                                     "title":  "XocoBruja",
                                                     "start":  "2026-08-24T15:01:41.0000000Z",
@@ -247,6 +237,11 @@
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-08-24T15:18:42.0000000Z",
                                                     "stop":  "2026-08-24T15:19:48.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "DnBaPCsht",
+                                                    "start":  "2026-08-24T15:19:48.0000000Z",
+                                                    "stop":  "2026-08-24T15:20:35.0000000Z"
                                                 }
                                             ]
                            },
