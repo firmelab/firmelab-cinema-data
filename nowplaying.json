@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-24T09:31:04.7787499Z",
+    "updated":  "2026-08-24T09:32:04.7928849Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -92,21 +92,16 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Conan The Destroyer",
-                                                  "start":  "2026-08-24T07:50:33.0000000Z",
-                                                  "stop":  "2026-08-24T09:31:41.0000000Z"
+                                                  "title":  "Predator",
+                                                  "start":  "2026-08-24T09:31:41.0000000Z",
+                                                  "stop":  "2026-08-24T11:18:15.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Predator",
-                                              "start":  "2026-08-24T09:31:41.0000000Z",
-                                              "stop":  "2026-08-24T11:18:15.0000000Z"
+                                              "title":  "Rambo First Blood",
+                                              "start":  "2026-08-24T11:18:15.0000000Z",
+                                              "stop":  "2026-08-24T12:51:25.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Predator",
-                                                    "start":  "2026-08-24T09:31:41.0000000Z",
-                                                    "stop":  "2026-08-24T11:18:15.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Rambo First Blood",
                                                     "start":  "2026-08-24T11:18:15.0000000Z",
@@ -227,11 +222,7 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "Duende",
-                                                  "start":  "2026-08-24T09:30:53.0000000Z",
-                                                  "stop":  "2026-08-24T09:32:02.0000000Z"
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
                                               "title":  "JamminG",
                                               "start":  "2026-08-24T09:32:35.0000000Z",
