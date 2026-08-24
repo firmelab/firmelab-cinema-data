@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-24T05:40:04.8234921Z",
+    "updated":  "2026-08-24T05:41:04.8128455Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -87,21 +87,16 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Commando",
-                                                  "start":  "2026-08-24T04:09:58.0000000Z",
-                                                  "stop":  "2026-08-24T05:40:11.0000000Z"
+                                                  "title":  "Conan The Barbarian",
+                                                  "start":  "2026-08-24T05:40:11.0000000Z",
+                                                  "stop":  "2026-08-24T07:50:33.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Conan The Barbarian",
-                                              "start":  "2026-08-24T05:40:11.0000000Z",
-                                              "stop":  "2026-08-24T07:50:33.0000000Z"
+                                              "title":  "Conan The Destroyer",
+                                              "start":  "2026-08-24T07:50:33.0000000Z",
+                                              "stop":  "2026-08-24T09:31:41.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Conan The Barbarian",
-                                                    "start":  "2026-08-24T05:40:11.0000000Z",
-                                                    "stop":  "2026-08-24T07:50:33.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Conan The Destroyer",
                                                     "start":  "2026-08-24T07:50:33.0000000Z",
@@ -223,21 +218,16 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Oz",
-                                                  "start":  "2026-08-24T05:39:08.0000000Z",
-                                                  "stop":  "2026-08-24T05:40:21.0000000Z"
+                                                  "title":  "BloodJoke",
+                                                  "start":  "2026-08-24T05:40:49.0000000Z",
+                                                  "stop":  "2026-08-24T05:42:25.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "BloodJoke",
-                                              "start":  "2026-08-24T05:40:49.0000000Z",
-                                              "stop":  "2026-08-24T05:42:25.0000000Z"
+                                              "title":  "Carrito",
+                                              "start":  "2026-08-24T05:42:30.0000000Z",
+                                              "stop":  "2026-08-24T05:50:09.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "BloodJoke",
-                                                    "start":  "2026-08-24T05:40:49.0000000Z",
-                                                    "stop":  "2026-08-24T05:42:25.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-08-24T05:42:30.0000000Z",
@@ -272,6 +262,11 @@
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-08-24T06:00:03.0000000Z",
                                                     "stop":  "2026-08-24T06:00:45.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "SSBI4649",
+                                                    "start":  "2026-08-24T06:00:45.0000000Z",
+                                                    "stop":  "2026-08-24T06:01:34.0000000Z"
                                                 }
                                             ]
                            },
