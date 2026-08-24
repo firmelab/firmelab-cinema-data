@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-24T01:29:05.8524993Z",
+    "updated":  "2026-08-24T01:30:05.8037075Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -223,21 +223,16 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "DnBaPCsht",
-                                                  "start":  "2026-08-24T01:28:49.0000000Z",
-                                                  "stop":  "2026-08-24T01:29:36.0000000Z"
+                                                  "title":  "Duende",
+                                                  "start":  "2026-08-24T01:29:48.0000000Z",
+                                                  "stop":  "2026-08-24T01:30:57.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Duende",
-                                              "start":  "2026-08-24T01:29:48.0000000Z",
-                                              "stop":  "2026-08-24T01:30:57.0000000Z"
+                                              "title":  "JamminG",
+                                              "start":  "2026-08-24T01:31:29.0000000Z",
+                                              "stop":  "2026-08-24T01:35:21.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Duende",
-                                                    "start":  "2026-08-24T01:29:48.0000000Z",
-                                                    "stop":  "2026-08-24T01:30:57.0000000Z"
-                                                },
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-08-24T01:31:29.0000000Z",
@@ -272,6 +267,11 @@
                                                     "title":  "After H0uRs",
                                                     "start":  "2026-08-24T01:41:25.0000000Z",
                                                     "stop":  "2026-08-24T01:42:14.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "Ass Kicker Bruce",
+                                                    "start":  "2026-08-24T01:42:14.0000000Z",
+                                                    "stop":  "2026-08-24T01:48:10.0000000Z"
                                                 }
                                             ]
                            },
@@ -279,21 +279,16 @@
                                "number":  8,
                                "name":  "FIRMELAB FRONTIER",
                                "nowPlaying":  {
-                                                  "title":  "Master and Commander",
-                                                  "start":  "2026-08-23T23:11:35.0000000Z",
-                                                  "stop":  "2026-08-24T01:29:55.0000000Z"
+                                                  "title":  "Brave Heart",
+                                                  "start":  "2026-08-24T01:29:55.0000000Z",
+                                                  "stop":  "2026-08-24T04:27:36.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Brave Heart",
-                                              "start":  "2026-08-24T01:29:55.0000000Z",
-                                              "stop":  "2026-08-24T04:27:36.0000000Z"
+                                              "title":  "The Count Monte Cristos",
+                                              "start":  "2026-08-24T04:27:36.0000000Z",
+                                              "stop":  "2026-08-24T06:38:50.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Brave Heart",
-                                                    "start":  "2026-08-24T01:29:55.0000000Z",
-                                                    "stop":  "2026-08-24T04:27:36.0000000Z"
-                                                },
                                                 {
                                                     "title":  "The Count Monte Cristos",
                                                     "start":  "2026-08-24T04:27:36.0000000Z",
