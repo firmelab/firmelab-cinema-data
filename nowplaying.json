@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-24T11:18:05.2341637Z",
+    "updated":  "2026-08-24T11:19:05.2788496Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -97,21 +97,16 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Predator",
-                                                  "start":  "2026-08-24T09:31:41.0000000Z",
-                                                  "stop":  "2026-08-24T11:18:15.0000000Z"
+                                                  "title":  "Rambo First Blood",
+                                                  "start":  "2026-08-24T11:18:15.0000000Z",
+                                                  "stop":  "2026-08-24T12:51:25.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Rambo First Blood",
-                                              "start":  "2026-08-24T11:18:15.0000000Z",
-                                              "stop":  "2026-08-24T12:51:25.0000000Z"
+                                              "title":  "Sherlock Holmes",
+                                              "start":  "2026-08-24T12:51:25.0000000Z",
+                                              "stop":  "2026-08-24T14:59:54.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Rambo First Blood",
-                                                    "start":  "2026-08-24T11:18:15.0000000Z",
-                                                    "stop":  "2026-08-24T12:51:25.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Sherlock Holmes",
                                                     "start":  "2026-08-24T12:51:25.0000000Z",
@@ -248,9 +243,9 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Ass Kicker Bruce",
-                                                  "start":  "2026-08-24T11:10:48.0000000Z",
-                                                  "stop":  "2026-08-24T11:18:08.0000000Z"
+                                                  "title":  "Biggie Mobbing",
+                                                  "start":  "2026-08-24T11:16:44.0000000Z",
+                                                  "stop":  "2026-08-24T11:21:53.0000000Z"
                                               },
                                "upNext":  {
                                               "title":  "Mr J-Carry",
