@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-24T06:38:04.9888725Z",
+    "updated":  "2026-08-24T06:39:05.0064708Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -264,21 +264,16 @@
                                "number":  8,
                                "name":  "FIRMELAB FRONTIER",
                                "nowPlaying":  {
-                                                  "title":  "The Count Monte Cristos",
-                                                  "start":  "2026-08-24T04:27:36.0000000Z",
-                                                  "stop":  "2026-08-24T06:38:50.0000000Z"
+                                                  "title":  "Young Guns",
+                                                  "start":  "2026-08-24T06:38:50.0000000Z",
+                                                  "stop":  "2026-08-24T08:25:36.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Young Guns",
-                                              "start":  "2026-08-24T06:38:50.0000000Z",
-                                              "stop":  "2026-08-24T08:25:36.0000000Z"
+                                              "title":  "The Patriot",
+                                              "start":  "2026-08-24T08:25:36.0000000Z",
+                                              "stop":  "2026-08-24T11:10:23.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Young Guns",
-                                                    "start":  "2026-08-24T06:38:50.0000000Z",
-                                                    "stop":  "2026-08-24T08:25:36.0000000Z"
-                                                },
                                                 {
                                                     "title":  "The Patriot",
                                                     "start":  "2026-08-24T08:25:36.0000000Z",
