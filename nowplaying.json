@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-24T12:57:04.7093295Z",
+    "updated":  "2026-08-24T12:58:04.7211784Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -217,11 +217,7 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "Oz",
-                                                  "start":  "2026-08-24T12:56:30.0000000Z",
-                                                  "stop":  "2026-08-24T12:57:43.0000000Z"
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
                                               "title":  "BloodJoke",
                                               "start":  "2026-08-24T12:58:11.0000000Z",
