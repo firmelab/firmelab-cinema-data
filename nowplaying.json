@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-24T05:14:04.6976333Z",
+    "updated":  "2026-08-24T05:15:04.7013001Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -232,18 +232,17 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  null,
+                               "nowPlaying":  {
+                                                  "title":  "Never 3Nding",
+                                                  "start":  "2026-08-24T05:14:07.0000000Z",
+                                                  "stop":  "2026-08-24T05:16:19.0000000Z"
+                                              },
                                "upNext":  {
-                                              "title":  "Never 3Nding",
-                                              "start":  "2026-08-24T05:14:07.0000000Z",
-                                              "stop":  "2026-08-24T05:16:19.0000000Z"
+                                              "title":  "Ninja Now",
+                                              "start":  "2026-08-24T05:16:19.0000000Z",
+                                              "stop":  "2026-08-24T05:17:01.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Never 3Nding",
-                                                    "start":  "2026-08-24T05:14:07.0000000Z",
-                                                    "stop":  "2026-08-24T05:16:19.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-08-24T05:16:19.0000000Z",
@@ -278,6 +277,11 @@
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-08-24T05:26:51.0000000Z",
                                                     "stop":  "2026-08-24T05:27:32.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "Chingadasos",
+                                                    "start":  "2026-08-24T05:27:32.0000000Z",
+                                                    "stop":  "2026-08-24T05:28:18.0000000Z"
                                                 }
                                             ]
                            },
