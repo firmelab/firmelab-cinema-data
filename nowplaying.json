@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-24T16:59:12.5974006Z",
+    "updated":  "2026-08-24T17:00:16.9383735Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -46,21 +46,16 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Wrong Turn",
-                                                  "start":  "2026-08-24T15:30:18.0000000Z",
-                                                  "stop":  "2026-08-24T17:00:00.0000000Z"
+                                                  "title":  "World War Z",
+                                                  "start":  "2026-08-24T17:00:00.0000000Z",
+                                                  "stop":  "2026-08-24T19:06:50.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "World War Z",
-                                              "start":  "2026-08-24T17:00:00.0000000Z",
-                                              "stop":  "2026-08-24T19:06:50.0000000Z"
+                                              "title":  "Underworld Evolution",
+                                              "start":  "2026-08-24T19:06:50.0000000Z",
+                                              "stop":  "2026-08-24T22:51:09.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "World War Z",
-                                                    "start":  "2026-08-24T17:00:00.0000000Z",
-                                                    "stop":  "2026-08-24T19:06:50.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Underworld Evolution",
                                                     "start":  "2026-08-24T19:06:50.0000000Z",
@@ -228,21 +223,16 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "0Ld Sc00L",
-                                                  "start":  "2026-08-24T16:59:04.0000000Z",
-                                                  "stop":  "2026-08-24T16:59:52.0000000Z"
+                                                  "title":  "After H0uRs",
+                                                  "start":  "2026-08-24T16:59:52.0000000Z",
+                                                  "stop":  "2026-08-24T17:00:41.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "After H0uRs",
-                                              "start":  "2026-08-24T16:59:52.0000000Z",
-                                              "stop":  "2026-08-24T17:00:41.0000000Z"
+                                              "title":  "Ass Kicker Bruce",
+                                              "start":  "2026-08-24T17:00:41.0000000Z",
+                                              "stop":  "2026-08-24T17:06:37.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "After H0uRs",
-                                                    "start":  "2026-08-24T16:59:52.0000000Z",
-                                                    "stop":  "2026-08-24T17:00:41.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-08-24T17:00:41.0000000Z",
@@ -277,6 +267,11 @@
                                                     "title":  "XocoBruja",
                                                     "start":  "2026-08-24T17:12:54.0000000Z",
                                                     "stop":  "2026-08-24T17:14:22.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "COKCE6139",
+                                                    "start":  "2026-08-24T17:15:38.0000000Z",
+                                                    "stop":  "2026-08-24T17:16:39.0000000Z"
                                                 }
                                             ]
                            },
