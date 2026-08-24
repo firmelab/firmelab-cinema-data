@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-24T10:15:04.9818459Z",
+    "updated":  "2026-08-24T10:16:04.9791294Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -123,21 +123,16 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "Who.Framed.Roger.Rabbit",
-                                                  "start":  "2026-08-24T08:32:17.0000000Z",
-                                                  "stop":  "2026-08-24T10:16:03.0000000Z"
+                                                  "title":  "AnchorMan",
+                                                  "start":  "2026-08-24T10:16:03.0000000Z",
+                                                  "stop":  "2026-08-24T11:53:26.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "AnchorMan",
-                                              "start":  "2026-08-24T10:16:03.0000000Z",
-                                              "stop":  "2026-08-24T11:53:26.0000000Z"
+                                              "title":  "Duplex",
+                                              "start":  "2026-08-24T11:53:26.0000000Z",
+                                              "stop":  "2026-08-24T13:22:39.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "AnchorMan",
-                                                    "start":  "2026-08-24T10:16:03.0000000Z",
-                                                    "stop":  "2026-08-24T11:53:26.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Duplex",
                                                     "start":  "2026-08-24T11:53:26.0000000Z",
@@ -212,11 +207,7 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "Duende",
-                                                  "start":  "2026-08-24T10:14:37.0000000Z",
-                                                  "stop":  "2026-08-24T10:15:46.0000000Z"
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
                                               "title":  "JamminG",
                                               "start":  "2026-08-24T10:16:19.0000000Z",
