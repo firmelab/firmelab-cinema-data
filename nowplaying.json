@@ -1,25 +1,20 @@
 {
-    "updated":  "2026-08-24T09:39:04.8325253Z",
+    "updated":  "2026-08-24T09:40:04.8323488Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Brightburn",
-                                                  "start":  "2026-08-24T08:00:00.0000000Z",
-                                                  "stop":  "2026-08-24T09:39:48.0000000Z"
+                                                  "title":  "Undercover Brother",
+                                                  "start":  "2026-08-24T09:39:48.0000000Z",
+                                                  "stop":  "2026-08-24T11:24:42.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Undercover Brother",
-                                              "start":  "2026-08-24T09:39:48.0000000Z",
-                                              "stop":  "2026-08-24T11:24:42.0000000Z"
+                                              "title":  "Boogeyman",
+                                              "start":  "2026-08-24T11:24:42.0000000Z",
+                                              "stop":  "2026-08-24T13:02:50.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Undercover Brother",
-                                                    "start":  "2026-08-24T09:39:48.0000000Z",
-                                                    "stop":  "2026-08-24T11:24:42.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Boogeyman",
                                                     "start":  "2026-08-24T11:24:42.0000000Z",
@@ -223,21 +218,16 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Ninja Now",
-                                                  "start":  "2026-08-24T09:38:44.0000000Z",
-                                                  "stop":  "2026-08-24T09:39:26.0000000Z"
+                                                  "title":  "SSBI4649",
+                                                  "start":  "2026-08-24T09:39:26.0000000Z",
+                                                  "stop":  "2026-08-24T09:40:15.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "SSBI4649",
-                                              "start":  "2026-08-24T09:39:26.0000000Z",
-                                              "stop":  "2026-08-24T09:40:15.0000000Z"
+                                              "title":  "Arnold Dynamite",
+                                              "start":  "2026-08-24T09:40:15.0000000Z",
+                                              "stop":  "2026-08-24T09:41:43.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "SSBI4649",
-                                                    "start":  "2026-08-24T09:39:26.0000000Z",
-                                                    "stop":  "2026-08-24T09:40:15.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-08-24T09:40:15.0000000Z",
@@ -272,6 +262,11 @@
                                                     "title":  "Mr J-Carry",
                                                     "start":  "2026-08-24T09:51:48.0000000Z",
                                                     "stop":  "2026-08-24T09:52:20.0000000Z"
+                                                },
+                                                {
+                                                    "title":  "T2",
+                                                    "start":  "2026-08-24T09:52:45.0000000Z",
+                                                    "stop":  "2026-08-24T09:53:17.0000000Z"
                                                 }
                                             ]
                            },
