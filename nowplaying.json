@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-24T02:39:05.0742764Z",
+    "updated":  "2026-08-24T02:40:05.0743415Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -77,21 +77,16 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Bourne Supremacy",
-                                                  "start":  "2026-08-24T00:50:55.0000000Z",
-                                                  "stop":  "2026-08-24T02:39:28.0000000Z"
+                                                  "title":  "Brightburn",
+                                                  "start":  "2026-08-24T02:39:28.0000000Z",
+                                                  "stop":  "2026-08-24T04:09:58.0000000Z"
                                               },
                                "upNext":  {
-                                              "title":  "Brightburn",
-                                              "start":  "2026-08-24T02:39:28.0000000Z",
-                                              "stop":  "2026-08-24T04:09:58.0000000Z"
+                                              "title":  "Commando",
+                                              "start":  "2026-08-24T04:09:58.0000000Z",
+                                              "stop":  "2026-08-24T05:40:11.0000000Z"
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Brightburn",
-                                                    "start":  "2026-08-24T02:39:28.0000000Z",
-                                                    "stop":  "2026-08-24T04:09:58.0000000Z"
-                                                },
                                                 {
                                                     "title":  "Commando",
                                                     "start":  "2026-08-24T04:09:58.0000000Z",
@@ -207,11 +202,7 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "XocoBruja",
-                                                  "start":  "2026-08-24T02:38:11.0000000Z",
-                                                  "stop":  "2026-08-24T02:39:39.0000000Z"
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
                                               "title":  "COKCE6139",
                                               "start":  "2026-08-24T02:40:55.0000000Z",
