@@ -1,17 +1,5 @@
 {
-    "updated":  "2026-08-25T08:05:22.1845125Z",
-    "channels":  {
-                     "1":  {
-                               "number":  1,
-                               "name":  "FIRMELAB CINEMA",
-                               "nowPlaying":  {
-                                                  "title":  "Black Hawk Down",
-                                                  "start":  "2026-08-25T08:00:00.0000000Z",
-                                                  "stop":  "2026-08-25T10:32:46.0000000Z",
-                                                  "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
-                                                  "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing {
-    "updated":  "2026-08-25T08:05:22.1845125Z",
+    "updated":  "2026-08-25T08:06:13.1056015Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -424,24 +412,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "DnBaPCsht",
-                                              "start":  "2026-08-25T08:05:43.0000000Z",
-                                              "stop":  "2026-08-25T08:10:10.0000000Z",
-                                              "itemId":  "d2296bca99a831548bbada0bb3bac719",
-                                              "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
+                                              "title":  "Duende",
+                                              "start":  "2026-08-25T08:06:41.0000000Z",
+                                              "stop":  "2026-08-25T08:07:51.0000000Z",
+                                              "itemId":  "80d6feb8f0c835e935a80db3275c5412",
+                                              "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "DnBaPCsht",
-                                                    "start":  "2026-08-25T08:05:43.0000000Z",
-                                                    "stop":  "2026-08-25T08:10:10.0000000Z",
-                                                    "itemId":  "d2296bca99a831548bbada0bb3bac719",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-08-25T08:06:41.0000000Z",
@@ -502,6 +481,15 @@
                                                     "stop":  "2026-08-25T08:18:19.0000000Z",
                                                     "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
                                                     "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "After H0uRs",
+                                                    "start":  "2026-08-25T08:18:19.0000000Z",
+                                                    "stop":  "2026-08-25T08:23:40.0000000Z",
+                                                    "itemId":  "150bbae732cd647eeed3060cd67b032f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
