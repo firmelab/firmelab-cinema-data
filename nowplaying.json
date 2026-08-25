@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-25T08:32:17.5561993Z",
+    "updated":  "2026-08-25T08:33:16.4593228Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -65,33 +65,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "World War Z",
-                                                  "start":  "2026-08-25T06:25:37.0000000Z",
-                                                  "stop":  "2026-08-25T08:32:27.0000000Z",
-                                                  "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
-                                                  "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                                  "year":  2013
+                                                  "title":  "Boogeyman",
+                                                  "start":  "2026-08-25T08:32:27.0000000Z",
+                                                  "stop":  "2026-08-25T10:05:05.0000000Z",
+                                                  "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
+                                                  "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
+                                                  "description":  null,
+                                                  "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Boogeyman",
-                                              "start":  "2026-08-25T08:32:27.0000000Z",
-                                              "stop":  "2026-08-25T10:05:05.0000000Z",
-                                              "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
-                                              "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
+                                              "title":  "Wrong Turn",
+                                              "start":  "2026-08-25T10:05:05.0000000Z",
+                                              "stop":  "2026-08-25T11:33:02.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Boogeyman",
-                                                    "start":  "2026-08-25T08:32:27.0000000Z",
-                                                    "stop":  "2026-08-25T10:05:05.0000000Z",
-                                                    "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
-                                                    "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Wrong Turn",
                                                     "start":  "2026-08-25T10:05:05.0000000Z",
@@ -393,15 +384,7 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "XocoBruja",
-                                                  "start":  "2026-08-25T08:31:21.0000000Z",
-                                                  "stop":  "2026-08-25T08:32:49.0000000Z",
-                                                  "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
-                                                  "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
-                                                  "description":  null,
-                                                  "year":  2026
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
                                               "title":  "COKCE6139",
                                               "start":  "2026-08-25T08:34:05.0000000Z",
