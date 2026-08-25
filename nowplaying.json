@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-08-25T19:49:10.5236643Z",
+    "updated":  "2026-08-25T19:50:11.4585731Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Resident Evil",
-                                                  "start":  "2026-08-25T18:02:20.0000000Z",
-                                                  "stop":  "2026-08-25T19:49:49.0000000Z",
-                                                  "itemId":  "760d913661074a3a3f5a58738842a2f8",
-                                                  "poster":  "http://127.0.0.1:8096/Items/760d913661074a3a3f5a58738842a2f8/Images/Primary",
-                                                  "description":  "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
-                                                  "year":  2002
+                                                  "title":  "Sherlock Holmes",
+                                                  "start":  "2026-08-25T19:49:49.0000000Z",
+                                                  "stop":  "2026-08-25T22:05:17.0000000Z",
+                                                  "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
+                                                  "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
+                                                  "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
+                                                  "year":  2009
                                               },
                                "upNext":  {
-                                              "title":  "Sherlock Holmes",
-                                              "start":  "2026-08-25T19:49:49.0000000Z",
-                                              "stop":  "2026-08-25T22:05:17.0000000Z",
-                                              "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
-                                              "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
-                                              "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
-                                              "year":  2009
+                                              "title":  "Reservor Dogs",
+                                              "start":  "2026-08-25T22:05:17.0000000Z",
+                                              "stop":  "2026-08-25T23:51:21.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Sherlock Holmes",
-                                                    "start":  "2026-08-25T19:49:49.0000000Z",
-                                                    "stop":  "2026-08-25T22:05:17.0000000Z",
-                                                    "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
-                                                    "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
-                                                    "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
-                                                    "year":  2009
-                                                },
                                                 {
                                                     "title":  "Reservor Dogs",
                                                     "start":  "2026-08-25T22:05:17.0000000Z",
