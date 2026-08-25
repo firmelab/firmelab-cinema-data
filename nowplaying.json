@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-25T14:53:05.1780369Z",
+    "updated":  "2026-08-25T14:54:05.1884831Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -65,33 +65,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Wrong Turn",
-                                                  "start":  "2026-08-25T13:25:11.0000000Z",
-                                                  "stop":  "2026-08-25T14:53:09.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "World War Z",
+                                                  "start":  "2026-08-25T14:53:09.0000000Z",
+                                                  "stop":  "2026-08-25T17:00:00.0000000Z",
+                                                  "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
+                                                  "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
+                                                  "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+                                                  "year":  2013
                                               },
                                "upNext":  {
-                                              "title":  "World War Z",
-                                              "start":  "2026-08-25T14:53:09.0000000Z",
-                                              "stop":  "2026-08-25T17:00:00.0000000Z",
-                                              "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
-                                              "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
-                                              "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                              "year":  2013
+                                              "title":  "D1_t00",
+                                              "start":  "2026-08-25T17:00:00.0000000Z",
+                                              "stop":  "2026-08-25T19:20:54.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "World War Z",
-                                                    "start":  "2026-08-25T14:53:09.0000000Z",
-                                                    "stop":  "2026-08-25T17:00:00.0000000Z",
-                                                    "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
-                                                    "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                                    "year":  2013
-                                                },
                                                 {
                                                     "title":  "D1_t00",
                                                     "start":  "2026-08-25T17:00:00.0000000Z",
