@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-25T04:33:05.6528773Z",
+    "updated":  "2026-08-25T04:34:05.7082568Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -394,33 +394,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "JamminG",
-                                                  "start":  "2026-08-25T04:29:42.0000000Z",
-                                                  "stop":  "2026-08-25T04:33:34.0000000Z",
+                                                  "title":  "Never 3Nding",
+                                                  "start":  "2026-08-25T04:33:39.0000000Z",
+                                                  "stop":  "2026-08-25T04:35:51.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Never 3Nding",
-                                              "start":  "2026-08-25T04:33:39.0000000Z",
-                                              "stop":  "2026-08-25T04:35:51.0000000Z",
+                                              "title":  "Ninja Now",
+                                              "start":  "2026-08-25T04:35:51.0000000Z",
+                                              "stop":  "2026-08-25T04:36:34.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Never 3Nding",
-                                                    "start":  "2026-08-25T04:33:39.0000000Z",
-                                                    "stop":  "2026-08-25T04:35:51.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-08-25T04:35:51.0000000Z",
@@ -479,6 +470,15 @@
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-08-25T04:46:23.0000000Z",
                                                     "stop":  "2026-08-25T04:47:04.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Chingadasos",
+                                                    "start":  "2026-08-25T04:47:04.0000000Z",
+                                                    "stop":  "2026-08-25T04:47:51.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
