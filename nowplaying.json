@@ -1,37 +1,40 @@
 {
-    "updated":  "2026-08-25T07:59:12.1121702Z",
+    "updated":  "2026-08-25T08:05:22.1845125Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Conan The Destroyer",
-                                                  "start":  "2026-08-25T06:09:33.0000000Z",
-                                                  "stop":  "2026-08-25T08:00:00.0000000Z",
-                                                  "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
-                                                  "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
-                                                  "year":  1984
+                                                  "title":  "Black Hawk Down",
+                                                  "start":  "2026-08-25T08:00:00.0000000Z",
+                                                  "stop":  "2026-08-25T10:32:46.0000000Z",
+                                                  "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
+                                                  "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
+                                                  "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing {
+    "updated":  "2026-08-25T08:05:22.1845125Z",
+    "channels":  {
+                     "1":  {
+                               "number":  1,
+                               "name":  "FIRMELAB CINEMA",
+                               "nowPlaying":  {
+                                                  "title":  "Black Hawk Down",
+                                                  "start":  "2026-08-25T08:00:00.0000000Z",
+                                                  "stop":  "2026-08-25T10:32:46.0000000Z",
+                                                  "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
+                                                  "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
+                                                  "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+                                                  "year":  2001
                                               },
                                "upNext":  {
-                                              "title":  "Black Hawk Down",
-                                              "start":  "2026-08-25T08:00:00.0000000Z",
-                                              "stop":  "2026-08-25T10:32:46.0000000Z",
-                                              "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
-                                              "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
-                                              "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
-                                              "year":  2001
+                                              "title":  "Bourne Supremacy",
+                                              "start":  "2026-08-25T10:32:46.0000000Z",
+                                              "stop":  "2026-08-25T12:29:43.0000000Z",
+                                              "itemId":  "031faf0da71af121647ff2d37294b07a",
+                                              "poster":  "http://127.0.0.1:8096/Items/031faf0da71af121647ff2d37294b07a/Images/Primary",
+                                              "description":  "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
+                                              "year":  2004
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Black Hawk Down",
-                                                    "start":  "2026-08-25T08:00:00.0000000Z",
-                                                    "stop":  "2026-08-25T10:32:46.0000000Z",
-                                                    "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
-                                                    "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
-                                                    "year":  2001
-                                                },
                                                 {
                                                     "title":  "Bourne Supremacy",
                                                     "start":  "2026-08-25T10:32:46.0000000Z",
@@ -412,33 +415,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Oz",
-                                                  "start":  "2026-08-25T07:53:37.0000000Z",
-                                                  "stop":  "2026-08-25T08:00:55.0000000Z",
-                                                  "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                                  "title":  "Carrito",
+                                                  "start":  "2026-08-25T07:56:59.0000000Z",
+                                                  "stop":  "2026-08-25T08:07:08.0000000Z",
+                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Dancing Cobra",
-                                              "start":  "2026-08-25T08:04:38.0000000Z",
-                                              "stop":  "2026-08-25T08:10:35.0000000Z",
-                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
+                                              "title":  "DnBaPCsht",
+                                              "start":  "2026-08-25T08:05:43.0000000Z",
+                                              "stop":  "2026-08-25T08:10:10.0000000Z",
+                                              "itemId":  "d2296bca99a831548bbada0bb3bac719",
+                                              "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Dancing Cobra",
-                                                    "start":  "2026-08-25T08:04:38.0000000Z",
-                                                    "stop":  "2026-08-25T08:10:35.0000000Z",
-                                                    "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-08-25T08:05:43.0000000Z",
@@ -501,6 +495,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "0Ld Sc00L",
+                                                    "start":  "2026-08-25T08:17:31.0000000Z",
+                                                    "stop":  "2026-08-25T08:18:19.0000000Z",
+                                                    "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
