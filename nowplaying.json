@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-08-25T12:29:05.1120080Z",
+    "updated":  "2026-08-25T12:30:05.1657310Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Bourne Supremacy",
-                                                  "start":  "2026-08-25T10:32:46.0000000Z",
-                                                  "stop":  "2026-08-25T12:29:43.0000000Z",
-                                                  "itemId":  "031faf0da71af121647ff2d37294b07a",
-                                                  "poster":  "http://127.0.0.1:8096/Items/031faf0da71af121647ff2d37294b07a/Images/Primary",
-                                                  "description":  "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
-                                                  "year":  2004
+                                                  "title":  "Bourne Identity",
+                                                  "start":  "2026-08-25T12:29:43.0000000Z",
+                                                  "stop":  "2026-08-25T14:36:26.0000000Z",
+                                                  "itemId":  "ad22fba25f4ceaee407d76b5620443de",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ad22fba25f4ceaee407d76b5620443de/Images/Primary",
+                                                  "description":  "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
+                                                  "year":  2002
                                               },
                                "upNext":  {
-                                              "title":  "Bourne Identity",
-                                              "start":  "2026-08-25T12:29:43.0000000Z",
-                                              "stop":  "2026-08-25T14:36:26.0000000Z",
-                                              "itemId":  "ad22fba25f4ceaee407d76b5620443de",
-                                              "poster":  "http://127.0.0.1:8096/Items/ad22fba25f4ceaee407d76b5620443de/Images/Primary",
-                                              "description":  "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
-                                              "year":  2002
+                                              "title":  "Scarface",
+                                              "start":  "2026-08-25T14:36:26.0000000Z",
+                                              "stop":  "2026-08-25T17:34:49.0000000Z",
+                                              "itemId":  "1ca5b01d892bb1b5b113e7ccaa4ac889",
+                                              "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
+                                              "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+                                              "year":  1983
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Bourne Identity",
-                                                    "start":  "2026-08-25T12:29:43.0000000Z",
-                                                    "stop":  "2026-08-25T14:36:26.0000000Z",
-                                                    "itemId":  "ad22fba25f4ceaee407d76b5620443de",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ad22fba25f4ceaee407d76b5620443de/Images/Primary",
-                                                    "description":  "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
-                                                    "year":  2002
-                                                },
                                                 {
                                                     "title":  "Scarface",
                                                     "start":  "2026-08-25T14:36:26.0000000Z",
@@ -375,26 +366,25 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  null,
+                               "nowPlaying":  {
+                                                  "title":  "Duende",
+                                                  "start":  "2026-08-25T12:29:06.0000000Z",
+                                                  "stop":  "2026-08-25T12:30:15.0000000Z",
+                                                  "itemId":  "80d6feb8f0c835e935a80db3275c5412",
+                                                  "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                                  "description":  null,
+                                                  "year":  null
+                                              },
                                "upNext":  {
-                                              "title":  "Duende",
-                                              "start":  "2026-08-25T12:29:06.0000000Z",
-                                              "stop":  "2026-08-25T12:30:15.0000000Z",
-                                              "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                              "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                              "title":  "JamminG",
+                                              "start":  "2026-08-25T12:30:48.0000000Z",
+                                              "stop":  "2026-08-25T12:34:40.0000000Z",
+                                              "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                              "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Duende",
-                                                    "start":  "2026-08-25T12:29:06.0000000Z",
-                                                    "stop":  "2026-08-25T12:30:15.0000000Z",
-                                                    "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                                    "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-08-25T12:30:48.0000000Z",
@@ -457,6 +447,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Ass Kicker Bruce",
+                                                    "start":  "2026-08-25T12:41:33.0000000Z",
+                                                    "stop":  "2026-08-25T12:47:29.0000000Z",
+                                                    "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
