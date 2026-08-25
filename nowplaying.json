@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-25T04:52:06.3951762Z",
+    "updated":  "2026-08-25T04:53:05.6979669Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -376,33 +376,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Ricardo \u0026 Mocoso",
-                                                  "start":  "2026-08-25T04:50:24.0000000Z",
-                                                  "stop":  "2026-08-25T04:52:40.0000000Z",
+                                                  "title":  "XocoBruja",
+                                                  "start":  "2026-08-25T04:52:40.0000000Z",
+                                                  "stop":  "2026-08-25T04:54:08.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "XocoBruja",
-                                              "start":  "2026-08-25T04:52:40.0000000Z",
-                                              "stop":  "2026-08-25T04:54:08.0000000Z",
+                                              "title":  "COKCE6139",
+                                              "start":  "2026-08-25T04:55:25.0000000Z",
+                                              "stop":  "2026-08-25T04:56:26.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "XocoBruja",
-                                                    "start":  "2026-08-25T04:52:40.0000000Z",
-                                                    "stop":  "2026-08-25T04:54:08.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "COKCE6139",
                                                     "start":  "2026-08-25T04:55:25.0000000Z",
@@ -461,6 +452,15 @@
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-08-25T05:10:47.0000000Z",
                                                     "stop":  "2026-08-25T05:11:33.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Duende",
+                                                    "start":  "2026-08-25T05:11:45.0000000Z",
+                                                    "stop":  "2026-08-25T05:12:54.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
