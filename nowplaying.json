@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-25T20:41:12.8213719Z",
+    "updated":  "2026-08-25T20:42:13.1902260Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -170,28 +170,55 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Black Hawk Down",
-                                                  "start":  "2026-08-25T18:59:59.0000000Z",
-                                                  "stop":  "2026-08-25T21:24:20.0000000Z",
-                                                  "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
-                                                  "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
-                                                  "year":  2001
+                                                  "title":  "ROBOCOP 2",
+                                                  "start":  "2026-08-25T19:57:52.0000000Z",
+                                                  "stop":  "2026-08-25T21:54:31.0000000Z",
+                                                  "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
+                                                  "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
+                                                  "year":  1990
                                               },
                                "upNext":  {
-                                              "title":  "Bourne Identity",
-                                              "start":  "2026-08-25T21:24:20.0000000Z",
-                                              "stop":  "2026-08-25T23:22:37.0000000Z",
-                                              "itemId":  "ad22fba25f4ceaee407d76b5620443de",
-                                              "poster":  "http://127.0.0.1:8096/Items/ad22fba25f4ceaee407d76b5620443de/Images/Primary",
-                                              "description":  "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
-                                              "year":  2002
+                                              "title":  "ROBOCOP 3",
+                                              "start":  "2026-08-25T21:54:31.0000000Z",
+                                              "stop":  "2026-08-25T23:39:22.0000000Z",
+                                              "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
+                                              "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
+                                              "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
+                                              "year":  1993
                                           },
                                "upcoming":  [
                                                 {
+                                                    "title":  "ROBOCOP 3",
+                                                    "start":  "2026-08-25T21:54:31.0000000Z",
+                                                    "stop":  "2026-08-25T23:39:22.0000000Z",
+                                                    "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
+                                                    "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
+                                                    "year":  1993
+                                                },
+                                                {
+                                                    "title":  "BATMAN BEGINS",
+                                                    "start":  "2026-08-25T23:39:22.0000000Z",
+                                                    "stop":  "2026-08-26T01:59:23.0000000Z",
+                                                    "itemId":  "40cf44019306b29674462340007b5e1a",
+                                                    "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
+                                                    "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+                                                    "year":  2005
+                                                },
+                                                {
+                                                    "title":  "Black Hawk Down",
+                                                    "start":  "2026-08-26T01:59:23.0000000Z",
+                                                    "stop":  "2026-08-26T04:23:44.0000000Z",
+                                                    "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
+                                                    "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+                                                    "year":  2001
+                                                },
+                                                {
                                                     "title":  "Bourne Identity",
-                                                    "start":  "2026-08-25T21:24:20.0000000Z",
-                                                    "stop":  "2026-08-25T23:22:37.0000000Z",
+                                                    "start":  "2026-08-26T04:23:44.0000000Z",
+                                                    "stop":  "2026-08-26T06:22:01.0000000Z",
                                                     "itemId":  "ad22fba25f4ceaee407d76b5620443de",
                                                     "poster":  "http://127.0.0.1:8096/Items/ad22fba25f4ceaee407d76b5620443de/Images/Primary",
                                                     "description":  "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
@@ -199,8 +226,8 @@
                                                 },
                                                 {
                                                     "title":  "Bourne Supremacy",
-                                                    "start":  "2026-08-25T23:22:37.0000000Z",
-                                                    "stop":  "2026-08-26T01:11:09.0000000Z",
+                                                    "start":  "2026-08-26T06:22:01.0000000Z",
+                                                    "stop":  "2026-08-26T08:10:33.0000000Z",
                                                     "itemId":  "031faf0da71af121647ff2d37294b07a",
                                                     "poster":  "http://127.0.0.1:8096/Items/031faf0da71af121647ff2d37294b07a/Images/Primary",
                                                     "description":  "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
@@ -208,48 +235,12 @@
                                                 },
                                                 {
                                                     "title":  "Brightburn",
-                                                    "start":  "2026-08-26T01:11:09.0000000Z",
-                                                    "stop":  "2026-08-26T02:41:39.0000000Z",
+                                                    "start":  "2026-08-26T08:10:33.0000000Z",
+                                                    "stop":  "2026-08-26T09:41:03.0000000Z",
                                                     "itemId":  "a562e465a7ff31b0113aee613a779bf2",
                                                     "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
                                                     "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
                                                     "year":  2019
-                                                },
-                                                {
-                                                    "title":  "Commando",
-                                                    "start":  "2026-08-26T02:41:39.0000000Z",
-                                                    "stop":  "2026-08-26T04:11:53.0000000Z",
-                                                    "itemId":  "4d57925cf6d4f5a046509bad0a68d29f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
-                                                    "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
-                                                    "year":  1985
-                                                },
-                                                {
-                                                    "title":  "Conan The Barbarian",
-                                                    "start":  "2026-08-26T04:11:53.0000000Z",
-                                                    "stop":  "2026-08-26T06:22:14.0000000Z",
-                                                    "itemId":  "d0a933c7f9688726a8f9a30f309399ad",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d0a933c7f9688726a8f9a30f309399ad/Images/Primary",
-                                                    "description":  "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
-                                                    "year":  1982
-                                                },
-                                                {
-                                                    "title":  "Conan The Destroyer",
-                                                    "start":  "2026-08-26T06:22:14.0000000Z",
-                                                    "stop":  "2026-08-26T08:03:22.0000000Z",
-                                                    "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
-                                                    "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
-                                                    "year":  1984
-                                                },
-                                                {
-                                                    "title":  "Predator",
-                                                    "start":  "2026-08-26T08:03:22.0000000Z",
-                                                    "stop":  "2026-08-26T09:49:56.0000000Z",
-                                                    "itemId":  "9745bbd80aedfd3750130547f37af704",
-                                                    "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
-                                                    "description":  "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-                                                    "year":  2025
                                                 }
                                             ]
                            },
@@ -257,18 +248,18 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "Who.Framed.Roger.Rabbit",
-                                                  "start":  "2026-08-25T20:32:57.0000000Z",
-                                                  "stop":  "2026-08-25T22:16:42.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Undercover Brother",
+                                                  "start":  "2026-08-25T20:00:07.0000000Z",
+                                                  "stop":  "2026-08-25T21:26:13.0000000Z",
+                                                  "itemId":  "6317b8f6b30a049091764b8311c08279",
+                                                  "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
+                                                  "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
+                                                  "year":  2002
                                               },
                                "upNext":  {
                                               "title":  "AnchorMan",
-                                              "start":  "2026-08-25T22:16:42.0000000Z",
-                                              "stop":  "2026-08-25T23:54:05.0000000Z",
+                                              "start":  "2026-08-25T21:26:13.0000000Z",
+                                              "stop":  "2026-08-25T23:03:36.0000000Z",
                                               "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
                                               "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
                                               "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
@@ -277,8 +268,8 @@
                                "upcoming":  [
                                                 {
                                                     "title":  "AnchorMan",
-                                                    "start":  "2026-08-25T22:16:42.0000000Z",
-                                                    "stop":  "2026-08-25T23:54:05.0000000Z",
+                                                    "start":  "2026-08-25T21:26:13.0000000Z",
+                                                    "stop":  "2026-08-25T23:03:36.0000000Z",
                                                     "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
                                                     "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
                                                     "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
@@ -286,8 +277,8 @@
                                                 },
                                                 {
                                                     "title":  "Duplex",
-                                                    "start":  "2026-08-25T23:54:05.0000000Z",
-                                                    "stop":  "2026-08-26T01:23:18.0000000Z",
+                                                    "start":  "2026-08-25T23:03:36.0000000Z",
+                                                    "stop":  "2026-08-26T00:32:49.0000000Z",
                                                     "itemId":  "e2340e07092b6de7376760916297a934",
                                                     "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
                                                     "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
@@ -295,8 +286,8 @@
                                                 },
                                                 {
                                                     "title":  "UP IN SMOKE",
-                                                    "start":  "2026-08-26T01:23:18.0000000Z",
-                                                    "stop":  "2026-08-26T02:49:09.0000000Z",
+                                                    "start":  "2026-08-26T00:32:49.0000000Z",
+                                                    "stop":  "2026-08-26T01:58:39.0000000Z",
                                                     "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
                                                     "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
                                                     "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
@@ -304,8 +295,8 @@
                                                 },
                                                 {
                                                     "title":  "HALF BAKED",
-                                                    "start":  "2026-08-26T02:49:09.0000000Z",
-                                                    "stop":  "2026-08-26T04:11:14.0000000Z",
+                                                    "start":  "2026-08-26T01:58:39.0000000Z",
+                                                    "stop":  "2026-08-26T03:20:45.0000000Z",
                                                     "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
                                                     "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
                                                     "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
@@ -313,8 +304,8 @@
                                                 },
                                                 {
                                                     "title":  "Get Shorty",
-                                                    "start":  "2026-08-26T04:11:14.0000000Z",
-                                                    "stop":  "2026-08-26T05:56:03.0000000Z",
+                                                    "start":  "2026-08-26T03:20:45.0000000Z",
+                                                    "stop":  "2026-08-26T05:05:33.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -322,21 +313,30 @@
                                                 },
                                                 {
                                                     "title":  "Undercover Brother",
-                                                    "start":  "2026-08-26T05:56:03.0000000Z",
-                                                    "stop":  "2026-08-26T07:22:09.0000000Z",
+                                                    "start":  "2026-08-26T05:05:33.0000000Z",
+                                                    "stop":  "2026-08-26T06:31:40.0000000Z",
                                                     "itemId":  "6317b8f6b30a049091764b8311c08279",
                                                     "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
                                                     "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
                                                     "year":  2002
                                                 },
                                                 {
-                                                    "title":  "Who.Framed.Roger.Rabbit",
-                                                    "start":  "2026-08-26T07:22:09.0000000Z",
-                                                    "stop":  "2026-08-26T09:05:55.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
+                                                    "title":  "AnchorMan",
+                                                    "start":  "2026-08-26T06:31:40.0000000Z",
+                                                    "stop":  "2026-08-26T08:09:02.0000000Z",
+                                                    "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
+                                                    "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
+                                                    "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
+                                                    "year":  2004
+                                                },
+                                                {
+                                                    "title":  "Duplex",
+                                                    "start":  "2026-08-26T08:09:02.0000000Z",
+                                                    "stop":  "2026-08-26T09:38:15.0000000Z",
+                                                    "itemId":  "e2340e07092b6de7376760916297a934",
+                                                    "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
+                                                    "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
+                                                    "year":  2003
                                                 }
                                             ]
                            },
@@ -509,33 +509,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "0Ld Sc00L",
-                                                  "start":  "2026-08-25T20:41:01.0000000Z",
-                                                  "stop":  "2026-08-25T20:41:50.0000000Z",
-                                                  "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
-                                                  "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                  "title":  "After H0uRs",
+                                                  "start":  "2026-08-25T20:41:50.0000000Z",
+                                                  "stop":  "2026-08-25T20:49:06.0000000Z",
+                                                  "itemId":  "150bbae732cd647eeed3060cd67b032f",
+                                                  "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "After H0uRs",
-                                              "start":  "2026-08-25T20:41:50.0000000Z",
-                                              "stop":  "2026-08-25T20:49:06.0000000Z",
-                                              "itemId":  "150bbae732cd647eeed3060cd67b032f",
-                                              "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
+                                              "title":  "Ass Kicker Bruce",
+                                              "start":  "2026-08-25T20:42:39.0000000Z",
+                                              "stop":  "2026-08-25T20:53:07.0000000Z",
+                                              "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
+                                              "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                               "description":  null,
-                                              "year":  null
+                                              "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "After H0uRs",
-                                                    "start":  "2026-08-25T20:41:50.0000000Z",
-                                                    "stop":  "2026-08-25T20:49:06.0000000Z",
-                                                    "itemId":  "150bbae732cd647eeed3060cd67b032f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-08-25T20:42:39.0000000Z",
@@ -596,6 +587,15 @@
                                                     "stop":  "2026-08-25T20:57:36.0000000Z",
                                                     "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
                                                     "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "COKCE6139",
+                                                    "start":  "2026-08-25T20:57:36.0000000Z",
+                                                    "stop":  "2026-08-25T21:05:45.0000000Z",
+                                                    "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
