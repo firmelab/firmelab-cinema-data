@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-25T19:11:06.0745583Z",
+    "updated":  "2026-08-25T19:12:05.2599240Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -491,42 +491,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "JamminG",
-                                                  "start":  "2026-08-25T19:04:25.0000000Z",
-                                                  "stop":  "2026-08-25T19:11:25.0000000Z",
-                                                  "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
-                                                  "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
+                                                  "title":  "Ninja Now",
+                                                  "start":  "2026-08-25T19:10:34.0000000Z",
+                                                  "stop":  "2026-08-25T19:12:40.0000000Z",
+                                                  "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
+                                                  "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "SSBI4649",
-                                              "start":  "2026-08-25T19:11:16.0000000Z",
-                                              "stop":  "2026-08-25T19:13:29.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
+                                              "title":  "0Ld Sc00L",
+                                              "start":  "2026-08-25T19:13:33.0000000Z",
+                                              "stop":  "2026-08-25T19:18:49.0000000Z",
+                                              "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                              "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "SSBI4649",
-                                                    "start":  "2026-08-25T19:11:16.0000000Z",
-                                                    "stop":  "2026-08-25T19:13:29.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
-                                                    "title":  "Arnold Dynamite",
-                                                    "start":  "2026-08-25T19:12:05.0000000Z",
-                                                    "stop":  "2026-08-25T19:14:57.0000000Z",
-                                                    "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "0Ld Sc00L",
                                                     "start":  "2026-08-25T19:13:33.0000000Z",
@@ -578,6 +560,24 @@
                                                     "stop":  "2026-08-25T19:24:35.0000000Z",
                                                     "itemId":  "56c94066e018711311e81d6a3f6cc139",
                                                     "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "T2",
+                                                    "start":  "2026-08-25T19:24:35.0000000Z",
+                                                    "stop":  "2026-08-25T19:25:07.0000000Z",
+                                                    "itemId":  "1315943017e226076a7899408d36dec5",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Ricardo \u0026 Mocoso",
+                                                    "start":  "2026-08-25T19:25:07.0000000Z",
+                                                    "stop":  "2026-08-25T19:27:23.0000000Z",
+                                                    "itemId":  "0e268bdc592953760cc985e16953d93d",
+                                                    "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
