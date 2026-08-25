@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-25T23:58:10.2482973Z",
+    "updated":  "2026-08-25T23:59:15.5812864Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -473,24 +473,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Carrito",
-                                              "start":  "2026-08-25T23:59:10.0000000Z",
-                                              "stop":  "2026-08-26T00:11:41.0000000Z",
-                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                              "title":  "Dancing Cobra",
+                                              "start":  "2026-08-26T00:06:49.0000000Z",
+                                              "stop":  "2026-08-26T00:11:34.0000000Z",
+                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Carrito",
-                                                    "start":  "2026-08-25T23:59:10.0000000Z",
-                                                    "stop":  "2026-08-26T00:11:41.0000000Z",
-                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-08-26T00:06:49.0000000Z",
@@ -553,6 +544,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Arnold Dynamite",
+                                                    "start":  "2026-08-26T00:18:14.0000000Z",
+                                                    "stop":  "2026-08-26T00:19:42.0000000Z",
+                                                    "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
