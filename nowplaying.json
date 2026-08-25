@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-25T21:29:09.9498200Z",
+    "updated":  "2026-08-25T21:30:11.5365158Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -482,11 +482,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Arnold Dynamite",
-                                                  "start":  "2026-08-25T21:23:18.0000000Z",
-                                                  "stop":  "2026-08-25T21:29:17.0000000Z",
-                                                  "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
+                                                  "title":  "Ass Kicker Bruce",
+                                                  "start":  "2026-08-25T21:26:23.0000000Z",
+                                                  "stop":  "2026-08-25T21:32:18.0000000Z",
+                                                  "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
+                                                  "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
