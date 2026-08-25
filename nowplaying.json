@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-25T04:03:06.0551319Z",
+    "updated":  "2026-08-25T04:04:05.7227783Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -421,24 +421,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Chingadasos",
-                                              "start":  "2026-08-25T04:03:20.0000000Z",
-                                              "stop":  "2026-08-25T04:07:46.0000000Z",
+                                              "title":  "Mr J-Carry",
+                                              "start":  "2026-08-25T04:05:12.0000000Z",
+                                              "stop":  "2026-08-25T04:05:44.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Chingadasos",
-                                                    "start":  "2026-08-25T04:03:20.0000000Z",
-                                                    "stop":  "2026-08-25T04:07:46.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Mr J-Carry",
                                                     "start":  "2026-08-25T04:05:12.0000000Z",
@@ -497,6 +488,15 @@
                                                     "title":  "Oz",
                                                     "start":  "2026-08-25T04:14:56.0000000Z",
                                                     "stop":  "2026-08-25T04:16:38.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "BloodJoke",
+                                                    "start":  "2026-08-25T04:16:38.0000000Z",
+                                                    "stop":  "2026-08-25T04:22:27.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
