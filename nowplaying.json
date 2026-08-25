@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-25T04:48:06.3405694Z",
+    "updated":  "2026-08-25T04:49:06.1939590Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -375,26 +375,25 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  null,
+                               "nowPlaying":  {
+                                                  "title":  "Mr J-Carry",
+                                                  "start":  "2026-08-25T04:48:56.0000000Z",
+                                                  "stop":  "2026-08-25T04:49:28.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
+                                              },
                                "upNext":  {
-                                              "title":  "Mr J-Carry",
-                                              "start":  "2026-08-25T04:48:56.0000000Z",
-                                              "stop":  "2026-08-25T04:49:28.0000000Z",
+                                              "title":  "T2",
+                                              "start":  "2026-08-25T04:49:52.0000000Z",
+                                              "stop":  "2026-08-25T04:50:24.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Mr J-Carry",
-                                                    "start":  "2026-08-25T04:48:56.0000000Z",
-                                                    "stop":  "2026-08-25T04:49:28.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "T2",
                                                     "start":  "2026-08-25T04:49:52.0000000Z",
@@ -453,6 +452,15 @@
                                                     "title":  "BloodJoke",
                                                     "start":  "2026-08-25T05:00:22.0000000Z",
                                                     "stop":  "2026-08-25T05:01:57.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Carrito",
+                                                    "start":  "2026-08-25T05:02:03.0000000Z",
+                                                    "stop":  "2026-08-25T05:09:41.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
