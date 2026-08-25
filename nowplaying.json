@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-25T04:28:05.5937362Z",
+    "updated":  "2026-08-25T04:29:06.1318096Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -403,9 +403,9 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Carrito",
-                                                  "start":  "2026-08-25T04:18:18.0000000Z",
-                                                  "stop":  "2026-08-25T04:28:17.0000000Z",
+                                                  "title":  "Duende",
+                                                  "start":  "2026-08-25T04:28:01.0000000Z",
+                                                  "stop":  "2026-08-25T04:29:10.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
