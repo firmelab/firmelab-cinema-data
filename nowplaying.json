@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-25T11:25:08.9422973Z",
+    "updated":  "2026-08-25T11:26:08.6666763Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -343,33 +343,24 @@
                                "number":  6,
                                "name":  "FIRMELAB CRIME",
                                "nowPlaying":  {
-                                                  "title":  "Scarface",
-                                                  "start":  "2026-08-25T08:35:49.0000000Z",
-                                                  "stop":  "2026-08-25T11:25:45.0000000Z",
-                                                  "itemId":  "1ca5b01d892bb1b5b113e7ccaa4ac889",
-                                                  "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
-                                                  "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
-                                                  "year":  1983
+                                                  "title":  "Carlitos Way",
+                                                  "start":  "2026-08-25T11:25:45.0000000Z",
+                                                  "stop":  "2026-08-25T13:49:55.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Carlitos Way",
-                                              "start":  "2026-08-25T11:25:45.0000000Z",
-                                              "stop":  "2026-08-25T13:49:55.0000000Z",
+                                              "title":  "Jacky Brown",
+                                              "start":  "2026-08-25T13:49:55.0000000Z",
+                                              "stop":  "2026-08-25T16:24:16.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Carlitos Way",
-                                                    "start":  "2026-08-25T11:25:45.0000000Z",
-                                                    "stop":  "2026-08-25T13:49:55.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Jacky Brown",
                                                     "start":  "2026-08-25T13:49:55.0000000Z",
