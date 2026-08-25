@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-25T05:43:05.5126842Z",
+    "updated":  "2026-08-25T05:44:07.0788744Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -367,33 +367,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Oz",
-                                                  "start":  "2026-08-25T05:42:25.0000000Z",
-                                                  "stop":  "2026-08-25T05:43:38.0000000Z",
-                                                  "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                                  "title":  "BloodJoke",
+                                                  "start":  "2026-08-25T05:44:06.0000000Z",
+                                                  "stop":  "2026-08-25T05:45:41.0000000Z",
+                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "BloodJoke",
-                                              "start":  "2026-08-25T05:44:06.0000000Z",
-                                              "stop":  "2026-08-25T05:45:41.0000000Z",
-                                              "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                              "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                              "title":  "Carrito",
+                                              "start":  "2026-08-25T05:45:47.0000000Z",
+                                              "stop":  "2026-08-25T05:53:25.0000000Z",
+                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "BloodJoke",
-                                                    "start":  "2026-08-25T05:44:06.0000000Z",
-                                                    "stop":  "2026-08-25T05:45:41.0000000Z",
-                                                    "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-08-25T05:45:47.0000000Z",
@@ -454,6 +445,15 @@
                                                     "stop":  "2026-08-25T06:04:02.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "SSBI4649",
+                                                    "start":  "2026-08-25T06:04:02.0000000Z",
+                                                    "stop":  "2026-08-25T06:04:51.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
                                                     "description":  null,
                                                     "year":  null
                                                 }
