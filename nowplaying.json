@@ -1,6 +1,577 @@
 {
-    "updated":  "2026-08-25T04:01:23.2333420Z",
+    "updated":  "2026-08-25T04:02:06.4549301Z",
     "channels":  {
+                     "1":  {
+                               "number":  1,
+                               "name":  "FIRMELAB CINEMA",
+                               "nowPlaying":  {
+                                                  "title":  "D1_t00",
+                                                  "start":  "2026-08-25T02:05:29.0000000Z",
+                                                  "stop":  "2026-08-25T04:26:26.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
+                                              },
+                               "upNext":  {
+                                              "title":  "Resident Evil- Apocalypse",
+                                              "start":  "2026-08-25T04:26:26.0000000Z",
+                                              "stop":  "2026-08-25T06:09:33.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
+                                          },
+                               "upcoming":  [
+                                                {
+                                                    "title":  "Resident Evil- Apocalypse",
+                                                    "start":  "2026-08-25T04:26:26.0000000Z",
+                                                    "stop":  "2026-08-25T06:09:33.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Conan The Destroyer",
+                                                    "start":  "2026-08-25T06:09:33.0000000Z",
+                                                    "stop":  "2026-08-25T08:00:00.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Black Hawk Down",
+                                                    "start":  "2026-08-25T08:00:00.0000000Z",
+                                                    "stop":  "2026-08-25T10:32:46.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Bourne Supremacy",
+                                                    "start":  "2026-08-25T10:32:46.0000000Z",
+                                                    "stop":  "2026-08-25T12:29:43.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Bourne Identity",
+                                                    "start":  "2026-08-25T12:29:43.0000000Z",
+                                                    "stop":  "2026-08-25T14:36:26.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Scarface",
+                                                    "start":  "2026-08-25T14:36:26.0000000Z",
+                                                    "stop":  "2026-08-25T17:26:23.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                }
+                                            ]
+                           },
+                     "2":  {
+                               "number":  2,
+                               "name":  "HELLA HORROR",
+                               "nowPlaying":  {
+                                                  "title":  "Resident Evil- Apocalypse",
+                                                  "start":  "2026-08-25T02:59:31.0000000Z",
+                                                  "stop":  "2026-08-25T04:41:05.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
+                                              },
+                               "upNext":  {
+                                              "title":  "Land of the Dead",
+                                              "start":  "2026-08-25T04:41:05.0000000Z",
+                                              "stop":  "2026-08-25T06:25:37.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
+                                          },
+                               "upcoming":  [
+                                                {
+                                                    "title":  "Land of the Dead",
+                                                    "start":  "2026-08-25T04:41:05.0000000Z",
+                                                    "stop":  "2026-08-25T06:25:37.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "World War Z",
+                                                    "start":  "2026-08-25T06:25:37.0000000Z",
+                                                    "stop":  "2026-08-25T08:32:27.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Boogeyman",
+                                                    "start":  "2026-08-25T08:32:27.0000000Z",
+                                                    "stop":  "2026-08-25T10:05:05.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Wrong Turn",
+                                                    "start":  "2026-08-25T10:05:05.0000000Z",
+                                                    "stop":  "2026-08-25T11:33:02.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Resident Evil",
+                                                    "start":  "2026-08-25T11:33:02.0000000Z",
+                                                    "stop":  "2026-08-25T13:25:11.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Wrong Turn",
+                                                    "start":  "2026-08-25T13:25:11.0000000Z",
+                                                    "stop":  "2026-08-25T14:53:09.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "World War Z",
+                                                    "start":  "2026-08-25T14:53:09.0000000Z",
+                                                    "stop":  "2026-08-25T16:56:12.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                }
+                                            ]
+                           },
+                     "3":  {
+                               "number":  3,
+                               "name":  "FIRMELAB ACTION",
+                               "nowPlaying":  {
+                                                  "title":  "Brightburn",
+                                                  "start":  "2026-08-25T02:59:14.0000000Z",
+                                                  "stop":  "2026-08-25T04:29:44.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
+                                              },
+                               "upNext":  {
+                                              "title":  "Commando",
+                                              "start":  "2026-08-25T04:29:44.0000000Z",
+                                              "stop":  "2026-08-25T05:59:57.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
+                                          },
+                               "upcoming":  [
+                                                {
+                                                    "title":  "Commando",
+                                                    "start":  "2026-08-25T04:29:44.0000000Z",
+                                                    "stop":  "2026-08-25T05:59:57.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Conan The Barbarian",
+                                                    "start":  "2026-08-25T05:59:57.0000000Z",
+                                                    "stop":  "2026-08-25T08:10:19.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Conan The Destroyer",
+                                                    "start":  "2026-08-25T08:10:19.0000000Z",
+                                                    "stop":  "2026-08-25T09:51:27.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Predator",
+                                                    "start":  "2026-08-25T09:51:27.0000000Z",
+                                                    "stop":  "2026-08-25T11:38:01.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Rambo First Blood",
+                                                    "start":  "2026-08-25T11:38:01.0000000Z",
+                                                    "stop":  "2026-08-25T13:11:10.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Sherlock Holmes",
+                                                    "start":  "2026-08-25T13:11:10.0000000Z",
+                                                    "stop":  "2026-08-25T15:19:39.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                }
+                                            ]
+                           },
+                     "4":  {
+                               "number":  4,
+                               "name":  "FIRMELAB COMEDY",
+                               "nowPlaying":  {
+                                                  "title":  "Duplex",
+                                                  "start":  "2026-08-25T03:55:58.0000000Z",
+                                                  "stop":  "2026-08-25T05:25:11.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
+                                              },
+                               "upNext":  {
+                                              "title":  "Get Shorty",
+                                              "start":  "2026-08-25T05:25:11.0000000Z",
+                                              "stop":  "2026-08-25T07:09:59.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
+                                          },
+                               "upcoming":  [
+                                                {
+                                                    "title":  "Get Shorty",
+                                                    "start":  "2026-08-25T05:25:11.0000000Z",
+                                                    "stop":  "2026-08-25T07:09:59.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Undercover Brother",
+                                                    "start":  "2026-08-25T07:09:59.0000000Z",
+                                                    "stop":  "2026-08-25T08:36:05.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Who.Framed.Roger.Rabbit",
+                                                    "start":  "2026-08-25T08:36:05.0000000Z",
+                                                    "stop":  "2026-08-25T10:19:51.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "AnchorMan",
+                                                    "start":  "2026-08-25T10:19:51.0000000Z",
+                                                    "stop":  "2026-08-25T11:57:14.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Duplex",
+                                                    "start":  "2026-08-25T11:57:14.0000000Z",
+                                                    "stop":  "2026-08-25T13:26:27.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Get Shorty",
+                                                    "start":  "2026-08-25T13:26:27.0000000Z",
+                                                    "stop":  "2026-08-25T15:11:15.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                }
+                                            ]
+                           },
+                     "5":  {
+                               "number":  5,
+                               "name":  "FIRMELAB TOONS",
+                               "nowPlaying":  {
+                                                  "title":  "Who Framed Roger Rabbit",
+                                                  "start":  "2026-08-25T02:37:06.0000000Z",
+                                                  "stop":  "2026-08-25T16:27:12.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
+                                              },
+                               "upNext":  null,
+                               "upcoming":  [
 
+                                            ]
+                           },
+                     "6":  {
+                               "number":  6,
+                               "name":  "FIRMELAB CRIME",
+                               "nowPlaying":  {
+                                                  "title":  "Jacky Brown",
+                                                  "start":  "2026-08-25T02:13:36.0000000Z",
+                                                  "stop":  "2026-08-25T04:47:57.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
+                                              },
+                               "upNext":  {
+                                              "title":  "Inside Man",
+                                              "start":  "2026-08-25T04:47:57.0000000Z",
+                                              "stop":  "2026-08-25T06:56:44.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
+                                          },
+                               "upcoming":  [
+                                                {
+                                                    "title":  "Inside Man",
+                                                    "start":  "2026-08-25T04:47:57.0000000Z",
+                                                    "stop":  "2026-08-25T06:56:44.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Reservor Dogs",
+                                                    "start":  "2026-08-25T06:56:44.0000000Z",
+                                                    "stop":  "2026-08-25T08:35:49.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Scarface",
+                                                    "start":  "2026-08-25T08:35:49.0000000Z",
+                                                    "stop":  "2026-08-25T11:25:45.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Carlitos Way",
+                                                    "start":  "2026-08-25T11:25:45.0000000Z",
+                                                    "stop":  "2026-08-25T13:49:55.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Jacky Brown",
+                                                    "start":  "2026-08-25T13:49:55.0000000Z",
+                                                    "stop":  "2026-08-25T16:24:16.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                }
+                                            ]
+                           },
+                     "7":  {
+                               "number":  7,
+                               "name":  "FIRMELAB MIXTAPE",
+                               "nowPlaying":  {
+                                                  "title":  "Ass Kicker Bruce",
+                                                  "start":  "2026-08-25T03:56:43.0000000Z",
+                                                  "stop":  "2026-08-25T04:05:09.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
+                                              },
+                               "upNext":  {
+                                              "title":  "Biggie Mobbing",
+                                              "start":  "2026-08-25T04:02:39.0000000Z",
+                                              "stop":  "2026-08-25T04:08:12.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
+                                          },
+                               "upcoming":  [
+                                                {
+                                                    "title":  "Biggie Mobbing",
+                                                    "start":  "2026-08-25T04:02:39.0000000Z",
+                                                    "stop":  "2026-08-25T04:08:12.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Chingadasos",
+                                                    "start":  "2026-08-25T04:03:20.0000000Z",
+                                                    "stop":  "2026-08-25T04:07:46.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Mr J-Carry",
+                                                    "start":  "2026-08-25T04:05:12.0000000Z",
+                                                    "stop":  "2026-08-25T04:05:44.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "T2",
+                                                    "start":  "2026-08-25T04:06:08.0000000Z",
+                                                    "stop":  "2026-08-25T04:10:17.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Ricardo \u0026 Mocoso",
+                                                    "start":  "2026-08-25T04:06:40.0000000Z",
+                                                    "stop":  "2026-08-25T04:15:13.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "XocoBruja",
+                                                    "start":  "2026-08-25T04:08:56.0000000Z",
+                                                    "stop":  "2026-08-25T04:17:51.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "COKCE6139",
+                                                    "start":  "2026-08-25T04:11:40.0000000Z",
+                                                    "stop":  "2026-08-25T04:12:42.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "MrPayo",
+                                                    "start":  "2026-08-25T04:13:51.0000000Z",
+                                                    "stop":  "2026-08-25T04:20:16.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                }
+                                            ]
+                           },
+                     "8":  {
+                               "number":  8,
+                               "name":  "FIRMELAB FRONTIER",
+                               "nowPlaying":  {
+                                                  "title":  "Brave Heart",
+                                                  "start":  "2026-08-25T01:27:32.0000000Z",
+                                                  "stop":  "2026-08-25T04:25:13.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
+                                              },
+                               "upNext":  {
+                                              "title":  "The Count Monte Cristos",
+                                              "start":  "2026-08-25T04:25:13.0000000Z",
+                                              "stop":  "2026-08-25T06:36:27.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
+                                          },
+                               "upcoming":  [
+                                                {
+                                                    "title":  "The Count Monte Cristos",
+                                                    "start":  "2026-08-25T04:25:13.0000000Z",
+                                                    "stop":  "2026-08-25T06:36:27.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Young Guns",
+                                                    "start":  "2026-08-25T06:36:27.0000000Z",
+                                                    "stop":  "2026-08-25T08:23:13.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "The Patriot",
+                                                    "start":  "2026-08-25T08:23:13.0000000Z",
+                                                    "stop":  "2026-08-25T11:08:00.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Master and Commander",
+                                                    "start":  "2026-08-25T11:08:00.0000000Z",
+                                                    "stop":  "2026-08-25T13:26:21.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Brave Heart",
+                                                    "start":  "2026-08-25T13:26:21.0000000Z",
+                                                    "stop":  "2026-08-25T16:24:01.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                }
+                                            ]
+                           }
                  }
 }
