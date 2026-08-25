@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-25T13:26:08.6794566Z",
+    "updated":  "2026-08-25T13:27:06.9266396Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -194,33 +194,24 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "Duplex",
-                                                  "start":  "2026-08-25T11:57:14.0000000Z",
-                                                  "stop":  "2026-08-25T13:26:27.0000000Z",
-                                                  "itemId":  "e2340e07092b6de7376760916297a934",
-                                                  "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
-                                                  "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
-                                                  "year":  2003
+                                                  "title":  "Get Shorty",
+                                                  "start":  "2026-08-25T13:26:27.0000000Z",
+                                                  "stop":  "2026-08-25T15:11:15.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Get Shorty",
-                                              "start":  "2026-08-25T13:26:27.0000000Z",
-                                              "stop":  "2026-08-25T15:11:15.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Undercover Brother",
+                                              "start":  "2026-08-25T15:11:15.0000000Z",
+                                              "stop":  "2026-08-25T16:37:21.0000000Z",
+                                              "itemId":  "6317b8f6b30a049091764b8311c08279",
+                                              "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
+                                              "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
+                                              "year":  2002
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Get Shorty",
-                                                    "start":  "2026-08-25T13:26:27.0000000Z",
-                                                    "stop":  "2026-08-25T15:11:15.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Undercover Brother",
                                                     "start":  "2026-08-25T15:11:15.0000000Z",
@@ -445,33 +436,24 @@
                                "number":  8,
                                "name":  "FIRMELAB FRONTIER",
                                "nowPlaying":  {
-                                                  "title":  "Master and Commander",
-                                                  "start":  "2026-08-25T11:08:00.0000000Z",
-                                                  "stop":  "2026-08-25T13:26:21.0000000Z",
+                                                  "title":  "Brave Heart",
+                                                  "start":  "2026-08-25T13:26:21.0000000Z",
+                                                  "stop":  "2026-08-25T16:24:01.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Brave Heart",
-                                              "start":  "2026-08-25T13:26:21.0000000Z",
-                                              "stop":  "2026-08-25T16:24:01.0000000Z",
+                                              "title":  "The Count Monte Cristos",
+                                              "start":  "2026-08-25T16:24:01.0000000Z",
+                                              "stop":  "2026-08-25T18:35:15.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Brave Heart",
-                                                    "start":  "2026-08-25T13:26:21.0000000Z",
-                                                    "stop":  "2026-08-25T16:24:01.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "The Count Monte Cristos",
                                                     "start":  "2026-08-25T16:24:01.0000000Z",
