@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-25T04:47:06.7674377Z",
+    "updated":  "2026-08-25T04:48:06.3405694Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -316,33 +316,24 @@
                                "number":  6,
                                "name":  "FIRMELAB CRIME",
                                "nowPlaying":  {
-                                                  "title":  "Jacky Brown",
-                                                  "start":  "2026-08-25T02:13:36.0000000Z",
-                                                  "stop":  "2026-08-25T04:47:57.0000000Z",
+                                                  "title":  "Inside Man",
+                                                  "start":  "2026-08-25T04:47:57.0000000Z",
+                                                  "stop":  "2026-08-25T06:56:44.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Inside Man",
-                                              "start":  "2026-08-25T04:47:57.0000000Z",
-                                              "stop":  "2026-08-25T06:56:44.0000000Z",
+                                              "title":  "Reservor Dogs",
+                                              "start":  "2026-08-25T06:56:44.0000000Z",
+                                              "stop":  "2026-08-25T08:35:49.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Inside Man",
-                                                    "start":  "2026-08-25T04:47:57.0000000Z",
-                                                    "stop":  "2026-08-25T06:56:44.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Reservor Dogs",
                                                     "start":  "2026-08-25T06:56:44.0000000Z",
@@ -384,15 +375,7 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "Chingadasos",
-                                                  "start":  "2026-08-25T04:47:04.0000000Z",
-                                                  "stop":  "2026-08-25T04:47:51.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
                                               "title":  "Mr J-Carry",
                                               "start":  "2026-08-25T04:48:56.0000000Z",
