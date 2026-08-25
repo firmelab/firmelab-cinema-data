@@ -1,72 +1,81 @@
 {
-    "updated":  "2026-08-25T17:27:05.4381458Z",
+    "updated":  "2026-08-25T17:28:05.3567771Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "D1_t00",
-                                                  "start":  "2026-08-25T16:11:53.0000000Z",
-                                                  "stop":  "2026-08-25T18:30:50.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Dawn of the Dead",
+                                                  "start":  "2026-08-25T16:06:08.0000000Z",
+                                                  "stop":  "2026-08-25T18:02:20.0000000Z",
+                                                  "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
+                                                  "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
+                                                  "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
+                                                  "year":  2004
                                               },
                                "upNext":  {
-                                              "title":  "Manhunter",
-                                              "start":  "2026-08-25T18:30:50.0000000Z",
-                                              "stop":  "2026-08-25T20:39:50.0000000Z",
-                                              "itemId":  "f6b5fc1a94fb32ecc9a9bff1ff06a6a4",
-                                              "poster":  "http://127.0.0.1:8096/Items/f6b5fc1a94fb32ecc9a9bff1ff06a6a4/Images/Primary",
-                                              "description":  null,
-                                              "year":  2026
+                                              "title":  "Resident Evil",
+                                              "start":  "2026-08-25T18:02:20.0000000Z",
+                                              "stop":  "2026-08-25T19:49:49.0000000Z",
+                                              "itemId":  "760d913661074a3a3f5a58738842a2f8",
+                                              "poster":  "http://127.0.0.1:8096/Items/760d913661074a3a3f5a58738842a2f8/Images/Primary",
+                                              "description":  "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
+                                              "year":  2002
                                           },
                                "upcoming":  [
                                                 {
-                                                    "title":  "Manhunter",
-                                                    "start":  "2026-08-25T18:30:50.0000000Z",
-                                                    "stop":  "2026-08-25T20:39:50.0000000Z",
-                                                    "itemId":  "f6b5fc1a94fb32ecc9a9bff1ff06a6a4",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f6b5fc1a94fb32ecc9a9bff1ff06a6a4/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
+                                                    "title":  "Resident Evil",
+                                                    "start":  "2026-08-25T18:02:20.0000000Z",
+                                                    "stop":  "2026-08-25T19:49:49.0000000Z",
+                                                    "itemId":  "760d913661074a3a3f5a58738842a2f8",
+                                                    "poster":  "http://127.0.0.1:8096/Items/760d913661074a3a3f5a58738842a2f8/Images/Primary",
+                                                    "description":  "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
+                                                    "year":  2002
                                                 },
                                                 {
-                                                    "title":  "Jacky Brown",
-                                                    "start":  "2026-08-25T20:39:50.0000000Z",
-                                                    "stop":  "2026-08-25T23:21:31.0000000Z",
+                                                    "title":  "Sherlock Holmes",
+                                                    "start":  "2026-08-25T19:49:49.0000000Z",
+                                                    "stop":  "2026-08-25T22:05:17.0000000Z",
+                                                    "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
+                                                    "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
+                                                    "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
+                                                    "year":  2009
+                                                },
+                                                {
+                                                    "title":  "Reservor Dogs",
+                                                    "start":  "2026-08-25T22:05:17.0000000Z",
+                                                    "stop":  "2026-08-25T23:51:21.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
                                                 },
                                                 {
-                                                    "title":  "Inside Man",
-                                                    "start":  "2026-08-25T23:21:31.0000000Z",
-                                                    "stop":  "2026-08-26T01:37:38.0000000Z",
+                                                    "title":  "HALF BAKED",
+                                                    "start":  "2026-08-25T23:51:21.0000000Z",
+                                                    "stop":  "2026-08-26T01:20:25.0000000Z",
+                                                    "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
+                                                    "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
+                                                    "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
+                                                    "year":  1998
+                                                },
+                                                {
+                                                    "title":  "Master and Commander",
+                                                    "start":  "2026-08-26T01:20:25.0000000Z",
+                                                    "stop":  "2026-08-26T03:45:45.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
                                                 },
                                                 {
-                                                    "title":  "Duplex",
-                                                    "start":  "2026-08-26T01:37:38.0000000Z",
-                                                    "stop":  "2026-08-26T03:14:10.0000000Z",
-                                                    "itemId":  "e2340e07092b6de7376760916297a934",
-                                                    "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
-                                                    "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
-                                                    "year":  2003
-                                                },
-                                                {
-                                                    "title":  "The Patriot",
-                                                    "start":  "2026-08-26T03:14:10.0000000Z",
-                                                    "stop":  "2026-08-26T05:58:57.0000000Z",
-                                                    "itemId":  "17b673273650da7e33ae51350e123fb0",
-                                                    "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
+                                                    "title":  "Conan The Barbarian",
+                                                    "start":  "2026-08-26T03:45:45.0000000Z",
+                                                    "stop":  "2026-08-26T05:56:06.0000000Z",
+                                                    "itemId":  "d0a933c7f9688726a8f9a30f309399ad",
+                                                    "poster":  "http://127.0.0.1:8096/Items/d0a933c7f9688726a8f9a30f309399ad/Images/Primary",
+                                                    "description":  "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
+                                                    "year":  1982
                                                 }
                                             ]
                            },
