@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-08-25T04:26:05.5923638Z",
+    "updated":  "2026-08-25T04:27:05.7208819Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "D1_t00",
-                                                  "start":  "2026-08-25T02:05:29.0000000Z",
-                                                  "stop":  "2026-08-25T04:26:26.0000000Z",
+                                                  "title":  "Resident Evil- Apocalypse",
+                                                  "start":  "2026-08-25T04:26:26.0000000Z",
+                                                  "stop":  "2026-08-25T06:09:33.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Resident Evil- Apocalypse",
-                                              "start":  "2026-08-25T04:26:26.0000000Z",
-                                              "stop":  "2026-08-25T06:09:33.0000000Z",
+                                              "title":  "Conan The Destroyer",
+                                              "start":  "2026-08-25T06:09:33.0000000Z",
+                                              "stop":  "2026-08-25T08:00:00.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Resident Evil- Apocalypse",
-                                                    "start":  "2026-08-25T04:26:26.0000000Z",
-                                                    "stop":  "2026-08-25T06:09:33.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Conan The Destroyer",
                                                     "start":  "2026-08-25T06:09:33.0000000Z",
@@ -421,24 +412,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "DnBaPCsht",
-                                              "start":  "2026-08-25T04:27:03.0000000Z",
-                                              "stop":  "2026-08-25T04:27:49.0000000Z",
+                                              "title":  "Duende",
+                                              "start":  "2026-08-25T04:28:01.0000000Z",
+                                              "stop":  "2026-08-25T04:29:10.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "DnBaPCsht",
-                                                    "start":  "2026-08-25T04:27:03.0000000Z",
-                                                    "stop":  "2026-08-25T04:27:49.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-08-25T04:28:01.0000000Z",
@@ -497,6 +479,15 @@
                                                     "title":  "0Ld Sc00L",
                                                     "start":  "2026-08-25T04:38:50.0000000Z",
                                                     "stop":  "2026-08-25T04:39:39.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "After H0uRs",
+                                                    "start":  "2026-08-25T04:39:39.0000000Z",
+                                                    "stop":  "2026-08-25T04:40:28.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
