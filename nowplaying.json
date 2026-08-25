@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-25T04:13:05.8190564Z",
+    "updated":  "2026-08-25T04:14:05.4891697Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -421,24 +421,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "MrPayo",
-                                              "start":  "2026-08-25T04:13:51.0000000Z",
-                                              "stop":  "2026-08-25T04:20:16.0000000Z",
+                                              "title":  "Oz",
+                                              "start":  "2026-08-25T04:14:56.0000000Z",
+                                              "stop":  "2026-08-25T04:16:38.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "MrPayo",
-                                                    "start":  "2026-08-25T04:13:51.0000000Z",
-                                                    "stop":  "2026-08-25T04:20:16.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Oz",
                                                     "start":  "2026-08-25T04:14:56.0000000Z",
@@ -497,6 +488,15 @@
                                                     "title":  "JamminG",
                                                     "start":  "2026-08-25T04:29:42.0000000Z",
                                                     "stop":  "2026-08-25T04:33:34.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Never 3Nding",
+                                                    "start":  "2026-08-25T04:33:39.0000000Z",
+                                                    "stop":  "2026-08-25T04:35:51.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
