@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-25T21:33:08.9615702Z",
+    "updated":  "2026-08-25T21:34:12.3843146Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -481,15 +481,7 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "Chingadasos",
-                                                  "start":  "2026-08-25T21:33:00.0000000Z",
-                                                  "stop":  "2026-08-25T21:33:46.0000000Z",
-                                                  "itemId":  "8988d98fd90679aab5aff5b786344b1c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
-                                                  "description":  null,
-                                                  "year":  2026
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
                                               "title":  "Mr J-Carry",
                                               "start":  "2026-08-25T21:34:51.0000000Z",
