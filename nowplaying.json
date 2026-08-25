@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-25T11:51:07.1337676Z",
+    "updated":  "2026-08-25T11:52:08.5026826Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -385,11 +385,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "DnBaPCsht",
-                                                  "start":  "2026-08-25T11:44:24.0000000Z",
-                                                  "stop":  "2026-08-25T11:51:48.0000000Z",
-                                                  "itemId":  "d2296bca99a831548bbada0bb3bac719",
-                                                  "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
+                                                  "title":  "JamminG",
+                                                  "start":  "2026-08-25T11:47:04.0000000Z",
+                                                  "stop":  "2026-08-25T11:57:00.0000000Z",
+                                                  "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
