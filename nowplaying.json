@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-25T09:51:07.6727862Z",
+    "updated":  "2026-08-25T09:52:07.0967411Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -134,33 +134,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Conan The Destroyer",
-                                                  "start":  "2026-08-25T08:10:19.0000000Z",
-                                                  "stop":  "2026-08-25T09:51:27.0000000Z",
-                                                  "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
-                                                  "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
-                                                  "year":  1984
+                                                  "title":  "Predator",
+                                                  "start":  "2026-08-25T09:51:27.0000000Z",
+                                                  "stop":  "2026-08-25T11:38:01.0000000Z",
+                                                  "itemId":  "9745bbd80aedfd3750130547f37af704",
+                                                  "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
+                                                  "description":  "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+                                                  "year":  2025
                                               },
                                "upNext":  {
-                                              "title":  "Predator",
-                                              "start":  "2026-08-25T09:51:27.0000000Z",
-                                              "stop":  "2026-08-25T11:38:01.0000000Z",
-                                              "itemId":  "9745bbd80aedfd3750130547f37af704",
-                                              "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
-                                              "description":  "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-                                              "year":  2025
+                                              "title":  "Rambo First Blood",
+                                              "start":  "2026-08-25T11:38:01.0000000Z",
+                                              "stop":  "2026-08-25T13:11:10.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Predator",
-                                                    "start":  "2026-08-25T09:51:27.0000000Z",
-                                                    "stop":  "2026-08-25T11:38:01.0000000Z",
-                                                    "itemId":  "9745bbd80aedfd3750130547f37af704",
-                                                    "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
-                                                    "description":  "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-                                                    "year":  2025
-                                                },
                                                 {
                                                     "title":  "Rambo First Blood",
                                                     "start":  "2026-08-25T11:38:01.0000000Z",
