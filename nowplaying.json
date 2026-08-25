@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-25T04:06:05.4400295Z",
+    "updated":  "2026-08-25T04:07:06.0925744Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -421,33 +421,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "T2",
-                                              "start":  "2026-08-25T04:06:08.0000000Z",
-                                              "stop":  "2026-08-25T04:10:17.0000000Z",
+                                              "title":  "XocoBruja",
+                                              "start":  "2026-08-25T04:08:56.0000000Z",
+                                              "stop":  "2026-08-25T04:17:51.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "T2",
-                                                    "start":  "2026-08-25T04:06:08.0000000Z",
-                                                    "stop":  "2026-08-25T04:10:17.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
-                                                    "title":  "Ricardo \u0026 Mocoso",
-                                                    "start":  "2026-08-25T04:06:40.0000000Z",
-                                                    "stop":  "2026-08-25T04:15:13.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "XocoBruja",
                                                     "start":  "2026-08-25T04:08:56.0000000Z",
@@ -497,6 +479,24 @@
                                                     "title":  "Carrito",
                                                     "start":  "2026-08-25T04:18:18.0000000Z",
                                                     "stop":  "2026-08-25T04:28:17.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Dancing Cobra",
+                                                    "start":  "2026-08-25T04:25:57.0000000Z",
+                                                    "stop":  "2026-08-25T04:27:03.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "DnBaPCsht",
+                                                    "start":  "2026-08-25T04:27:03.0000000Z",
+                                                    "stop":  "2026-08-25T04:27:49.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
