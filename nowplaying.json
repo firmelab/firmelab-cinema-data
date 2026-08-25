@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-25T04:46:06.1514393Z",
+    "updated":  "2026-08-25T04:47:06.7674377Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -385,42 +385,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Ass Kicker Bruce",
-                                                  "start":  "2026-08-25T04:40:28.0000000Z",
-                                                  "stop":  "2026-08-25T04:46:23.0000000Z",
+                                                  "title":  "Chingadasos",
+                                                  "start":  "2026-08-25T04:47:04.0000000Z",
+                                                  "stop":  "2026-08-25T04:47:51.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Biggie Mobbing",
-                                              "start":  "2026-08-25T04:46:23.0000000Z",
-                                              "stop":  "2026-08-25T04:47:04.0000000Z",
+                                              "title":  "Mr J-Carry",
+                                              "start":  "2026-08-25T04:48:56.0000000Z",
+                                              "stop":  "2026-08-25T04:49:28.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Biggie Mobbing",
-                                                    "start":  "2026-08-25T04:46:23.0000000Z",
-                                                    "stop":  "2026-08-25T04:47:04.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
-                                                    "title":  "Chingadasos",
-                                                    "start":  "2026-08-25T04:47:04.0000000Z",
-                                                    "stop":  "2026-08-25T04:47:51.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Mr J-Carry",
                                                     "start":  "2026-08-25T04:48:56.0000000Z",
@@ -470,6 +452,24 @@
                                                     "title":  "MrPayo",
                                                     "start":  "2026-08-25T04:57:35.0000000Z",
                                                     "stop":  "2026-08-25T04:58:18.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Oz",
+                                                    "start":  "2026-08-25T04:58:41.0000000Z",
+                                                    "stop":  "2026-08-25T04:59:54.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "BloodJoke",
+                                                    "start":  "2026-08-25T05:00:22.0000000Z",
+                                                    "stop":  "2026-08-25T05:01:57.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
