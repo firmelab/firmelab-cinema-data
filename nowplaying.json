@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-25T08:35:16.7968923Z",
+    "updated":  "2026-08-25T08:36:17.7751549Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -212,33 +212,24 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "Undercover Brother",
-                                                  "start":  "2026-08-25T07:09:59.0000000Z",
-                                                  "stop":  "2026-08-25T08:36:05.0000000Z",
-                                                  "itemId":  "6317b8f6b30a049091764b8311c08279",
-                                                  "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
-                                                  "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
-                                                  "year":  2002
+                                                  "title":  "Who.Framed.Roger.Rabbit",
+                                                  "start":  "2026-08-25T08:36:05.0000000Z",
+                                                  "stop":  "2026-08-25T10:19:51.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Who.Framed.Roger.Rabbit",
-                                              "start":  "2026-08-25T08:36:05.0000000Z",
-                                              "stop":  "2026-08-25T10:19:51.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "AnchorMan",
+                                              "start":  "2026-08-25T10:19:51.0000000Z",
+                                              "stop":  "2026-08-25T11:57:14.0000000Z",
+                                              "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
+                                              "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
+                                              "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
+                                              "year":  2004
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Who.Framed.Roger.Rabbit",
-                                                    "start":  "2026-08-25T08:36:05.0000000Z",
-                                                    "stop":  "2026-08-25T10:19:51.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "AnchorMan",
                                                     "start":  "2026-08-25T10:19:51.0000000Z",
@@ -316,33 +307,24 @@
                                "number":  6,
                                "name":  "FIRMELAB CRIME",
                                "nowPlaying":  {
-                                                  "title":  "Reservor Dogs",
-                                                  "start":  "2026-08-25T06:56:44.0000000Z",
-                                                  "stop":  "2026-08-25T08:35:49.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Scarface",
+                                                  "start":  "2026-08-25T08:35:49.0000000Z",
+                                                  "stop":  "2026-08-25T11:25:45.0000000Z",
+                                                  "itemId":  "1ca5b01d892bb1b5b113e7ccaa4ac889",
+                                                  "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
+                                                  "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+                                                  "year":  1983
                                               },
                                "upNext":  {
-                                              "title":  "Scarface",
-                                              "start":  "2026-08-25T08:35:49.0000000Z",
-                                              "stop":  "2026-08-25T11:25:45.0000000Z",
-                                              "itemId":  "1ca5b01d892bb1b5b113e7ccaa4ac889",
-                                              "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
-                                              "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
-                                              "year":  1983
+                                              "title":  "Carlitos Way",
+                                              "start":  "2026-08-25T11:25:45.0000000Z",
+                                              "stop":  "2026-08-25T13:49:55.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Scarface",
-                                                    "start":  "2026-08-25T08:35:49.0000000Z",
-                                                    "stop":  "2026-08-25T11:25:45.0000000Z",
-                                                    "itemId":  "1ca5b01d892bb1b5b113e7ccaa4ac889",
-                                                    "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
-                                                    "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
-                                                    "year":  1983
-                                                },
                                                 {
                                                     "title":  "Carlitos Way",
                                                     "start":  "2026-08-25T11:25:45.0000000Z",
@@ -384,26 +366,25 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  null,
+                               "nowPlaying":  {
+                                                  "title":  "MrPayo",
+                                                  "start":  "2026-08-25T08:36:16.0000000Z",
+                                                  "stop":  "2026-08-25T08:36:59.0000000Z",
+                                                  "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
+                                                  "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
+                                                  "description":  null,
+                                                  "year":  null
+                                              },
                                "upNext":  {
-                                              "title":  "MrPayo",
-                                              "start":  "2026-08-25T08:36:16.0000000Z",
-                                              "stop":  "2026-08-25T08:36:59.0000000Z",
-                                              "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
-                                              "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
+                                              "title":  "Oz",
+                                              "start":  "2026-08-25T08:37:21.0000000Z",
+                                              "stop":  "2026-08-25T08:38:34.0000000Z",
+                                              "itemId":  "f332ba1673f9273e5349cd38b640cf51",
+                                              "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                               "description":  null,
-                                              "year":  null
+                                              "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "MrPayo",
-                                                    "start":  "2026-08-25T08:36:16.0000000Z",
-                                                    "stop":  "2026-08-25T08:36:59.0000000Z",
-                                                    "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
-                                                    "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Oz",
                                                     "start":  "2026-08-25T08:37:21.0000000Z",
@@ -466,6 +447,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Never 3Nding",
+                                                    "start":  "2026-08-25T08:56:04.0000000Z",
+                                                    "stop":  "2026-08-25T08:58:16.0000000Z",
+                                                    "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                                    "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
