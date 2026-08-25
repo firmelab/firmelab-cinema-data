@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-25T04:29:06.1318096Z",
+    "updated":  "2026-08-25T04:30:06.2106836Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -161,33 +161,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Brightburn",
-                                                  "start":  "2026-08-25T02:59:14.0000000Z",
-                                                  "stop":  "2026-08-25T04:29:44.0000000Z",
+                                                  "title":  "Commando",
+                                                  "start":  "2026-08-25T04:29:44.0000000Z",
+                                                  "stop":  "2026-08-25T05:59:57.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Commando",
-                                              "start":  "2026-08-25T04:29:44.0000000Z",
-                                              "stop":  "2026-08-25T05:59:57.0000000Z",
+                                              "title":  "Conan The Barbarian",
+                                              "start":  "2026-08-25T05:59:57.0000000Z",
+                                              "stop":  "2026-08-25T08:10:19.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Commando",
-                                                    "start":  "2026-08-25T04:29:44.0000000Z",
-                                                    "stop":  "2026-08-25T05:59:57.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Conan The Barbarian",
                                                     "start":  "2026-08-25T05:59:57.0000000Z",
@@ -403,33 +394,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Duende",
-                                                  "start":  "2026-08-25T04:28:01.0000000Z",
-                                                  "stop":  "2026-08-25T04:29:10.0000000Z",
+                                                  "title":  "JamminG",
+                                                  "start":  "2026-08-25T04:29:42.0000000Z",
+                                                  "stop":  "2026-08-25T04:33:34.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "JamminG",
-                                              "start":  "2026-08-25T04:29:42.0000000Z",
-                                              "stop":  "2026-08-25T04:33:34.0000000Z",
+                                              "title":  "Never 3Nding",
+                                              "start":  "2026-08-25T04:33:39.0000000Z",
+                                              "stop":  "2026-08-25T04:35:51.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "JamminG",
-                                                    "start":  "2026-08-25T04:29:42.0000000Z",
-                                                    "stop":  "2026-08-25T04:33:34.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-08-25T04:33:39.0000000Z",
@@ -488,6 +470,15 @@
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-08-25T04:40:28.0000000Z",
                                                     "stop":  "2026-08-25T04:46:23.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Biggie Mobbing",
+                                                    "start":  "2026-08-25T04:46:23.0000000Z",
+                                                    "stop":  "2026-08-25T04:47:04.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
