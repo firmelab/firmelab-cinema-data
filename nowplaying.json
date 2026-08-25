@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-25T20:33:08.5463854Z",
+    "updated":  "2026-08-25T20:34:08.5188381Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -152,33 +152,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Robocop",
-                                                  "start":  "2026-08-25T18:50:30.0000000Z",
-                                                  "stop":  "2026-08-25T20:33:17.0000000Z",
-                                                  "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
-                                                  "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
-                                                  "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
-                                                  "year":  1987
+                                                  "title":  "ROBOCOP 2",
+                                                  "start":  "2026-08-25T20:33:17.0000000Z",
+                                                  "stop":  "2026-08-25T22:29:56.0000000Z",
+                                                  "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
+                                                  "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
+                                                  "year":  1990
                                               },
                                "upNext":  {
-                                              "title":  "ROBOCOP 2",
-                                              "start":  "2026-08-25T20:33:17.0000000Z",
-                                              "stop":  "2026-08-25T22:29:56.0000000Z",
-                                              "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
-                                              "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
-                                              "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
-                                              "year":  1990
+                                              "title":  "ROBOCOP 2-B1_t00",
+                                              "start":  "2026-08-25T22:29:56.0000000Z",
+                                              "stop":  "2026-08-26T00:26:35.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "ROBOCOP 2",
-                                                    "start":  "2026-08-25T20:33:17.0000000Z",
-                                                    "stop":  "2026-08-25T22:29:56.0000000Z",
-                                                    "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
-                                                    "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
-                                                    "year":  1990
-                                                },
                                                 {
                                                     "title":  "ROBOCOP 2-B1_t00",
                                                     "start":  "2026-08-25T22:29:56.0000000Z",
