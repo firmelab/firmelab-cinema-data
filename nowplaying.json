@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-25T04:25:05.9224746Z",
+    "updated":  "2026-08-25T04:26:05.5923638Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -421,24 +421,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Dancing Cobra",
-                                              "start":  "2026-08-25T04:25:57.0000000Z",
-                                              "stop":  "2026-08-25T04:27:03.0000000Z",
+                                              "title":  "DnBaPCsht",
+                                              "start":  "2026-08-25T04:27:03.0000000Z",
+                                              "stop":  "2026-08-25T04:27:49.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Dancing Cobra",
-                                                    "start":  "2026-08-25T04:25:57.0000000Z",
-                                                    "stop":  "2026-08-25T04:27:03.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-08-25T04:27:03.0000000Z",
@@ -501,6 +492,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "0Ld Sc00L",
+                                                    "start":  "2026-08-25T04:38:50.0000000Z",
+                                                    "stop":  "2026-08-25T04:39:39.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
@@ -508,33 +508,24 @@
                                "number":  8,
                                "name":  "FIRMELAB FRONTIER",
                                "nowPlaying":  {
-                                                  "title":  "Brave Heart",
-                                                  "start":  "2026-08-25T01:27:32.0000000Z",
-                                                  "stop":  "2026-08-25T04:25:13.0000000Z",
+                                                  "title":  "The Count Monte Cristos",
+                                                  "start":  "2026-08-25T04:25:13.0000000Z",
+                                                  "stop":  "2026-08-25T06:36:27.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "The Count Monte Cristos",
-                                              "start":  "2026-08-25T04:25:13.0000000Z",
-                                              "stop":  "2026-08-25T06:36:27.0000000Z",
+                                              "title":  "Young Guns",
+                                              "start":  "2026-08-25T06:36:27.0000000Z",
+                                              "stop":  "2026-08-25T08:23:13.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "The Count Monte Cristos",
-                                                    "start":  "2026-08-25T04:25:13.0000000Z",
-                                                    "stop":  "2026-08-25T06:36:27.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Young Guns",
                                                     "start":  "2026-08-25T06:36:27.0000000Z",
