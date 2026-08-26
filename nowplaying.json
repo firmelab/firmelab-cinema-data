@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-26T23:58:09.3626970Z",
+    "updated":  "2026-08-26T23:59:14.1718402Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -152,33 +152,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "John Wick",
-                                                  "start":  "2026-08-26T22:17:55.0000000Z",
-                                                  "stop":  "2026-08-26T23:59:08.0000000Z",
-                                                  "itemId":  "84b70d75a3d957b57b02cf83796504a8",
-                                                  "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
-                                                  "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
-                                                  "year":  2014
+                                                  "title":  "DEATH PROOF",
+                                                  "start":  "2026-08-26T23:59:08.0000000Z",
+                                                  "stop":  "2026-08-27T01:52:41.0000000Z",
+                                                  "itemId":  "5220d04d46ddf5fa55aacae5d4916919",
+                                                  "poster":  "http://127.0.0.1:8096/Items/5220d04d46ddf5fa55aacae5d4916919/Images/Primary",
+                                                  "description":  "Austin\u0027s hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
+                                                  "year":  2007
                                               },
                                "upNext":  {
-                                              "title":  "DEATH PROOF",
-                                              "start":  "2026-08-26T23:59:08.0000000Z",
-                                              "stop":  "2026-08-27T01:52:41.0000000Z",
-                                              "itemId":  "5220d04d46ddf5fa55aacae5d4916919",
-                                              "poster":  "http://127.0.0.1:8096/Items/5220d04d46ddf5fa55aacae5d4916919/Images/Primary",
-                                              "description":  "Austin\u0027s hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
-                                              "year":  2007
+                                              "title":  "Robocop",
+                                              "start":  "2026-08-27T01:52:41.0000000Z",
+                                              "stop":  "2026-08-27T03:35:28.0000000Z",
+                                              "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
+                                              "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
+                                              "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
+                                              "year":  1987
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "DEATH PROOF",
-                                                    "start":  "2026-08-26T23:59:08.0000000Z",
-                                                    "stop":  "2026-08-27T01:52:41.0000000Z",
-                                                    "itemId":  "5220d04d46ddf5fa55aacae5d4916919",
-                                                    "poster":  "http://127.0.0.1:8096/Items/5220d04d46ddf5fa55aacae5d4916919/Images/Primary",
-                                                    "description":  "Austin\u0027s hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
-                                                    "year":  2007
-                                                },
                                                 {
                                                     "title":  "Robocop",
                                                     "start":  "2026-08-27T01:52:41.0000000Z",
@@ -482,24 +473,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Oz",
-                                              "start":  "2026-08-26T23:59:05.0000000Z",
-                                              "stop":  "2026-08-27T00:03:16.0000000Z",
-                                              "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                              "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                              "title":  "BloodJoke",
+                                              "start":  "2026-08-27T00:00:46.0000000Z",
+                                              "stop":  "2026-08-27T00:07:14.0000000Z",
+                                              "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                              "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Oz",
-                                                    "start":  "2026-08-26T23:59:05.0000000Z",
-                                                    "stop":  "2026-08-27T00:03:16.0000000Z",
-                                                    "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "BloodJoke",
                                                     "start":  "2026-08-27T00:00:46.0000000Z",
@@ -562,6 +544,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Ninja Now",
+                                                    "start":  "2026-08-27T00:20:00.0000000Z",
+                                                    "stop":  "2026-08-27T00:26:24.0000000Z",
+                                                    "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
