@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-26T16:47:19.3328763Z",
+    "updated":  "2026-08-26T16:49:59.0954956Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -152,33 +152,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Predator",
-                                                  "start":  "2026-08-26T15:02:46.0000000Z",
-                                                  "stop":  "2026-08-26T16:49:20.0000000Z",
-                                                  "itemId":  "9745bbd80aedfd3750130547f37af704",
-                                                  "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
-                                                  "description":  "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-                                                  "year":  2025
+                                                  "title":  "Rambo First Blood",
+                                                  "start":  "2026-08-26T16:49:20.0000000Z",
+                                                  "stop":  "2026-08-26T18:22:30.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Rambo First Blood",
-                                              "start":  "2026-08-26T16:49:20.0000000Z",
-                                              "stop":  "2026-08-26T18:22:30.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Sherlock Holmes",
+                                              "start":  "2026-08-26T18:22:30.0000000Z",
+                                              "stop":  "2026-08-26T20:30:59.0000000Z",
+                                              "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
+                                              "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
+                                              "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
+                                              "year":  2009
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Rambo First Blood",
-                                                    "start":  "2026-08-26T16:49:20.0000000Z",
-                                                    "stop":  "2026-08-26T18:22:30.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Sherlock Holmes",
                                                     "start":  "2026-08-26T18:22:30.0000000Z",
