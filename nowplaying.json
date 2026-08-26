@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-08-26T10:26:08.9811035Z",
+    "updated":  "2026-08-26T10:27:09.7870501Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Black Hawk Down",
-                                                  "start":  "2026-08-26T08:00:00.0000000Z",
-                                                  "stop":  "2026-08-26T10:26:42.0000000Z",
-                                                  "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
-                                                  "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
-                                                  "year":  2001
+                                                  "title":  "Manhunter",
+                                                  "start":  "2026-08-26T10:26:42.0000000Z",
+                                                  "stop":  "2026-08-26T12:30:44.0000000Z",
+                                                  "itemId":  "f6b5fc1a94fb32ecc9a9bff1ff06a6a4",
+                                                  "poster":  "http://127.0.0.1:8096/Items/f6b5fc1a94fb32ecc9a9bff1ff06a6a4/Images/Primary",
+                                                  "description":  null,
+                                                  "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Manhunter",
-                                              "start":  "2026-08-26T10:26:42.0000000Z",
-                                              "stop":  "2026-08-26T12:30:44.0000000Z",
-                                              "itemId":  "f6b5fc1a94fb32ecc9a9bff1ff06a6a4",
-                                              "poster":  "http://127.0.0.1:8096/Items/f6b5fc1a94fb32ecc9a9bff1ff06a6a4/Images/Primary",
-                                              "description":  null,
-                                              "year":  2026
+                                              "title":  "Bourne Supremacy",
+                                              "start":  "2026-08-26T12:30:44.0000000Z",
+                                              "stop":  "2026-08-26T14:21:38.0000000Z",
+                                              "itemId":  "031faf0da71af121647ff2d37294b07a",
+                                              "poster":  "http://127.0.0.1:8096/Items/031faf0da71af121647ff2d37294b07a/Images/Primary",
+                                              "description":  "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
+                                              "year":  2004
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Manhunter",
-                                                    "start":  "2026-08-26T10:26:42.0000000Z",
-                                                    "stop":  "2026-08-26T12:30:44.0000000Z",
-                                                    "itemId":  "f6b5fc1a94fb32ecc9a9bff1ff06a6a4",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f6b5fc1a94fb32ecc9a9bff1ff06a6a4/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Bourne Supremacy",
                                                     "start":  "2026-08-26T12:30:44.0000000Z",
@@ -419,33 +410,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "JamminG",
-                                                  "start":  "2026-08-26T10:22:52.0000000Z",
-                                                  "stop":  "2026-08-26T10:26:44.0000000Z",
-                                                  "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
-                                                  "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
+                                                  "title":  "Never 3Nding",
+                                                  "start":  "2026-08-26T10:26:49.0000000Z",
+                                                  "stop":  "2026-08-26T10:29:01.0000000Z",
+                                                  "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                                  "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Never 3Nding",
-                                              "start":  "2026-08-26T10:26:49.0000000Z",
-                                              "stop":  "2026-08-26T10:29:01.0000000Z",
-                                              "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
-                                              "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
+                                              "title":  "Ninja Now",
+                                              "start":  "2026-08-26T10:29:01.0000000Z",
+                                              "stop":  "2026-08-26T10:29:43.0000000Z",
+                                              "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
+                                              "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Never 3Nding",
-                                                    "start":  "2026-08-26T10:26:49.0000000Z",
-                                                    "stop":  "2026-08-26T10:29:01.0000000Z",
-                                                    "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
-                                                    "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-08-26T10:29:01.0000000Z",
@@ -506,6 +488,15 @@
                                                     "stop":  "2026-08-26T10:40:14.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Chingadasos",
+                                                    "start":  "2026-08-26T10:40:14.0000000Z",
+                                                    "stop":  "2026-08-26T10:41:00.0000000Z",
+                                                    "itemId":  "8988d98fd90679aab5aff5b786344b1c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
