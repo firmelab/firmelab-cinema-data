@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-26T11:00:14.9710625Z",
+    "updated":  "2026-08-26T11:01:10.2044804Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -53,7 +53,25 @@
                                                 {
                                                     "title":  "Fast N Furious",
                                                     "start":  "2026-08-26T17:52:40.0000000Z",
-                                                    "stop":  "2026-08-26T19:39:36.0000000Z",
+                                                    "stop":  "2026-08-26T19:41:58.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Dusk Till Dawn",
+                                                    "start":  "2026-08-26T19:41:58.0000000Z",
+                                                    "stop":  "2026-08-26T21:32:08.0000000Z",
+                                                    "itemId":  "648811d2182191a63ce32eb861ad9020",
+                                                    "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
+                                                    "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
+                                                    "year":  1996
+                                                },
+                                                {
+                                                    "title":  "Master and Commander",
+                                                    "start":  "2026-08-26T21:32:08.0000000Z",
+                                                    "stop":  "2026-08-26T23:50:29.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -122,11 +140,29 @@
                                                 {
                                                     "title":  "Resident Evil- Apocalypse",
                                                     "start":  "2026-08-26T18:29:49.0000000Z",
-                                                    "stop":  "2026-08-26T20:03:38.0000000Z",
+                                                    "stop":  "2026-08-26T20:15:04.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "D1_t00",
+                                                    "start":  "2026-08-26T20:15:04.0000000Z",
+                                                    "stop":  "2026-08-26T22:32:18.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Dawn of the Dead",
+                                                    "start":  "2026-08-26T22:32:18.0000000Z",
+                                                    "stop":  "2026-08-27T00:21:30.0000000Z",
+                                                    "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
+                                                    "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
+                                                    "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
+                                                    "year":  2004
                                                 }
                                             ]
                            },
@@ -196,6 +232,24 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
                                                     "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
                                                     "year":  2009
+                                                },
+                                                {
+                                                    "title":  "Fast N Furious",
+                                                    "start":  "2026-08-26T20:30:59.0000000Z",
+                                                    "stop":  "2026-08-26T22:17:55.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "John Wick",
+                                                    "start":  "2026-08-26T22:17:55.0000000Z",
+                                                    "stop":  "2026-08-26T23:59:08.0000000Z",
+                                                    "itemId":  "84b70d75a3d957b57b02cf83796504a8",
+                                                    "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
+                                                    "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+                                                    "year":  2014
                                                 }
                                             ]
                            },
@@ -274,6 +328,24 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
                                                     "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
                                                     "year":  1978
+                                                },
+                                                {
+                                                    "title":  "HALF BAKED",
+                                                    "start":  "2026-08-26T20:09:33.0000000Z",
+                                                    "stop":  "2026-08-26T21:31:38.0000000Z",
+                                                    "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
+                                                    "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
+                                                    "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
+                                                    "year":  1998
+                                                },
+                                                {
+                                                    "title":  "Get Shorty",
+                                                    "start":  "2026-08-26T21:31:38.0000000Z",
+                                                    "stop":  "2026-08-26T23:16:27.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
@@ -343,6 +415,33 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
                                                     "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
                                                     "year":  1988
+                                                },
+                                                {
+                                                    "title":  "HEAVY METAL",
+                                                    "start":  "2026-08-26T19:36:36.0000000Z",
+                                                    "stop":  "2026-08-26T21:06:57.0000000Z",
+                                                    "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                                    "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                                    "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                                    "year":  1981
+                                                },
+                                                {
+                                                    "title":  "Who Framed Roger Rabbit",
+                                                    "start":  "2026-08-26T21:06:57.0000000Z",
+                                                    "stop":  "2026-08-26T22:50:43.0000000Z",
+                                                    "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
+                                                    "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
+                                                    "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+                                                    "year":  1988
+                                                },
+                                                {
+                                                    "title":  "HEAVY METAL",
+                                                    "start":  "2026-08-26T22:50:43.0000000Z",
+                                                    "stop":  "2026-08-27T00:21:05.0000000Z",
+                                                    "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                                    "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                                    "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                                    "year":  1981
                                                 }
                                             ]
                            },
@@ -394,6 +493,24 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Scarface",
+                                                    "start":  "2026-08-26T19:24:47.0000000Z",
+                                                    "stop":  "2026-08-26T22:14:44.0000000Z",
+                                                    "itemId":  "1ca5b01d892bb1b5b113e7ccaa4ac889",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
+                                                    "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+                                                    "year":  1983
+                                                },
+                                                {
+                                                    "title":  "Carlitos Way",
+                                                    "start":  "2026-08-26T22:14:44.0000000Z",
+                                                    "stop":  "2026-08-27T00:38:54.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
@@ -403,7 +520,7 @@
                                "nowPlaying":  {
                                                   "title":  "Carrito",
                                                   "start":  "2026-08-26T10:55:12.0000000Z",
-                                                  "stop":  "2026-08-26T11:02:51.0000000Z",
+                                                  "stop":  "2026-08-26T11:04:14.0000000Z",
                                                   "itemId":  "ed83754111f4ed370a338cab8345534d",
                                                   "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
@@ -431,7 +548,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-08-26T11:03:56.0000000Z",
-                                                    "stop":  "2026-08-26T11:04:43.0000000Z",
+                                                    "stop":  "2026-08-26T11:04:55.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -440,7 +557,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-08-26T11:04:55.0000000Z",
-                                                    "stop":  "2026-08-26T11:06:04.0000000Z",
+                                                    "stop":  "2026-08-26T11:06:36.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -449,7 +566,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-08-26T11:06:36.0000000Z",
-                                                    "stop":  "2026-08-26T11:10:28.0000000Z",
+                                                    "stop":  "2026-08-26T11:13:36.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -467,7 +584,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-08-26T11:12:45.0000000Z",
-                                                    "stop":  "2026-08-26T11:13:27.0000000Z",
+                                                    "stop":  "2026-08-26T11:14:51.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -476,7 +593,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-08-26T11:13:27.0000000Z",
-                                                    "stop":  "2026-08-26T11:14:16.0000000Z",
+                                                    "stop":  "2026-08-26T11:15:40.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -485,7 +602,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-08-26T11:14:16.0000000Z",
-                                                    "stop":  "2026-08-26T11:15:44.0000000Z",
+                                                    "stop":  "2026-08-26T11:17:08.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
@@ -550,6 +667,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
                                                     "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
                                                     "year":  1988
+                                                },
+                                                {
+                                                    "title":  "The Patriot",
+                                                    "start":  "2026-08-26T20:19:38.0000000Z",
+                                                    "stop":  "2026-08-26T23:04:25.0000000Z",
+                                                    "itemId":  "17b673273650da7e33ae51350e123fb0",
+                                                    "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            }
