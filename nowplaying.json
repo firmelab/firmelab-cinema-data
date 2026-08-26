@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-08-26T21:31:07.0412443Z",
+    "updated":  "2026-08-26T21:32:11.8978540Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Dusk Till Dawn",
-                                                  "start":  "2026-08-26T19:41:58.0000000Z",
-                                                  "stop":  "2026-08-26T21:32:08.0000000Z",
-                                                  "itemId":  "648811d2182191a63ce32eb861ad9020",
-                                                  "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
-                                                  "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
-                                                  "year":  1996
+                                                  "title":  "Master and Commander",
+                                                  "start":  "2026-08-26T21:32:08.0000000Z",
+                                                  "stop":  "2026-08-26T23:52:50.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Master and Commander",
-                                              "start":  "2026-08-26T21:32:08.0000000Z",
-                                              "stop":  "2026-08-26T23:52:50.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "BORDELLO OF BLOOD",
+                                              "start":  "2026-08-26T23:52:50.0000000Z",
+                                              "stop":  "2026-08-27T01:21:43.0000000Z",
+                                              "itemId":  "ac85abbdb1ae910fd14d0f372cb6981b",
+                                              "poster":  "http://127.0.0.1:8096/Items/ac85abbdb1ae910fd14d0f372cb6981b/Images/Primary",
+                                              "description":  "Private eye Rafe Guttman is hired by repressed, born-again Katherine to find her missing bad-boy brother. The trail leads him to a whorehouse run by a thousand-year-old vampire and secretly backed by Katherine\u0027s boss, televangelist Jimmy Current.",
+                                              "year":  1996
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Master and Commander",
-                                                    "start":  "2026-08-26T21:32:08.0000000Z",
-                                                    "stop":  "2026-08-26T23:52:50.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "BORDELLO OF BLOOD",
                                                     "start":  "2026-08-26T23:52:50.0000000Z",
@@ -212,33 +203,24 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "HALF BAKED",
-                                                  "start":  "2026-08-26T20:09:33.0000000Z",
-                                                  "stop":  "2026-08-26T21:31:38.0000000Z",
-                                                  "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
-                                                  "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
-                                                  "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
-                                                  "year":  1998
+                                                  "title":  "Get Shorty",
+                                                  "start":  "2026-08-26T21:31:38.0000000Z",
+                                                  "stop":  "2026-08-26T23:16:27.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Get Shorty",
-                                              "start":  "2026-08-26T21:31:38.0000000Z",
-                                              "stop":  "2026-08-26T23:16:27.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Undercover Brother",
+                                              "start":  "2026-08-26T23:16:27.0000000Z",
+                                              "stop":  "2026-08-27T00:42:33.0000000Z",
+                                              "itemId":  "6317b8f6b30a049091764b8311c08279",
+                                              "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
+                                              "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
+                                              "year":  2002
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Get Shorty",
-                                                    "start":  "2026-08-26T21:31:38.0000000Z",
-                                                    "stop":  "2026-08-26T23:16:27.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Undercover Brother",
                                                     "start":  "2026-08-26T23:16:27.0000000Z",
