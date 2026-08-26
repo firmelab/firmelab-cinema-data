@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-26T13:21:11.3563000Z",
+    "updated":  "2026-08-26T13:22:12.4802613Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -143,33 +143,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Conan The Barbarian",
-                                                  "start":  "2026-08-26T11:11:17.0000000Z",
-                                                  "stop":  "2026-08-26T13:21:38.0000000Z",
-                                                  "itemId":  "d0a933c7f9688726a8f9a30f309399ad",
-                                                  "poster":  "http://127.0.0.1:8096/Items/d0a933c7f9688726a8f9a30f309399ad/Images/Primary",
-                                                  "description":  "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
-                                                  "year":  1982
+                                                  "title":  "Conan The Destroyer",
+                                                  "start":  "2026-08-26T13:21:38.0000000Z",
+                                                  "stop":  "2026-08-26T15:02:46.0000000Z",
+                                                  "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
+                                                  "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
+                                                  "year":  1984
                                               },
                                "upNext":  {
-                                              "title":  "Conan The Destroyer",
-                                              "start":  "2026-08-26T13:21:38.0000000Z",
-                                              "stop":  "2026-08-26T15:02:46.0000000Z",
-                                              "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
-                                              "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
-                                              "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
-                                              "year":  1984
+                                              "title":  "Predator",
+                                              "start":  "2026-08-26T15:02:46.0000000Z",
+                                              "stop":  "2026-08-26T16:49:20.0000000Z",
+                                              "itemId":  "9745bbd80aedfd3750130547f37af704",
+                                              "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
+                                              "description":  "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+                                              "year":  2025
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Conan The Destroyer",
-                                                    "start":  "2026-08-26T13:21:38.0000000Z",
-                                                    "stop":  "2026-08-26T15:02:46.0000000Z",
-                                                    "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
-                                                    "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
-                                                    "year":  1984
-                                                },
                                                 {
                                                     "title":  "Predator",
                                                     "start":  "2026-08-26T15:02:46.0000000Z",
@@ -437,33 +428,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "JamminG",
-                                                  "start":  "2026-08-26T13:17:49.0000000Z",
-                                                  "stop":  "2026-08-26T13:21:40.0000000Z",
-                                                  "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
-                                                  "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
+                                                  "title":  "Never 3Nding",
+                                                  "start":  "2026-08-26T13:21:46.0000000Z",
+                                                  "stop":  "2026-08-26T13:23:58.0000000Z",
+                                                  "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                                  "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Never 3Nding",
-                                              "start":  "2026-08-26T13:21:46.0000000Z",
-                                              "stop":  "2026-08-26T13:23:58.0000000Z",
-                                              "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
-                                              "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
+                                              "title":  "Ninja Now",
+                                              "start":  "2026-08-26T13:23:58.0000000Z",
+                                              "stop":  "2026-08-26T13:24:40.0000000Z",
+                                              "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
+                                              "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Never 3Nding",
-                                                    "start":  "2026-08-26T13:21:46.0000000Z",
-                                                    "stop":  "2026-08-26T13:23:58.0000000Z",
-                                                    "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
-                                                    "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-08-26T13:23:58.0000000Z",
@@ -524,6 +506,15 @@
                                                     "stop":  "2026-08-26T13:35:11.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Chingadasos",
+                                                    "start":  "2026-08-26T13:35:11.0000000Z",
+                                                    "stop":  "2026-08-26T13:35:57.0000000Z",
+                                                    "itemId":  "8988d98fd90679aab5aff5b786344b1c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
