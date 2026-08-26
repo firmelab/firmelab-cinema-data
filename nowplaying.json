@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-26T11:55:10.4073515Z",
+    "updated":  "2026-08-26T11:56:10.9511729Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -482,13 +482,13 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Duende",
-                                                  "start":  "2026-08-26T11:48:39.0000000Z",
-                                                  "stop":  "2026-08-26T11:55:52.0000000Z",
-                                                  "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                                  "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                                  "title":  "Never 3Nding",
+                                                  "start":  "2026-08-26T11:54:17.0000000Z",
+                                                  "stop":  "2026-08-26T11:56:29.0000000Z",
+                                                  "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                                  "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
                                               "title":  "Ninja Now",
