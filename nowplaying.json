@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-08-26T03:45:05.6212704Z",
+    "updated":  "2026-08-26T03:46:05.5750926Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Master and Commander",
-                                                  "start":  "2026-08-26T01:20:25.0000000Z",
-                                                  "stop":  "2026-08-26T03:45:45.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Conan The Barbarian",
+                                                  "start":  "2026-08-26T03:45:45.0000000Z",
+                                                  "stop":  "2026-08-26T06:03:06.0000000Z",
+                                                  "itemId":  "d0a933c7f9688726a8f9a30f309399ad",
+                                                  "poster":  "http://127.0.0.1:8096/Items/d0a933c7f9688726a8f9a30f309399ad/Images/Primary",
+                                                  "description":  "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
+                                                  "year":  1982
                                               },
                                "upNext":  {
-                                              "title":  "Conan The Barbarian",
-                                              "start":  "2026-08-26T03:45:45.0000000Z",
-                                              "stop":  "2026-08-26T06:03:06.0000000Z",
-                                              "itemId":  "d0a933c7f9688726a8f9a30f309399ad",
-                                              "poster":  "http://127.0.0.1:8096/Items/d0a933c7f9688726a8f9a30f309399ad/Images/Primary",
-                                              "description":  "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
-                                              "year":  1982
+                                              "title":  "Robocop",
+                                              "start":  "2026-08-26T06:03:06.0000000Z",
+                                              "stop":  "2026-08-26T08:00:00.0000000Z",
+                                              "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
+                                              "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
+                                              "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
+                                              "year":  1987
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Conan The Barbarian",
-                                                    "start":  "2026-08-26T03:45:45.0000000Z",
-                                                    "stop":  "2026-08-26T06:03:06.0000000Z",
-                                                    "itemId":  "d0a933c7f9688726a8f9a30f309399ad",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d0a933c7f9688726a8f9a30f309399ad/Images/Primary",
-                                                    "description":  "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
-                                                    "year":  1982
-                                                },
                                                 {
                                                     "title":  "Robocop",
                                                     "start":  "2026-08-26T06:03:06.0000000Z",
@@ -491,24 +482,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Dancing Cobra",
-                                              "start":  "2026-08-26T03:45:29.0000000Z",
-                                              "stop":  "2026-08-26T03:53:13.0000000Z",
-                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
+                                              "title":  "DnBaPCsht",
+                                              "start":  "2026-08-26T03:46:35.0000000Z",
+                                              "stop":  "2026-08-26T03:47:22.0000000Z",
+                                              "itemId":  "d2296bca99a831548bbada0bb3bac719",
+                                              "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Dancing Cobra",
-                                                    "start":  "2026-08-26T03:45:29.0000000Z",
-                                                    "stop":  "2026-08-26T03:53:13.0000000Z",
-                                                    "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-08-26T03:46:35.0000000Z",
@@ -571,6 +553,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "0Ld Sc00L",
+                                                    "start":  "2026-08-26T03:58:23.0000000Z",
+                                                    "stop":  "2026-08-26T04:01:41.0000000Z",
+                                                    "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
