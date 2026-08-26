@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-08-26T06:02:05.5228943Z",
+    "updated":  "2026-08-26T06:03:15.3692354Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Conan The Barbarian",
-                                                  "start":  "2026-08-26T03:45:45.0000000Z",
-                                                  "stop":  "2026-08-26T06:03:06.0000000Z",
-                                                  "itemId":  "d0a933c7f9688726a8f9a30f309399ad",
-                                                  "poster":  "http://127.0.0.1:8096/Items/d0a933c7f9688726a8f9a30f309399ad/Images/Primary",
-                                                  "description":  "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
-                                                  "year":  1982
+                                                  "title":  "Robocop",
+                                                  "start":  "2026-08-26T06:03:06.0000000Z",
+                                                  "stop":  "2026-08-26T08:00:00.0000000Z",
+                                                  "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
+                                                  "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
+                                                  "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
+                                                  "year":  1987
                                               },
                                "upNext":  {
-                                              "title":  "Robocop",
-                                              "start":  "2026-08-26T06:03:06.0000000Z",
-                                              "stop":  "2026-08-26T08:00:00.0000000Z",
-                                              "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
-                                              "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
-                                              "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
-                                              "year":  1987
+                                              "title":  "Black Hawk Down",
+                                              "start":  "2026-08-26T08:00:00.0000000Z",
+                                              "stop":  "2026-08-26T10:26:42.0000000Z",
+                                              "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
+                                              "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
+                                              "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+                                              "year":  2001
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Robocop",
-                                                    "start":  "2026-08-26T06:03:06.0000000Z",
-                                                    "stop":  "2026-08-26T08:00:00.0000000Z",
-                                                    "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
-                                                    "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
-                                                    "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
-                                                    "year":  1987
-                                                },
                                                 {
                                                     "title":  "Black Hawk Down",
                                                     "start":  "2026-08-26T08:00:00.0000000Z",
