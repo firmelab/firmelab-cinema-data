@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-26T02:20:15.7065141Z",
+    "updated":  "2026-08-26T02:21:18.2813004Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -65,33 +65,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Boogeyman",
-                                                  "start":  "2026-08-26T00:43:08.0000000Z",
-                                                  "stop":  "2026-08-26T02:21:18.0000000Z",
-                                                  "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
-                                                  "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
+                                                  "title":  "Resident Evil- Apocalypse",
+                                                  "start":  "2026-08-26T02:21:18.0000000Z",
+                                                  "stop":  "2026-08-26T03:59:41.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Resident Evil- Apocalypse",
-                                              "start":  "2026-08-26T02:21:18.0000000Z",
-                                              "stop":  "2026-08-26T03:59:41.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Dawn of the Dead",
+                                              "start":  "2026-08-26T03:59:41.0000000Z",
+                                              "stop":  "2026-08-26T05:53:28.0000000Z",
+                                              "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
+                                              "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
+                                              "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
+                                              "year":  2004
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Resident Evil- Apocalypse",
-                                                    "start":  "2026-08-26T02:21:18.0000000Z",
-                                                    "stop":  "2026-08-26T03:59:41.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Dawn of the Dead",
                                                     "start":  "2026-08-26T03:59:41.0000000Z",
@@ -391,15 +382,7 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "Duende",
-                                                  "start":  "2026-08-26T02:20:05.0000000Z",
-                                                  "stop":  "2026-08-26T02:21:14.0000000Z",
-                                                  "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                                  "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
-                                                  "description":  null,
-                                                  "year":  null
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
                                               "title":  "JamminG",
                                               "start":  "2026-08-26T02:21:47.0000000Z",
