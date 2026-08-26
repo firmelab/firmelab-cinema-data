@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-26T23:56:12.6329117Z",
+    "updated":  "2026-08-26T23:57:11.1375376Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -473,11 +473,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Mr J-Carry",
-                                                  "start":  "2026-08-26T23:49:20.0000000Z",
-                                                  "stop":  "2026-08-26T23:56:21.0000000Z",
-                                                  "itemId":  "56c94066e018711311e81d6a3f6cc139",
-                                                  "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
+                                                  "title":  "COKCE6139",
+                                                  "start":  "2026-08-26T23:55:49.0000000Z",
+                                                  "stop":  "2026-08-27T00:03:36.0000000Z",
+                                                  "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
+                                                  "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
