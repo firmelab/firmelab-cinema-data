@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-08-26T19:41:06.2740133Z",
+    "updated":  "2026-08-26T19:42:12.1701102Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Fast N Furious",
-                                                  "start":  "2026-08-26T17:52:40.0000000Z",
-                                                  "stop":  "2026-08-26T19:41:58.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Dusk Till Dawn",
+                                                  "start":  "2026-08-26T19:41:58.0000000Z",
+                                                  "stop":  "2026-08-26T21:32:08.0000000Z",
+                                                  "itemId":  "648811d2182191a63ce32eb861ad9020",
+                                                  "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
+                                                  "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
+                                                  "year":  1996
                                               },
                                "upNext":  {
-                                              "title":  "Dusk Till Dawn",
-                                              "start":  "2026-08-26T19:41:58.0000000Z",
-                                              "stop":  "2026-08-26T21:32:08.0000000Z",
-                                              "itemId":  "648811d2182191a63ce32eb861ad9020",
-                                              "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
-                                              "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
-                                              "year":  1996
+                                              "title":  "Master and Commander",
+                                              "start":  "2026-08-26T21:32:08.0000000Z",
+                                              "stop":  "2026-08-26T23:52:50.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Dusk Till Dawn",
-                                                    "start":  "2026-08-26T19:41:58.0000000Z",
-                                                    "stop":  "2026-08-26T21:32:08.0000000Z",
-                                                    "itemId":  "648811d2182191a63ce32eb861ad9020",
-                                                    "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
-                                                    "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
-                                                    "year":  1996
-                                                },
                                                 {
                                                     "title":  "Master and Commander",
                                                     "start":  "2026-08-26T21:32:08.0000000Z",
