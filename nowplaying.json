@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-26T05:05:14.9261463Z",
+    "updated":  "2026-08-26T05:06:08.2280096Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -212,33 +212,24 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "Get Shorty",
-                                                  "start":  "2026-08-26T03:20:45.0000000Z",
-                                                  "stop":  "2026-08-26T05:05:33.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Undercover Brother",
+                                                  "start":  "2026-08-26T05:05:33.0000000Z",
+                                                  "stop":  "2026-08-26T06:31:40.0000000Z",
+                                                  "itemId":  "6317b8f6b30a049091764b8311c08279",
+                                                  "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
+                                                  "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
+                                                  "year":  2002
                                               },
                                "upNext":  {
-                                              "title":  "Undercover Brother",
-                                              "start":  "2026-08-26T05:05:33.0000000Z",
-                                              "stop":  "2026-08-26T06:31:40.0000000Z",
-                                              "itemId":  "6317b8f6b30a049091764b8311c08279",
-                                              "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
-                                              "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
-                                              "year":  2002
+                                              "title":  "AnchorMan",
+                                              "start":  "2026-08-26T06:31:40.0000000Z",
+                                              "stop":  "2026-08-26T08:09:02.0000000Z",
+                                              "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
+                                              "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
+                                              "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
+                                              "year":  2004
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Undercover Brother",
-                                                    "start":  "2026-08-26T05:05:33.0000000Z",
-                                                    "stop":  "2026-08-26T06:31:40.0000000Z",
-                                                    "itemId":  "6317b8f6b30a049091764b8311c08279",
-                                                    "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
-                                                    "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
-                                                    "year":  2002
-                                                },
                                                 {
                                                     "title":  "AnchorMan",
                                                     "start":  "2026-08-26T06:31:40.0000000Z",
@@ -436,26 +427,25 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  null,
+                               "nowPlaying":  {
+                                                  "title":  "Carrito",
+                                                  "start":  "2026-08-26T05:05:19.0000000Z",
+                                                  "stop":  "2026-08-26T05:12:58.0000000Z",
+                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                                  "description":  null,
+                                                  "year":  null
+                                              },
                                "upNext":  {
-                                              "title":  "Carrito",
-                                              "start":  "2026-08-26T05:05:19.0000000Z",
-                                              "stop":  "2026-08-26T05:12:58.0000000Z",
-                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                              "title":  "Dancing Cobra",
+                                              "start":  "2026-08-26T05:12:58.0000000Z",
+                                              "stop":  "2026-08-26T05:14:03.0000000Z",
+                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Carrito",
-                                                    "start":  "2026-08-26T05:05:19.0000000Z",
-                                                    "stop":  "2026-08-26T05:12:58.0000000Z",
-                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-08-26T05:12:58.0000000Z",
@@ -518,6 +508,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Arnold Dynamite",
+                                                    "start":  "2026-08-26T05:24:23.0000000Z",
+                                                    "stop":  "2026-08-26T05:25:51.0000000Z",
+                                                    "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
