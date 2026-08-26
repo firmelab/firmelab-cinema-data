@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-08-26T12:30:09.7621940Z",
+    "updated":  "2026-08-26T12:31:09.6306808Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Manhunter",
-                                                  "start":  "2026-08-26T10:26:42.0000000Z",
-                                                  "stop":  "2026-08-26T12:30:44.0000000Z",
-                                                  "itemId":  "f6b5fc1a94fb32ecc9a9bff1ff06a6a4",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f6b5fc1a94fb32ecc9a9bff1ff06a6a4/Images/Primary",
-                                                  "description":  null,
-                                                  "year":  2026
+                                                  "title":  "Bourne Supremacy",
+                                                  "start":  "2026-08-26T12:30:44.0000000Z",
+                                                  "stop":  "2026-08-26T14:21:38.0000000Z",
+                                                  "itemId":  "031faf0da71af121647ff2d37294b07a",
+                                                  "poster":  "http://127.0.0.1:8096/Items/031faf0da71af121647ff2d37294b07a/Images/Primary",
+                                                  "description":  "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
+                                                  "year":  2004
                                               },
                                "upNext":  {
-                                              "title":  "Bourne Supremacy",
-                                              "start":  "2026-08-26T12:30:44.0000000Z",
-                                              "stop":  "2026-08-26T14:21:38.0000000Z",
-                                              "itemId":  "031faf0da71af121647ff2d37294b07a",
-                                              "poster":  "http://127.0.0.1:8096/Items/031faf0da71af121647ff2d37294b07a/Images/Primary",
-                                              "description":  "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
-                                              "year":  2004
+                                              "title":  "Get Shorty",
+                                              "start":  "2026-08-26T14:21:38.0000000Z",
+                                              "stop":  "2026-08-26T16:11:22.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Bourne Supremacy",
-                                                    "start":  "2026-08-26T12:30:44.0000000Z",
-                                                    "stop":  "2026-08-26T14:21:38.0000000Z",
-                                                    "itemId":  "031faf0da71af121647ff2d37294b07a",
-                                                    "poster":  "http://127.0.0.1:8096/Items/031faf0da71af121647ff2d37294b07a/Images/Primary",
-                                                    "description":  "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
-                                                    "year":  2004
-                                                },
                                                 {
                                                     "title":  "Get Shorty",
                                                     "start":  "2026-08-26T14:21:38.0000000Z",
@@ -473,33 +464,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Carrito",
-                                                  "start":  "2026-08-26T12:22:41.0000000Z",
-                                                  "stop":  "2026-08-26T12:30:19.0000000Z",
-                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                                  "title":  "Dancing Cobra",
+                                                  "start":  "2026-08-26T12:30:19.0000000Z",
+                                                  "stop":  "2026-08-26T12:31:25.0000000Z",
+                                                  "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                                  "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Dancing Cobra",
-                                              "start":  "2026-08-26T12:30:19.0000000Z",
-                                              "stop":  "2026-08-26T12:31:25.0000000Z",
-                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
+                                              "title":  "DnBaPCsht",
+                                              "start":  "2026-08-26T12:31:25.0000000Z",
+                                              "stop":  "2026-08-26T12:32:11.0000000Z",
+                                              "itemId":  "d2296bca99a831548bbada0bb3bac719",
+                                              "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Dancing Cobra",
-                                                    "start":  "2026-08-26T12:30:19.0000000Z",
-                                                    "stop":  "2026-08-26T12:31:25.0000000Z",
-                                                    "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-08-26T12:31:25.0000000Z",
@@ -562,6 +544,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "0Ld Sc00L",
+                                                    "start":  "2026-08-26T12:43:12.0000000Z",
+                                                    "stop":  "2026-08-26T12:44:01.0000000Z",
+                                                    "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
