@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-26T18:59:16.4076458Z",
+    "updated":  "2026-08-26T19:03:17.0792904Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -53,11 +53,29 @@
                                                 {
                                                     "title":  "Jacky Brown",
                                                     "start":  "2026-08-27T01:21:43.0000000Z",
-                                                    "stop":  "2026-08-27T03:56:04.0000000Z",
+                                                    "stop":  "2026-08-27T03:58:24.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "BATMAN BEGINS",
+                                                    "start":  "2026-08-27T03:58:24.0000000Z",
+                                                    "stop":  "2026-08-27T06:20:47.0000000Z",
+                                                    "itemId":  "40cf44019306b29674462340007b5e1a",
+                                                    "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
+                                                    "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+                                                    "year":  2005
+                                                },
+                                                {
+                                                    "title":  "Land of the Dead",
+                                                    "start":  "2026-08-27T06:20:47.0000000Z",
+                                                    "stop":  "2026-08-27T07:57:37.0000000Z",
+                                                    "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
+                                                    "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
+                                                    "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
+                                                    "year":  2005
                                                 }
                                             ]
                            },
@@ -113,7 +131,25 @@
                                                 {
                                                     "title":  "Wrong Turn",
                                                     "start":  "2026-08-27T02:24:58.0000000Z",
-                                                    "stop":  "2026-08-27T03:49:10.0000000Z",
+                                                    "stop":  "2026-08-27T03:54:47.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Resident Evil",
+                                                    "start":  "2026-08-27T03:54:47.0000000Z",
+                                                    "stop":  "2026-08-27T05:52:32.0000000Z",
+                                                    "itemId":  "760d913661074a3a3f5a58738842a2f8",
+                                                    "poster":  "http://127.0.0.1:8096/Items/760d913661074a3a3f5a58738842a2f8/Images/Primary",
+                                                    "description":  "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
+                                                    "year":  2002
+                                                },
+                                                {
+                                                    "title":  "D1_t00",
+                                                    "start":  "2026-08-27T05:52:32.0000000Z",
+                                                    "stop":  "2026-08-27T08:04:10.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -178,6 +214,24 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
                                                     "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
                                                     "year":  1987
+                                                },
+                                                {
+                                                    "title":  "ROBOCOP 2",
+                                                    "start":  "2026-08-27T03:35:28.0000000Z",
+                                                    "stop":  "2026-08-27T05:32:07.0000000Z",
+                                                    "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
+                                                    "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
+                                                    "year":  1990
+                                                },
+                                                {
+                                                    "title":  "ROBOCOP 3",
+                                                    "start":  "2026-08-27T05:32:07.0000000Z",
+                                                    "stop":  "2026-08-27T07:16:58.0000000Z",
+                                                    "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
+                                                    "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
+                                                    "year":  1993
                                                 }
                                             ]
                            },
@@ -247,6 +301,33 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
                                                     "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
                                                     "year":  2003
+                                                },
+                                                {
+                                                    "title":  "UP IN SMOKE",
+                                                    "start":  "2026-08-27T03:49:09.0000000Z",
+                                                    "stop":  "2026-08-27T05:14:59.0000000Z",
+                                                    "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
+                                                    "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
+                                                    "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
+                                                    "year":  1978
+                                                },
+                                                {
+                                                    "title":  "HALF BAKED",
+                                                    "start":  "2026-08-27T05:14:59.0000000Z",
+                                                    "stop":  "2026-08-27T06:37:05.0000000Z",
+                                                    "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
+                                                    "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
+                                                    "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
+                                                    "year":  1998
+                                                },
+                                                {
+                                                    "title":  "Get Shorty",
+                                                    "start":  "2026-08-27T06:37:05.0000000Z",
+                                                    "stop":  "2026-08-27T08:21:53.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
@@ -316,6 +397,33 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
                                                     "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
                                                     "year":  1981
+                                                },
+                                                {
+                                                    "title":  "Who Framed Roger Rabbit",
+                                                    "start":  "2026-08-27T03:35:12.0000000Z",
+                                                    "stop":  "2026-08-27T05:18:57.0000000Z",
+                                                    "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
+                                                    "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
+                                                    "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+                                                    "year":  1988
+                                                },
+                                                {
+                                                    "title":  "HEAVY METAL",
+                                                    "start":  "2026-08-27T05:18:57.0000000Z",
+                                                    "stop":  "2026-08-27T06:49:19.0000000Z",
+                                                    "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                                    "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                                    "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                                    "year":  1981
+                                                },
+                                                {
+                                                    "title":  "Who Framed Roger Rabbit",
+                                                    "start":  "2026-08-27T06:49:19.0000000Z",
+                                                    "stop":  "2026-08-27T08:33:04.0000000Z",
+                                                    "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
+                                                    "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
+                                                    "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+                                                    "year":  1988
                                                 }
                                             ]
                            },
@@ -367,6 +475,24 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Inside Man",
+                                                    "start":  "2026-08-27T03:13:15.0000000Z",
+                                                    "stop":  "2026-08-27T05:22:02.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Reservor Dogs",
+                                                    "start":  "2026-08-27T05:22:02.0000000Z",
+                                                    "stop":  "2026-08-27T07:01:07.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
@@ -376,7 +502,7 @@
                                "nowPlaying":  {
                                                   "title":  "Carrito",
                                                   "start":  "2026-08-26T18:56:18.0000000Z",
-                                                  "stop":  "2026-08-26T19:03:56.0000000Z",
+                                                  "stop":  "2026-08-26T19:05:20.0000000Z",
                                                   "itemId":  "ed83754111f4ed370a338cab8345534d",
                                                   "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
@@ -404,7 +530,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-08-26T19:05:02.0000000Z",
-                                                    "stop":  "2026-08-26T19:05:49.0000000Z",
+                                                    "stop":  "2026-08-26T19:06:00.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -413,7 +539,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-08-26T19:06:00.0000000Z",
-                                                    "stop":  "2026-08-26T19:07:09.0000000Z",
+                                                    "stop":  "2026-08-26T19:07:42.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -422,7 +548,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-08-26T19:07:42.0000000Z",
-                                                    "stop":  "2026-08-26T19:11:33.0000000Z",
+                                                    "stop":  "2026-08-26T19:14:42.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -440,7 +566,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-08-26T19:13:51.0000000Z",
-                                                    "stop":  "2026-08-26T19:14:33.0000000Z",
+                                                    "stop":  "2026-08-26T19:15:57.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -449,7 +575,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-08-26T19:14:33.0000000Z",
-                                                    "stop":  "2026-08-26T19:15:22.0000000Z",
+                                                    "stop":  "2026-08-26T19:16:46.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -458,7 +584,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-08-26T19:15:22.0000000Z",
-                                                    "stop":  "2026-08-26T19:16:50.0000000Z",
+                                                    "stop":  "2026-08-26T19:18:13.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
@@ -514,6 +640,24 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "The Count Monte Cristos",
+                                                    "start":  "2026-08-27T04:20:26.0000000Z",
+                                                    "stop":  "2026-08-27T06:31:41.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Young Guns",
+                                                    "start":  "2026-08-27T06:31:41.0000000Z",
+                                                    "stop":  "2026-08-27T08:18:27.0000000Z",
+                                                    "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
+                                                    "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
+                                                    "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
+                                                    "year":  1988
                                                 }
                                             ]
                            }
