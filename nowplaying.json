@@ -1,17 +1,5 @@
 {
-    "updated":  "2026-08-26T07:24:13.7490508Z",
-    "channels":  {
-                     "1":  {
-                               "number":  1,
-                               "name":  "FIRMELAB CINEMA",
-                               "nowPlaying":  {
-                                                  "title":  "Robocop",
-                                                  "start":  "2026-08-26T06:03:06.0000000Z",
-                                                  "stop":  "2026-08-26T08:00:00.0000000Z",
-                                                  "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
-                                                  "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
-                                                  "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company{
-    "updated":  "2026-08-26T07:24:13.7490508Z",
+    "updated":  "2026-08-26T07:25:18.8669170Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -530,24 +518,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "DnBaPCsht",
-                                              "start":  "2026-08-26T07:25:16.0000000Z",
-                                              "stop":  "2026-08-26T07:26:03.0000000Z",
-                                              "itemId":  "d2296bca99a831548bbada0bb3bac719",
-                                              "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
+                                              "title":  "Duende",
+                                              "start":  "2026-08-26T07:26:14.0000000Z",
+                                              "stop":  "2026-08-26T07:27:23.0000000Z",
+                                              "itemId":  "80d6feb8f0c835e935a80db3275c5412",
+                                              "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "DnBaPCsht",
-                                                    "start":  "2026-08-26T07:25:16.0000000Z",
-                                                    "stop":  "2026-08-26T07:26:03.0000000Z",
-                                                    "itemId":  "d2296bca99a831548bbada0bb3bac719",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-08-26T07:26:14.0000000Z",
@@ -608,6 +587,15 @@
                                                     "stop":  "2026-08-26T07:37:52.0000000Z",
                                                     "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
                                                     "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "After H0uRs",
+                                                    "start":  "2026-08-26T07:37:52.0000000Z",
+                                                    "stop":  "2026-08-26T07:44:45.0000000Z",
+                                                    "itemId":  "150bbae732cd647eeed3060cd67b032f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
