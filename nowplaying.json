@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-08-26T01:19:05.0741568Z",
+    "updated":  "2026-08-26T01:21:19.2497132Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "HALF BAKED",
-                                                  "start":  "2026-08-25T23:51:21.0000000Z",
-                                                  "stop":  "2026-08-26T01:20:25.0000000Z",
-                                                  "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
-                                                  "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
-                                                  "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
-                                                  "year":  1998
+                                                  "title":  "Master and Commander",
+                                                  "start":  "2026-08-26T01:20:25.0000000Z",
+                                                  "stop":  "2026-08-26T03:45:45.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Master and Commander",
-                                              "start":  "2026-08-26T01:20:25.0000000Z",
-                                              "stop":  "2026-08-26T03:45:45.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Conan The Barbarian",
+                                              "start":  "2026-08-26T03:45:45.0000000Z",
+                                              "stop":  "2026-08-26T06:03:06.0000000Z",
+                                              "itemId":  "d0a933c7f9688726a8f9a30f309399ad",
+                                              "poster":  "http://127.0.0.1:8096/Items/d0a933c7f9688726a8f9a30f309399ad/Images/Primary",
+                                              "description":  "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
+                                              "year":  1982
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Master and Commander",
-                                                    "start":  "2026-08-26T01:20:25.0000000Z",
-                                                    "stop":  "2026-08-26T03:45:45.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Conan The Barbarian",
                                                     "start":  "2026-08-26T03:45:45.0000000Z",
@@ -438,24 +429,15 @@
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  null,
                                "upNext":  {
-                                              "title":  "COKCE6139",
-                                              "start":  "2026-08-26T01:20:00.0000000Z",
-                                              "stop":  "2026-08-26T01:21:02.0000000Z",
-                                              "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
-                                              "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
+                                              "title":  "MrPayo",
+                                              "start":  "2026-08-26T01:22:11.0000000Z",
+                                              "stop":  "2026-08-26T01:22:54.0000000Z",
+                                              "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
+                                              "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "COKCE6139",
-                                                    "start":  "2026-08-26T01:20:00.0000000Z",
-                                                    "stop":  "2026-08-26T01:21:02.0000000Z",
-                                                    "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "MrPayo",
                                                     "start":  "2026-08-26T01:22:11.0000000Z",
@@ -516,6 +498,15 @@
                                                     "stop":  "2026-08-26T01:37:30.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "JamminG",
+                                                    "start":  "2026-08-26T01:38:02.0000000Z",
+                                                    "stop":  "2026-08-26T01:41:54.0000000Z",
+                                                    "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                                    "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
