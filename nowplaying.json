@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-27T23:51:05.4219353Z",
+    "updated":  "2026-08-27T23:52:05.4063616Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -413,33 +413,24 @@
                                "number":  6,
                                "name":  "FIRMELAB CRIME",
                                "nowPlaying":  {
-                                                  "title":  "Carlitos Way",
-                                                  "start":  "2026-08-27T21:27:23.0000000Z",
-                                                  "stop":  "2026-08-27T23:51:33.0000000Z",
+                                                  "title":  "Jacky Brown",
+                                                  "start":  "2026-08-27T23:51:33.0000000Z",
+                                                  "stop":  "2026-08-28T02:25:54.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Jacky Brown",
-                                              "start":  "2026-08-27T23:51:33.0000000Z",
-                                              "stop":  "2026-08-28T02:25:54.0000000Z",
+                                              "title":  "Inside Man",
+                                              "start":  "2026-08-28T02:25:54.0000000Z",
+                                              "stop":  "2026-08-28T04:34:41.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Jacky Brown",
-                                                    "start":  "2026-08-27T23:51:33.0000000Z",
-                                                    "stop":  "2026-08-28T02:25:54.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Inside Man",
                                                     "start":  "2026-08-28T02:25:54.0000000Z",
