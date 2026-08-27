@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-27T12:00:20.7142580Z",
+    "updated":  "2026-08-27T12:01:16.6459438Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -491,33 +491,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Ninja Now",
-                                                  "start":  "2026-08-27T11:59:46.0000000Z",
-                                                  "stop":  "2026-08-27T12:00:28.0000000Z",
-                                                  "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                  "title":  "SSBI4649",
+                                                  "start":  "2026-08-27T12:00:28.0000000Z",
+                                                  "stop":  "2026-08-27T12:06:53.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "SSBI4649",
-                                              "start":  "2026-08-27T12:00:28.0000000Z",
-                                              "stop":  "2026-08-27T12:06:53.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
+                                              "title":  "Arnold Dynamite",
+                                              "start":  "2026-08-27T12:01:17.0000000Z",
+                                              "stop":  "2026-08-27T12:05:15.0000000Z",
+                                              "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
+                                              "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                               "description":  null,
-                                              "year":  null
+                                              "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "SSBI4649",
-                                                    "start":  "2026-08-27T12:00:28.0000000Z",
-                                                    "stop":  "2026-08-27T12:06:53.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-08-27T12:01:17.0000000Z",
@@ -578,6 +569,15 @@
                                                     "stop":  "2026-08-27T12:19:40.0000000Z",
                                                     "itemId":  "56c94066e018711311e81d6a3f6cc139",
                                                     "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "T2",
+                                                    "start":  "2026-08-27T12:13:47.0000000Z",
+                                                    "stop":  "2026-08-27T12:21:46.0000000Z",
+                                                    "itemId":  "1315943017e226076a7899408d36dec5",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
