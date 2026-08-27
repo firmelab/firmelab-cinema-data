@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-27T01:22:22.6799291Z",
+    "updated":  "2026-08-27T01:23:08.2553214Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -507,33 +507,24 @@
                                "number":  8,
                                "name":  "FIRMELAB FRONTIER",
                                "nowPlaying":  {
-                                                  "title":  "Master and Commander",
-                                                  "start":  "2026-08-26T23:04:25.0000000Z",
-                                                  "stop":  "2026-08-27T01:22:46.0000000Z",
+                                                  "title":  "Brave Heart",
+                                                  "start":  "2026-08-27T01:22:46.0000000Z",
+                                                  "stop":  "2026-08-27T04:20:26.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Brave Heart",
-                                              "start":  "2026-08-27T01:22:46.0000000Z",
-                                              "stop":  "2026-08-27T04:20:26.0000000Z",
+                                              "title":  "The Count Monte Cristos",
+                                              "start":  "2026-08-27T04:20:26.0000000Z",
+                                              "stop":  "2026-08-27T06:31:41.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Brave Heart",
-                                                    "start":  "2026-08-27T01:22:46.0000000Z",
-                                                    "stop":  "2026-08-27T04:20:26.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "The Count Monte Cristos",
                                                     "start":  "2026-08-27T04:20:26.0000000Z",
