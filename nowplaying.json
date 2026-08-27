@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-08-27T01:21:21.2965468Z",
+    "updated":  "2026-08-27T01:22:22.6799291Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "BORDELLO OF BLOOD",
-                                                  "start":  "2026-08-26T23:52:50.0000000Z",
-                                                  "stop":  "2026-08-27T01:21:43.0000000Z",
-                                                  "itemId":  "ac85abbdb1ae910fd14d0f372cb6981b",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ac85abbdb1ae910fd14d0f372cb6981b/Images/Primary",
-                                                  "description":  "Private eye Rafe Guttman is hired by repressed, born-again Katherine to find her missing bad-boy brother. The trail leads him to a whorehouse run by a thousand-year-old vampire and secretly backed by Katherine\u0027s boss, televangelist Jimmy Current.",
-                                                  "year":  1996
+                                                  "title":  "Jacky Brown",
+                                                  "start":  "2026-08-27T01:21:43.0000000Z",
+                                                  "stop":  "2026-08-27T03:58:24.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Jacky Brown",
-                                              "start":  "2026-08-27T01:21:43.0000000Z",
-                                              "stop":  "2026-08-27T03:58:24.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "BATMAN BEGINS",
+                                              "start":  "2026-08-27T03:58:24.0000000Z",
+                                              "stop":  "2026-08-27T06:20:47.0000000Z",
+                                              "itemId":  "40cf44019306b29674462340007b5e1a",
+                                              "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
+                                              "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+                                              "year":  2005
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Jacky Brown",
-                                                    "start":  "2026-08-27T01:21:43.0000000Z",
-                                                    "stop":  "2026-08-27T03:58:24.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "BATMAN BEGINS",
                                                     "start":  "2026-08-27T03:58:24.0000000Z",
@@ -427,15 +418,7 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "XocoBruja",
-                                                  "start":  "2026-08-27T01:20:32.0000000Z",
-                                                  "stop":  "2026-08-27T01:22:01.0000000Z",
-                                                  "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
-                                                  "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
-                                                  "description":  null,
-                                                  "year":  2026
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
                                               "title":  "COKCE6139",
                                               "start":  "2026-08-27T01:23:17.0000000Z",
