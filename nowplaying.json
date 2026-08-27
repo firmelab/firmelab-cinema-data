@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-27T05:13:53.5233714Z",
+    "updated":  "2026-08-27T05:17:36.7806572Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -221,33 +221,24 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "UP IN SMOKE",
-                                                  "start":  "2026-08-27T03:49:09.0000000Z",
-                                                  "stop":  "2026-08-27T05:14:59.0000000Z",
-                                                  "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
-                                                  "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
-                                                  "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
-                                                  "year":  1978
+                                                  "title":  "HALF BAKED",
+                                                  "start":  "2026-08-27T05:14:59.0000000Z",
+                                                  "stop":  "2026-08-27T06:37:05.0000000Z",
+                                                  "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
+                                                  "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
+                                                  "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
+                                                  "year":  1998
                                               },
                                "upNext":  {
-                                              "title":  "HALF BAKED",
-                                              "start":  "2026-08-27T05:14:59.0000000Z",
-                                              "stop":  "2026-08-27T06:37:05.0000000Z",
-                                              "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
-                                              "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
-                                              "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
-                                              "year":  1998
+                                              "title":  "Get Shorty",
+                                              "start":  "2026-08-27T06:37:05.0000000Z",
+                                              "stop":  "2026-08-27T08:21:53.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "HALF BAKED",
-                                                    "start":  "2026-08-27T05:14:59.0000000Z",
-                                                    "stop":  "2026-08-27T06:37:05.0000000Z",
-                                                    "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
-                                                    "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
-                                                    "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
-                                                    "year":  1998
-                                                },
                                                 {
                                                     "title":  "Get Shorty",
                                                     "start":  "2026-08-27T06:37:05.0000000Z",
@@ -455,42 +446,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Carrito",
-                                                  "start":  "2026-08-27T05:08:36.0000000Z",
-                                                  "stop":  "2026-08-27T05:16:14.0000000Z",
-                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                                  "title":  "DnBaPCsht",
+                                                  "start":  "2026-08-27T05:17:20.0000000Z",
+                                                  "stop":  "2026-08-27T05:18:07.0000000Z",
+                                                  "itemId":  "d2296bca99a831548bbada0bb3bac719",
+                                                  "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Dancing Cobra",
-                                              "start":  "2026-08-27T05:16:14.0000000Z",
-                                              "stop":  "2026-08-27T05:17:20.0000000Z",
-                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
+                                              "title":  "Duende",
+                                              "start":  "2026-08-27T05:18:18.0000000Z",
+                                              "stop":  "2026-08-27T05:19:27.0000000Z",
+                                              "itemId":  "80d6feb8f0c835e935a80db3275c5412",
+                                              "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Dancing Cobra",
-                                                    "start":  "2026-08-27T05:16:14.0000000Z",
-                                                    "stop":  "2026-08-27T05:17:20.0000000Z",
-                                                    "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
-                                                    "title":  "DnBaPCsht",
-                                                    "start":  "2026-08-27T05:17:20.0000000Z",
-                                                    "stop":  "2026-08-27T05:18:07.0000000Z",
-                                                    "itemId":  "d2296bca99a831548bbada0bb3bac719",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-08-27T05:18:18.0000000Z",
@@ -544,6 +517,24 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "0Ld Sc00L",
+                                                    "start":  "2026-08-27T05:29:08.0000000Z",
+                                                    "stop":  "2026-08-27T05:29:56.0000000Z",
+                                                    "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "After H0uRs",
+                                                    "start":  "2026-08-27T05:29:56.0000000Z",
+                                                    "stop":  "2026-08-27T05:30:45.0000000Z",
+                                                    "itemId":  "150bbae732cd647eeed3060cd67b032f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
