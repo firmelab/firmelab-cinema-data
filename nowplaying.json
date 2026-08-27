@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-27T00:38:10.4261673Z",
+    "updated":  "2026-08-27T00:39:10.7978706Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -377,33 +377,24 @@
                                "number":  6,
                                "name":  "FIRMELAB CRIME",
                                "nowPlaying":  {
-                                                  "title":  "Carlitos Way",
-                                                  "start":  "2026-08-26T22:14:44.0000000Z",
-                                                  "stop":  "2026-08-27T00:38:54.0000000Z",
+                                                  "title":  "Jacky Brown",
+                                                  "start":  "2026-08-27T00:38:54.0000000Z",
+                                                  "stop":  "2026-08-27T03:13:15.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Jacky Brown",
-                                              "start":  "2026-08-27T00:38:54.0000000Z",
-                                              "stop":  "2026-08-27T03:13:15.0000000Z",
+                                              "title":  "Inside Man",
+                                              "start":  "2026-08-27T03:13:15.0000000Z",
+                                              "stop":  "2026-08-27T05:22:02.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Jacky Brown",
-                                                    "start":  "2026-08-27T00:38:54.0000000Z",
-                                                    "stop":  "2026-08-27T03:13:15.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Inside Man",
                                                     "start":  "2026-08-27T03:13:15.0000000Z",
@@ -445,15 +436,7 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "XocoBruja",
-                                                  "start":  "2026-08-27T00:36:48.0000000Z",
-                                                  "stop":  "2026-08-27T00:38:16.0000000Z",
-                                                  "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
-                                                  "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
-                                                  "description":  null,
-                                                  "year":  2026
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
                                               "title":  "COKCE6139",
                                               "start":  "2026-08-27T00:39:33.0000000Z",
