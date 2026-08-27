@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-27T17:18:07.0142345Z",
+    "updated":  "2026-08-27T17:19:07.0664808Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -152,33 +152,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Brightburn",
-                                                  "start":  "2026-08-27T15:48:09.0000000Z",
-                                                  "stop":  "2026-08-27T17:18:39.0000000Z",
-                                                  "itemId":  "a562e465a7ff31b0113aee613a779bf2",
-                                                  "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
-                                                  "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
-                                                  "year":  2019
+                                                  "title":  "Commando",
+                                                  "start":  "2026-08-27T17:18:39.0000000Z",
+                                                  "stop":  "2026-08-27T18:48:52.0000000Z",
+                                                  "itemId":  "4d57925cf6d4f5a046509bad0a68d29f",
+                                                  "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
+                                                  "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
+                                                  "year":  1985
                                               },
                                "upNext":  {
-                                              "title":  "Commando",
-                                              "start":  "2026-08-27T17:18:39.0000000Z",
-                                              "stop":  "2026-08-27T18:48:52.0000000Z",
-                                              "itemId":  "4d57925cf6d4f5a046509bad0a68d29f",
-                                              "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
-                                              "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
-                                              "year":  1985
+                                              "title":  "Conan The Barbarian",
+                                              "start":  "2026-08-27T18:48:52.0000000Z",
+                                              "stop":  "2026-08-27T20:59:14.0000000Z",
+                                              "itemId":  "d0a933c7f9688726a8f9a30f309399ad",
+                                              "poster":  "http://127.0.0.1:8096/Items/d0a933c7f9688726a8f9a30f309399ad/Images/Primary",
+                                              "description":  "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
+                                              "year":  1982
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Commando",
-                                                    "start":  "2026-08-27T17:18:39.0000000Z",
-                                                    "stop":  "2026-08-27T18:48:52.0000000Z",
-                                                    "itemId":  "4d57925cf6d4f5a046509bad0a68d29f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
-                                                    "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
-                                                    "year":  1985
-                                                },
                                                 {
                                                     "title":  "Conan The Barbarian",
                                                     "start":  "2026-08-27T18:48:52.0000000Z",
@@ -454,26 +445,25 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  null,
+                               "nowPlaying":  {
+                                                  "title":  "Mr J-Carry",
+                                                  "start":  "2026-08-27T17:19:00.0000000Z",
+                                                  "stop":  "2026-08-27T17:19:32.0000000Z",
+                                                  "itemId":  "56c94066e018711311e81d6a3f6cc139",
+                                                  "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
+                                                  "description":  null,
+                                                  "year":  2026
+                                              },
                                "upNext":  {
-                                              "title":  "Mr J-Carry",
-                                              "start":  "2026-08-27T17:19:00.0000000Z",
-                                              "stop":  "2026-08-27T17:19:32.0000000Z",
-                                              "itemId":  "56c94066e018711311e81d6a3f6cc139",
-                                              "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
+                                              "title":  "T2",
+                                              "start":  "2026-08-27T17:19:56.0000000Z",
+                                              "stop":  "2026-08-27T17:20:28.0000000Z",
+                                              "itemId":  "1315943017e226076a7899408d36dec5",
+                                              "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Mr J-Carry",
-                                                    "start":  "2026-08-27T17:19:00.0000000Z",
-                                                    "stop":  "2026-08-27T17:19:32.0000000Z",
-                                                    "itemId":  "56c94066e018711311e81d6a3f6cc139",
-                                                    "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "T2",
                                                     "start":  "2026-08-27T17:19:56.0000000Z",
@@ -534,6 +524,15 @@
                                                     "stop":  "2026-08-27T17:32:01.0000000Z",
                                                     "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
                                                     "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Carrito",
+                                                    "start":  "2026-08-27T17:32:06.0000000Z",
+                                                    "stop":  "2026-08-27T17:39:45.0000000Z",
+                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
