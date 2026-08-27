@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-27T10:24:08.5997857Z",
+    "updated":  "2026-08-27T10:25:15.0202719Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -74,33 +74,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "World War Z",
-                                                  "start":  "2026-08-27T08:09:47.0000000Z",
-                                                  "stop":  "2026-08-27T10:24:13.0000000Z",
-                                                  "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
-                                                  "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                                  "year":  2013
+                                                  "title":  "Land of the Dead",
+                                                  "start":  "2026-08-27T10:24:13.0000000Z",
+                                                  "stop":  "2026-08-27T12:06:41.0000000Z",
+                                                  "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
+                                                  "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
+                                                  "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
+                                                  "year":  2005
                                               },
                                "upNext":  {
-                                              "title":  "Land of the Dead",
-                                              "start":  "2026-08-27T10:24:13.0000000Z",
-                                              "stop":  "2026-08-27T12:06:41.0000000Z",
-                                              "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
-                                              "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
-                                              "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
-                                              "year":  2005
+                                              "title":  "Boogeyman",
+                                              "start":  "2026-08-27T12:06:41.0000000Z",
+                                              "stop":  "2026-08-27T13:41:08.0000000Z",
+                                              "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
+                                              "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
+                                              "description":  null,
+                                              "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Land of the Dead",
-                                                    "start":  "2026-08-27T10:24:13.0000000Z",
-                                                    "stop":  "2026-08-27T12:06:41.0000000Z",
-                                                    "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
-                                                    "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
-                                                    "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
-                                                    "year":  2005
-                                                },
                                                 {
                                                     "title":  "Boogeyman",
                                                     "start":  "2026-08-27T12:06:41.0000000Z",
@@ -410,33 +401,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "DnBaPCsht",
-                                                  "start":  "2026-08-27T10:23:29.0000000Z",
-                                                  "stop":  "2026-08-27T10:24:16.0000000Z",
-                                                  "itemId":  "d2296bca99a831548bbada0bb3bac719",
-                                                  "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
+                                                  "title":  "Duende",
+                                                  "start":  "2026-08-27T10:24:27.0000000Z",
+                                                  "stop":  "2026-08-27T10:25:36.0000000Z",
+                                                  "itemId":  "80d6feb8f0c835e935a80db3275c5412",
+                                                  "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Duende",
-                                              "start":  "2026-08-27T10:24:27.0000000Z",
-                                              "stop":  "2026-08-27T10:25:36.0000000Z",
-                                              "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                              "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                              "title":  "JamminG",
+                                              "start":  "2026-08-27T10:26:09.0000000Z",
+                                              "stop":  "2026-08-27T10:30:00.0000000Z",
+                                              "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                              "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Duende",
-                                                    "start":  "2026-08-27T10:24:27.0000000Z",
-                                                    "stop":  "2026-08-27T10:25:36.0000000Z",
-                                                    "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                                    "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-08-27T10:26:09.0000000Z",
@@ -499,6 +481,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Ass Kicker Bruce",
+                                                    "start":  "2026-08-27T10:36:54.0000000Z",
+                                                    "stop":  "2026-08-27T10:42:50.0000000Z",
+                                                    "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
