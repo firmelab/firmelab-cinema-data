@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-27T15:56:06.7139175Z",
+    "updated":  "2026-08-27T15:57:06.8859472Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -491,11 +491,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Biggie Mobbing",
-                                                  "start":  "2026-08-27T15:48:59.0000000Z",
-                                                  "stop":  "2026-08-27T15:56:44.0000000Z",
-                                                  "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
+                                                  "title":  "Mr J-Carry",
+                                                  "start":  "2026-08-27T15:51:31.0000000Z",
+                                                  "stop":  "2026-08-27T15:58:32.0000000Z",
+                                                  "itemId":  "56c94066e018711311e81d6a3f6cc139",
+                                                  "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
