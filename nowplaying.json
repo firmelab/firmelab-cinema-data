@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-27T23:01:05.2951606Z",
+    "updated":  "2026-08-27T23:02:05.4088216Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -500,13 +500,13 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "After H0uRs",
-                                                  "start":  "2026-08-27T22:59:35.0000000Z",
-                                                  "stop":  "2026-08-27T23:01:48.0000000Z",
-                                                  "itemId":  "150bbae732cd647eeed3060cd67b032f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
+                                                  "title":  "Ass Kicker Bruce",
+                                                  "start":  "2026-08-27T23:00:24.0000000Z",
+                                                  "stop":  "2026-08-27T23:06:20.0000000Z",
+                                                  "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
+                                                  "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
                                               "title":  "Biggie Mobbing",
@@ -596,33 +596,24 @@
                                "number":  8,
                                "name":  "FIRMELAB FRONTIER",
                                "nowPlaying":  {
-                                                  "title":  "The Patriot",
-                                                  "start":  "2026-08-27T20:17:15.0000000Z",
-                                                  "stop":  "2026-08-27T23:02:02.0000000Z",
-                                                  "itemId":  "17b673273650da7e33ae51350e123fb0",
-                                                  "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
+                                                  "title":  "Master and Commander",
+                                                  "start":  "2026-08-27T23:02:02.0000000Z",
+                                                  "stop":  "2026-08-28T01:20:23.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Master and Commander",
-                                              "start":  "2026-08-27T23:02:02.0000000Z",
-                                              "stop":  "2026-08-28T01:20:23.0000000Z",
+                                              "title":  "Brave Heart",
+                                              "start":  "2026-08-28T01:20:23.0000000Z",
+                                              "stop":  "2026-08-28T04:18:03.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Master and Commander",
-                                                    "start":  "2026-08-27T23:02:02.0000000Z",
-                                                    "stop":  "2026-08-28T01:20:23.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Brave Heart",
                                                     "start":  "2026-08-28T01:20:23.0000000Z",
