@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-28T15:30:14.0230360Z",
+    "updated":  "2026-08-28T15:31:10.8081739Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -74,33 +74,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Resident Evil- Apocalypse",
-                                                  "start":  "2026-08-28T13:50:56.0000000Z",
-                                                  "stop":  "2026-08-28T15:30:16.0000000Z",
+                                                  "title":  "Wrong Turn",
+                                                  "start":  "2026-08-28T15:30:16.0000000Z",
+                                                  "stop":  "2026-08-28T17:00:00.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Wrong Turn",
-                                              "start":  "2026-08-28T15:30:16.0000000Z",
-                                              "stop":  "2026-08-28T17:00:00.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Resident Evil",
+                                              "start":  "2026-08-28T17:00:00.0000000Z",
+                                              "stop":  "2026-08-28T18:43:56.0000000Z",
+                                              "itemId":  "760d913661074a3a3f5a58738842a2f8",
+                                              "poster":  "http://127.0.0.1:8096/Items/760d913661074a3a3f5a58738842a2f8/Images/Primary",
+                                              "description":  "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
+                                              "year":  2002
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Wrong Turn",
-                                                    "start":  "2026-08-28T15:30:16.0000000Z",
-                                                    "stop":  "2026-08-28T17:00:00.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Resident Evil",
                                                     "start":  "2026-08-28T17:00:00.0000000Z",
