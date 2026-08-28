@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-08-28T11:04:10.8816920Z",
+    "updated":  "2026-08-28T11:05:10.0972722Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Undercover Brother",
-                                                  "start":  "2026-08-28T09:36:06.0000000Z",
-                                                  "stop":  "2026-08-28T11:04:31.0000000Z",
-                                                  "itemId":  "6317b8f6b30a049091764b8311c08279",
-                                                  "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
-                                                  "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
-                                                  "year":  2002
+                                                  "title":  "DEATH PROOF",
+                                                  "start":  "2026-08-28T11:04:31.0000000Z",
+                                                  "stop":  "2026-08-28T13:00:23.0000000Z",
+                                                  "itemId":  "5220d04d46ddf5fa55aacae5d4916919",
+                                                  "poster":  "http://127.0.0.1:8096/Items/5220d04d46ddf5fa55aacae5d4916919/Images/Primary",
+                                                  "description":  "Austin\u0027s hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
+                                                  "year":  2007
                                               },
                                "upNext":  {
-                                              "title":  "DEATH PROOF",
-                                              "start":  "2026-08-28T11:04:31.0000000Z",
-                                              "stop":  "2026-08-28T13:00:23.0000000Z",
-                                              "itemId":  "5220d04d46ddf5fa55aacae5d4916919",
-                                              "poster":  "http://127.0.0.1:8096/Items/5220d04d46ddf5fa55aacae5d4916919/Images/Primary",
-                                              "description":  "Austin\u0027s hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
-                                              "year":  2007
+                                              "title":  "Conan The Barbarian",
+                                              "start":  "2026-08-28T13:00:23.0000000Z",
+                                              "stop":  "2026-08-28T15:13:04.0000000Z",
+                                              "itemId":  "d0a933c7f9688726a8f9a30f309399ad",
+                                              "poster":  "http://127.0.0.1:8096/Items/d0a933c7f9688726a8f9a30f309399ad/Images/Primary",
+                                              "description":  "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
+                                              "year":  1982
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "DEATH PROOF",
-                                                    "start":  "2026-08-28T11:04:31.0000000Z",
-                                                    "stop":  "2026-08-28T13:00:23.0000000Z",
-                                                    "itemId":  "5220d04d46ddf5fa55aacae5d4916919",
-                                                    "poster":  "http://127.0.0.1:8096/Items/5220d04d46ddf5fa55aacae5d4916919/Images/Primary",
-                                                    "description":  "Austin\u0027s hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
-                                                    "year":  2007
-                                                },
                                                 {
                                                     "title":  "Conan The Barbarian",
                                                     "start":  "2026-08-28T13:00:23.0000000Z",
