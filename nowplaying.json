@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-28T04:10:06.0374019Z",
+    "updated":  "2026-08-28T04:11:06.1910973Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -464,13 +464,13 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "0Ld Sc00L",
-                                                  "start":  "2026-08-28T04:04:56.0000000Z",
-                                                  "stop":  "2026-08-28T04:10:36.0000000Z",
-                                                  "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
-                                                  "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                  "title":  "Ass Kicker Bruce",
+                                                  "start":  "2026-08-28T04:06:33.0000000Z",
+                                                  "stop":  "2026-08-28T04:12:29.0000000Z",
+                                                  "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
+                                                  "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
                                               "title":  "Biggie Mobbing",
