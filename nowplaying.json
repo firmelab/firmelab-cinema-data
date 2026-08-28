@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-28T20:08:07.1733452Z",
+    "updated":  "2026-08-28T20:09:06.2057666Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -326,33 +326,24 @@
                                "number":  5,
                                "name":  "FIRMELAB TOONS",
                                "nowPlaying":  {
-                                                  "title":  "Who Framed Roger Rabbit",
-                                                  "start":  "2026-08-28T18:24:37.0000000Z",
-                                                  "stop":  "2026-08-28T20:08:22.0000000Z",
-                                                  "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
-                                                  "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
-                                                  "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
-                                                  "year":  1988
+                                                  "title":  "HEAVY METAL",
+                                                  "start":  "2026-08-28T20:08:22.0000000Z",
+                                                  "stop":  "2026-08-28T21:38:44.0000000Z",
+                                                  "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                                  "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                                  "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                                  "year":  1981
                                               },
                                "upNext":  {
-                                              "title":  "HEAVY METAL",
-                                              "start":  "2026-08-28T20:08:22.0000000Z",
-                                              "stop":  "2026-08-28T21:38:44.0000000Z",
-                                              "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
-                                              "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
-                                              "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
-                                              "year":  1981
+                                              "title":  "Who Framed Roger Rabbit",
+                                              "start":  "2026-08-28T21:38:44.0000000Z",
+                                              "stop":  "2026-08-28T23:22:30.0000000Z",
+                                              "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
+                                              "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
+                                              "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+                                              "year":  1988
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "HEAVY METAL",
-                                                    "start":  "2026-08-28T20:08:22.0000000Z",
-                                                    "stop":  "2026-08-28T21:38:44.0000000Z",
-                                                    "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
-                                                    "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
-                                                    "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
-                                                    "year":  1981
-                                                },
                                                 {
                                                     "title":  "Who Framed Roger Rabbit",
                                                     "start":  "2026-08-28T21:38:44.0000000Z",
@@ -491,24 +482,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Ass Kicker Bruce",
-                                              "start":  "2026-08-28T20:08:44.0000000Z",
-                                              "stop":  "2026-08-28T20:18:17.0000000Z",
-                                              "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
-                                              "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                              "title":  "Biggie Mobbing",
+                                              "start":  "2026-08-28T20:14:40.0000000Z",
+                                              "stop":  "2026-08-28T20:21:38.0000000Z",
+                                              "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
+                                              "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Ass Kicker Bruce",
-                                                    "start":  "2026-08-28T20:08:44.0000000Z",
-                                                    "stop":  "2026-08-28T20:18:17.0000000Z",
-                                                    "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-08-28T20:14:40.0000000Z",
@@ -571,6 +553,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "MrPayo",
+                                                    "start":  "2026-08-28T20:25:52.0000000Z",
+                                                    "stop":  "2026-08-28T20:26:35.0000000Z",
+                                                    "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
+                                                    "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
