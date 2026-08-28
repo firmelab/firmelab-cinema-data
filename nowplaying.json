@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-28T22:46:06.4718726Z",
+    "updated":  "2026-08-28T22:47:06.4874985Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -65,33 +65,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Land of the Dead",
-                                                  "start":  "2026-08-28T21:06:15.0000000Z",
-                                                  "stop":  "2026-08-28T22:46:31.0000000Z",
-                                                  "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
-                                                  "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
-                                                  "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
-                                                  "year":  2005
+                                                  "title":  "Underworld Evolution",
+                                                  "start":  "2026-08-28T22:46:31.0000000Z",
+                                                  "stop":  "2026-08-29T00:40:00.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Underworld Evolution",
-                                              "start":  "2026-08-28T22:46:31.0000000Z",
-                                              "stop":  "2026-08-29T00:40:00.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Dawn of the Dead",
+                                              "start":  "2026-08-29T00:40:00.0000000Z",
+                                              "stop":  "2026-08-29T02:32:39.0000000Z",
+                                              "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
+                                              "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
+                                              "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
+                                              "year":  2004
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Underworld Evolution",
-                                                    "start":  "2026-08-28T22:46:31.0000000Z",
-                                                    "stop":  "2026-08-29T00:40:00.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Dawn of the Dead",
                                                     "start":  "2026-08-29T00:40:00.0000000Z",
