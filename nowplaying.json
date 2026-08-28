@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-28T11:56:11.1427963Z",
+    "updated":  "2026-08-28T11:57:09.9280571Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -74,33 +74,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Boogeyman",
-                                                  "start":  "2026-08-28T10:21:52.0000000Z",
-                                                  "stop":  "2026-08-28T11:56:14.0000000Z",
-                                                  "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
-                                                  "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
-                                                  "description":  null,
-                                                  "year":  2026
+                                                  "title":  "Dawn of the Dead",
+                                                  "start":  "2026-08-28T11:56:14.0000000Z",
+                                                  "stop":  "2026-08-28T13:50:56.0000000Z",
+                                                  "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
+                                                  "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
+                                                  "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
+                                                  "year":  2004
                                               },
                                "upNext":  {
-                                              "title":  "Dawn of the Dead",
-                                              "start":  "2026-08-28T11:56:14.0000000Z",
-                                              "stop":  "2026-08-28T13:50:56.0000000Z",
-                                              "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
-                                              "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
-                                              "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
-                                              "year":  2004
+                                              "title":  "Resident Evil- Apocalypse",
+                                              "start":  "2026-08-28T13:50:56.0000000Z",
+                                              "stop":  "2026-08-28T15:30:16.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Dawn of the Dead",
-                                                    "start":  "2026-08-28T11:56:14.0000000Z",
-                                                    "stop":  "2026-08-28T13:50:56.0000000Z",
-                                                    "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
-                                                    "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
-                                                    "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
-                                                    "year":  2004
-                                                },
                                                 {
                                                     "title":  "Resident Evil- Apocalypse",
                                                     "start":  "2026-08-28T13:50:56.0000000Z",
@@ -317,33 +308,24 @@
                                "number":  5,
                                "name":  "FIRMELAB TOONS",
                                "nowPlaying":  {
-                                                  "title":  "HEAVY METAL",
-                                                  "start":  "2026-08-28T10:26:01.0000000Z",
-                                                  "stop":  "2026-08-28T11:56:23.0000000Z",
-                                                  "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
-                                                  "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
-                                                  "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
-                                                  "year":  1981
+                                                  "title":  "Who Framed Roger Rabbit",
+                                                  "start":  "2026-08-28T11:56:23.0000000Z",
+                                                  "stop":  "2026-08-28T13:40:08.0000000Z",
+                                                  "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
+                                                  "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
+                                                  "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+                                                  "year":  1988
                                               },
                                "upNext":  {
-                                              "title":  "Who Framed Roger Rabbit",
-                                              "start":  "2026-08-28T11:56:23.0000000Z",
-                                              "stop":  "2026-08-28T13:40:08.0000000Z",
-                                              "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
-                                              "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
-                                              "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
-                                              "year":  1988
+                                              "title":  "HEAVY METAL",
+                                              "start":  "2026-08-28T13:40:08.0000000Z",
+                                              "stop":  "2026-08-28T15:10:30.0000000Z",
+                                              "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                              "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                              "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                              "year":  1981
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Who Framed Roger Rabbit",
-                                                    "start":  "2026-08-28T11:56:23.0000000Z",
-                                                    "stop":  "2026-08-28T13:40:08.0000000Z",
-                                                    "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
-                                                    "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
-                                                    "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
-                                                    "year":  1988
-                                                },
                                                 {
                                                     "title":  "HEAVY METAL",
                                                     "start":  "2026-08-28T13:40:08.0000000Z",
@@ -473,24 +455,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "JamminG",
-                                              "start":  "2026-08-28T11:56:54.0000000Z",
-                                              "stop":  "2026-08-28T12:00:45.0000000Z",
-                                              "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
-                                              "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
+                                              "title":  "Never 3Nding",
+                                              "start":  "2026-08-28T12:00:51.0000000Z",
+                                              "stop":  "2026-08-28T12:08:39.0000000Z",
+                                              "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                              "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                               "description":  null,
-                                              "year":  null
+                                              "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "JamminG",
-                                                    "start":  "2026-08-28T11:56:54.0000000Z",
-                                                    "stop":  "2026-08-28T12:00:45.0000000Z",
-                                                    "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
-                                                    "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-08-28T12:00:51.0000000Z",
@@ -551,6 +524,15 @@
                                                     "stop":  "2026-08-28T12:17:12.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Biggie Mobbing",
+                                                    "start":  "2026-08-28T12:13:35.0000000Z",
+                                                    "stop":  "2026-08-28T12:20:33.0000000Z",
+                                                    "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
