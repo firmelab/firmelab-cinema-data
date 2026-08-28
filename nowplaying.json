@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-08-28T04:41:18.9554271Z",
+    "updated":  "2026-08-28T04:42:06.4159750Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "John Wick",
-                                                  "start":  "2026-08-28T02:59:03.0000000Z",
-                                                  "stop":  "2026-08-28T04:41:47.0000000Z",
-                                                  "itemId":  "84b70d75a3d957b57b02cf83796504a8",
-                                                  "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
-                                                  "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
-                                                  "year":  2014
+                                                  "title":  "Boogeyman",
+                                                  "start":  "2026-08-28T04:41:47.0000000Z",
+                                                  "stop":  "2026-08-28T06:12:06.0000000Z",
+                                                  "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
+                                                  "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
+                                                  "description":  null,
+                                                  "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Boogeyman",
-                                              "start":  "2026-08-28T04:41:47.0000000Z",
-                                              "stop":  "2026-08-28T06:12:06.0000000Z",
-                                              "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
-                                              "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
+                                              "title":  "Underworld Evolution",
+                                              "start":  "2026-08-28T06:12:06.0000000Z",
+                                              "stop":  "2026-08-28T08:00:00.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Boogeyman",
-                                                    "start":  "2026-08-28T04:41:47.0000000Z",
-                                                    "stop":  "2026-08-28T06:12:06.0000000Z",
-                                                    "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
-                                                    "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Underworld Evolution",
                                                     "start":  "2026-08-28T06:12:06.0000000Z",
