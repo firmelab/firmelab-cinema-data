@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-29T15:00:06.4967184Z",
+    "updated":  "2026-08-29T15:01:07.3776845Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -53,7 +53,16 @@
                                                 {
                                                     "title":  "The Count Monte Cristos",
                                                     "start":  "2026-08-29T22:18:08.0000000Z",
-                                                    "stop":  "2026-08-30T00:29:22.0000000Z",
+                                                    "stop":  "2026-08-30T00:34:48.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Carlitos Way",
+                                                    "start":  "2026-08-30T00:34:48.0000000Z",
+                                                    "stop":  "2026-08-30T03:04:23.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -113,11 +122,29 @@
                                                 {
                                                     "title":  "Resident Evil- Apocalypse",
                                                     "start":  "2026-08-29T22:58:39.0000000Z",
-                                                    "stop":  "2026-08-30T00:32:28.0000000Z",
+                                                    "stop":  "2026-08-30T00:38:20.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Underworld Evolution",
+                                                    "start":  "2026-08-30T00:38:20.0000000Z",
+                                                    "stop":  "2026-08-30T02:30:35.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "World War Z",
+                                                    "start":  "2026-08-30T02:30:35.0000000Z",
+                                                    "stop":  "2026-08-30T04:33:39.0000000Z",
+                                                    "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
+                                                    "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+                                                    "year":  2013
                                                 }
                                             ]
                            },
@@ -187,6 +214,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
                                                     "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
                                                     "year":  2005
+                                                },
+                                                {
+                                                    "title":  "Black Hawk Down",
+                                                    "start":  "2026-08-30T00:52:10.0000000Z",
+                                                    "stop":  "2026-08-30T03:16:31.0000000Z",
+                                                    "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
+                                                    "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+                                                    "year":  2001
                                                 }
                                             ]
                            },
@@ -256,6 +292,24 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Undercover Brother",
+                                                    "start":  "2026-08-29T23:59:59.0000000Z",
+                                                    "stop":  "2026-08-30T01:26:06.0000000Z",
+                                                    "itemId":  "6317b8f6b30a049091764b8311c08279",
+                                                    "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
+                                                    "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
+                                                    "year":  2002
+                                                },
+                                                {
+                                                    "title":  "AnchorMan",
+                                                    "start":  "2026-08-30T01:26:06.0000000Z",
+                                                    "stop":  "2026-08-30T03:03:28.0000000Z",
+                                                    "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
+                                                    "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
+                                                    "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
+                                                    "year":  2004
                                                 }
                                             ]
                            },
@@ -325,6 +379,33 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
                                                     "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
                                                     "year":  1981
+                                                },
+                                                {
+                                                    "title":  "Who Framed Roger Rabbit",
+                                                    "start":  "2026-08-29T23:31:41.0000000Z",
+                                                    "stop":  "2026-08-30T01:15:26.0000000Z",
+                                                    "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
+                                                    "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
+                                                    "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+                                                    "year":  1988
+                                                },
+                                                {
+                                                    "title":  "HEAVY METAL",
+                                                    "start":  "2026-08-30T01:15:26.0000000Z",
+                                                    "stop":  "2026-08-30T02:45:48.0000000Z",
+                                                    "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                                    "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                                    "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                                    "year":  1981
+                                                },
+                                                {
+                                                    "title":  "Who Framed Roger Rabbit",
+                                                    "start":  "2026-08-30T02:45:48.0000000Z",
+                                                    "stop":  "2026-08-30T04:29:33.0000000Z",
+                                                    "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
+                                                    "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
+                                                    "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+                                                    "year":  1988
                                                 }
                                             ]
                            },
@@ -385,6 +466,24 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Inside Man",
+                                                    "start":  "2026-08-30T00:51:12.0000000Z",
+                                                    "stop":  "2026-08-30T02:59:59.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Reservor Dogs",
+                                                    "start":  "2026-08-30T02:59:59.0000000Z",
+                                                    "stop":  "2026-08-30T04:39:04.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
@@ -394,7 +493,7 @@
                                "nowPlaying":  {
                                                   "title":  "Never 3Nding",
                                                   "start":  "2026-08-29T14:59:04.0000000Z",
-                                                  "stop":  "2026-08-29T15:01:16.0000000Z",
+                                                  "stop":  "2026-08-29T15:02:39.0000000Z",
                                                   "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                   "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                   "description":  null,
@@ -440,7 +539,7 @@
                                                 {
                                                     "title":  "0Ld Sc00L",
                                                     "start":  "2026-08-29T15:04:15.0000000Z",
-                                                    "stop":  "2026-08-29T15:05:03.0000000Z",
+                                                    "stop":  "2026-08-29T15:08:06.0000000Z",
                                                     "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
                                                     "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                                     "description":  null,
@@ -458,7 +557,7 @@
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-08-29T15:05:52.0000000Z",
-                                                    "stop":  "2026-08-29T15:11:48.0000000Z",
+                                                    "stop":  "2026-08-29T15:13:11.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                     "description":  null,
@@ -467,7 +566,7 @@
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-08-29T15:11:48.0000000Z",
-                                                    "stop":  "2026-08-29T15:12:29.0000000Z",
+                                                    "stop":  "2026-08-29T15:13:53.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
@@ -476,7 +575,7 @@
                                                 {
                                                     "title":  "Chingadasos",
                                                     "start":  "2026-08-29T15:12:29.0000000Z",
-                                                    "stop":  "2026-08-29T15:13:15.0000000Z",
+                                                    "stop":  "2026-08-29T15:15:44.0000000Z",
                                                     "itemId":  "8988d98fd90679aab5aff5b786344b1c",
                                                     "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
                                                     "description":  null,
@@ -537,6 +636,15 @@
                                                     "title":  "Master and Commander",
                                                     "start":  "2026-08-29T22:57:16.0000000Z",
                                                     "stop":  "2026-08-30T01:15:37.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Brave Heart",
+                                                    "start":  "2026-08-30T01:15:37.0000000Z",
+                                                    "stop":  "2026-08-30T04:13:17.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
