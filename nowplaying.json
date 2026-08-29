@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-08-29T00:23:06.7584632Z",
+    "updated":  "2026-08-29T00:24:06.7057724Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Sherlock Holmes",
-                                                  "start":  "2026-08-28T22:12:35.0000000Z",
-                                                  "stop":  "2026-08-29T00:23:21.0000000Z",
-                                                  "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
-                                                  "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
-                                                  "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
-                                                  "year":  2009
+                                                  "title":  "Young Guns",
+                                                  "start":  "2026-08-29T00:23:21.0000000Z",
+                                                  "stop":  "2026-08-29T02:12:25.0000000Z",
+                                                  "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
+                                                  "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
+                                                  "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
+                                                  "year":  1988
                                               },
                                "upNext":  {
-                                              "title":  "Young Guns",
-                                              "start":  "2026-08-29T00:23:21.0000000Z",
-                                              "stop":  "2026-08-29T02:12:25.0000000Z",
-                                              "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
-                                              "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
-                                              "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
-                                              "year":  1988
+                                              "title":  "A Beatiful Mind",
+                                              "start":  "2026-08-29T02:12:25.0000000Z",
+                                              "stop":  "2026-08-29T04:30:00.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Young Guns",
-                                                    "start":  "2026-08-29T00:23:21.0000000Z",
-                                                    "stop":  "2026-08-29T02:12:25.0000000Z",
-                                                    "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
-                                                    "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
-                                                    "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
-                                                    "year":  1988
-                                                },
                                                 {
                                                     "title":  "A Beatiful Mind",
                                                     "start":  "2026-08-29T02:12:25.0000000Z",
@@ -491,11 +482,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Carrito",
-                                                  "start":  "2026-08-29T00:09:00.0000000Z",
-                                                  "stop":  "2026-08-29T00:23:36.0000000Z",
-                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                                  "title":  "JamminG",
+                                                  "start":  "2026-08-29T00:20:24.0000000Z",
+                                                  "stop":  "2026-08-29T00:28:29.0000000Z",
+                                                  "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
