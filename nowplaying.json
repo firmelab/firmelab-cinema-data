@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-29T01:38:09.5283073Z",
+    "updated":  "2026-08-29T01:39:10.6005142Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -377,33 +377,24 @@
                                "number":  6,
                                "name":  "FIRMELAB CRIME",
                                "nowPlaying":  {
-                                                  "title":  "Jacky Brown",
-                                                  "start":  "2026-08-28T23:04:12.0000000Z",
-                                                  "stop":  "2026-08-29T01:38:33.0000000Z",
+                                                  "title":  "Inside Man",
+                                                  "start":  "2026-08-29T01:38:33.0000000Z",
+                                                  "stop":  "2026-08-29T03:47:20.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Inside Man",
-                                              "start":  "2026-08-29T01:38:33.0000000Z",
-                                              "stop":  "2026-08-29T03:47:20.0000000Z",
+                                              "title":  "Reservor Dogs",
+                                              "start":  "2026-08-29T03:47:20.0000000Z",
+                                              "stop":  "2026-08-29T05:26:25.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Inside Man",
-                                                    "start":  "2026-08-29T01:38:33.0000000Z",
-                                                    "stop":  "2026-08-29T03:47:20.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Reservor Dogs",
                                                     "start":  "2026-08-29T03:47:20.0000000Z",
