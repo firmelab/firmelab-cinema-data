@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-29T08:13:06.5053726Z",
+    "updated":  "2026-08-29T08:14:10.6344067Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -560,33 +560,24 @@
                                "number":  8,
                                "name":  "FIRMELAB FRONTIER",
                                "nowPlaying":  {
-                                                  "title":  "Young Guns",
-                                                  "start":  "2026-08-29T06:26:54.0000000Z",
-                                                  "stop":  "2026-08-29T08:13:40.0000000Z",
-                                                  "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
-                                                  "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
-                                                  "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
-                                                  "year":  1988
+                                                  "title":  "The Patriot",
+                                                  "start":  "2026-08-29T08:13:40.0000000Z",
+                                                  "stop":  "2026-08-29T10:58:27.0000000Z",
+                                                  "itemId":  "17b673273650da7e33ae51350e123fb0",
+                                                  "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
+                                                  "description":  null,
+                                                  "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "The Patriot",
-                                              "start":  "2026-08-29T08:13:40.0000000Z",
-                                              "stop":  "2026-08-29T10:58:27.0000000Z",
-                                              "itemId":  "17b673273650da7e33ae51350e123fb0",
-                                              "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
+                                              "title":  "Master and Commander",
+                                              "start":  "2026-08-29T10:58:27.0000000Z",
+                                              "stop":  "2026-08-29T13:16:48.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "The Patriot",
-                                                    "start":  "2026-08-29T08:13:40.0000000Z",
-                                                    "stop":  "2026-08-29T10:58:27.0000000Z",
-                                                    "itemId":  "17b673273650da7e33ae51350e123fb0",
-                                                    "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Master and Commander",
                                                     "start":  "2026-08-29T10:58:27.0000000Z",
