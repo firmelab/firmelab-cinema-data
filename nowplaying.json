@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-29T04:04:06.2775754Z",
+    "updated":  "2026-08-29T04:05:05.5456038Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -83,33 +83,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Boogeyman",
-                                                  "start":  "2026-08-29T02:32:39.0000000Z",
-                                                  "stop":  "2026-08-29T04:04:56.0000000Z",
-                                                  "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
-                                                  "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
-                                                  "description":  null,
-                                                  "year":  2026
+                                                  "title":  "Land of the Dead",
+                                                  "start":  "2026-08-29T04:04:56.0000000Z",
+                                                  "stop":  "2026-08-29T05:52:26.0000000Z",
+                                                  "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
+                                                  "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
+                                                  "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
+                                                  "year":  2005
                                               },
                                "upNext":  {
-                                              "title":  "Land of the Dead",
-                                              "start":  "2026-08-29T04:04:56.0000000Z",
-                                              "stop":  "2026-08-29T05:52:26.0000000Z",
-                                              "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
-                                              "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
-                                              "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
-                                              "year":  2005
+                                              "title":  "Resident Evil- Apocalypse",
+                                              "start":  "2026-08-29T05:52:26.0000000Z",
+                                              "stop":  "2026-08-29T07:33:22.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Land of the Dead",
-                                                    "start":  "2026-08-29T04:04:56.0000000Z",
-                                                    "stop":  "2026-08-29T05:52:26.0000000Z",
-                                                    "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
-                                                    "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
-                                                    "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
-                                                    "year":  2005
-                                                },
                                                 {
                                                     "title":  "Resident Evil- Apocalypse",
                                                     "start":  "2026-08-29T05:52:26.0000000Z",
@@ -248,33 +239,24 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "HALF BAKED",
-                                                  "start":  "2026-08-29T02:42:12.0000000Z",
-                                                  "stop":  "2026-08-29T04:04:18.0000000Z",
-                                                  "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
-                                                  "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
-                                                  "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
-                                                  "year":  1998
+                                                  "title":  "Get Shorty",
+                                                  "start":  "2026-08-29T04:04:18.0000000Z",
+                                                  "stop":  "2026-08-29T05:49:06.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Get Shorty",
-                                              "start":  "2026-08-29T04:04:18.0000000Z",
-                                              "stop":  "2026-08-29T05:49:06.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Undercover Brother",
+                                              "start":  "2026-08-29T05:49:06.0000000Z",
+                                              "stop":  "2026-08-29T07:15:12.0000000Z",
+                                              "itemId":  "6317b8f6b30a049091764b8311c08279",
+                                              "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
+                                              "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
+                                              "year":  2002
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Get Shorty",
-                                                    "start":  "2026-08-29T04:04:18.0000000Z",
-                                                    "stop":  "2026-08-29T05:49:06.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Undercover Brother",
                                                     "start":  "2026-08-29T05:49:06.0000000Z",
