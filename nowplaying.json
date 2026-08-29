@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-29T10:21:08.7276429Z",
+    "updated":  "2026-08-29T10:22:07.7929879Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -203,33 +203,24 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "Duplex",
-                                                  "start":  "2026-08-29T08:52:35.0000000Z",
-                                                  "stop":  "2026-08-29T10:21:48.0000000Z",
-                                                  "itemId":  "e2340e07092b6de7376760916297a934",
-                                                  "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
-                                                  "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
-                                                  "year":  2003
+                                                  "title":  "UP IN SMOKE",
+                                                  "start":  "2026-08-29T10:21:48.0000000Z",
+                                                  "stop":  "2026-08-29T11:47:39.0000000Z",
+                                                  "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
+                                                  "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
+                                                  "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
+                                                  "year":  1978
                                               },
                                "upNext":  {
-                                              "title":  "UP IN SMOKE",
-                                              "start":  "2026-08-29T10:21:48.0000000Z",
-                                              "stop":  "2026-08-29T11:47:39.0000000Z",
-                                              "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
-                                              "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
-                                              "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
-                                              "year":  1978
+                                              "title":  "HALF BAKED",
+                                              "start":  "2026-08-29T11:47:39.0000000Z",
+                                              "stop":  "2026-08-29T13:09:45.0000000Z",
+                                              "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
+                                              "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
+                                              "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
+                                              "year":  1998
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "UP IN SMOKE",
-                                                    "start":  "2026-08-29T10:21:48.0000000Z",
-                                                    "stop":  "2026-08-29T11:47:39.0000000Z",
-                                                    "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
-                                                    "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
-                                                    "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
-                                                    "year":  1978
-                                                },
                                                 {
                                                     "title":  "HALF BAKED",
                                                     "start":  "2026-08-29T11:47:39.0000000Z",
@@ -419,33 +410,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "BloodJoke",
-                                                  "start":  "2026-08-29T10:19:37.0000000Z",
-                                                  "stop":  "2026-08-29T10:21:13.0000000Z",
-                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                  "title":  "Carrito",
+                                                  "start":  "2026-08-29T10:21:18.0000000Z",
+                                                  "stop":  "2026-08-29T10:28:57.0000000Z",
+                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Carrito",
-                                              "start":  "2026-08-29T10:21:18.0000000Z",
-                                              "stop":  "2026-08-29T10:28:57.0000000Z",
-                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                              "title":  "Dancing Cobra",
+                                              "start":  "2026-08-29T10:28:57.0000000Z",
+                                              "stop":  "2026-08-29T10:30:02.0000000Z",
+                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Carrito",
-                                                    "start":  "2026-08-29T10:21:18.0000000Z",
-                                                    "stop":  "2026-08-29T10:28:57.0000000Z",
-                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-08-29T10:28:57.0000000Z",
@@ -508,6 +490,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Arnold Dynamite",
+                                                    "start":  "2026-08-29T10:40:22.0000000Z",
+                                                    "stop":  "2026-08-29T10:41:50.0000000Z",
+                                                    "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
