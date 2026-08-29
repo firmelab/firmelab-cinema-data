@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-29T03:47:05.8681280Z",
+    "updated":  "2026-08-29T03:48:05.8343351Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -431,33 +431,24 @@
                                "number":  6,
                                "name":  "FIRMELAB CRIME",
                                "nowPlaying":  {
-                                                  "title":  "Inside Man",
-                                                  "start":  "2026-08-29T01:38:33.0000000Z",
-                                                  "stop":  "2026-08-29T03:47:20.0000000Z",
+                                                  "title":  "Reservor Dogs",
+                                                  "start":  "2026-08-29T03:47:20.0000000Z",
+                                                  "stop":  "2026-08-29T05:26:25.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Reservor Dogs",
-                                              "start":  "2026-08-29T03:47:20.0000000Z",
-                                              "stop":  "2026-08-29T05:26:25.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Scarface",
+                                              "start":  "2026-08-29T05:26:25.0000000Z",
+                                              "stop":  "2026-08-29T08:16:21.0000000Z",
+                                              "itemId":  "1ca5b01d892bb1b5b113e7ccaa4ac889",
+                                              "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
+                                              "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+                                              "year":  1983
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Reservor Dogs",
-                                                    "start":  "2026-08-29T03:47:20.0000000Z",
-                                                    "stop":  "2026-08-29T05:26:25.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Scarface",
                                                     "start":  "2026-08-29T05:26:25.0000000Z",
@@ -509,24 +500,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Carrito",
-                                              "start":  "2026-08-29T03:47:41.0000000Z",
-                                              "stop":  "2026-08-29T04:01:24.0000000Z",
-                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                              "title":  "Dancing Cobra",
+                                              "start":  "2026-08-29T03:55:19.0000000Z",
+                                              "stop":  "2026-08-29T03:56:25.0000000Z",
+                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Carrito",
-                                                    "start":  "2026-08-29T03:47:41.0000000Z",
-                                                    "stop":  "2026-08-29T04:01:24.0000000Z",
-                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-08-29T03:55:19.0000000Z",
@@ -589,6 +571,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Arnold Dynamite",
+                                                    "start":  "2026-08-29T04:06:45.0000000Z",
+                                                    "stop":  "2026-08-29T04:11:52.0000000Z",
+                                                    "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
