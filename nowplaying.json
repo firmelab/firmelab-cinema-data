@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-29T04:15:08.2189331Z",
+    "updated":  "2026-08-29T04:16:08.1641565Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -473,24 +473,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Biggie Mobbing",
-                                              "start":  "2026-08-29T04:15:46.0000000Z",
-                                              "stop":  "2026-08-29T04:23:54.0000000Z",
-                                              "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
-                                              "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
+                                              "title":  "Chingadasos",
+                                              "start":  "2026-08-29T04:16:27.0000000Z",
+                                              "stop":  "2026-08-29T04:17:13.0000000Z",
+                                              "itemId":  "8988d98fd90679aab5aff5b786344b1c",
+                                              "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Biggie Mobbing",
-                                                    "start":  "2026-08-29T04:15:46.0000000Z",
-                                                    "stop":  "2026-08-29T04:23:54.0000000Z",
-                                                    "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Chingadasos",
                                                     "start":  "2026-08-29T04:16:27.0000000Z",
@@ -553,6 +544,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Oz",
+                                                    "start":  "2026-08-29T04:28:03.0000000Z",
+                                                    "stop":  "2026-08-29T04:29:16.0000000Z",
+                                                    "itemId":  "f332ba1673f9273e5349cd38b640cf51",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
@@ -560,33 +560,24 @@
                                "number":  8,
                                "name":  "FIRMELAB FRONTIER",
                                "nowPlaying":  {
-                                                  "title":  "Brave Heart",
-                                                  "start":  "2026-08-29T01:18:00.0000000Z",
-                                                  "stop":  "2026-08-29T04:15:40.0000000Z",
+                                                  "title":  "The Count Monte Cristos",
+                                                  "start":  "2026-08-29T04:15:40.0000000Z",
+                                                  "stop":  "2026-08-29T06:26:54.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "The Count Monte Cristos",
-                                              "start":  "2026-08-29T04:15:40.0000000Z",
-                                              "stop":  "2026-08-29T06:26:54.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Young Guns",
+                                              "start":  "2026-08-29T06:26:54.0000000Z",
+                                              "stop":  "2026-08-29T08:13:40.0000000Z",
+                                              "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
+                                              "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
+                                              "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
+                                              "year":  1988
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "The Count Monte Cristos",
-                                                    "start":  "2026-08-29T04:15:40.0000000Z",
-                                                    "stop":  "2026-08-29T06:26:54.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Young Guns",
                                                     "start":  "2026-08-29T06:26:54.0000000Z",
