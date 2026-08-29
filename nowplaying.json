@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-08-29T14:49:06.3499565Z",
+    "updated":  "2026-08-29T14:50:06.4057683Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Uncut Gems",
-                                                  "start":  "2026-08-29T12:28:46.0000000Z",
-                                                  "stop":  "2026-08-29T14:49:19.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Scarface",
+                                                  "start":  "2026-08-29T14:49:19.0000000Z",
+                                                  "stop":  "2026-08-29T17:44:42.0000000Z",
+                                                  "itemId":  "1ca5b01d892bb1b5b113e7ccaa4ac889",
+                                                  "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
+                                                  "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+                                                  "year":  1983
                                               },
                                "upNext":  {
-                                              "title":  "Scarface",
-                                              "start":  "2026-08-29T14:49:19.0000000Z",
-                                              "stop":  "2026-08-29T17:44:42.0000000Z",
-                                              "itemId":  "1ca5b01d892bb1b5b113e7ccaa4ac889",
-                                              "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
-                                              "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
-                                              "year":  1983
+                                              "title":  "HALF BAKED",
+                                              "start":  "2026-08-29T17:44:42.0000000Z",
+                                              "stop":  "2026-08-29T19:12:13.0000000Z",
+                                              "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
+                                              "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
+                                              "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
+                                              "year":  1998
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Scarface",
-                                                    "start":  "2026-08-29T14:49:19.0000000Z",
-                                                    "stop":  "2026-08-29T17:44:42.0000000Z",
-                                                    "itemId":  "1ca5b01d892bb1b5b113e7ccaa4ac889",
-                                                    "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
-                                                    "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
-                                                    "year":  1983
-                                                },
                                                 {
                                                     "title":  "HALF BAKED",
                                                     "start":  "2026-08-29T17:44:42.0000000Z",
