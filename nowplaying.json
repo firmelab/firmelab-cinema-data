@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-29T10:59:08.7269779Z",
+    "updated":  "2026-08-29T11:00:18.3564698Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -373,15 +373,7 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "COKCE6139",
-                                                  "start":  "2026-08-29T10:58:24.0000000Z",
-                                                  "stop":  "2026-08-29T10:59:25.0000000Z",
-                                                  "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
-                                                  "description":  null,
-                                                  "year":  2026
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
                                               "title":  "MrPayo",
                                               "start":  "2026-08-29T11:00:35.0000000Z",
