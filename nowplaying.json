@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-29T22:58:06.1518670Z",
+    "updated":  "2026-08-29T22:59:06.4239407Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -65,33 +65,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "D1_t00",
-                                                  "start":  "2026-08-29T20:41:09.0000000Z",
-                                                  "stop":  "2026-08-29T22:58:39.0000000Z",
+                                                  "title":  "Resident Evil- Apocalypse",
+                                                  "start":  "2026-08-29T22:58:39.0000000Z",
+                                                  "stop":  "2026-08-30T00:38:20.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Resident Evil- Apocalypse",
-                                              "start":  "2026-08-29T22:58:39.0000000Z",
-                                              "stop":  "2026-08-30T00:38:20.0000000Z",
+                                              "title":  "Underworld Evolution",
+                                              "start":  "2026-08-30T00:38:20.0000000Z",
+                                              "stop":  "2026-08-30T02:30:35.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Resident Evil- Apocalypse",
-                                                    "start":  "2026-08-29T22:58:39.0000000Z",
-                                                    "stop":  "2026-08-30T00:38:20.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Underworld Evolution",
                                                     "start":  "2026-08-30T00:38:20.0000000Z",
