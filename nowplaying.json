@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-29T17:02:06.1155603Z",
+    "updated":  "2026-08-29T17:03:05.6376640Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -377,33 +377,24 @@
                                "number":  6,
                                "name":  "FIRMELAB CRIME",
                                "nowPlaying":  {
-                                                  "title":  "Reservor Dogs",
-                                                  "start":  "2026-08-29T15:23:39.0000000Z",
-                                                  "stop":  "2026-08-29T17:02:44.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Scarface",
+                                                  "start":  "2026-08-29T17:02:44.0000000Z",
+                                                  "stop":  "2026-08-29T19:52:41.0000000Z",
+                                                  "itemId":  "1ca5b01d892bb1b5b113e7ccaa4ac889",
+                                                  "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
+                                                  "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+                                                  "year":  1983
                                               },
                                "upNext":  {
-                                              "title":  "Scarface",
-                                              "start":  "2026-08-29T17:02:44.0000000Z",
-                                              "stop":  "2026-08-29T19:52:41.0000000Z",
-                                              "itemId":  "1ca5b01d892bb1b5b113e7ccaa4ac889",
-                                              "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
-                                              "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
-                                              "year":  1983
+                                              "title":  "Carlitos Way",
+                                              "start":  "2026-08-29T19:52:41.0000000Z",
+                                              "stop":  "2026-08-29T22:16:51.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Scarface",
-                                                    "start":  "2026-08-29T17:02:44.0000000Z",
-                                                    "stop":  "2026-08-29T19:52:41.0000000Z",
-                                                    "itemId":  "1ca5b01d892bb1b5b113e7ccaa4ac889",
-                                                    "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
-                                                    "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
-                                                    "year":  1983
-                                                },
                                                 {
                                                     "title":  "Carlitos Way",
                                                     "start":  "2026-08-29T19:52:41.0000000Z",
@@ -446,33 +437,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Carrito",
-                                                  "start":  "2026-08-29T16:54:55.0000000Z",
-                                                  "stop":  "2026-08-29T17:02:34.0000000Z",
-                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                                  "title":  "Dancing Cobra",
+                                                  "start":  "2026-08-29T17:02:34.0000000Z",
+                                                  "stop":  "2026-08-29T17:03:39.0000000Z",
+                                                  "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                                  "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Dancing Cobra",
-                                              "start":  "2026-08-29T17:02:34.0000000Z",
-                                              "stop":  "2026-08-29T17:03:39.0000000Z",
-                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
+                                              "title":  "DnBaPCsht",
+                                              "start":  "2026-08-29T17:03:39.0000000Z",
+                                              "stop":  "2026-08-29T17:04:26.0000000Z",
+                                              "itemId":  "d2296bca99a831548bbada0bb3bac719",
+                                              "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Dancing Cobra",
-                                                    "start":  "2026-08-29T17:02:34.0000000Z",
-                                                    "stop":  "2026-08-29T17:03:39.0000000Z",
-                                                    "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-08-29T17:03:39.0000000Z",
@@ -535,6 +517,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "0Ld Sc00L",
+                                                    "start":  "2026-08-29T17:15:27.0000000Z",
+                                                    "stop":  "2026-08-29T17:16:15.0000000Z",
+                                                    "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
