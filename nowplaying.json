@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-29T18:50:05.1050511Z",
+    "updated":  "2026-08-29T18:51:05.0441495Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -125,33 +125,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Robocop",
-                                                  "start":  "2026-08-29T17:07:52.0000000Z",
-                                                  "stop":  "2026-08-29T18:50:39.0000000Z",
-                                                  "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
-                                                  "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
-                                                  "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
-                                                  "year":  1987
+                                                  "title":  "ROBOCOP 2",
+                                                  "start":  "2026-08-29T18:50:39.0000000Z",
+                                                  "stop":  "2026-08-29T20:47:18.0000000Z",
+                                                  "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
+                                                  "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
+                                                  "year":  1990
                                               },
                                "upNext":  {
-                                              "title":  "ROBOCOP 2",
-                                              "start":  "2026-08-29T18:50:39.0000000Z",
-                                              "stop":  "2026-08-29T20:47:18.0000000Z",
-                                              "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
-                                              "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
-                                              "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
-                                              "year":  1990
+                                              "title":  "ROBOCOP 3",
+                                              "start":  "2026-08-29T20:47:18.0000000Z",
+                                              "stop":  "2026-08-29T22:32:09.0000000Z",
+                                              "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
+                                              "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
+                                              "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
+                                              "year":  1993
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "ROBOCOP 2",
-                                                    "start":  "2026-08-29T18:50:39.0000000Z",
-                                                    "stop":  "2026-08-29T20:47:18.0000000Z",
-                                                    "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
-                                                    "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
-                                                    "year":  1990
-                                                },
                                                 {
                                                     "title":  "ROBOCOP 3",
                                                     "start":  "2026-08-29T20:47:18.0000000Z",
@@ -383,33 +374,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Ass Kicker Bruce",
-                                                  "start":  "2026-08-29T18:44:33.0000000Z",
-                                                  "stop":  "2026-08-29T18:50:28.0000000Z",
-                                                  "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                                  "title":  "Biggie Mobbing",
+                                                  "start":  "2026-08-29T18:50:28.0000000Z",
+                                                  "stop":  "2026-08-29T18:51:10.0000000Z",
+                                                  "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Biggie Mobbing",
-                                              "start":  "2026-08-29T18:50:28.0000000Z",
-                                              "stop":  "2026-08-29T18:51:10.0000000Z",
-                                              "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
-                                              "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
+                                              "title":  "Chingadasos",
+                                              "start":  "2026-08-29T18:51:10.0000000Z",
+                                              "stop":  "2026-08-29T18:51:56.0000000Z",
+                                              "itemId":  "8988d98fd90679aab5aff5b786344b1c",
+                                              "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Biggie Mobbing",
-                                                    "start":  "2026-08-29T18:50:28.0000000Z",
-                                                    "stop":  "2026-08-29T18:51:10.0000000Z",
-                                                    "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Chingadasos",
                                                     "start":  "2026-08-29T18:51:10.0000000Z",
@@ -472,6 +454,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Oz",
+                                                    "start":  "2026-08-29T19:02:46.0000000Z",
+                                                    "stop":  "2026-08-29T19:03:59.0000000Z",
+                                                    "itemId":  "f332ba1673f9273e5349cd38b640cf51",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
