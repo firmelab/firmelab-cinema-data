@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-08-29T02:12:08.1044499Z",
+    "updated":  "2026-08-29T02:13:07.3032538Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Young Guns",
-                                                  "start":  "2026-08-29T00:23:21.0000000Z",
-                                                  "stop":  "2026-08-29T02:12:25.0000000Z",
-                                                  "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
-                                                  "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
-                                                  "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
-                                                  "year":  1988
+                                                  "title":  "A Beatiful Mind",
+                                                  "start":  "2026-08-29T02:12:25.0000000Z",
+                                                  "stop":  "2026-08-29T04:30:00.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "A Beatiful Mind",
-                                              "start":  "2026-08-29T02:12:25.0000000Z",
-                                              "stop":  "2026-08-29T04:30:00.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "ROBOCOP 3",
+                                              "start":  "2026-08-29T04:30:00.0000000Z",
+                                              "stop":  "2026-08-29T06:17:10.0000000Z",
+                                              "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
+                                              "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
+                                              "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
+                                              "year":  1993
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "A Beatiful Mind",
-                                                    "start":  "2026-08-29T02:12:25.0000000Z",
-                                                    "stop":  "2026-08-29T04:30:00.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "ROBOCOP 3",
                                                     "start":  "2026-08-29T04:30:00.0000000Z",
@@ -436,15 +427,7 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "XocoBruja",
-                                                  "start":  "2026-08-29T02:10:50.0000000Z",
-                                                  "stop":  "2026-08-29T02:12:18.0000000Z",
-                                                  "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
-                                                  "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
-                                                  "description":  null,
-                                                  "year":  2026
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
                                               "title":  "COKCE6139",
                                               "start":  "2026-08-29T02:13:34.0000000Z",
