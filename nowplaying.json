@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-29T17:57:06.7393080Z",
+    "updated":  "2026-08-29T17:58:07.4039406Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -194,33 +194,24 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "AnchorMan",
-                                                  "start":  "2026-08-29T16:20:39.0000000Z",
-                                                  "stop":  "2026-08-29T17:58:02.0000000Z",
-                                                  "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
-                                                  "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
-                                                  "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
-                                                  "year":  2004
+                                                  "title":  "Duplex",
+                                                  "start":  "2026-08-29T17:58:02.0000000Z",
+                                                  "stop":  "2026-08-29T19:27:15.0000000Z",
+                                                  "itemId":  "e2340e07092b6de7376760916297a934",
+                                                  "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
+                                                  "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
+                                                  "year":  2003
                                               },
                                "upNext":  {
-                                              "title":  "Duplex",
-                                              "start":  "2026-08-29T17:58:02.0000000Z",
-                                              "stop":  "2026-08-29T19:27:15.0000000Z",
-                                              "itemId":  "e2340e07092b6de7376760916297a934",
-                                              "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
-                                              "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
-                                              "year":  2003
+                                              "title":  "UP IN SMOKE",
+                                              "start":  "2026-08-29T19:27:15.0000000Z",
+                                              "stop":  "2026-08-29T20:53:05.0000000Z",
+                                              "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
+                                              "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
+                                              "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
+                                              "year":  1978
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Duplex",
-                                                    "start":  "2026-08-29T17:58:02.0000000Z",
-                                                    "stop":  "2026-08-29T19:27:15.0000000Z",
-                                                    "itemId":  "e2340e07092b6de7376760916297a934",
-                                                    "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
-                                                    "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
-                                                    "year":  2003
-                                                },
                                                 {
                                                     "title":  "UP IN SMOKE",
                                                     "start":  "2026-08-29T19:27:15.0000000Z",
@@ -410,33 +401,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "SSBI4649",
-                                                  "start":  "2026-08-29T17:56:55.0000000Z",
-                                                  "stop":  "2026-08-29T17:57:44.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
+                                                  "title":  "Arnold Dynamite",
+                                                  "start":  "2026-08-29T17:57:44.0000000Z",
+                                                  "stop":  "2026-08-29T17:59:11.0000000Z",
+                                                  "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
+                                                  "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Arnold Dynamite",
-                                              "start":  "2026-08-29T17:57:44.0000000Z",
-                                              "stop":  "2026-08-29T17:59:11.0000000Z",
-                                              "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
-                                              "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
+                                              "title":  "0Ld Sc00L",
+                                              "start":  "2026-08-29T17:59:11.0000000Z",
+                                              "stop":  "2026-08-29T18:00:00.0000000Z",
+                                              "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                              "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Arnold Dynamite",
-                                                    "start":  "2026-08-29T17:57:44.0000000Z",
-                                                    "stop":  "2026-08-29T17:59:11.0000000Z",
-                                                    "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "0Ld Sc00L",
                                                     "start":  "2026-08-29T17:59:11.0000000Z",
@@ -497,6 +479,15 @@
                                                     "stop":  "2026-08-29T18:10:45.0000000Z",
                                                     "itemId":  "1315943017e226076a7899408d36dec5",
                                                     "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Ricardo \u0026 Mocoso",
+                                                    "start":  "2026-08-29T18:10:45.0000000Z",
+                                                    "stop":  "2026-08-29T18:13:01.0000000Z",
+                                                    "itemId":  "0e268bdc592953760cc985e16953d93d",
+                                                    "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
