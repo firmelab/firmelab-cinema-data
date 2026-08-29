@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-29T09:37:06.8919723Z",
+    "updated":  "2026-08-29T09:38:06.7074763Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -134,33 +134,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Rambo First Blood",
-                                                  "start":  "2026-08-29T08:04:32.0000000Z",
-                                                  "stop":  "2026-08-29T09:37:41.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Sherlock Holmes",
+                                                  "start":  "2026-08-29T09:37:41.0000000Z",
+                                                  "stop":  "2026-08-29T11:46:10.0000000Z",
+                                                  "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
+                                                  "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
+                                                  "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
+                                                  "year":  2009
                                               },
                                "upNext":  {
-                                              "title":  "Sherlock Holmes",
-                                              "start":  "2026-08-29T09:37:41.0000000Z",
-                                              "stop":  "2026-08-29T11:46:10.0000000Z",
-                                              "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
-                                              "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
-                                              "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
-                                              "year":  2009
+                                              "title":  "Fast N Furious",
+                                              "start":  "2026-08-29T11:46:10.0000000Z",
+                                              "stop":  "2026-08-29T13:33:06.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Sherlock Holmes",
-                                                    "start":  "2026-08-29T09:37:41.0000000Z",
-                                                    "stop":  "2026-08-29T11:46:10.0000000Z",
-                                                    "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
-                                                    "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
-                                                    "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
-                                                    "year":  2009
-                                                },
                                                 {
                                                     "title":  "Fast N Furious",
                                                     "start":  "2026-08-29T11:46:10.0000000Z",
@@ -428,33 +419,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "BloodJoke",
-                                                  "start":  "2026-08-29T09:35:53.0000000Z",
-                                                  "stop":  "2026-08-29T09:37:29.0000000Z",
-                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                  "title":  "Carrito",
+                                                  "start":  "2026-08-29T09:37:34.0000000Z",
+                                                  "stop":  "2026-08-29T09:45:12.0000000Z",
+                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Carrito",
-                                              "start":  "2026-08-29T09:37:34.0000000Z",
-                                              "stop":  "2026-08-29T09:45:12.0000000Z",
-                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                              "title":  "Dancing Cobra",
+                                              "start":  "2026-08-29T09:45:12.0000000Z",
+                                              "stop":  "2026-08-29T09:46:18.0000000Z",
+                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Carrito",
-                                                    "start":  "2026-08-29T09:37:34.0000000Z",
-                                                    "stop":  "2026-08-29T09:45:12.0000000Z",
-                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-08-29T09:45:12.0000000Z",
@@ -517,6 +499,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Arnold Dynamite",
+                                                    "start":  "2026-08-29T09:56:38.0000000Z",
+                                                    "stop":  "2026-08-29T09:58:06.0000000Z",
+                                                    "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
