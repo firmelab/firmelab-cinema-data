@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-30T07:40:05.3725433Z",
+    "updated":  "2026-08-30T07:41:07.5091721Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -63,8 +63,8 @@
                                                     "title":  "DEMON KNIGHT",
                                                     "start":  "2026-08-30T16:41:50.0000000Z",
                                                     "stop":  "2026-08-30T18:14:40.0000000Z",
-                                                    "itemId":  "eb89cba7cfbada23399c5dee0fb70117",
-                                                    "poster":  "http://127.0.0.1:8096/Items/eb89cba7cfbada23399c5dee0fb70117/Images/Primary",
+                                                    "itemId":  "a5a1f15c45eb562ac5f7621a94c12742",
+                                                    "poster":  "http://127.0.0.1:8096/Items/a5a1f15c45eb562ac5f7621a94c12742/Images/Primary",
                                                     "description":  "Ex-soldier Frank Brayker is the guardian of an ancient key that can unlock tremendous evil; the sinister Collector is a demon who wants the key so he can initiate the apocalypse. On the run from wicked mercenaries for almost 90 years, Brayker finally stops in at a boarding house in New Mexico where — with the help of its residents — he plans to face off against the Collector and his band of ghouls, preventing them from ever seizing the key.",
                                                     "year":  1995
                                                 },
@@ -500,24 +500,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "JamminG",
-                                              "start":  "2026-08-30T07:41:02.0000000Z",
-                                              "stop":  "2026-08-30T07:49:10.0000000Z",
-                                              "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
-                                              "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
+                                              "title":  "Never 3Nding",
+                                              "start":  "2026-08-30T07:44:59.0000000Z",
+                                              "stop":  "2026-08-30T07:54:15.0000000Z",
+                                              "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                              "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                               "description":  null,
-                                              "year":  null
+                                              "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "JamminG",
-                                                    "start":  "2026-08-30T07:41:02.0000000Z",
-                                                    "stop":  "2026-08-30T07:49:10.0000000Z",
-                                                    "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
-                                                    "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-08-30T07:44:59.0000000Z",
@@ -578,6 +569,15 @@
                                                     "stop":  "2026-08-30T08:03:19.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Biggie Mobbing",
+                                                    "start":  "2026-08-30T07:57:43.0000000Z",
+                                                    "stop":  "2026-08-30T08:00:54.0000000Z",
+                                                    "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
