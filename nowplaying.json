@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-08-30T20:28:05.0506177Z",
+    "updated":  "2026-08-30T20:29:05.1192571Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Total Recall",
-                                                  "start":  "2026-08-30T18:27:57.0000000Z",
-                                                  "stop":  "2026-08-30T20:28:08.0000000Z",
-                                                  "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
-                                                  "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
-                                                  "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
-                                                  "year":  1990
+                                                  "title":  "Critters 3",
+                                                  "start":  "2026-08-30T20:28:08.0000000Z",
+                                                  "stop":  "2026-08-30T21:59:42.0000000Z",
+                                                  "itemId":  "f9168c1a730f0cc71fd31a7f22c4663f",
+                                                  "poster":  "http://127.0.0.1:8096/Items/f9168c1a730f0cc71fd31a7f22c4663f/Images/Primary",
+                                                  "description":  "As fanged, furious furballs viciously invade an L.A. apartment building and sink their teeth into the low-rent tenants, Josh leads the battle to beat back the conniving critters and save the planet.",
+                                                  "year":  1991
                                               },
                                "upNext":  {
-                                              "title":  "Critters 3",
-                                              "start":  "2026-08-30T20:28:08.0000000Z",
-                                              "stop":  "2026-08-30T21:59:42.0000000Z",
-                                              "itemId":  "f9168c1a730f0cc71fd31a7f22c4663f",
-                                              "poster":  "http://127.0.0.1:8096/Items/f9168c1a730f0cc71fd31a7f22c4663f/Images/Primary",
-                                              "description":  "As fanged, furious furballs viciously invade an L.A. apartment building and sink their teeth into the low-rent tenants, Josh leads the battle to beat back the conniving critters and save the planet.",
-                                              "year":  1991
+                                              "title":  "WISHMASTER part 2",
+                                              "start":  "2026-08-30T21:59:42.0000000Z",
+                                              "stop":  "2026-08-30T23:42:33.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Critters 3",
-                                                    "start":  "2026-08-30T20:28:08.0000000Z",
-                                                    "stop":  "2026-08-30T21:59:42.0000000Z",
-                                                    "itemId":  "f9168c1a730f0cc71fd31a7f22c4663f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f9168c1a730f0cc71fd31a7f22c4663f/Images/Primary",
-                                                    "description":  "As fanged, furious furballs viciously invade an L.A. apartment building and sink their teeth into the low-rent tenants, Josh leads the battle to beat back the conniving critters and save the planet.",
-                                                    "year":  1991
-                                                },
                                                 {
                                                     "title":  "WISHMASTER part 2",
                                                     "start":  "2026-08-30T21:59:42.0000000Z",
@@ -472,15 +463,7 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "XocoBruja",
-                                                  "start":  "2026-08-30T20:27:30.0000000Z",
-                                                  "stop":  "2026-08-30T20:28:58.0000000Z",
-                                                  "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
-                                                  "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
-                                                  "description":  null,
-                                                  "year":  2026
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
                                               "title":  "COKCE6139",
                                               "start":  "2026-08-30T20:30:15.0000000Z",
