@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-30T09:51:05.4847305Z",
+    "updated":  "2026-08-30T09:52:05.4445905Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -74,33 +74,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Dawn of the Dead",
-                                                  "start":  "2026-08-30T07:44:16.0000000Z",
-                                                  "stop":  "2026-08-30T09:51:22.0000000Z",
-                                                  "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
-                                                  "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
-                                                  "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
-                                                  "year":  2004
+                                                  "title":  "Resident Evil",
+                                                  "start":  "2026-08-30T09:51:22.0000000Z",
+                                                  "stop":  "2026-08-30T11:37:44.0000000Z",
+                                                  "itemId":  "760d913661074a3a3f5a58738842a2f8",
+                                                  "poster":  "http://127.0.0.1:8096/Items/760d913661074a3a3f5a58738842a2f8/Images/Primary",
+                                                  "description":  "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
+                                                  "year":  2002
                                               },
                                "upNext":  {
-                                              "title":  "Resident Evil",
-                                              "start":  "2026-08-30T09:51:22.0000000Z",
-                                              "stop":  "2026-08-30T11:37:44.0000000Z",
-                                              "itemId":  "760d913661074a3a3f5a58738842a2f8",
-                                              "poster":  "http://127.0.0.1:8096/Items/760d913661074a3a3f5a58738842a2f8/Images/Primary",
-                                              "description":  "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
-                                              "year":  2002
+                                              "title":  "Boogeyman",
+                                              "start":  "2026-08-30T11:37:44.0000000Z",
+                                              "stop":  "2026-08-30T13:12:26.0000000Z",
+                                              "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
+                                              "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
+                                              "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
+                                              "year":  2005
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Resident Evil",
-                                                    "start":  "2026-08-30T09:51:22.0000000Z",
-                                                    "stop":  "2026-08-30T11:37:44.0000000Z",
-                                                    "itemId":  "760d913661074a3a3f5a58738842a2f8",
-                                                    "poster":  "http://127.0.0.1:8096/Items/760d913661074a3a3f5a58738842a2f8/Images/Primary",
-                                                    "description":  "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
-                                                    "year":  2002
-                                                },
                                                 {
                                                     "title":  "Boogeyman",
                                                     "start":  "2026-08-30T11:37:44.0000000Z",
@@ -463,15 +454,7 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "Duende",
-                                                  "start":  "2026-08-30T09:50:33.0000000Z",
-                                                  "stop":  "2026-08-30T09:51:42.0000000Z",
-                                                  "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                                  "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
-                                                  "description":  null,
-                                                  "year":  null
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
                                               "title":  "JamminG",
                                               "start":  "2026-08-30T09:52:14.0000000Z",
