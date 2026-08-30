@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-08-30T07:59:06.9150109Z",
+    "updated":  "2026-08-30T08:00:16.0363849Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Reservor Dogs",
-                                                  "start":  "2026-08-30T06:15:31.0000000Z",
-                                                  "stop":  "2026-08-30T08:00:00.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Predator",
+                                                  "start":  "2026-08-30T08:00:00.0000000Z",
+                                                  "stop":  "2026-08-30T09:47:02.0000000Z",
+                                                  "itemId":  "9745bbd80aedfd3750130547f37af704",
+                                                  "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
+                                                  "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+                                                  "year":  1987
                                               },
                                "upNext":  {
-                                              "title":  "Predator",
-                                              "start":  "2026-08-30T08:00:00.0000000Z",
-                                              "stop":  "2026-08-30T09:47:02.0000000Z",
-                                              "itemId":  "9745bbd80aedfd3750130547f37af704",
-                                              "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
-                                              "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
-                                              "year":  1987
+                                              "title":  "Inside Man",
+                                              "start":  "2026-08-30T09:47:02.0000000Z",
+                                              "stop":  "2026-08-30T11:56:18.0000000Z",
+                                              "itemId":  "5f439285fe3ef8976153452a9fee8cbc",
+                                              "poster":  "http://127.0.0.1:8096/Items/5f439285fe3ef8976153452a9fee8cbc/Images/Primary",
+                                              "description":  "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
+                                              "year":  2006
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Predator",
-                                                    "start":  "2026-08-30T08:00:00.0000000Z",
-                                                    "stop":  "2026-08-30T09:47:02.0000000Z",
-                                                    "itemId":  "9745bbd80aedfd3750130547f37af704",
-                                                    "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
-                                                    "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
-                                                    "year":  1987
-                                                },
                                                 {
                                                     "title":  "Inside Man",
                                                     "start":  "2026-08-30T09:47:02.0000000Z",
@@ -518,24 +509,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Mr J-Carry",
-                                              "start":  "2026-08-30T08:00:16.0000000Z",
-                                              "stop":  "2026-08-30T08:06:19.0000000Z",
-                                              "itemId":  "56c94066e018711311e81d6a3f6cc139",
-                                              "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
+                                              "title":  "T2",
+                                              "start":  "2026-08-30T08:01:12.0000000Z",
+                                              "stop":  "2026-08-30T08:05:53.0000000Z",
+                                              "itemId":  "1315943017e226076a7899408d36dec5",
+                                              "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Mr J-Carry",
-                                                    "start":  "2026-08-30T08:00:16.0000000Z",
-                                                    "stop":  "2026-08-30T08:06:19.0000000Z",
-                                                    "itemId":  "56c94066e018711311e81d6a3f6cc139",
-                                                    "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "T2",
                                                     "start":  "2026-08-30T08:01:12.0000000Z",
@@ -596,6 +578,15 @@
                                                     "stop":  "2026-08-30T08:19:22.0000000Z",
                                                     "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
                                                     "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Carrito",
+                                                    "start":  "2026-08-30T08:13:22.0000000Z",
+                                                    "stop":  "2026-08-30T08:21:01.0000000Z",
+                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
