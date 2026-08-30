@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-30T07:56:11.6298257Z",
+    "updated":  "2026-08-30T07:57:06.2450606Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -71,11 +71,20 @@
                                                 {
                                                     "title":  "HALF BAKED",
                                                     "start":  "2026-08-30T18:14:40.0000000Z",
-                                                    "stop":  "2026-08-30T19:36:46.0000000Z",
+                                                    "stop":  "2026-08-30T19:37:15.0000000Z",
                                                     "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
                                                     "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
                                                     "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
                                                     "year":  1998
+                                                },
+                                                {
+                                                    "title":  "AnchorMan",
+                                                    "start":  "2026-08-30T19:37:15.0000000Z",
+                                                    "stop":  "2026-08-30T21:14:38.0000000Z",
+                                                    "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
+                                                    "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
+                                                    "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
+                                                    "year":  2004
                                                 }
                                             ]
                            },
@@ -232,6 +241,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
                                                     "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
                                                     "year":  2009
+                                                },
+                                                {
+                                                    "title":  "Fast N Furious",
+                                                    "start":  "2026-08-30T19:23:46.0000000Z",
+                                                    "stop":  "2026-08-30T21:10:42.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
@@ -319,6 +337,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
                                                     "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
                                                     "year":  2002
+                                                },
+                                                {
+                                                    "title":  "AnchorMan",
+                                                    "start":  "2026-08-30T19:36:59.0000000Z",
+                                                    "stop":  "2026-08-30T21:14:22.0000000Z",
+                                                    "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
+                                                    "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
+                                                    "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
+                                                    "year":  2004
                                                 }
                                             ]
                            },
@@ -466,6 +493,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
                                                     "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
                                                     "year":  1983
+                                                },
+                                                {
+                                                    "title":  "Carlitos Way",
+                                                    "start":  "2026-08-30T19:05:20.0000000Z",
+                                                    "stop":  "2026-08-30T21:29:30.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
@@ -475,7 +511,7 @@
                                "nowPlaying":  {
                                                   "title":  "Ass Kicker Bruce",
                                                   "start":  "2026-08-30T07:51:47.0000000Z",
-                                                  "stop":  "2026-08-30T08:03:19.0000000Z",
+                                                  "stop":  "2026-08-30T08:04:04.0000000Z",
                                                   "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                   "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                   "description":  null,
@@ -484,7 +520,7 @@
                                "upNext":  {
                                               "title":  "Biggie Mobbing",
                                               "start":  "2026-08-30T07:57:43.0000000Z",
-                                              "stop":  "2026-08-30T08:00:54.0000000Z",
+                                              "stop":  "2026-08-30T08:01:14.0000000Z",
                                               "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                               "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                               "description":  null,
@@ -494,7 +530,7 @@
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-08-30T07:57:43.0000000Z",
-                                                    "stop":  "2026-08-30T08:00:54.0000000Z",
+                                                    "stop":  "2026-08-30T08:01:14.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
@@ -503,7 +539,7 @@
                                                 {
                                                     "title":  "Chingadasos",
                                                     "start":  "2026-08-30T07:58:24.0000000Z",
-                                                    "stop":  "2026-08-30T08:01:40.0000000Z",
+                                                    "stop":  "2026-08-30T08:02:00.0000000Z",
                                                     "itemId":  "8988d98fd90679aab5aff5b786344b1c",
                                                     "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
                                                     "description":  null,
@@ -512,7 +548,7 @@
                                                 {
                                                     "title":  "Mr J-Carry",
                                                     "start":  "2026-08-30T08:00:16.0000000Z",
-                                                    "stop":  "2026-08-30T08:05:40.0000000Z",
+                                                    "stop":  "2026-08-30T08:06:19.0000000Z",
                                                     "itemId":  "56c94066e018711311e81d6a3f6cc139",
                                                     "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
                                                     "description":  null,
@@ -521,7 +557,7 @@
                                                 {
                                                     "title":  "T2",
                                                     "start":  "2026-08-30T08:01:12.0000000Z",
-                                                    "stop":  "2026-08-30T08:05:24.0000000Z",
+                                                    "stop":  "2026-08-30T08:05:53.0000000Z",
                                                     "itemId":  "1315943017e226076a7899408d36dec5",
                                                     "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                                     "description":  null,
@@ -539,7 +575,7 @@
                                                 {
                                                     "title":  "XocoBruja",
                                                     "start":  "2026-08-30T08:04:00.0000000Z",
-                                                    "stop":  "2026-08-30T08:09:05.0000000Z",
+                                                    "stop":  "2026-08-30T08:09:34.0000000Z",
                                                     "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
                                                     "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
                                                     "description":  null,
@@ -548,7 +584,7 @@
                                                 {
                                                     "title":  "COKCE6139",
                                                     "start":  "2026-08-30T08:06:44.0000000Z",
-                                                    "stop":  "2026-08-30T08:14:32.0000000Z",
+                                                    "stop":  "2026-08-30T08:15:23.0000000Z",
                                                     "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
                                                     "description":  null,
@@ -557,7 +593,7 @@
                                                 {
                                                     "title":  "MrPayo",
                                                     "start":  "2026-08-30T08:08:55.0000000Z",
-                                                    "stop":  "2026-08-30T08:16:58.0000000Z",
+                                                    "stop":  "2026-08-30T08:17:57.0000000Z",
                                                     "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
                                                     "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
                                                     "description":  null,
