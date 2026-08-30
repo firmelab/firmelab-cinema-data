@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-08-30T03:04:05.1590850Z",
+    "updated":  "2026-08-30T03:05:05.1660130Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Firmelab Cinema",
-                                                  "start":  "2026-08-30T03:00:00.0000000Z",
-                                                  "stop":  "2026-08-30T03:04:23.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "WISHMASTER",
+                                                  "start":  "2026-08-30T03:04:23.0000000Z",
+                                                  "stop":  "2026-08-30T04:39:43.0000000Z",
+                                                  "itemId":  "a40975c211217985a304e7ec81026a1f",
+                                                  "poster":  "http://127.0.0.1:8096/Items/a40975c211217985a304e7ec81026a1f/Images/Primary",
+                                                  "description":  "During a failed art heist, the Djinn is once again liberated. This time, to complete the 1001 wishes that he needs before the final 3, he lets himself go to prison, where he starts his evil reign twisting the hopes of the prisoners. Meanwhile, the woman who set him free accidentally, Morgana, tries to find a way to stop him, aided by a young priest.",
+                                                  "year":  1999
                                               },
                                "upNext":  {
-                                              "title":  "WISHMASTER",
-                                              "start":  "2026-08-30T03:04:23.0000000Z",
-                                              "stop":  "2026-08-30T04:39:43.0000000Z",
-                                              "itemId":  "a40975c211217985a304e7ec81026a1f",
-                                              "poster":  "http://127.0.0.1:8096/Items/a40975c211217985a304e7ec81026a1f/Images/Primary",
-                                              "description":  "During a failed art heist, the Djinn is once again liberated. This time, to complete the 1001 wishes that he needs before the final 3, he lets himself go to prison, where he starts his evil reign twisting the hopes of the prisoners. Meanwhile, the woman who set him free accidentally, Morgana, tries to find a way to stop him, aided by a young priest.",
-                                              "year":  1999
+                                              "title":  "HEAVY METAL",
+                                              "start":  "2026-08-30T04:39:43.0000000Z",
+                                              "stop":  "2026-08-30T06:15:31.0000000Z",
+                                              "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                              "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                              "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                              "year":  1981
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "WISHMASTER",
-                                                    "start":  "2026-08-30T03:04:23.0000000Z",
-                                                    "stop":  "2026-08-30T04:39:43.0000000Z",
-                                                    "itemId":  "a40975c211217985a304e7ec81026a1f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/a40975c211217985a304e7ec81026a1f/Images/Primary",
-                                                    "description":  "During a failed art heist, the Djinn is once again liberated. This time, to complete the 1001 wishes that he needs before the final 3, he lets himself go to prison, where he starts his evil reign twisting the hopes of the prisoners. Meanwhile, the woman who set him free accidentally, Morgana, tries to find a way to stop him, aided by a young priest.",
-                                                    "year":  1999
-                                                },
                                                 {
                                                     "title":  "HEAVY METAL",
                                                     "start":  "2026-08-30T04:39:43.0000000Z",
