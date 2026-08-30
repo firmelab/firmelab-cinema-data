@@ -1,81 +1,81 @@
 {
-    "updated":  "2026-08-30T08:18:05.6526623Z",
+    "updated":  "2026-08-30T08:19:05.5812856Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Predator",
-                                                  "start":  "2026-08-30T08:00:00.0000000Z",
-                                                  "stop":  "2026-08-30T09:47:02.0000000Z",
-                                                  "itemId":  "9745bbd80aedfd3750130547f37af704",
-                                                  "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
-                                                  "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
-                                                  "year":  1987
+                                                  "title":  "AnchorMan",
+                                                  "start":  "2026-08-30T07:56:21.0000000Z",
+                                                  "stop":  "2026-08-30T09:33:44.0000000Z",
+                                                  "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
+                                                  "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
+                                                  "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
+                                                  "year":  2004
                                               },
                                "upNext":  {
-                                              "title":  "Inside Man",
-                                              "start":  "2026-08-30T09:47:02.0000000Z",
-                                              "stop":  "2026-08-30T11:56:18.0000000Z",
-                                              "itemId":  "5f439285fe3ef8976153452a9fee8cbc",
-                                              "poster":  "http://127.0.0.1:8096/Items/5f439285fe3ef8976153452a9fee8cbc/Images/Primary",
-                                              "description":  "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
-                                              "year":  2006
+                                              "title":  "Blade 2",
+                                              "start":  "2026-08-30T09:33:44.0000000Z",
+                                              "stop":  "2026-08-30T11:30:34.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
                                                 {
-                                                    "title":  "Inside Man",
-                                                    "start":  "2026-08-30T09:47:02.0000000Z",
-                                                    "stop":  "2026-08-30T11:56:18.0000000Z",
-                                                    "itemId":  "5f439285fe3ef8976153452a9fee8cbc",
-                                                    "poster":  "http://127.0.0.1:8096/Items/5f439285fe3ef8976153452a9fee8cbc/Images/Primary",
-                                                    "description":  "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
-                                                    "year":  2006
-                                                },
-                                                {
-                                                    "title":  "Fast N Furious",
-                                                    "start":  "2026-08-30T11:56:18.0000000Z",
-                                                    "stop":  "2026-08-30T13:43:42.0000000Z",
+                                                    "title":  "Blade 2",
+                                                    "start":  "2026-08-30T09:33:44.0000000Z",
+                                                    "stop":  "2026-08-30T11:30:34.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
                                                 },
                                                 {
-                                                    "title":  "Brave Heart",
-                                                    "start":  "2026-08-30T13:43:42.0000000Z",
-                                                    "stop":  "2026-08-30T16:41:50.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
-                                                    "title":  "DEMON KNIGHT",
-                                                    "start":  "2026-08-30T16:41:50.0000000Z",
-                                                    "stop":  "2026-08-30T18:14:40.0000000Z",
-                                                    "itemId":  "a5a1f15c45eb562ac5f7621a94c12742",
-                                                    "poster":  "http://127.0.0.1:8096/Items/a5a1f15c45eb562ac5f7621a94c12742/Images/Primary",
-                                                    "description":  "Ex-soldier Frank Brayker is the guardian of an ancient key that can unlock tremendous evil; the sinister Collector is a demon who wants the key so he can initiate the apocalypse. On the run from wicked mercenaries for almost 90 years, Brayker finally stops in at a boarding house in New Mexico where — with the help of its residents — he plans to face off against the Collector and his band of ghouls, preventing them from ever seizing the key.",
-                                                    "year":  1995
-                                                },
-                                                {
-                                                    "title":  "HALF BAKED",
-                                                    "start":  "2026-08-30T18:14:40.0000000Z",
-                                                    "stop":  "2026-08-30T19:37:15.0000000Z",
-                                                    "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
-                                                    "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
-                                                    "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
+                                                    "title":  "Blade",
+                                                    "start":  "2026-08-30T11:30:34.0000000Z",
+                                                    "stop":  "2026-08-30T13:30:48.0000000Z",
+                                                    "itemId":  "b15fb14f946bc7e00478a81aa4943fdf",
+                                                    "poster":  "http://127.0.0.1:8096/Items/b15fb14f946bc7e00478a81aa4943fdf/Images/Primary",
+                                                    "description":  "The Daywalker known as \"Blade\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",
                                                     "year":  1998
                                                 },
                                                 {
-                                                    "title":  "AnchorMan",
-                                                    "start":  "2026-08-30T19:37:15.0000000Z",
-                                                    "stop":  "2026-08-30T21:14:38.0000000Z",
-                                                    "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
-                                                    "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
-                                                    "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
+                                                    "title":  "Master and Commander",
+                                                    "start":  "2026-08-30T13:30:48.0000000Z",
+                                                    "stop":  "2026-08-30T15:49:09.0000000Z",
+                                                    "itemId":  "5fcc6b3e811cdcaf000036c06aef62b9",
+                                                    "poster":  "http://127.0.0.1:8096/Items/5fcc6b3e811cdcaf000036c06aef62b9/Images/Primary",
+                                                    "description":  "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship\u0027s thoughtful surgeon, his best friend.",
+                                                    "year":  2003
+                                                },
+                                                {
+                                                    "title":  "Land of the Dead",
+                                                    "start":  "2026-08-30T15:49:09.0000000Z",
+                                                    "stop":  "2026-08-30T17:25:59.0000000Z",
+                                                    "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
+                                                    "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
+                                                    "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
+                                                    "year":  2005
+                                                },
+                                                {
+                                                    "title":  "Dawn of the Dead",
+                                                    "start":  "2026-08-30T17:25:59.0000000Z",
+                                                    "stop":  "2026-08-30T19:15:12.0000000Z",
+                                                    "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
+                                                    "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
+                                                    "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
                                                     "year":  2004
+                                                },
+                                                {
+                                                    "title":  "F1_t00",
+                                                    "start":  "2026-08-30T19:15:12.0000000Z",
+                                                    "stop":  "2026-08-30T21:01:36.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
@@ -223,6 +223,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/031faf0da71af121647ff2d37294b07a/Images/Primary",
                                                     "description":  "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
                                                     "year":  2004
+                                                },
+                                                {
+                                                    "title":  "Brightburn",
+                                                    "start":  "2026-08-30T20:16:41.0000000Z",
+                                                    "stop":  "2026-08-30T21:47:11.0000000Z",
+                                                    "itemId":  "a562e465a7ff31b0113aee613a779bf2",
+                                                    "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
+                                                    "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
+                                                    "year":  2019
                                                 }
                                             ]
                            },
@@ -484,7 +493,7 @@
                                "nowPlaying":  {
                                                   "title":  "Carrito",
                                                   "start":  "2026-08-30T08:13:22.0000000Z",
-                                                  "stop":  "2026-08-30T08:25:28.0000000Z",
+                                                  "stop":  "2026-08-30T08:25:45.0000000Z",
                                                   "itemId":  "ed83754111f4ed370a338cab8345534d",
                                                   "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
@@ -512,7 +521,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-08-30T08:22:06.0000000Z",
-                                                    "stop":  "2026-08-30T08:24:17.0000000Z",
+                                                    "stop":  "2026-08-30T08:24:22.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -631,6 +640,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
                                                     "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
                                                     "year":  1988
+                                                },
+                                                {
+                                                    "title":  "The Patriot",
+                                                    "start":  "2026-08-30T20:10:06.0000000Z",
+                                                    "stop":  "2026-08-30T22:54:53.0000000Z",
+                                                    "itemId":  "17b673273650da7e33ae51350e123fb0",
+                                                    "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
+                                                    "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+                                                    "year":  2000
                                                 }
                                             ]
                            }
