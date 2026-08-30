@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-30T03:48:06.9436657Z",
+    "updated":  "2026-08-30T03:49:06.6569605Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -482,11 +482,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "XocoBruja",
-                                                  "start":  "2026-08-30T03:41:35.0000000Z",
-                                                  "stop":  "2026-08-30T03:48:20.0000000Z",
-                                                  "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
-                                                  "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
+                                                  "title":  "COKCE6139",
+                                                  "start":  "2026-08-30T03:44:19.0000000Z",
+                                                  "stop":  "2026-08-30T03:53:08.0000000Z",
+                                                  "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
+                                                  "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
