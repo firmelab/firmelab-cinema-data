@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-30T21:49:10.2948601Z",
+    "updated":  "2026-08-30T21:50:09.7661598Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -464,24 +464,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Chingadasos",
-                                              "start":  "2026-08-30T21:49:23.0000000Z",
-                                              "stop":  "2026-08-30T21:50:09.0000000Z",
-                                              "itemId":  "8988d98fd90679aab5aff5b786344b1c",
-                                              "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
+                                              "title":  "Mr J-Carry",
+                                              "start":  "2026-08-30T21:51:14.0000000Z",
+                                              "stop":  "2026-08-30T21:58:15.0000000Z",
+                                              "itemId":  "56c94066e018711311e81d6a3f6cc139",
+                                              "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Chingadasos",
-                                                    "start":  "2026-08-30T21:49:23.0000000Z",
-                                                    "stop":  "2026-08-30T21:50:09.0000000Z",
-                                                    "itemId":  "8988d98fd90679aab5aff5b786344b1c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Mr J-Carry",
                                                     "start":  "2026-08-30T21:51:14.0000000Z",
@@ -544,6 +535,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "BloodJoke",
+                                                    "start":  "2026-08-30T22:02:40.0000000Z",
+                                                    "stop":  "2026-08-30T22:09:08.0000000Z",
+                                                    "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
