@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-30T21:14:16.8712596Z",
+    "updated":  "2026-08-30T21:15:25.2869537Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -230,33 +230,24 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "AnchorMan",
-                                                  "start":  "2026-08-30T19:36:59.0000000Z",
-                                                  "stop":  "2026-08-30T21:14:22.0000000Z",
-                                                  "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
-                                                  "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
-                                                  "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
-                                                  "year":  2004
+                                                  "title":  "Duplex",
+                                                  "start":  "2026-08-30T21:14:22.0000000Z",
+                                                  "stop":  "2026-08-30T22:43:35.0000000Z",
+                                                  "itemId":  "e2340e07092b6de7376760916297a934",
+                                                  "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
+                                                  "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
+                                                  "year":  2003
                                               },
                                "upNext":  {
-                                              "title":  "Duplex",
-                                              "start":  "2026-08-30T21:14:22.0000000Z",
-                                              "stop":  "2026-08-30T22:43:35.0000000Z",
-                                              "itemId":  "e2340e07092b6de7376760916297a934",
-                                              "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
-                                              "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
-                                              "year":  2003
+                                              "title":  "UP IN SMOKE",
+                                              "start":  "2026-08-30T22:43:35.0000000Z",
+                                              "stop":  "2026-08-31T00:09:25.0000000Z",
+                                              "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
+                                              "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
+                                              "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
+                                              "year":  1978
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Duplex",
-                                                    "start":  "2026-08-30T21:14:22.0000000Z",
-                                                    "stop":  "2026-08-30T22:43:35.0000000Z",
-                                                    "itemId":  "e2340e07092b6de7376760916297a934",
-                                                    "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
-                                                    "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
-                                                    "year":  2003
-                                                },
                                                 {
                                                     "title":  "UP IN SMOKE",
                                                     "start":  "2026-08-30T22:43:35.0000000Z",
@@ -482,11 +473,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "XocoBruja",
-                                                  "start":  "2026-08-30T21:11:14.0000000Z",
-                                                  "stop":  "2026-08-30T21:15:22.0000000Z",
-                                                  "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
-                                                  "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
+                                                  "title":  "COKCE6139",
+                                                  "start":  "2026-08-30T21:13:59.0000000Z",
+                                                  "stop":  "2026-08-30T21:17:33.0000000Z",
+                                                  "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
+                                                  "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
