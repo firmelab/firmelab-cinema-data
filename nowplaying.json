@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-30T18:10:05.2197008Z",
+    "updated":  "2026-08-30T18:11:05.2426023Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -203,33 +203,24 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "Get Shorty",
-                                                  "start":  "2026-08-30T16:26:04.0000000Z",
-                                                  "stop":  "2026-08-30T18:10:53.0000000Z",
-                                                  "itemId":  "746531a34dc012efd97b57703e1903af",
-                                                  "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
-                                                  "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
-                                                  "year":  1995
+                                                  "title":  "Undercover Brother",
+                                                  "start":  "2026-08-30T18:10:53.0000000Z",
+                                                  "stop":  "2026-08-30T19:36:59.0000000Z",
+                                                  "itemId":  "6317b8f6b30a049091764b8311c08279",
+                                                  "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
+                                                  "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
+                                                  "year":  2002
                                               },
                                "upNext":  {
-                                              "title":  "Undercover Brother",
-                                              "start":  "2026-08-30T18:10:53.0000000Z",
-                                              "stop":  "2026-08-30T19:36:59.0000000Z",
-                                              "itemId":  "6317b8f6b30a049091764b8311c08279",
-                                              "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
-                                              "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
-                                              "year":  2002
+                                              "title":  "AnchorMan",
+                                              "start":  "2026-08-30T19:36:59.0000000Z",
+                                              "stop":  "2026-08-30T21:14:22.0000000Z",
+                                              "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
+                                              "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
+                                              "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
+                                              "year":  2004
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Undercover Brother",
-                                                    "start":  "2026-08-30T18:10:53.0000000Z",
-                                                    "stop":  "2026-08-30T19:36:59.0000000Z",
-                                                    "itemId":  "6317b8f6b30a049091764b8311c08279",
-                                                    "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
-                                                    "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
-                                                    "year":  2002
-                                                },
                                                 {
                                                     "title":  "AnchorMan",
                                                     "start":  "2026-08-30T19:36:59.0000000Z",
@@ -410,33 +401,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Biggie Mobbing",
-                                                  "start":  "2026-08-30T18:10:01.0000000Z",
-                                                  "stop":  "2026-08-30T18:10:42.0000000Z",
-                                                  "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
+                                                  "title":  "Chingadasos",
+                                                  "start":  "2026-08-30T18:10:42.0000000Z",
+                                                  "stop":  "2026-08-30T18:11:28.0000000Z",
+                                                  "itemId":  "8988d98fd90679aab5aff5b786344b1c",
+                                                  "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Chingadasos",
-                                              "start":  "2026-08-30T18:10:42.0000000Z",
-                                              "stop":  "2026-08-30T18:11:28.0000000Z",
-                                              "itemId":  "8988d98fd90679aab5aff5b786344b1c",
-                                              "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
+                                              "title":  "Mr J-Carry",
+                                              "start":  "2026-08-30T18:12:34.0000000Z",
+                                              "stop":  "2026-08-30T18:13:06.0000000Z",
+                                              "itemId":  "56c94066e018711311e81d6a3f6cc139",
+                                              "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Chingadasos",
-                                                    "start":  "2026-08-30T18:10:42.0000000Z",
-                                                    "stop":  "2026-08-30T18:11:28.0000000Z",
-                                                    "itemId":  "8988d98fd90679aab5aff5b786344b1c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Mr J-Carry",
                                                     "start":  "2026-08-30T18:12:34.0000000Z",
@@ -499,6 +481,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "BloodJoke",
+                                                    "start":  "2026-08-30T18:23:59.0000000Z",
+                                                    "stop":  "2026-08-30T18:25:35.0000000Z",
+                                                    "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
