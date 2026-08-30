@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-08-30T16:19:05.2158746Z",
+    "updated":  "2026-08-30T16:20:05.2290247Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Young Guns",
-                                                  "start":  "2026-08-30T14:32:00.0000000Z",
-                                                  "stop":  "2026-08-30T16:19:44.0000000Z",
-                                                  "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
-                                                  "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
-                                                  "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
-                                                  "year":  1988
+                                                  "title":  "Blade Trinity",
+                                                  "start":  "2026-08-30T16:19:44.0000000Z",
+                                                  "stop":  "2026-08-30T18:13:33.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Blade Trinity",
-                                              "start":  "2026-08-30T16:19:44.0000000Z",
-                                              "stop":  "2026-08-30T18:13:33.0000000Z",
+                                              "title":  "Resident Evil- Apocalypse",
+                                              "start":  "2026-08-30T18:13:33.0000000Z",
+                                              "stop":  "2026-08-30T19:48:20.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Blade Trinity",
-                                                    "start":  "2026-08-30T16:19:44.0000000Z",
-                                                    "stop":  "2026-08-30T18:13:33.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Resident Evil- Apocalypse",
                                                     "start":  "2026-08-30T18:13:33.0000000Z",
@@ -455,11 +446,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "BloodJoke",
-                                                  "start":  "2026-08-30T16:12:47.0000000Z",
-                                                  "stop":  "2026-08-30T16:19:42.0000000Z",
-                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                  "title":  "Carrito",
+                                                  "start":  "2026-08-30T16:14:28.0000000Z",
+                                                  "stop":  "2026-08-30T16:22:06.0000000Z",
+                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
