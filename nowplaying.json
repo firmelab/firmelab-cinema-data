@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-30T21:29:09.7242487Z",
+    "updated":  "2026-08-30T21:30:09.3715468Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -404,33 +404,24 @@
                                "number":  6,
                                "name":  "FIRMELAB CRIME",
                                "nowPlaying":  {
-                                                  "title":  "Carlitos Way",
-                                                  "start":  "2026-08-30T19:05:20.0000000Z",
-                                                  "stop":  "2026-08-30T21:29:30.0000000Z",
+                                                  "title":  "Jacky Brown",
+                                                  "start":  "2026-08-30T21:29:30.0000000Z",
+                                                  "stop":  "2026-08-31T00:03:51.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Jacky Brown",
-                                              "start":  "2026-08-30T21:29:30.0000000Z",
-                                              "stop":  "2026-08-31T00:03:51.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Inside Man",
+                                              "start":  "2026-08-31T00:03:51.0000000Z",
+                                              "stop":  "2026-08-31T02:12:38.0000000Z",
+                                              "itemId":  "5f439285fe3ef8976153452a9fee8cbc",
+                                              "poster":  "http://127.0.0.1:8096/Items/5f439285fe3ef8976153452a9fee8cbc/Images/Primary",
+                                              "description":  "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
+                                              "year":  2006
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Jacky Brown",
-                                                    "start":  "2026-08-30T21:29:30.0000000Z",
-                                                    "stop":  "2026-08-31T00:03:51.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Inside Man",
                                                     "start":  "2026-08-31T00:03:51.0000000Z",
@@ -472,34 +463,17 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "Carrito",
-                                                  "start":  "2026-08-30T21:20:37.0000000Z",
-                                                  "stop":  "2026-08-30T21:29:39.0000000Z",
-                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
-                                                  "description":  null,
-                                                  "year":  null
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
-                                              "title":  "DnBaPCsht",
-                                              "start":  "2026-08-30T21:29:21.0000000Z",
-                                              "stop":  "2026-08-30T21:30:08.0000000Z",
-                                              "itemId":  "d2296bca99a831548bbada0bb3bac719",
-                                              "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
+                                              "title":  "Duende",
+                                              "start":  "2026-08-30T21:30:19.0000000Z",
+                                              "stop":  "2026-08-30T21:31:28.0000000Z",
+                                              "itemId":  "80d6feb8f0c835e935a80db3275c5412",
+                                              "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "DnBaPCsht",
-                                                    "start":  "2026-08-30T21:29:21.0000000Z",
-                                                    "stop":  "2026-08-30T21:30:08.0000000Z",
-                                                    "itemId":  "d2296bca99a831548bbada0bb3bac719",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-08-30T21:30:19.0000000Z",
@@ -560,6 +534,15 @@
                                                     "stop":  "2026-08-30T21:41:57.0000000Z",
                                                     "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
                                                     "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "After H0uRs",
+                                                    "start":  "2026-08-30T21:41:57.0000000Z",
+                                                    "stop":  "2026-08-30T21:48:50.0000000Z",
+                                                    "itemId":  "150bbae732cd647eeed3060cd67b032f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
