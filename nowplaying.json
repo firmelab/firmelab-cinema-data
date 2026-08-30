@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-30T07:12:05.1413600Z",
+    "updated":  "2026-08-30T07:14:12.0331016Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -88,8 +88,8 @@
                                                   "stop":  "2026-08-30T07:44:16.0000000Z",
                                                   "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
                                                   "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
-                                                  "description":  null,
-                                                  "year":  2026
+                                                  "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
+                                                  "year":  2005
                                               },
                                "upNext":  {
                                               "title":  "Dawn of the Dead",
@@ -125,8 +125,8 @@
                                                     "stop":  "2026-08-30T13:12:26.0000000Z",
                                                     "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
                                                     "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
+                                                    "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
+                                                    "year":  2005
                                                 },
                                                 {
                                                     "title":  "D1_t00",
@@ -518,24 +518,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Biggie Mobbing",
-                                              "start":  "2026-08-30T07:13:59.0000000Z",
-                                              "stop":  "2026-08-30T07:16:04.0000000Z",
-                                              "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
-                                              "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
+                                              "title":  "Chingadasos",
+                                              "start":  "2026-08-30T07:14:40.0000000Z",
+                                              "stop":  "2026-08-30T07:20:59.0000000Z",
+                                              "itemId":  "8988d98fd90679aab5aff5b786344b1c",
+                                              "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Biggie Mobbing",
-                                                    "start":  "2026-08-30T07:13:59.0000000Z",
-                                                    "stop":  "2026-08-30T07:16:04.0000000Z",
-                                                    "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Chingadasos",
                                                     "start":  "2026-08-30T07:14:40.0000000Z",
@@ -598,6 +589,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Oz",
+                                                    "start":  "2026-08-30T07:26:16.0000000Z",
+                                                    "stop":  "2026-08-30T07:27:57.0000000Z",
+                                                    "itemId":  "f332ba1673f9273e5349cd38b640cf51",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
