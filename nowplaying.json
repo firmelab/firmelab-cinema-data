@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-31T09:35:04.9613573Z",
+    "updated":  "2026-08-31T09:36:04.9695937Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -74,33 +74,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Boogeyman",
-                                                  "start":  "2026-08-31T08:02:34.0000000Z",
-                                                  "stop":  "2026-08-31T09:35:25.0000000Z",
-                                                  "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
-                                                  "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
-                                                  "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
-                                                  "year":  2005
+                                                  "title":  "Underworld Evolution",
+                                                  "start":  "2026-08-31T09:35:25.0000000Z",
+                                                  "stop":  "2026-08-31T11:25:49.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Underworld Evolution",
-                                              "start":  "2026-08-31T09:35:25.0000000Z",
-                                              "stop":  "2026-08-31T11:25:49.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Wrong Turn",
+                                              "start":  "2026-08-31T11:25:49.0000000Z",
+                                              "stop":  "2026-08-31T13:02:21.0000000Z",
+                                              "itemId":  "58d332deb67464546d571f7fda1cd63c",
+                                              "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
+                                              "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
+                                              "year":  2003
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Underworld Evolution",
-                                                    "start":  "2026-08-31T09:35:25.0000000Z",
-                                                    "stop":  "2026-08-31T11:25:49.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Wrong Turn",
                                                     "start":  "2026-08-31T11:25:49.0000000Z",
