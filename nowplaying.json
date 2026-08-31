@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-31T04:55:06.0485833Z",
+    "updated":  "2026-08-31T04:56:05.9179748Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -161,33 +161,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Predator",
-                                                  "start":  "2026-08-31T03:08:54.0000000Z",
-                                                  "stop":  "2026-08-31T04:55:28.0000000Z",
-                                                  "itemId":  "9745bbd80aedfd3750130547f37af704",
-                                                  "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
-                                                  "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
-                                                  "year":  1987
+                                                  "title":  "Rambo First Blood",
+                                                  "start":  "2026-08-31T04:55:28.0000000Z",
+                                                  "stop":  "2026-08-31T06:28:38.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Rambo First Blood",
-                                              "start":  "2026-08-31T04:55:28.0000000Z",
-                                              "stop":  "2026-08-31T06:28:38.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Sherlock Holmes",
+                                              "start":  "2026-08-31T06:28:38.0000000Z",
+                                              "stop":  "2026-08-31T08:37:07.0000000Z",
+                                              "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
+                                              "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
+                                              "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
+                                              "year":  2009
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Rambo First Blood",
-                                                    "start":  "2026-08-31T04:55:28.0000000Z",
-                                                    "stop":  "2026-08-31T06:28:38.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Sherlock Holmes",
                                                     "start":  "2026-08-31T06:28:38.0000000Z",
@@ -455,33 +446,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Never 3Nding",
-                                                  "start":  "2026-08-31T04:53:19.0000000Z",
-                                                  "stop":  "2026-08-31T04:55:31.0000000Z",
-                                                  "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
-                                                  "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
+                                                  "title":  "Ninja Now",
+                                                  "start":  "2026-08-31T04:55:31.0000000Z",
+                                                  "stop":  "2026-08-31T04:56:13.0000000Z",
+                                                  "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
+                                                  "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Ninja Now",
-                                              "start":  "2026-08-31T04:55:31.0000000Z",
-                                              "stop":  "2026-08-31T04:56:13.0000000Z",
-                                              "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                              "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                              "title":  "SSBI4649",
+                                              "start":  "2026-08-31T04:56:13.0000000Z",
+                                              "stop":  "2026-08-31T04:57:02.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Ninja Now",
-                                                    "start":  "2026-08-31T04:55:31.0000000Z",
-                                                    "stop":  "2026-08-31T04:56:13.0000000Z",
-                                                    "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-08-31T04:56:13.0000000Z",
@@ -542,6 +524,15 @@
                                                     "stop":  "2026-08-31T05:07:30.0000000Z",
                                                     "itemId":  "8988d98fd90679aab5aff5b786344b1c",
                                                     "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Mr J-Carry",
+                                                    "start":  "2026-08-31T05:08:36.0000000Z",
+                                                    "stop":  "2026-08-31T05:09:08.0000000Z",
+                                                    "itemId":  "56c94066e018711311e81d6a3f6cc139",
+                                                    "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
