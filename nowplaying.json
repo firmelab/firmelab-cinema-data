@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-31T00:20:06.8388815Z",
+    "updated":  "2026-08-31T00:21:06.3666397Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -437,11 +437,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "BloodJoke",
-                                                  "start":  "2026-08-31T00:13:53.0000000Z",
-                                                  "stop":  "2026-08-31T00:20:47.0000000Z",
-                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                  "title":  "Carrito",
+                                                  "start":  "2026-08-31T00:15:33.0000000Z",
+                                                  "stop":  "2026-08-31T00:23:12.0000000Z",
+                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
