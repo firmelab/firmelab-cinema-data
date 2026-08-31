@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-08-31T03:08:05.1328043Z",
+    "updated":  "2026-08-31T03:09:05.2363357Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Young Guns",
-                                                  "start":  "2026-08-31T01:21:26.0000000Z",
-                                                  "stop":  "2026-08-31T03:08:24.0000000Z",
-                                                  "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
-                                                  "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
-                                                  "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
-                                                  "year":  1988
+                                                  "title":  "Brave Heart",
+                                                  "start":  "2026-08-31T03:08:24.0000000Z",
+                                                  "stop":  "2026-08-31T06:06:15.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Brave Heart",
-                                              "start":  "2026-08-31T03:08:24.0000000Z",
-                                              "stop":  "2026-08-31T06:06:15.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Undercover Brother",
+                                              "start":  "2026-08-31T06:06:15.0000000Z",
+                                              "stop":  "2026-08-31T07:32:33.0000000Z",
+                                              "itemId":  "6317b8f6b30a049091764b8311c08279",
+                                              "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
+                                              "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
+                                              "year":  2002
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Brave Heart",
-                                                    "start":  "2026-08-31T03:08:24.0000000Z",
-                                                    "stop":  "2026-08-31T06:06:15.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Undercover Brother",
                                                     "start":  "2026-08-31T06:06:15.0000000Z",
@@ -179,33 +170,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Conan The Destroyer",
-                                                  "start":  "2026-08-31T01:27:46.0000000Z",
-                                                  "stop":  "2026-08-31T03:08:54.0000000Z",
-                                                  "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
-                                                  "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
-                                                  "year":  1984
+                                                  "title":  "Predator",
+                                                  "start":  "2026-08-31T03:08:54.0000000Z",
+                                                  "stop":  "2026-08-31T04:55:28.0000000Z",
+                                                  "itemId":  "9745bbd80aedfd3750130547f37af704",
+                                                  "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
+                                                  "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+                                                  "year":  1987
                                               },
                                "upNext":  {
-                                              "title":  "Predator",
-                                              "start":  "2026-08-31T03:08:54.0000000Z",
-                                              "stop":  "2026-08-31T04:55:28.0000000Z",
-                                              "itemId":  "9745bbd80aedfd3750130547f37af704",
-                                              "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
-                                              "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
-                                              "year":  1987
+                                              "title":  "Rambo First Blood",
+                                              "start":  "2026-08-31T04:55:28.0000000Z",
+                                              "stop":  "2026-08-31T06:28:38.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Predator",
-                                                    "start":  "2026-08-31T03:08:54.0000000Z",
-                                                    "stop":  "2026-08-31T04:55:28.0000000Z",
-                                                    "itemId":  "9745bbd80aedfd3750130547f37af704",
-                                                    "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
-                                                    "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
-                                                    "year":  1987
-                                                },
                                                 {
                                                     "title":  "Rambo First Blood",
                                                     "start":  "2026-08-31T04:55:28.0000000Z",
@@ -362,33 +344,24 @@
                                "number":  5,
                                "name":  "FIRMELAB TOONS",
                                "nowPlaying":  {
-                                                  "title":  "Who Framed Roger Rabbit",
-                                                  "start":  "2026-08-31T01:24:37.0000000Z",
-                                                  "stop":  "2026-08-31T03:08:23.0000000Z",
-                                                  "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
-                                                  "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
-                                                  "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
-                                                  "year":  1988
+                                                  "title":  "HEAVY METAL",
+                                                  "start":  "2026-08-31T03:08:23.0000000Z",
+                                                  "stop":  "2026-08-31T04:38:44.0000000Z",
+                                                  "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                                  "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                                  "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                                  "year":  1981
                                               },
                                "upNext":  {
-                                              "title":  "HEAVY METAL",
-                                              "start":  "2026-08-31T03:08:23.0000000Z",
-                                              "stop":  "2026-08-31T04:38:44.0000000Z",
-                                              "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
-                                              "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
-                                              "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
-                                              "year":  1981
+                                              "title":  "Who Framed Roger Rabbit",
+                                              "start":  "2026-08-31T04:38:44.0000000Z",
+                                              "stop":  "2026-08-31T06:22:30.0000000Z",
+                                              "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
+                                              "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
+                                              "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+                                              "year":  1988
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "HEAVY METAL",
-                                                    "start":  "2026-08-31T03:08:23.0000000Z",
-                                                    "stop":  "2026-08-31T04:38:44.0000000Z",
-                                                    "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
-                                                    "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
-                                                    "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
-                                                    "year":  1981
-                                                },
                                                 {
                                                     "title":  "Who Framed Roger Rabbit",
                                                     "start":  "2026-08-31T04:38:44.0000000Z",
@@ -536,24 +509,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "BloodJoke",
-                                              "start":  "2026-08-31T03:08:49.0000000Z",
-                                              "stop":  "2026-08-31T03:10:25.0000000Z",
-                                              "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                              "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                              "title":  "Carrito",
+                                              "start":  "2026-08-31T03:10:30.0000000Z",
+                                              "stop":  "2026-08-31T03:19:32.0000000Z",
+                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "BloodJoke",
-                                                    "start":  "2026-08-31T03:08:49.0000000Z",
-                                                    "stop":  "2026-08-31T03:10:25.0000000Z",
-                                                    "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-08-31T03:10:30.0000000Z",
@@ -614,6 +578,15 @@
                                                     "stop":  "2026-08-31T03:28:45.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "SSBI4649",
+                                                    "start":  "2026-08-31T03:28:45.0000000Z",
+                                                    "stop":  "2026-08-31T03:29:34.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
                                                     "description":  null,
                                                     "year":  null
                                                 }
