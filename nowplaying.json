@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-31T00:18:06.6687994Z",
+    "updated":  "2026-08-31T00:19:06.4332659Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -74,33 +74,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Land of the Dead",
-                                                  "start":  "2026-08-30T22:38:06.0000000Z",
-                                                  "stop":  "2026-08-31T00:18:56.0000000Z",
-                                                  "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
-                                                  "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
-                                                  "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
-                                                  "year":  2005
+                                                  "title":  "World War Z",
+                                                  "start":  "2026-08-31T00:18:56.0000000Z",
+                                                  "stop":  "2026-08-31T04:37:15.0000000Z",
+                                                  "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
+                                                  "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
+                                                  "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+                                                  "year":  2013
                                               },
                                "upNext":  {
-                                              "title":  "World War Z",
-                                              "start":  "2026-08-31T00:18:56.0000000Z",
-                                              "stop":  "2026-08-31T04:37:15.0000000Z",
-                                              "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
-                                              "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
-                                              "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                              "year":  2013
+                                              "title":  "Land of the Dead",
+                                              "start":  "2026-08-31T04:37:15.0000000Z",
+                                              "stop":  "2026-08-31T06:18:03.0000000Z",
+                                              "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
+                                              "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
+                                              "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
+                                              "year":  2005
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "World War Z",
-                                                    "start":  "2026-08-31T00:18:56.0000000Z",
-                                                    "stop":  "2026-08-31T04:37:15.0000000Z",
-                                                    "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
-                                                    "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                                    "year":  2013
-                                                },
                                                 {
                                                     "title":  "Land of the Dead",
                                                     "start":  "2026-08-31T04:37:15.0000000Z",
