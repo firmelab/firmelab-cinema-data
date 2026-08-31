@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-31T13:02:04.9204005Z",
+    "updated":  "2026-08-31T13:03:04.9303649Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -83,33 +83,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Wrong Turn",
-                                                  "start":  "2026-08-31T11:25:49.0000000Z",
-                                                  "stop":  "2026-08-31T13:02:21.0000000Z",
-                                                  "itemId":  "58d332deb67464546d571f7fda1cd63c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
-                                                  "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
-                                                  "year":  2003
+                                                  "title":  "Resident Evil- Apocalypse",
+                                                  "start":  "2026-08-31T13:02:21.0000000Z",
+                                                  "stop":  "2026-08-31T14:40:09.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Resident Evil- Apocalypse",
-                                              "start":  "2026-08-31T13:02:21.0000000Z",
-                                              "stop":  "2026-08-31T14:40:09.0000000Z",
+                                              "title":  "D1_t00",
+                                              "start":  "2026-08-31T14:40:09.0000000Z",
+                                              "stop":  "2026-08-31T17:00:00.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Resident Evil- Apocalypse",
-                                                    "start":  "2026-08-31T13:02:21.0000000Z",
-                                                    "stop":  "2026-08-31T14:40:09.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "D1_t00",
                                                     "start":  "2026-08-31T14:40:09.0000000Z",
