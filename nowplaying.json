@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-31T03:42:05.7082100Z",
+    "updated":  "2026-08-31T03:43:05.9508438Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -500,24 +500,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Ricardo \u0026 Mocoso",
-                                              "start":  "2026-08-31T03:42:36.0000000Z",
-                                              "stop":  "2026-08-31T03:48:52.0000000Z",
-                                              "itemId":  "0e268bdc592953760cc985e16953d93d",
-                                              "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
+                                              "title":  "XocoBruja",
+                                              "start":  "2026-08-31T03:44:51.0000000Z",
+                                              "stop":  "2026-08-31T03:54:14.0000000Z",
+                                              "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
+                                              "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Ricardo \u0026 Mocoso",
-                                                    "start":  "2026-08-31T03:42:36.0000000Z",
-                                                    "stop":  "2026-08-31T03:48:52.0000000Z",
-                                                    "itemId":  "0e268bdc592953760cc985e16953d93d",
-                                                    "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "XocoBruja",
                                                     "start":  "2026-08-31T03:44:51.0000000Z",
@@ -578,6 +569,15 @@
                                                     "stop":  "2026-08-31T04:08:34.0000000Z",
                                                     "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                                     "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "DnBaPCsht",
+                                                    "start":  "2026-08-31T04:02:58.0000000Z",
+                                                    "stop":  "2026-08-31T04:06:15.0000000Z",
+                                                    "itemId":  "d2296bca99a831548bbada0bb3bac719",
+                                                    "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
