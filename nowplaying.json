@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-31T17:38:06.4010192Z",
+    "updated":  "2026-08-31T17:39:06.3836250Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -143,33 +143,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "ROBOCOP 2",
-                                                  "start":  "2026-08-31T15:41:35.0000000Z",
-                                                  "stop":  "2026-08-31T17:38:15.0000000Z",
-                                                  "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
-                                                  "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
-                                                  "year":  1990
+                                                  "title":  "ROBOCOP 3",
+                                                  "start":  "2026-08-31T17:38:15.0000000Z",
+                                                  "stop":  "2026-08-31T19:23:06.0000000Z",
+                                                  "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
+                                                  "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
+                                                  "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
+                                                  "year":  1993
                                               },
                                "upNext":  {
-                                              "title":  "ROBOCOP 3",
-                                              "start":  "2026-08-31T17:38:15.0000000Z",
-                                              "stop":  "2026-08-31T19:23:06.0000000Z",
-                                              "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
-                                              "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
-                                              "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
-                                              "year":  1993
+                                              "title":  "Total Recall",
+                                              "start":  "2026-08-31T19:23:06.0000000Z",
+                                              "stop":  "2026-08-31T21:16:26.0000000Z",
+                                              "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
+                                              "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
+                                              "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
+                                              "year":  1990
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "ROBOCOP 3",
-                                                    "start":  "2026-08-31T17:38:15.0000000Z",
-                                                    "stop":  "2026-08-31T19:23:06.0000000Z",
-                                                    "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
-                                                    "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
-                                                    "year":  1993
-                                                },
                                                 {
                                                     "title":  "Total Recall",
                                                     "start":  "2026-08-31T19:23:06.0000000Z",
@@ -418,26 +409,25 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  null,
+                               "nowPlaying":  {
+                                                  "title":  "COKCE6139",
+                                                  "start":  "2026-08-31T17:38:35.0000000Z",
+                                                  "stop":  "2026-08-31T17:39:36.0000000Z",
+                                                  "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
+                                                  "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
+                                                  "description":  null,
+                                                  "year":  2026
+                                              },
                                "upNext":  {
-                                              "title":  "COKCE6139",
-                                              "start":  "2026-08-31T17:38:35.0000000Z",
-                                              "stop":  "2026-08-31T17:39:36.0000000Z",
-                                              "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
-                                              "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
+                                              "title":  "MrPayo",
+                                              "start":  "2026-08-31T17:40:45.0000000Z",
+                                              "stop":  "2026-08-31T17:41:28.0000000Z",
+                                              "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
+                                              "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "COKCE6139",
-                                                    "start":  "2026-08-31T17:38:35.0000000Z",
-                                                    "stop":  "2026-08-31T17:39:36.0000000Z",
-                                                    "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "MrPayo",
                                                     "start":  "2026-08-31T17:40:45.0000000Z",
@@ -498,6 +488,15 @@
                                                     "stop":  "2026-08-31T17:56:04.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "JamminG",
+                                                    "start":  "2026-08-31T17:56:37.0000000Z",
+                                                    "stop":  "2026-08-31T18:00:28.0000000Z",
+                                                    "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                                    "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
