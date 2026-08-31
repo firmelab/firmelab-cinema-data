@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-08-31T11:27:05.4821803Z",
+    "updated":  "2026-08-31T11:28:05.4948491Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Sherlock Holmes",
-                                                  "start":  "2026-08-31T09:19:09.0000000Z",
-                                                  "stop":  "2026-08-31T11:27:48.0000000Z",
-                                                  "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
-                                                  "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
-                                                  "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
-                                                  "year":  2009
+                                                  "title":  "WISHMASTER part 2",
+                                                  "start":  "2026-08-31T11:27:48.0000000Z",
+                                                  "stop":  "2026-08-31T13:04:00.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "WISHMASTER part 2",
-                                              "start":  "2026-08-31T11:27:48.0000000Z",
-                                              "stop":  "2026-08-31T13:04:00.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "CANDYMAN",
+                                              "start":  "2026-08-31T13:04:00.0000000Z",
+                                              "stop":  "2026-08-31T14:43:08.0000000Z",
+                                              "itemId":  "75bc45c9af5e154aea4dd68eb38e0354",
+                                              "poster":  "http://127.0.0.1:8096/Items/75bc45c9af5e154aea4dd68eb38e0354/Images/Primary",
+                                              "description":  "A Chicago artist\u0027s sanity starts to unravel, unleashing a terrifying wave of violence when he begins to explore the macabre history of the Candyman.",
+                                              "year":  2021
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "WISHMASTER part 2",
-                                                    "start":  "2026-08-31T11:27:48.0000000Z",
-                                                    "stop":  "2026-08-31T13:04:00.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "CANDYMAN",
                                                     "start":  "2026-08-31T13:04:00.0000000Z",
