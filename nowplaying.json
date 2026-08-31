@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-08-31T19:54:05.9433743Z",
+    "updated":  "2026-08-31T19:55:05.0825818Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "HEAVY METAL",
-                                                  "start":  "2026-08-31T18:24:23.0000000Z",
-                                                  "stop":  "2026-08-31T19:54:56.0000000Z",
-                                                  "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
-                                                  "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
-                                                  "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
-                                                  "year":  1981
+                                                  "title":  "Critters",
+                                                  "start":  "2026-08-31T19:54:56.0000000Z",
+                                                  "stop":  "2026-08-31T21:20:58.0000000Z",
+                                                  "itemId":  "54493e812aba3ee1edef65108ed95c05",
+                                                  "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
+                                                  "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
+                                                  "year":  1988
                                               },
                                "upNext":  {
-                                              "title":  "Critters",
-                                              "start":  "2026-08-31T19:54:56.0000000Z",
-                                              "stop":  "2026-08-31T21:20:58.0000000Z",
-                                              "itemId":  "54493e812aba3ee1edef65108ed95c05",
-                                              "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
-                                              "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
-                                              "year":  1988
+                                              "title":  "Reservor Dogs",
+                                              "start":  "2026-08-31T21:20:58.0000000Z",
+                                              "stop":  "2026-08-31T23:00:35.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Critters",
-                                                    "start":  "2026-08-31T19:54:56.0000000Z",
-                                                    "stop":  "2026-08-31T21:20:58.0000000Z",
-                                                    "itemId":  "54493e812aba3ee1edef65108ed95c05",
-                                                    "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
-                                                    "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
-                                                    "year":  1988
-                                                },
                                                 {
                                                     "title":  "Reservor Dogs",
                                                     "start":  "2026-08-31T21:20:58.0000000Z",
@@ -482,24 +473,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "BloodJoke",
-                                              "start":  "2026-08-31T19:54:44.0000000Z",
-                                              "stop":  "2026-08-31T20:01:56.0000000Z",
-                                              "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                              "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                              "title":  "Carrito",
+                                              "start":  "2026-08-31T19:56:25.0000000Z",
+                                              "stop":  "2026-08-31T20:06:33.0000000Z",
+                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "BloodJoke",
-                                                    "start":  "2026-08-31T19:54:44.0000000Z",
-                                                    "stop":  "2026-08-31T20:01:56.0000000Z",
-                                                    "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-08-31T19:56:25.0000000Z",
@@ -560,6 +542,15 @@
                                                     "stop":  "2026-08-31T20:20:57.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "SSBI4649",
+                                                    "start":  "2026-08-31T20:14:40.0000000Z",
+                                                    "stop":  "2026-08-31T20:22:56.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
                                                     "description":  null,
                                                     "year":  null
                                                 }
