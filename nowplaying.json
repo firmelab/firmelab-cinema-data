@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-31T13:58:05.1891316Z",
+    "updated":  "2026-08-31T13:59:05.1805770Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -143,33 +143,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "DEATH PROOF",
-                                                  "start":  "2026-08-31T12:05:16.0000000Z",
-                                                  "stop":  "2026-08-31T13:58:49.0000000Z",
-                                                  "itemId":  "5220d04d46ddf5fa55aacae5d4916919",
-                                                  "poster":  "http://127.0.0.1:8096/Items/5220d04d46ddf5fa55aacae5d4916919/Images/Primary",
-                                                  "description":  "Austin\u0027s hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
-                                                  "year":  2007
+                                                  "title":  "Robocop",
+                                                  "start":  "2026-08-31T13:58:49.0000000Z",
+                                                  "stop":  "2026-08-31T15:41:35.0000000Z",
+                                                  "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
+                                                  "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
+                                                  "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
+                                                  "year":  1987
                                               },
                                "upNext":  {
-                                              "title":  "Robocop",
-                                              "start":  "2026-08-31T13:58:49.0000000Z",
-                                              "stop":  "2026-08-31T15:41:35.0000000Z",
-                                              "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
-                                              "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
-                                              "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
-                                              "year":  1987
+                                              "title":  "ROBOCOP 2",
+                                              "start":  "2026-08-31T15:41:35.0000000Z",
+                                              "stop":  "2026-08-31T17:38:15.0000000Z",
+                                              "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
+                                              "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
+                                              "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
+                                              "year":  1990
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Robocop",
-                                                    "start":  "2026-08-31T13:58:49.0000000Z",
-                                                    "stop":  "2026-08-31T15:41:35.0000000Z",
-                                                    "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
-                                                    "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
-                                                    "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
-                                                    "year":  1987
-                                                },
                                                 {
                                                     "title":  "ROBOCOP 2",
                                                     "start":  "2026-08-31T15:41:35.0000000Z",
@@ -418,15 +409,7 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "XocoBruja",
-                                                  "start":  "2026-08-31T13:57:09.0000000Z",
-                                                  "stop":  "2026-08-31T13:58:37.0000000Z",
-                                                  "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
-                                                  "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
-                                                  "description":  null,
-                                                  "year":  2026
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
                                               "title":  "COKCE6139",
                                               "start":  "2026-08-31T13:59:54.0000000Z",
