@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-31T19:48:05.8118058Z",
+    "updated":  "2026-08-31T19:49:06.4731869Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -473,11 +473,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Chingadasos",
-                                                  "start":  "2026-08-31T19:41:27.0000000Z",
-                                                  "stop":  "2026-08-31T19:49:00.0000000Z",
-                                                  "itemId":  "8988d98fd90679aab5aff5b786344b1c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
+                                                  "title":  "T2",
+                                                  "start":  "2026-08-31T19:44:15.0000000Z",
+                                                  "stop":  "2026-08-31T19:51:24.0000000Z",
+                                                  "itemId":  "1315943017e226076a7899408d36dec5",
+                                                  "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
