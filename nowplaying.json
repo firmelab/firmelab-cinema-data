@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-31T06:28:05.0949706Z",
+    "updated":  "2026-08-31T06:29:05.1390287Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -143,33 +143,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Rambo First Blood",
-                                                  "start":  "2026-08-31T04:55:28.0000000Z",
-                                                  "stop":  "2026-08-31T06:28:38.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Sherlock Holmes",
+                                                  "start":  "2026-08-31T06:28:38.0000000Z",
+                                                  "stop":  "2026-08-31T08:37:07.0000000Z",
+                                                  "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
+                                                  "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
+                                                  "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
+                                                  "year":  2009
                                               },
                                "upNext":  {
-                                              "title":  "Sherlock Holmes",
-                                              "start":  "2026-08-31T06:28:38.0000000Z",
-                                              "stop":  "2026-08-31T08:37:07.0000000Z",
-                                              "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
-                                              "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
-                                              "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
-                                              "year":  2009
+                                              "title":  "Fast N Furious",
+                                              "start":  "2026-08-31T08:37:07.0000000Z",
+                                              "stop":  "2026-08-31T10:24:02.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Sherlock Holmes",
-                                                    "start":  "2026-08-31T06:28:38.0000000Z",
-                                                    "stop":  "2026-08-31T08:37:07.0000000Z",
-                                                    "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
-                                                    "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
-                                                    "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
-                                                    "year":  2009
-                                                },
                                                 {
                                                     "title":  "Fast N Furious",
                                                     "start":  "2026-08-31T08:37:07.0000000Z",
