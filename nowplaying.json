@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-31T16:59:05.0481565Z",
+    "updated":  "2026-08-31T17:00:05.0176849Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -74,33 +74,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "D1_t00",
-                                                  "start":  "2026-08-31T14:40:09.0000000Z",
-                                                  "stop":  "2026-08-31T17:00:00.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Dawn of the Dead",
+                                                  "start":  "2026-08-31T17:00:00.0000000Z",
+                                                  "stop":  "2026-08-31T18:54:23.0000000Z",
+                                                  "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
+                                                  "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
+                                                  "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
+                                                  "year":  2004
                                               },
                                "upNext":  {
-                                              "title":  "Dawn of the Dead",
-                                              "start":  "2026-08-31T17:00:00.0000000Z",
-                                              "stop":  "2026-08-31T18:54:23.0000000Z",
-                                              "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
-                                              "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
-                                              "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
-                                              "year":  2004
+                                              "title":  "Wrong Turn",
+                                              "start":  "2026-08-31T18:54:23.0000000Z",
+                                              "stop":  "2026-08-31T20:29:05.0000000Z",
+                                              "itemId":  "58d332deb67464546d571f7fda1cd63c",
+                                              "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
+                                              "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
+                                              "year":  2003
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Dawn of the Dead",
-                                                    "start":  "2026-08-31T17:00:00.0000000Z",
-                                                    "stop":  "2026-08-31T18:54:23.0000000Z",
-                                                    "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
-                                                    "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
-                                                    "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
-                                                    "year":  2004
-                                                },
                                                 {
                                                     "title":  "Wrong Turn",
                                                     "start":  "2026-08-31T18:54:23.0000000Z",
@@ -437,33 +428,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Oz",
-                                                  "start":  "2026-08-31T16:58:07.0000000Z",
-                                                  "stop":  "2026-08-31T16:59:20.0000000Z",
-                                                  "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                                  "title":  "BloodJoke",
+                                                  "start":  "2026-08-31T16:59:48.0000000Z",
+                                                  "stop":  "2026-08-31T17:01:23.0000000Z",
+                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "BloodJoke",
-                                              "start":  "2026-08-31T16:59:48.0000000Z",
-                                              "stop":  "2026-08-31T17:01:23.0000000Z",
-                                              "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                              "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                              "title":  "Carrito",
+                                              "start":  "2026-08-31T17:01:29.0000000Z",
+                                              "stop":  "2026-08-31T17:09:07.0000000Z",
+                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "BloodJoke",
-                                                    "start":  "2026-08-31T16:59:48.0000000Z",
-                                                    "stop":  "2026-08-31T17:01:23.0000000Z",
-                                                    "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-08-31T17:01:29.0000000Z",
@@ -524,6 +506,15 @@
                                                     "stop":  "2026-08-31T17:19:44.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "SSBI4649",
+                                                    "start":  "2026-08-31T17:19:44.0000000Z",
+                                                    "stop":  "2026-08-31T17:20:33.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
                                                     "description":  null,
                                                     "year":  null
                                                 }
