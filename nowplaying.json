@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-31T08:02:25.2574868Z",
+    "updated":  "2026-08-31T08:03:09.1853931Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -83,33 +83,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Resident Evil",
-                                                  "start":  "2026-08-31T06:18:03.0000000Z",
-                                                  "stop":  "2026-08-31T08:02:34.0000000Z",
-                                                  "itemId":  "760d913661074a3a3f5a58738842a2f8",
-                                                  "poster":  "http://127.0.0.1:8096/Items/760d913661074a3a3f5a58738842a2f8/Images/Primary",
-                                                  "description":  "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
-                                                  "year":  2002
+                                                  "title":  "Boogeyman",
+                                                  "start":  "2026-08-31T08:02:34.0000000Z",
+                                                  "stop":  "2026-08-31T09:35:25.0000000Z",
+                                                  "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
+                                                  "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
+                                                  "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
+                                                  "year":  2005
                                               },
                                "upNext":  {
-                                              "title":  "Boogeyman",
-                                              "start":  "2026-08-31T08:02:34.0000000Z",
-                                              "stop":  "2026-08-31T09:35:25.0000000Z",
-                                              "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
-                                              "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
-                                              "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
-                                              "year":  2005
+                                              "title":  "Underworld Evolution",
+                                              "start":  "2026-08-31T09:35:25.0000000Z",
+                                              "stop":  "2026-08-31T11:25:49.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Boogeyman",
-                                                    "start":  "2026-08-31T08:02:34.0000000Z",
-                                                    "stop":  "2026-08-31T09:35:25.0000000Z",
-                                                    "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
-                                                    "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
-                                                    "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
-                                                    "year":  2005
-                                                },
                                                 {
                                                     "title":  "Underworld Evolution",
                                                     "start":  "2026-08-31T09:35:25.0000000Z",
