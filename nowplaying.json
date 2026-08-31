@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-31T16:09:04.9638471Z",
+    "updated":  "2026-08-31T16:10:04.8619263Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -542,33 +542,24 @@
                                "number":  8,
                                "name":  "FIRMELAB FRONTIER",
                                "nowPlaying":  {
-                                                  "title":  "Brave Heart",
-                                                  "start":  "2026-08-31T13:12:02.0000000Z",
-                                                  "stop":  "2026-08-31T16:09:42.0000000Z",
+                                                  "title":  "The Count Monte Cristos",
+                                                  "start":  "2026-08-31T16:09:42.0000000Z",
+                                                  "stop":  "2026-08-31T18:20:57.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "The Count Monte Cristos",
-                                              "start":  "2026-08-31T16:09:42.0000000Z",
-                                              "stop":  "2026-08-31T18:20:57.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Young Guns",
+                                              "start":  "2026-08-31T18:20:57.0000000Z",
+                                              "stop":  "2026-08-31T20:07:43.0000000Z",
+                                              "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
+                                              "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
+                                              "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
+                                              "year":  1988
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "The Count Monte Cristos",
-                                                    "start":  "2026-08-31T16:09:42.0000000Z",
-                                                    "stop":  "2026-08-31T18:20:57.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Young Guns",
                                                     "start":  "2026-08-31T18:20:57.0000000Z",
