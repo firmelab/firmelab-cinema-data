@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-08-31T14:43:05.4139981Z",
+    "updated":  "2026-08-31T14:44:05.3851893Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "CANDYMAN",
-                                                  "start":  "2026-08-31T13:04:00.0000000Z",
-                                                  "stop":  "2026-08-31T14:43:08.0000000Z",
-                                                  "itemId":  "75bc45c9af5e154aea4dd68eb38e0354",
-                                                  "poster":  "http://127.0.0.1:8096/Items/75bc45c9af5e154aea4dd68eb38e0354/Images/Primary",
-                                                  "description":  "A Chicago artist\u0027s sanity starts to unravel, unleashing a terrifying wave of violence when he begins to explore the macabre history of the Candyman.",
-                                                  "year":  2021
+                                                  "title":  "Critters 2",
+                                                  "start":  "2026-08-31T14:43:08.0000000Z",
+                                                  "stop":  "2026-08-31T16:09:03.0000000Z",
+                                                  "itemId":  "54493e812aba3ee1edef65108ed95c05",
+                                                  "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
+                                                  "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
+                                                  "year":  1988
                                               },
                                "upNext":  {
-                                              "title":  "Critters 2",
-                                              "start":  "2026-08-31T14:43:08.0000000Z",
-                                              "stop":  "2026-08-31T16:09:03.0000000Z",
-                                              "itemId":  "54493e812aba3ee1edef65108ed95c05",
-                                              "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
-                                              "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
-                                              "year":  1988
+                                              "title":  "Uncut Gems",
+                                              "start":  "2026-08-31T16:09:03.0000000Z",
+                                              "stop":  "2026-08-31T18:24:23.0000000Z",
+                                              "itemId":  "45595e0d5e2d1d1e536514ebf9b1deaf",
+                                              "poster":  "http://127.0.0.1:8096/Items/45595e0d5e2d1d1e536514ebf9b1deaf/Images/Primary",
+                                              "description":  "A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.",
+                                              "year":  2019
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Critters 2",
-                                                    "start":  "2026-08-31T14:43:08.0000000Z",
-                                                    "stop":  "2026-08-31T16:09:03.0000000Z",
-                                                    "itemId":  "54493e812aba3ee1edef65108ed95c05",
-                                                    "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
-                                                    "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
-                                                    "year":  1988
-                                                },
                                                 {
                                                     "title":  "Uncut Gems",
                                                     "start":  "2026-08-31T16:09:03.0000000Z",
@@ -391,26 +382,25 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  null,
+                               "nowPlaying":  {
+                                                  "title":  "COKCE6139",
+                                                  "start":  "2026-08-31T14:43:38.0000000Z",
+                                                  "stop":  "2026-08-31T14:44:39.0000000Z",
+                                                  "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
+                                                  "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
+                                                  "description":  null,
+                                                  "year":  2026
+                                              },
                                "upNext":  {
-                                              "title":  "COKCE6139",
-                                              "start":  "2026-08-31T14:43:38.0000000Z",
-                                              "stop":  "2026-08-31T14:44:39.0000000Z",
-                                              "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
-                                              "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
+                                              "title":  "MrPayo",
+                                              "start":  "2026-08-31T14:45:49.0000000Z",
+                                              "stop":  "2026-08-31T14:46:31.0000000Z",
+                                              "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
+                                              "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "COKCE6139",
-                                                    "start":  "2026-08-31T14:43:38.0000000Z",
-                                                    "stop":  "2026-08-31T14:44:39.0000000Z",
-                                                    "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "MrPayo",
                                                     "start":  "2026-08-31T14:45:49.0000000Z",
@@ -471,6 +461,15 @@
                                                     "stop":  "2026-08-31T15:01:08.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "JamminG",
+                                                    "start":  "2026-08-31T15:01:40.0000000Z",
+                                                    "stop":  "2026-08-31T15:05:32.0000000Z",
+                                                    "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                                    "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
