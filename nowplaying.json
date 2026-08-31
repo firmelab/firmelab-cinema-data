@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-31T17:45:06.4702579Z",
+    "updated":  "2026-08-31T17:46:08.9130334Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -410,33 +410,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "BloodJoke",
-                                                  "start":  "2026-08-31T17:43:32.0000000Z",
-                                                  "stop":  "2026-08-31T17:45:07.0000000Z",
-                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                  "title":  "Carrito",
+                                                  "start":  "2026-08-31T17:45:13.0000000Z",
+                                                  "stop":  "2026-08-31T17:52:51.0000000Z",
+                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Carrito",
-                                              "start":  "2026-08-31T17:45:13.0000000Z",
-                                              "stop":  "2026-08-31T17:52:51.0000000Z",
-                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                              "title":  "Dancing Cobra",
+                                              "start":  "2026-08-31T17:52:51.0000000Z",
+                                              "stop":  "2026-08-31T17:53:57.0000000Z",
+                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Carrito",
-                                                    "start":  "2026-08-31T17:45:13.0000000Z",
-                                                    "stop":  "2026-08-31T17:52:51.0000000Z",
-                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-08-31T17:52:51.0000000Z",
@@ -499,6 +490,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Arnold Dynamite",
+                                                    "start":  "2026-08-31T18:04:17.0000000Z",
+                                                    "stop":  "2026-08-31T18:05:44.0000000Z",
+                                                    "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
