@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-31T23:14:05.1105966Z",
+    "updated":  "2026-08-31T23:15:05.0896350Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -491,11 +491,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "0Ld Sc00L",
-                                                  "start":  "2026-08-31T23:11:53.0000000Z",
-                                                  "stop":  "2026-08-31T23:14:06.0000000Z",
-                                                  "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
-                                                  "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                  "title":  "After H0uRs",
+                                                  "start":  "2026-08-31T23:12:42.0000000Z",
+                                                  "stop":  "2026-08-31T23:17:59.0000000Z",
+                                                  "itemId":  "150bbae732cd647eeed3060cd67b032f",
+                                                  "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
