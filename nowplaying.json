@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-31T23:52:07.0883823Z",
+    "updated":  "2026-08-31T23:53:06.4195010Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -482,24 +482,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Ninja Now",
-                                              "start":  "2026-08-31T23:52:39.0000000Z",
-                                              "stop":  "2026-08-31T23:53:21.0000000Z",
-                                              "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                              "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                              "title":  "SSBI4649",
+                                              "start":  "2026-08-31T23:53:21.0000000Z",
+                                              "stop":  "2026-08-31T23:54:10.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Ninja Now",
-                                                    "start":  "2026-08-31T23:52:39.0000000Z",
-                                                    "stop":  "2026-08-31T23:53:21.0000000Z",
-                                                    "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-08-31T23:53:21.0000000Z",
@@ -560,6 +551,15 @@
                                                     "stop":  "2026-09-01T00:04:38.0000000Z",
                                                     "itemId":  "8988d98fd90679aab5aff5b786344b1c",
                                                     "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Mr J-Carry",
+                                                    "start":  "2026-09-01T00:05:43.0000000Z",
+                                                    "stop":  "2026-09-01T00:09:53.0000000Z",
+                                                    "itemId":  "56c94066e018711311e81d6a3f6cc139",
+                                                    "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
