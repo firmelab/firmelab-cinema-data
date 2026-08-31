@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-31T20:06:05.0439898Z",
+    "updated":  "2026-08-31T20:07:05.0420535Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -464,33 +464,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Carrito",
-                                                  "start":  "2026-08-31T19:56:25.0000000Z",
-                                                  "stop":  "2026-08-31T20:06:33.0000000Z",
-                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                                  "title":  "Dancing Cobra",
+                                                  "start":  "2026-08-31T20:04:04.0000000Z",
+                                                  "stop":  "2026-08-31T20:07:39.0000000Z",
+                                                  "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                                  "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Duende",
-                                              "start":  "2026-08-31T20:06:07.0000000Z",
-                                              "stop":  "2026-08-31T20:10:56.0000000Z",
-                                              "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                              "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                              "title":  "JamminG",
+                                              "start":  "2026-08-31T20:07:49.0000000Z",
+                                              "stop":  "2026-08-31T20:11:41.0000000Z",
+                                              "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                              "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Duende",
-                                                    "start":  "2026-08-31T20:06:07.0000000Z",
-                                                    "stop":  "2026-08-31T20:10:56.0000000Z",
-                                                    "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                                    "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-08-31T20:07:49.0000000Z",
@@ -553,6 +544,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Ass Kicker Bruce",
+                                                    "start":  "2026-08-31T20:18:34.0000000Z",
+                                                    "stop":  "2026-08-31T20:29:02.0000000Z",
+                                                    "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
