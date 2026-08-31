@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-31T22:11:04.7430862Z",
+    "updated":  "2026-08-31T22:12:04.7565318Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -65,33 +65,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Land of the Dead",
-                                                  "start":  "2026-08-31T20:29:05.0000000Z",
-                                                  "stop":  "2026-08-31T22:11:07.0000000Z",
-                                                  "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
-                                                  "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
-                                                  "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
-                                                  "year":  2005
+                                                  "title":  "Resident Evil- Apocalypse",
+                                                  "start":  "2026-08-31T22:11:07.0000000Z",
+                                                  "stop":  "2026-08-31T23:55:26.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Resident Evil- Apocalypse",
-                                              "start":  "2026-08-31T22:11:07.0000000Z",
-                                              "stop":  "2026-08-31T23:55:26.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Dawn of the Dead",
+                                              "start":  "2026-08-31T23:55:26.0000000Z",
+                                              "stop":  "2026-09-01T01:49:49.0000000Z",
+                                              "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
+                                              "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
+                                              "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
+                                              "year":  2004
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Resident Evil- Apocalypse",
-                                                    "start":  "2026-08-31T22:11:07.0000000Z",
-                                                    "stop":  "2026-08-31T23:55:26.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Dawn of the Dead",
                                                     "start":  "2026-08-31T23:55:26.0000000Z",
