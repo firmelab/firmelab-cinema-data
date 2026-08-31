@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-31T04:37:08.7488541Z",
+    "updated":  "2026-08-31T04:38:11.5063044Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -83,33 +83,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "World War Z",
-                                                  "start":  "2026-08-31T02:30:11.0000000Z",
-                                                  "stop":  "2026-08-31T04:37:15.0000000Z",
-                                                  "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
-                                                  "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                                  "year":  2013
+                                                  "title":  "Land of the Dead",
+                                                  "start":  "2026-08-31T04:37:15.0000000Z",
+                                                  "stop":  "2026-08-31T06:18:03.0000000Z",
+                                                  "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
+                                                  "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
+                                                  "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
+                                                  "year":  2005
                                               },
                                "upNext":  {
-                                              "title":  "Land of the Dead",
-                                              "start":  "2026-08-31T04:37:15.0000000Z",
-                                              "stop":  "2026-08-31T06:18:03.0000000Z",
-                                              "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
-                                              "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
-                                              "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
-                                              "year":  2005
+                                              "title":  "Resident Evil",
+                                              "start":  "2026-08-31T06:18:03.0000000Z",
+                                              "stop":  "2026-08-31T08:02:34.0000000Z",
+                                              "itemId":  "760d913661074a3a3f5a58738842a2f8",
+                                              "poster":  "http://127.0.0.1:8096/Items/760d913661074a3a3f5a58738842a2f8/Images/Primary",
+                                              "description":  "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
+                                              "year":  2002
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Land of the Dead",
-                                                    "start":  "2026-08-31T04:37:15.0000000Z",
-                                                    "stop":  "2026-08-31T06:18:03.0000000Z",
-                                                    "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
-                                                    "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
-                                                    "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
-                                                    "year":  2005
-                                                },
                                                 {
                                                     "title":  "Resident Evil",
                                                     "start":  "2026-08-31T06:18:03.0000000Z",
@@ -482,33 +473,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "BloodJoke",
-                                                  "start":  "2026-08-31T04:36:17.0000000Z",
-                                                  "stop":  "2026-08-31T04:37:53.0000000Z",
-                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                  "title":  "Carrito",
+                                                  "start":  "2026-08-31T04:37:58.0000000Z",
+                                                  "stop":  "2026-08-31T04:45:37.0000000Z",
+                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Carrito",
-                                              "start":  "2026-08-31T04:37:58.0000000Z",
-                                              "stop":  "2026-08-31T04:45:37.0000000Z",
-                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                              "title":  "Dancing Cobra",
+                                              "start":  "2026-08-31T04:45:37.0000000Z",
+                                              "stop":  "2026-08-31T04:46:42.0000000Z",
+                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Carrito",
-                                                    "start":  "2026-08-31T04:37:58.0000000Z",
-                                                    "stop":  "2026-08-31T04:45:37.0000000Z",
-                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-08-31T04:45:37.0000000Z",
@@ -571,6 +553,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Arnold Dynamite",
+                                                    "start":  "2026-08-31T04:57:02.0000000Z",
+                                                    "stop":  "2026-08-31T04:58:30.0000000Z",
+                                                    "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
