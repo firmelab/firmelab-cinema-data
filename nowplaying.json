@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-31T16:15:04.8836030Z",
+    "updated":  "2026-08-31T16:16:05.8094510Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -455,24 +455,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "BloodJoke",
-                                              "start":  "2026-08-31T16:16:04.0000000Z",
-                                              "stop":  "2026-08-31T16:17:39.0000000Z",
-                                              "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                              "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                              "title":  "Carrito",
+                                              "start":  "2026-08-31T16:17:44.0000000Z",
+                                              "stop":  "2026-08-31T16:29:37.0000000Z",
+                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "BloodJoke",
-                                                    "start":  "2026-08-31T16:16:04.0000000Z",
-                                                    "stop":  "2026-08-31T16:17:39.0000000Z",
-                                                    "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-08-31T16:17:44.0000000Z",
@@ -533,6 +524,15 @@
                                                     "stop":  "2026-08-31T16:35:59.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "SSBI4649",
+                                                    "start":  "2026-08-31T16:35:59.0000000Z",
+                                                    "stop":  "2026-08-31T16:36:48.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
                                                     "description":  null,
                                                     "year":  null
                                                 }
