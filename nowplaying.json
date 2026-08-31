@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-31T10:53:05.3212263Z",
+    "updated":  "2026-08-31T10:54:05.3714945Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -497,33 +497,24 @@
                                "number":  8,
                                "name":  "FIRMELAB FRONTIER",
                                "nowPlaying":  {
-                                                  "title":  "The Patriot",
-                                                  "start":  "2026-08-31T08:08:54.0000000Z",
-                                                  "stop":  "2026-08-31T10:53:41.0000000Z",
-                                                  "itemId":  "17b673273650da7e33ae51350e123fb0",
-                                                  "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
-                                                  "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
-                                                  "year":  2000
+                                                  "title":  "Master and Commander",
+                                                  "start":  "2026-08-31T10:53:41.0000000Z",
+                                                  "stop":  "2026-08-31T13:12:02.0000000Z",
+                                                  "itemId":  "5fcc6b3e811cdcaf000036c06aef62b9",
+                                                  "poster":  "http://127.0.0.1:8096/Items/5fcc6b3e811cdcaf000036c06aef62b9/Images/Primary",
+                                                  "description":  "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship\u0027s thoughtful surgeon, his best friend.",
+                                                  "year":  2003
                                               },
                                "upNext":  {
-                                              "title":  "Master and Commander",
-                                              "start":  "2026-08-31T10:53:41.0000000Z",
-                                              "stop":  "2026-08-31T13:12:02.0000000Z",
-                                              "itemId":  "5fcc6b3e811cdcaf000036c06aef62b9",
-                                              "poster":  "http://127.0.0.1:8096/Items/5fcc6b3e811cdcaf000036c06aef62b9/Images/Primary",
-                                              "description":  "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship\u0027s thoughtful surgeon, his best friend.",
-                                              "year":  2003
+                                              "title":  "Brave Heart",
+                                              "start":  "2026-08-31T13:12:02.0000000Z",
+                                              "stop":  "2026-08-31T16:09:42.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Master and Commander",
-                                                    "start":  "2026-08-31T10:53:41.0000000Z",
-                                                    "stop":  "2026-08-31T13:12:02.0000000Z",
-                                                    "itemId":  "5fcc6b3e811cdcaf000036c06aef62b9",
-                                                    "poster":  "http://127.0.0.1:8096/Items/5fcc6b3e811cdcaf000036c06aef62b9/Images/Primary",
-                                                    "description":  "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship\u0027s thoughtful surgeon, his best friend.",
-                                                    "year":  2003
-                                                },
                                                 {
                                                     "title":  "Brave Heart",
                                                     "start":  "2026-08-31T13:12:02.0000000Z",
