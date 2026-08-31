@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-08-31T02:12:06.9569018Z",
+    "updated":  "2026-08-31T02:13:05.7292757Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -341,33 +341,24 @@
                                "number":  6,
                                "name":  "FIRMELAB CRIME",
                                "nowPlaying":  {
-                                                  "title":  "Inside Man",
-                                                  "start":  "2026-08-31T00:03:51.0000000Z",
-                                                  "stop":  "2026-08-31T02:12:38.0000000Z",
-                                                  "itemId":  "5f439285fe3ef8976153452a9fee8cbc",
-                                                  "poster":  "http://127.0.0.1:8096/Items/5f439285fe3ef8976153452a9fee8cbc/Images/Primary",
-                                                  "description":  "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
-                                                  "year":  2006
+                                                  "title":  "Reservor Dogs",
+                                                  "start":  "2026-08-31T02:12:38.0000000Z",
+                                                  "stop":  "2026-08-31T03:51:43.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Reservor Dogs",
-                                              "start":  "2026-08-31T02:12:38.0000000Z",
-                                              "stop":  "2026-08-31T03:51:43.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Scarface",
+                                              "start":  "2026-08-31T03:51:43.0000000Z",
+                                              "stop":  "2026-08-31T06:41:39.0000000Z",
+                                              "itemId":  "1ca5b01d892bb1b5b113e7ccaa4ac889",
+                                              "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
+                                              "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+                                              "year":  1983
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Reservor Dogs",
-                                                    "start":  "2026-08-31T02:12:38.0000000Z",
-                                                    "stop":  "2026-08-31T03:51:43.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Scarface",
                                                     "start":  "2026-08-31T03:51:43.0000000Z",
@@ -400,15 +391,7 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "Chingadasos",
-                                                  "start":  "2026-08-31T02:11:48.0000000Z",
-                                                  "stop":  "2026-08-31T02:12:34.0000000Z",
-                                                  "itemId":  "8988d98fd90679aab5aff5b786344b1c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
-                                                  "description":  null,
-                                                  "year":  2026
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
                                               "title":  "Mr J-Carry",
                                               "start":  "2026-08-31T02:13:39.0000000Z",
