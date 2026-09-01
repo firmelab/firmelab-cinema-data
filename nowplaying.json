@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-01T12:56:06.0102671Z",
+    "updated":  "2026-09-01T12:57:05.9650796Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "F1_t00",
-                                                  "start":  "2026-09-01T11:09:48.0000000Z",
-                                                  "stop":  "2026-09-01T12:56:22.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Dusk Till Dawn",
+                                                  "start":  "2026-09-01T12:56:22.0000000Z",
+                                                  "stop":  "2026-09-01T14:44:23.0000000Z",
+                                                  "itemId":  "648811d2182191a63ce32eb861ad9020",
+                                                  "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
+                                                  "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
+                                                  "year":  1996
                                               },
                                "upNext":  {
-                                              "title":  "Dusk Till Dawn",
-                                              "start":  "2026-09-01T12:56:22.0000000Z",
-                                              "stop":  "2026-09-01T14:44:23.0000000Z",
-                                              "itemId":  "648811d2182191a63ce32eb861ad9020",
-                                              "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
-                                              "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
-                                              "year":  1996
+                                              "title":  "Boogeyman",
+                                              "start":  "2026-09-01T14:44:23.0000000Z",
+                                              "stop":  "2026-09-01T16:13:25.0000000Z",
+                                              "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
+                                              "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
+                                              "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
+                                              "year":  2005
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Dusk Till Dawn",
-                                                    "start":  "2026-09-01T12:56:22.0000000Z",
-                                                    "stop":  "2026-09-01T14:44:23.0000000Z",
-                                                    "itemId":  "648811d2182191a63ce32eb861ad9020",
-                                                    "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
-                                                    "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
-                                                    "year":  1996
-                                                },
                                                 {
                                                     "title":  "Boogeyman",
                                                     "start":  "2026-09-01T14:44:23.0000000Z",
