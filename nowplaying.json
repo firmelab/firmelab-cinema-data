@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-01T13:53:06.3162481Z",
+    "updated":  "2026-09-01T13:54:06.3133873Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -203,33 +203,24 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "HALF BAKED",
-                                                  "start":  "2026-09-01T12:31:11.0000000Z",
-                                                  "stop":  "2026-09-01T13:53:17.0000000Z",
-                                                  "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
-                                                  "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
-                                                  "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
-                                                  "year":  1998
+                                                  "title":  "Get Shorty",
+                                                  "start":  "2026-09-01T13:53:17.0000000Z",
+                                                  "stop":  "2026-09-01T15:38:05.0000000Z",
+                                                  "itemId":  "746531a34dc012efd97b57703e1903af",
+                                                  "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
+                                                  "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
+                                                  "year":  1995
                                               },
                                "upNext":  {
-                                              "title":  "Get Shorty",
-                                              "start":  "2026-09-01T13:53:17.0000000Z",
-                                              "stop":  "2026-09-01T15:38:05.0000000Z",
-                                              "itemId":  "746531a34dc012efd97b57703e1903af",
-                                              "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
-                                              "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
-                                              "year":  1995
+                                              "title":  "Undercover Brother",
+                                              "start":  "2026-09-01T15:38:05.0000000Z",
+                                              "stop":  "2026-09-01T17:04:12.0000000Z",
+                                              "itemId":  "6317b8f6b30a049091764b8311c08279",
+                                              "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
+                                              "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
+                                              "year":  2002
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Get Shorty",
-                                                    "start":  "2026-09-01T13:53:17.0000000Z",
-                                                    "stop":  "2026-09-01T15:38:05.0000000Z",
-                                                    "itemId":  "746531a34dc012efd97b57703e1903af",
-                                                    "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
-                                                    "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
-                                                    "year":  1995
-                                                },
                                                 {
                                                     "title":  "Undercover Brother",
                                                     "start":  "2026-09-01T15:38:05.0000000Z",
