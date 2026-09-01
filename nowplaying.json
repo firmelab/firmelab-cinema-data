@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-01T11:12:05.4058052Z",
+    "updated":  "2026-09-01T11:13:05.3193639Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -500,13 +500,13 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "MrPayo",
-                                                  "start":  "2026-09-01T11:10:25.0000000Z",
-                                                  "stop":  "2026-09-01T11:12:54.0000000Z",
-                                                  "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
-                                                  "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
+                                                  "title":  "Oz",
+                                                  "start":  "2026-09-01T11:11:30.0000000Z",
+                                                  "stop":  "2026-09-01T11:14:35.0000000Z",
+                                                  "itemId":  "f332ba1673f9273e5349cd38b640cf51",
+                                                  "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
                                               "title":  "BloodJoke",
