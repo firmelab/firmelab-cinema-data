@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-01T05:54:05.0666871Z",
+    "updated":  "2026-09-01T05:55:05.0498476Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -368,33 +368,24 @@
                                "number":  6,
                                "name":  "FIRMELAB CRIME",
                                "nowPlaying":  {
-                                                  "title":  "Scarface",
-                                                  "start":  "2026-09-01T03:04:22.0000000Z",
-                                                  "stop":  "2026-09-01T05:54:18.0000000Z",
-                                                  "itemId":  "1ca5b01d892bb1b5b113e7ccaa4ac889",
-                                                  "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
-                                                  "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
-                                                  "year":  1983
+                                                  "title":  "Carlitos Way",
+                                                  "start":  "2026-09-01T05:54:18.0000000Z",
+                                                  "stop":  "2026-09-01T08:18:28.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Carlitos Way",
-                                              "start":  "2026-09-01T05:54:18.0000000Z",
-                                              "stop":  "2026-09-01T08:18:28.0000000Z",
+                                              "title":  "Jacky Brown",
+                                              "start":  "2026-09-01T08:18:28.0000000Z",
+                                              "stop":  "2026-09-01T10:52:49.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Carlitos Way",
-                                                    "start":  "2026-09-01T05:54:18.0000000Z",
-                                                    "stop":  "2026-09-01T08:18:28.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Jacky Brown",
                                                     "start":  "2026-09-01T08:18:28.0000000Z",
@@ -436,15 +427,7 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "Chingadasos",
-                                                  "start":  "2026-09-01T05:53:45.0000000Z",
-                                                  "stop":  "2026-09-01T05:54:31.0000000Z",
-                                                  "itemId":  "8988d98fd90679aab5aff5b786344b1c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
-                                                  "description":  null,
-                                                  "year":  2026
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
                                               "title":  "Mr J-Carry",
                                               "start":  "2026-09-01T05:55:36.0000000Z",
