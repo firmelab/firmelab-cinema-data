@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-01T00:03:07.5943474Z",
+    "updated":  "2026-09-01T00:06:23.9004040Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -308,33 +308,24 @@
                                "number":  5,
                                "name":  "FIRMELAB TOONS",
                                "nowPlaying":  {
-                                                  "title":  "HEAVY METAL",
-                                                  "start":  "2026-08-31T22:33:06.0000000Z",
-                                                  "stop":  "2026-09-01T00:03:27.0000000Z",
-                                                  "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
-                                                  "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
-                                                  "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
-                                                  "year":  1981
+                                                  "title":  "Who Framed Roger Rabbit",
+                                                  "start":  "2026-09-01T00:03:27.0000000Z",
+                                                  "stop":  "2026-09-01T01:47:13.0000000Z",
+                                                  "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
+                                                  "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
+                                                  "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+                                                  "year":  1988
                                               },
                                "upNext":  {
-                                              "title":  "Who Framed Roger Rabbit",
-                                              "start":  "2026-09-01T00:03:27.0000000Z",
-                                              "stop":  "2026-09-01T01:47:13.0000000Z",
-                                              "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
-                                              "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
-                                              "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
-                                              "year":  1988
+                                              "title":  "HEAVY METAL",
+                                              "start":  "2026-09-01T01:47:13.0000000Z",
+                                              "stop":  "2026-09-01T03:17:34.0000000Z",
+                                              "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                              "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                              "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                              "year":  1981
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Who Framed Roger Rabbit",
-                                                    "start":  "2026-09-01T00:03:27.0000000Z",
-                                                    "stop":  "2026-09-01T01:47:13.0000000Z",
-                                                    "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
-                                                    "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
-                                                    "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
-                                                    "year":  1988
-                                                },
                                                 {
                                                     "title":  "HEAVY METAL",
                                                     "start":  "2026-09-01T01:47:13.0000000Z",
@@ -473,42 +464,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Biggie Mobbing",
-                                              "start":  "2026-09-01T00:03:11.0000000Z",
-                                              "stop":  "2026-09-01T00:07:32.0000000Z",
-                                              "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
-                                              "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
+                                              "title":  "T2",
+                                              "start":  "2026-09-01T00:06:40.0000000Z",
+                                              "stop":  "2026-09-01T00:13:29.0000000Z",
+                                              "itemId":  "1315943017e226076a7899408d36dec5",
+                                              "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Biggie Mobbing",
-                                                    "start":  "2026-09-01T00:03:11.0000000Z",
-                                                    "stop":  "2026-09-01T00:07:32.0000000Z",
-                                                    "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
-                                                {
-                                                    "title":  "Chingadasos",
-                                                    "start":  "2026-09-01T00:03:52.0000000Z",
-                                                    "stop":  "2026-09-01T00:04:38.0000000Z",
-                                                    "itemId":  "8988d98fd90679aab5aff5b786344b1c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
-                                                {
-                                                    "title":  "Mr J-Carry",
-                                                    "start":  "2026-09-01T00:05:43.0000000Z",
-                                                    "stop":  "2026-09-01T00:09:53.0000000Z",
-                                                    "itemId":  "56c94066e018711311e81d6a3f6cc139",
-                                                    "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "T2",
                                                     "start":  "2026-09-01T00:06:40.0000000Z",
@@ -551,6 +515,33 @@
                                                     "stop":  "2026-09-01T00:15:05.0000000Z",
                                                     "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
                                                     "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Oz",
+                                                    "start":  "2026-09-01T00:15:28.0000000Z",
+                                                    "stop":  "2026-09-01T00:21:23.0000000Z",
+                                                    "itemId":  "f332ba1673f9273e5349cd38b640cf51",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "BloodJoke",
+                                                    "start":  "2026-09-01T00:17:09.0000000Z",
+                                                    "stop":  "2026-09-01T00:21:04.0000000Z",
+                                                    "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Carrito",
+                                                    "start":  "2026-09-01T00:18:50.0000000Z",
+                                                    "stop":  "2026-09-01T00:26:28.0000000Z",
+                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
