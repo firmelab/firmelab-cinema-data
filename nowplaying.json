@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-01T06:19:05.5224099Z",
+    "updated":  "2026-09-01T06:20:05.3908948Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -418,15 +418,7 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "Duende",
-                                                  "start":  "2026-09-01T06:18:25.0000000Z",
-                                                  "stop":  "2026-09-01T06:19:35.0000000Z",
-                                                  "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                                  "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
-                                                  "description":  null,
-                                                  "year":  null
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
                                               "title":  "JamminG",
                                               "start":  "2026-09-01T06:20:07.0000000Z",
@@ -515,33 +507,24 @@
                                "number":  8,
                                "name":  "FIRMELAB FRONTIER",
                                "nowPlaying":  {
-                                                  "title":  "The Count Monte Cristos",
-                                                  "start":  "2026-09-01T04:08:31.0000000Z",
-                                                  "stop":  "2026-09-01T06:19:45.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Young Guns",
+                                                  "start":  "2026-09-01T06:19:45.0000000Z",
+                                                  "stop":  "2026-09-01T08:06:31.0000000Z",
+                                                  "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
+                                                  "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
+                                                  "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
+                                                  "year":  1988
                                               },
                                "upNext":  {
-                                              "title":  "Young Guns",
-                                              "start":  "2026-09-01T06:19:45.0000000Z",
-                                              "stop":  "2026-09-01T08:06:31.0000000Z",
-                                              "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
-                                              "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
-                                              "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
-                                              "year":  1988
+                                              "title":  "The Patriot",
+                                              "start":  "2026-09-01T08:06:31.0000000Z",
+                                              "stop":  "2026-09-01T10:51:18.0000000Z",
+                                              "itemId":  "17b673273650da7e33ae51350e123fb0",
+                                              "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
+                                              "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+                                              "year":  2000
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Young Guns",
-                                                    "start":  "2026-09-01T06:19:45.0000000Z",
-                                                    "stop":  "2026-09-01T08:06:31.0000000Z",
-                                                    "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
-                                                    "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
-                                                    "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
-                                                    "year":  1988
-                                                },
                                                 {
                                                     "title":  "The Patriot",
                                                     "start":  "2026-09-01T08:06:31.0000000Z",
