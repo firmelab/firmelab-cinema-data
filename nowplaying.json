@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-01T14:40:05.4351184Z",
+    "updated":  "2026-09-01T14:41:06.2921248Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -350,33 +350,24 @@
                                "number":  6,
                                "name":  "FIRMELAB CRIME",
                                "nowPlaying":  {
-                                                  "title":  "Reservor Dogs",
-                                                  "start":  "2026-09-01T13:01:36.0000000Z",
-                                                  "stop":  "2026-09-01T14:40:41.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Scarface",
+                                                  "start":  "2026-09-01T14:40:41.0000000Z",
+                                                  "stop":  "2026-09-01T17:30:38.0000000Z",
+                                                  "itemId":  "1ca5b01d892bb1b5b113e7ccaa4ac889",
+                                                  "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
+                                                  "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+                                                  "year":  1983
                                               },
                                "upNext":  {
-                                              "title":  "Scarface",
-                                              "start":  "2026-09-01T14:40:41.0000000Z",
-                                              "stop":  "2026-09-01T17:30:38.0000000Z",
-                                              "itemId":  "1ca5b01d892bb1b5b113e7ccaa4ac889",
-                                              "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
-                                              "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
-                                              "year":  1983
+                                              "title":  "Carlitos Way",
+                                              "start":  "2026-09-01T17:30:38.0000000Z",
+                                              "stop":  "2026-09-01T19:54:48.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Scarface",
-                                                    "start":  "2026-09-01T14:40:41.0000000Z",
-                                                    "stop":  "2026-09-01T17:30:38.0000000Z",
-                                                    "itemId":  "1ca5b01d892bb1b5b113e7ccaa4ac889",
-                                                    "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
-                                                    "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
-                                                    "year":  1983
-                                                },
                                                 {
                                                     "title":  "Carlitos Way",
                                                     "start":  "2026-09-01T17:30:38.0000000Z",
@@ -411,24 +402,15 @@
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  null,
                                "upNext":  {
-                                              "title":  "Mr J-Carry",
-                                              "start":  "2026-09-01T14:40:26.0000000Z",
-                                              "stop":  "2026-09-01T14:40:58.0000000Z",
-                                              "itemId":  "56c94066e018711311e81d6a3f6cc139",
-                                              "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
+                                              "title":  "T2",
+                                              "start":  "2026-09-01T14:41:22.0000000Z",
+                                              "stop":  "2026-09-01T14:41:54.0000000Z",
+                                              "itemId":  "1315943017e226076a7899408d36dec5",
+                                              "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Mr J-Carry",
-                                                    "start":  "2026-09-01T14:40:26.0000000Z",
-                                                    "stop":  "2026-09-01T14:40:58.0000000Z",
-                                                    "itemId":  "56c94066e018711311e81d6a3f6cc139",
-                                                    "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "T2",
                                                     "start":  "2026-09-01T14:41:22.0000000Z",
@@ -489,6 +471,15 @@
                                                     "stop":  "2026-09-01T14:53:27.0000000Z",
                                                     "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
                                                     "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Carrito",
+                                                    "start":  "2026-09-01T14:53:33.0000000Z",
+                                                    "stop":  "2026-09-01T15:01:11.0000000Z",
+                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
