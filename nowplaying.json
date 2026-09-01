@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-01T23:11:05.2120829Z",
+    "updated":  "2026-09-01T23:12:05.2072626Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "DEATH PROOF",
-                                                  "start":  "2026-09-01T21:17:34.0000000Z",
-                                                  "stop":  "2026-09-01T23:11:19.0000000Z",
-                                                  "itemId":  "5220d04d46ddf5fa55aacae5d4916919",
-                                                  "poster":  "http://127.0.0.1:8096/Items/5220d04d46ddf5fa55aacae5d4916919/Images/Primary",
-                                                  "description":  "Austin\u0027s hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
-                                                  "year":  2007
+                                                  "title":  "A Nightmare on Elm Street",
+                                                  "start":  "2026-09-01T23:11:19.0000000Z",
+                                                  "stop":  "2026-09-02T00:42:54.0000000Z",
+                                                  "itemId":  "c79ef56b1b57aea8237d2575aba106ee",
+                                                  "poster":  "http://127.0.0.1:8096/Items/c79ef56b1b57aea8237d2575aba106ee/Images/Primary",
+                                                  "description":  "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop\u0027s daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers\u0027 children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
+                                                  "year":  1984
                                               },
                                "upNext":  {
-                                              "title":  "A Nightmare on Elm Street",
-                                              "start":  "2026-09-01T23:11:19.0000000Z",
-                                              "stop":  "2026-09-02T00:42:54.0000000Z",
-                                              "itemId":  "c79ef56b1b57aea8237d2575aba106ee",
-                                              "poster":  "http://127.0.0.1:8096/Items/c79ef56b1b57aea8237d2575aba106ee/Images/Primary",
-                                              "description":  "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop\u0027s daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers\u0027 children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
-                                              "year":  1984
+                                              "title":  "AnchorMan",
+                                              "start":  "2026-09-02T00:42:54.0000000Z",
+                                              "stop":  "2026-09-02T02:20:29.0000000Z",
+                                              "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
+                                              "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
+                                              "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
+                                              "year":  2004
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "A Nightmare on Elm Street",
-                                                    "start":  "2026-09-01T23:11:19.0000000Z",
-                                                    "stop":  "2026-09-02T00:42:54.0000000Z",
-                                                    "itemId":  "c79ef56b1b57aea8237d2575aba106ee",
-                                                    "poster":  "http://127.0.0.1:8096/Items/c79ef56b1b57aea8237d2575aba106ee/Images/Primary",
-                                                    "description":  "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop\u0027s daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers\u0027 children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
-                                                    "year":  1984
-                                                },
                                                 {
                                                     "title":  "AnchorMan",
                                                     "start":  "2026-09-02T00:42:54.0000000Z",
