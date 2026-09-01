@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-01T08:18:07.9772649Z",
+    "updated":  "2026-09-01T08:19:07.6440632Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -395,33 +395,24 @@
                                "number":  6,
                                "name":  "FIRMELAB CRIME",
                                "nowPlaying":  {
-                                                  "title":  "Carlitos Way",
-                                                  "start":  "2026-09-01T05:54:18.0000000Z",
-                                                  "stop":  "2026-09-01T08:18:28.0000000Z",
+                                                  "title":  "Jacky Brown",
+                                                  "start":  "2026-09-01T08:18:28.0000000Z",
+                                                  "stop":  "2026-09-01T10:52:49.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Jacky Brown",
-                                              "start":  "2026-09-01T08:18:28.0000000Z",
-                                              "stop":  "2026-09-01T10:52:49.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Inside Man",
+                                              "start":  "2026-09-01T10:52:49.0000000Z",
+                                              "stop":  "2026-09-01T13:01:36.0000000Z",
+                                              "itemId":  "5f439285fe3ef8976153452a9fee8cbc",
+                                              "poster":  "http://127.0.0.1:8096/Items/5f439285fe3ef8976153452a9fee8cbc/Images/Primary",
+                                              "description":  "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
+                                              "year":  2006
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Jacky Brown",
-                                                    "start":  "2026-09-01T08:18:28.0000000Z",
-                                                    "stop":  "2026-09-01T10:52:49.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Inside Man",
                                                     "start":  "2026-09-01T10:52:49.0000000Z",
@@ -473,24 +464,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "BloodJoke",
-                                              "start":  "2026-09-01T08:18:15.0000000Z",
-                                              "stop":  "2026-09-01T08:19:50.0000000Z",
-                                              "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                              "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                              "title":  "Carrito",
+                                              "start":  "2026-09-01T08:19:55.0000000Z",
+                                              "stop":  "2026-09-01T08:27:34.0000000Z",
+                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "BloodJoke",
-                                                    "start":  "2026-09-01T08:18:15.0000000Z",
-                                                    "stop":  "2026-09-01T08:19:50.0000000Z",
-                                                    "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-09-01T08:19:55.0000000Z",
@@ -551,6 +533,15 @@
                                                     "stop":  "2026-09-01T08:38:11.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "SSBI4649",
+                                                    "start":  "2026-09-01T08:38:11.0000000Z",
+                                                    "stop":  "2026-09-01T08:39:00.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
                                                     "description":  null,
                                                     "year":  null
                                                 }
