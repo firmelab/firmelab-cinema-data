@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-01T23:14:05.2125553Z",
+    "updated":  "2026-09-01T23:15:05.3736672Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -83,33 +83,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "World War Z",
-                                                  "start":  "2026-09-01T21:07:39.0000000Z",
-                                                  "stop":  "2026-09-01T23:14:06.0000000Z",
-                                                  "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
-                                                  "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                                  "year":  2013
+                                                  "title":  "Underworld Evolution",
+                                                  "start":  "2026-09-01T23:14:06.0000000Z",
+                                                  "stop":  "2026-09-02T01:03:55.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Underworld Evolution",
-                                              "start":  "2026-09-01T23:14:06.0000000Z",
-                                              "stop":  "2026-09-02T01:03:55.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Wrong Turn",
+                                              "start":  "2026-09-02T01:03:55.0000000Z",
+                                              "stop":  "2026-09-02T02:31:33.0000000Z",
+                                              "itemId":  "58d332deb67464546d571f7fda1cd63c",
+                                              "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
+                                              "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
+                                              "year":  2003
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Underworld Evolution",
-                                                    "start":  "2026-09-01T23:14:06.0000000Z",
-                                                    "stop":  "2026-09-02T01:03:55.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Wrong Turn",
                                                     "start":  "2026-09-02T01:03:55.0000000Z",
@@ -491,11 +482,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Ninja Now",
-                                                  "start":  "2026-09-01T23:12:11.0000000Z",
-                                                  "stop":  "2026-09-01T23:14:17.0000000Z",
-                                                  "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                  "title":  "SSBI4649",
+                                                  "start":  "2026-09-01T23:12:53.0000000Z",
+                                                  "stop":  "2026-09-01T23:15:06.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
