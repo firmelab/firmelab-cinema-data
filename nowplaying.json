@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-01T23:13:05.2047105Z",
+    "updated":  "2026-09-01T23:14:05.2125553Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -500,24 +500,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Arnold Dynamite",
-                                              "start":  "2026-09-01T23:13:42.0000000Z",
-                                              "stop":  "2026-09-01T23:16:34.0000000Z",
-                                              "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
-                                              "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
+                                              "title":  "0Ld Sc00L",
+                                              "start":  "2026-09-01T23:15:10.0000000Z",
+                                              "stop":  "2026-09-01T23:20:26.0000000Z",
+                                              "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                              "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Arnold Dynamite",
-                                                    "start":  "2026-09-01T23:13:42.0000000Z",
-                                                    "stop":  "2026-09-01T23:16:34.0000000Z",
-                                                    "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "0Ld Sc00L",
                                                     "start":  "2026-09-01T23:15:10.0000000Z",
@@ -578,6 +569,15 @@
                                                     "stop":  "2026-09-01T23:26:44.0000000Z",
                                                     "itemId":  "1315943017e226076a7899408d36dec5",
                                                     "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Ricardo \u0026 Mocoso",
+                                                    "start":  "2026-09-01T23:26:44.0000000Z",
+                                                    "stop":  "2026-09-01T23:29:00.0000000Z",
+                                                    "itemId":  "0e268bdc592953760cc985e16953d93d",
+                                                    "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
