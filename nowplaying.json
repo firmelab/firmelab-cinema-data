@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-01T07:31:04.8003361Z",
+    "updated":  "2026-09-01T07:32:04.8422021Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Brightburn",
-                                                  "start":  "2026-09-01T06:00:40.0000000Z",
-                                                  "stop":  "2026-09-01T07:31:22.0000000Z",
-                                                  "itemId":  "a562e465a7ff31b0113aee613a779bf2",
-                                                  "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
-                                                  "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
-                                                  "year":  2019
+                                                  "title":  "John Wick",
+                                                  "start":  "2026-09-01T07:31:22.0000000Z",
+                                                  "stop":  "2026-09-01T09:12:46.0000000Z",
+                                                  "itemId":  "84b70d75a3d957b57b02cf83796504a8",
+                                                  "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
+                                                  "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+                                                  "year":  2014
                                               },
                                "upNext":  {
-                                              "title":  "John Wick",
-                                              "start":  "2026-09-01T07:31:22.0000000Z",
-                                              "stop":  "2026-09-01T09:12:46.0000000Z",
-                                              "itemId":  "84b70d75a3d957b57b02cf83796504a8",
-                                              "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
-                                              "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
-                                              "year":  2014
+                                              "title":  "Blade 2",
+                                              "start":  "2026-09-01T09:12:46.0000000Z",
+                                              "stop":  "2026-09-01T11:09:48.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "John Wick",
-                                                    "start":  "2026-09-01T07:31:22.0000000Z",
-                                                    "stop":  "2026-09-01T09:12:46.0000000Z",
-                                                    "itemId":  "84b70d75a3d957b57b02cf83796504a8",
-                                                    "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
-                                                    "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
-                                                    "year":  2014
-                                                },
                                                 {
                                                     "title":  "Blade 2",
                                                     "start":  "2026-09-01T09:12:46.0000000Z",
@@ -491,33 +482,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "COKCE6139",
-                                                  "start":  "2026-09-01T07:29:33.0000000Z",
-                                                  "stop":  "2026-09-01T07:31:44.0000000Z",
-                                                  "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
+                                                  "title":  "MrPayo",
+                                                  "start":  "2026-09-01T07:31:44.0000000Z",
+                                                  "stop":  "2026-09-01T07:32:49.0000000Z",
+                                                  "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
+                                                  "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "MrPayo",
-                                              "start":  "2026-09-01T07:31:44.0000000Z",
-                                              "stop":  "2026-09-01T07:32:49.0000000Z",
-                                              "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
-                                              "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
+                                              "title":  "Oz",
+                                              "start":  "2026-09-01T07:32:49.0000000Z",
+                                              "stop":  "2026-09-01T07:34:31.0000000Z",
+                                              "itemId":  "f332ba1673f9273e5349cd38b640cf51",
+                                              "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                               "description":  null,
-                                              "year":  null
+                                              "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "MrPayo",
-                                                    "start":  "2026-09-01T07:31:44.0000000Z",
-                                                    "stop":  "2026-09-01T07:32:49.0000000Z",
-                                                    "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
-                                                    "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Oz",
                                                     "start":  "2026-09-01T07:32:49.0000000Z",
@@ -580,6 +562,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Never 3Nding",
+                                                    "start":  "2026-09-01T07:51:32.0000000Z",
+                                                    "stop":  "2026-09-01T07:53:44.0000000Z",
+                                                    "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                                    "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
