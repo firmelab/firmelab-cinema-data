@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-01T09:45:05.5886574Z",
+    "updated":  "2026-09-01T09:46:05.2429012Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -74,33 +74,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "D1_t00",
-                                                  "start":  "2026-09-01T07:28:30.0000000Z",
-                                                  "stop":  "2026-09-01T09:45:18.0000000Z",
+                                                  "title":  "Underworld Evolution",
+                                                  "start":  "2026-09-01T09:45:18.0000000Z",
+                                                  "stop":  "2026-09-01T11:47:34.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Underworld Evolution",
-                                              "start":  "2026-09-01T09:45:18.0000000Z",
-                                              "stop":  "2026-09-01T11:47:34.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Land of the Dead",
+                                              "start":  "2026-09-01T11:47:34.0000000Z",
+                                              "stop":  "2026-09-01T13:34:58.0000000Z",
+                                              "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
+                                              "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
+                                              "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
+                                              "year":  2005
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Underworld Evolution",
-                                                    "start":  "2026-09-01T09:45:18.0000000Z",
-                                                    "stop":  "2026-09-01T11:47:34.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Land of the Dead",
                                                     "start":  "2026-09-01T11:47:34.0000000Z",
@@ -290,33 +281,24 @@
                                "number":  5,
                                "name":  "FIRMELAB TOONS",
                                "nowPlaying":  {
-                                                  "title":  "HEAVY METAL",
-                                                  "start":  "2026-09-01T08:15:27.0000000Z",
-                                                  "stop":  "2026-09-01T09:45:48.0000000Z",
-                                                  "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
-                                                  "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
-                                                  "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
-                                                  "year":  1981
+                                                  "title":  "Who Framed Roger Rabbit",
+                                                  "start":  "2026-09-01T09:45:48.0000000Z",
+                                                  "stop":  "2026-09-01T11:29:34.0000000Z",
+                                                  "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
+                                                  "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
+                                                  "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+                                                  "year":  1988
                                               },
                                "upNext":  {
-                                              "title":  "Who Framed Roger Rabbit",
-                                              "start":  "2026-09-01T09:45:48.0000000Z",
-                                              "stop":  "2026-09-01T11:29:34.0000000Z",
-                                              "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
-                                              "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
-                                              "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
-                                              "year":  1988
+                                              "title":  "HEAVY METAL",
+                                              "start":  "2026-09-01T11:29:34.0000000Z",
+                                              "stop":  "2026-09-01T12:59:55.0000000Z",
+                                              "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                              "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                              "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                              "year":  1981
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Who Framed Roger Rabbit",
-                                                    "start":  "2026-09-01T09:45:48.0000000Z",
-                                                    "stop":  "2026-09-01T11:29:34.0000000Z",
-                                                    "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
-                                                    "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
-                                                    "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
-                                                    "year":  1988
-                                                },
                                                 {
                                                     "title":  "HEAVY METAL",
                                                     "start":  "2026-09-01T11:29:34.0000000Z",
@@ -428,33 +410,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Oz",
-                                                  "start":  "2026-09-01T09:44:02.0000000Z",
-                                                  "stop":  "2026-09-01T09:45:15.0000000Z",
-                                                  "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                                  "title":  "BloodJoke",
+                                                  "start":  "2026-09-01T09:45:43.0000000Z",
+                                                  "stop":  "2026-09-01T09:47:19.0000000Z",
+                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "BloodJoke",
-                                              "start":  "2026-09-01T09:45:43.0000000Z",
-                                              "stop":  "2026-09-01T09:47:19.0000000Z",
-                                              "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                              "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                              "title":  "Carrito",
+                                              "start":  "2026-09-01T09:47:24.0000000Z",
+                                              "stop":  "2026-09-01T09:55:02.0000000Z",
+                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "BloodJoke",
-                                                    "start":  "2026-09-01T09:45:43.0000000Z",
-                                                    "stop":  "2026-09-01T09:47:19.0000000Z",
-                                                    "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-09-01T09:47:24.0000000Z",
@@ -515,6 +488,15 @@
                                                     "stop":  "2026-09-01T10:05:39.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "SSBI4649",
+                                                    "start":  "2026-09-01T10:05:39.0000000Z",
+                                                    "stop":  "2026-09-01T10:06:28.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
                                                     "description":  null,
                                                     "year":  null
                                                 }
