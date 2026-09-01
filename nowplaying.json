@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-01T16:13:06.8813810Z",
+    "updated":  "2026-09-01T16:14:06.9021103Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Boogeyman",
-                                                  "start":  "2026-09-01T14:44:23.0000000Z",
-                                                  "stop":  "2026-09-01T16:13:25.0000000Z",
-                                                  "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
-                                                  "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
-                                                  "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
-                                                  "year":  2005
+                                                  "title":  "World War Z",
+                                                  "start":  "2026-09-01T16:13:25.0000000Z",
+                                                  "stop":  "2026-09-01T18:16:40.0000000Z",
+                                                  "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
+                                                  "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
+                                                  "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+                                                  "year":  2013
                                               },
                                "upNext":  {
-                                              "title":  "World War Z",
-                                              "start":  "2026-09-01T16:13:25.0000000Z",
-                                              "stop":  "2026-09-01T18:16:40.0000000Z",
-                                              "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
-                                              "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
-                                              "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                              "year":  2013
+                                              "title":  "A Nightmare on Elm Street 2 Freddy\u0027s Revenge",
+                                              "start":  "2026-09-01T18:16:40.0000000Z",
+                                              "stop":  "2026-09-01T19:42:24.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "World War Z",
-                                                    "start":  "2026-09-01T16:13:25.0000000Z",
-                                                    "stop":  "2026-09-01T18:16:40.0000000Z",
-                                                    "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
-                                                    "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                                    "year":  2013
-                                                },
                                                 {
                                                     "title":  "A Nightmare on Elm Street 2 Freddy\u0027s Revenge",
                                                     "start":  "2026-09-01T18:16:40.0000000Z",
@@ -326,33 +317,24 @@
                                "number":  5,
                                "name":  "FIRMELAB TOONS",
                                "nowPlaying":  {
-                                                  "title":  "HEAVY METAL",
-                                                  "start":  "2026-09-01T14:43:41.0000000Z",
-                                                  "stop":  "2026-09-01T16:14:02.0000000Z",
-                                                  "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
-                                                  "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
-                                                  "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
-                                                  "year":  1981
+                                                  "title":  "Who Framed Roger Rabbit",
+                                                  "start":  "2026-09-01T16:14:02.0000000Z",
+                                                  "stop":  "2026-09-01T17:57:48.0000000Z",
+                                                  "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
+                                                  "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
+                                                  "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+                                                  "year":  1988
                                               },
                                "upNext":  {
-                                              "title":  "Who Framed Roger Rabbit",
-                                              "start":  "2026-09-01T16:14:02.0000000Z",
-                                              "stop":  "2026-09-01T17:57:48.0000000Z",
-                                              "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
-                                              "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
-                                              "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
-                                              "year":  1988
+                                              "title":  "HEAVY METAL",
+                                              "start":  "2026-09-01T17:57:48.0000000Z",
+                                              "stop":  "2026-09-01T19:28:10.0000000Z",
+                                              "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                              "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                              "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                              "year":  1981
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Who Framed Roger Rabbit",
-                                                    "start":  "2026-09-01T16:14:02.0000000Z",
-                                                    "stop":  "2026-09-01T17:57:48.0000000Z",
-                                                    "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
-                                                    "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
-                                                    "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
-                                                    "year":  1988
-                                                },
                                                 {
                                                     "title":  "HEAVY METAL",
                                                     "start":  "2026-09-01T17:57:48.0000000Z",
