@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-01T06:00:05.0970223Z",
+    "updated":  "2026-09-01T06:01:05.1803210Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "The Patriot",
-                                                  "start":  "2026-09-01T03:15:42.0000000Z",
-                                                  "stop":  "2026-09-01T06:00:40.0000000Z",
-                                                  "itemId":  "17b673273650da7e33ae51350e123fb0",
-                                                  "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
-                                                  "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
-                                                  "year":  2000
+                                                  "title":  "Brightburn",
+                                                  "start":  "2026-09-01T06:00:40.0000000Z",
+                                                  "stop":  "2026-09-01T07:31:22.0000000Z",
+                                                  "itemId":  "a562e465a7ff31b0113aee613a779bf2",
+                                                  "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
+                                                  "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
+                                                  "year":  2019
                                               },
                                "upNext":  {
-                                              "title":  "Brightburn",
-                                              "start":  "2026-09-01T06:00:40.0000000Z",
-                                              "stop":  "2026-09-01T07:31:22.0000000Z",
-                                              "itemId":  "a562e465a7ff31b0113aee613a779bf2",
-                                              "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
-                                              "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
-                                              "year":  2019
+                                              "title":  "John Wick",
+                                              "start":  "2026-09-01T07:31:22.0000000Z",
+                                              "stop":  "2026-09-01T09:12:46.0000000Z",
+                                              "itemId":  "84b70d75a3d957b57b02cf83796504a8",
+                                              "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
+                                              "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+                                              "year":  2014
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Brightburn",
-                                                    "start":  "2026-09-01T06:00:40.0000000Z",
-                                                    "stop":  "2026-09-01T07:31:22.0000000Z",
-                                                    "itemId":  "a562e465a7ff31b0113aee613a779bf2",
-                                                    "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
-                                                    "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
-                                                    "year":  2019
-                                                },
                                                 {
                                                     "title":  "John Wick",
                                                     "start":  "2026-09-01T07:31:22.0000000Z",
@@ -427,15 +418,7 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "XocoBruja",
-                                                  "start":  "2026-09-01T05:59:20.0000000Z",
-                                                  "stop":  "2026-09-01T06:00:49.0000000Z",
-                                                  "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
-                                                  "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
-                                                  "description":  null,
-                                                  "year":  2026
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
                                               "title":  "COKCE6139",
                                               "start":  "2026-09-01T06:02:05.0000000Z",
