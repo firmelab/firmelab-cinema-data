@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-01T02:28:05.2133479Z",
+    "updated":  "2026-09-01T02:29:05.2456851Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -391,26 +391,25 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  null,
+                               "nowPlaying":  {
+                                                  "title":  "BloodJoke",
+                                                  "start":  "2026-09-01T02:28:22.0000000Z",
+                                                  "stop":  "2026-09-01T02:29:57.0000000Z",
+                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                  "description":  null,
+                                                  "year":  null
+                                              },
                                "upNext":  {
-                                              "title":  "BloodJoke",
-                                              "start":  "2026-09-01T02:28:22.0000000Z",
-                                              "stop":  "2026-09-01T02:29:57.0000000Z",
-                                              "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                              "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                              "title":  "Carrito",
+                                              "start":  "2026-09-01T02:30:02.0000000Z",
+                                              "stop":  "2026-09-01T02:37:41.0000000Z",
+                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "BloodJoke",
-                                                    "start":  "2026-09-01T02:28:22.0000000Z",
-                                                    "stop":  "2026-09-01T02:29:57.0000000Z",
-                                                    "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-09-01T02:30:02.0000000Z",
@@ -471,6 +470,15 @@
                                                     "stop":  "2026-09-01T02:48:17.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "SSBI4649",
+                                                    "start":  "2026-09-01T02:48:17.0000000Z",
+                                                    "stop":  "2026-09-01T02:49:06.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
                                                     "description":  null,
                                                     "year":  null
                                                 }
