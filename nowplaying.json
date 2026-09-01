@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-01T20:10:05.1811672Z",
+    "updated":  "2026-09-01T20:11:05.5257022Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -239,33 +239,24 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "Duplex",
-                                                  "start":  "2026-09-01T18:41:35.0000000Z",
-                                                  "stop":  "2026-09-01T20:10:47.0000000Z",
-                                                  "itemId":  "e2340e07092b6de7376760916297a934",
-                                                  "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
-                                                  "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
-                                                  "year":  2003
+                                                  "title":  "UP IN SMOKE",
+                                                  "start":  "2026-09-01T20:10:47.0000000Z",
+                                                  "stop":  "2026-09-01T21:36:38.0000000Z",
+                                                  "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
+                                                  "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
+                                                  "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
+                                                  "year":  1978
                                               },
                                "upNext":  {
-                                              "title":  "UP IN SMOKE",
-                                              "start":  "2026-09-01T20:10:47.0000000Z",
-                                              "stop":  "2026-09-01T21:36:38.0000000Z",
-                                              "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
-                                              "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
-                                              "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
-                                              "year":  1978
+                                              "title":  "HALF BAKED",
+                                              "start":  "2026-09-01T21:36:38.0000000Z",
+                                              "stop":  "2026-09-01T22:58:44.0000000Z",
+                                              "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
+                                              "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
+                                              "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
+                                              "year":  1998
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "UP IN SMOKE",
-                                                    "start":  "2026-09-01T20:10:47.0000000Z",
-                                                    "stop":  "2026-09-01T21:36:38.0000000Z",
-                                                    "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
-                                                    "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
-                                                    "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
-                                                    "year":  1978
-                                                },
                                                 {
                                                     "title":  "HALF BAKED",
                                                     "start":  "2026-09-01T21:36:38.0000000Z",
@@ -482,11 +473,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Carrito",
-                                                  "start":  "2026-09-01T19:59:42.0000000Z",
-                                                  "stop":  "2026-09-01T20:11:00.0000000Z",
-                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                                  "title":  "DnBaPCsht",
+                                                  "start":  "2026-09-01T20:08:26.0000000Z",
+                                                  "stop":  "2026-09-01T20:12:50.0000000Z",
+                                                  "itemId":  "d2296bca99a831548bbada0bb3bac719",
+                                                  "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
