@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-01T19:42:05.7557184Z",
+    "updated":  "2026-09-01T19:43:05.7438457Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "A Nightmare on Elm Street 2 Freddy\u0027s Revenge",
-                                                  "start":  "2026-09-01T18:16:40.0000000Z",
-                                                  "stop":  "2026-09-01T19:42:24.0000000Z",
+                                                  "title":  "BLOB, THE",
+                                                  "start":  "2026-09-01T19:42:24.0000000Z",
+                                                  "stop":  "2026-09-01T21:17:34.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "BLOB, THE",
-                                              "start":  "2026-09-01T19:42:24.0000000Z",
-                                              "stop":  "2026-09-01T21:17:34.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "DEATH PROOF",
+                                              "start":  "2026-09-01T21:17:34.0000000Z",
+                                              "stop":  "2026-09-01T23:11:19.0000000Z",
+                                              "itemId":  "5220d04d46ddf5fa55aacae5d4916919",
+                                              "poster":  "http://127.0.0.1:8096/Items/5220d04d46ddf5fa55aacae5d4916919/Images/Primary",
+                                              "description":  "Austin\u0027s hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
+                                              "year":  2007
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "BLOB, THE",
-                                                    "start":  "2026-09-01T19:42:24.0000000Z",
-                                                    "stop":  "2026-09-01T21:17:34.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "DEATH PROOF",
                                                     "start":  "2026-09-01T21:17:34.0000000Z",
