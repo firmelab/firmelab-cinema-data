@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-01T17:04:10.9316807Z",
+    "updated":  "2026-09-01T17:05:08.3978092Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -221,33 +221,24 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "Undercover Brother",
-                                                  "start":  "2026-09-01T15:38:05.0000000Z",
-                                                  "stop":  "2026-09-01T17:04:12.0000000Z",
-                                                  "itemId":  "6317b8f6b30a049091764b8311c08279",
-                                                  "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
-                                                  "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
-                                                  "year":  2002
+                                                  "title":  "AnchorMan",
+                                                  "start":  "2026-09-01T17:04:12.0000000Z",
+                                                  "stop":  "2026-09-01T18:41:35.0000000Z",
+                                                  "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
+                                                  "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
+                                                  "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
+                                                  "year":  2004
                                               },
                                "upNext":  {
-                                              "title":  "AnchorMan",
-                                              "start":  "2026-09-01T17:04:12.0000000Z",
-                                              "stop":  "2026-09-01T18:41:35.0000000Z",
-                                              "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
-                                              "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
-                                              "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
-                                              "year":  2004
+                                              "title":  "Duplex",
+                                              "start":  "2026-09-01T18:41:35.0000000Z",
+                                              "stop":  "2026-09-01T20:10:47.0000000Z",
+                                              "itemId":  "e2340e07092b6de7376760916297a934",
+                                              "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
+                                              "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
+                                              "year":  2003
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "AnchorMan",
-                                                    "start":  "2026-09-01T17:04:12.0000000Z",
-                                                    "stop":  "2026-09-01T18:41:35.0000000Z",
-                                                    "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
-                                                    "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
-                                                    "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
-                                                    "year":  2004
-                                                },
                                                 {
                                                     "title":  "Duplex",
                                                     "start":  "2026-09-01T18:41:35.0000000Z",
@@ -455,33 +446,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "BloodJoke",
-                                                  "start":  "2026-09-01T17:03:04.0000000Z",
-                                                  "stop":  "2026-09-01T17:04:40.0000000Z",
-                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                  "title":  "Carrito",
+                                                  "start":  "2026-09-01T17:04:45.0000000Z",
+                                                  "stop":  "2026-09-01T17:12:24.0000000Z",
+                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Carrito",
-                                              "start":  "2026-09-01T17:04:45.0000000Z",
-                                              "stop":  "2026-09-01T17:12:24.0000000Z",
-                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                              "title":  "Dancing Cobra",
+                                              "start":  "2026-09-01T17:12:24.0000000Z",
+                                              "stop":  "2026-09-01T17:13:29.0000000Z",
+                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Carrito",
-                                                    "start":  "2026-09-01T17:04:45.0000000Z",
-                                                    "stop":  "2026-09-01T17:12:24.0000000Z",
-                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-09-01T17:12:24.0000000Z",
@@ -544,6 +526,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Arnold Dynamite",
+                                                    "start":  "2026-09-01T17:23:49.0000000Z",
+                                                    "stop":  "2026-09-01T17:25:17.0000000Z",
+                                                    "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
