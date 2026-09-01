@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-01T23:29:05.3409388Z",
+    "updated":  "2026-09-01T23:30:05.3310015Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -161,33 +161,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "DEATH PROOF",
-                                                  "start":  "2026-09-01T21:36:11.0000000Z",
-                                                  "stop":  "2026-09-01T23:29:44.0000000Z",
-                                                  "itemId":  "5220d04d46ddf5fa55aacae5d4916919",
-                                                  "poster":  "http://127.0.0.1:8096/Items/5220d04d46ddf5fa55aacae5d4916919/Images/Primary",
-                                                  "description":  "Austin\u0027s hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
-                                                  "year":  2007
+                                                  "title":  "Robocop",
+                                                  "start":  "2026-09-01T23:29:44.0000000Z",
+                                                  "stop":  "2026-09-02T01:12:31.0000000Z",
+                                                  "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
+                                                  "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
+                                                  "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
+                                                  "year":  1987
                                               },
                                "upNext":  {
-                                              "title":  "Robocop",
-                                              "start":  "2026-09-01T23:29:44.0000000Z",
-                                              "stop":  "2026-09-02T01:12:31.0000000Z",
-                                              "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
-                                              "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
-                                              "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
-                                              "year":  1987
+                                              "title":  "ROBOCOP 2",
+                                              "start":  "2026-09-02T01:12:31.0000000Z",
+                                              "stop":  "2026-09-02T03:09:10.0000000Z",
+                                              "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
+                                              "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
+                                              "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
+                                              "year":  1990
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Robocop",
-                                                    "start":  "2026-09-01T23:29:44.0000000Z",
-                                                    "stop":  "2026-09-02T01:12:31.0000000Z",
-                                                    "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
-                                                    "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
-                                                    "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
-                                                    "year":  1987
-                                                },
                                                 {
                                                     "title":  "ROBOCOP 2",
                                                     "start":  "2026-09-02T01:12:31.0000000Z",
