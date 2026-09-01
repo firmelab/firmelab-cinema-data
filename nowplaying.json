@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-01T01:49:04.8450224Z",
+    "updated":  "2026-09-01T01:50:04.8714499Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -65,33 +65,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Dawn of the Dead",
-                                                  "start":  "2026-08-31T23:55:26.0000000Z",
-                                                  "stop":  "2026-09-01T01:49:49.0000000Z",
-                                                  "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
-                                                  "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
-                                                  "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
-                                                  "year":  2004
+                                                  "title":  "Boogeyman",
+                                                  "start":  "2026-09-01T01:49:49.0000000Z",
+                                                  "stop":  "2026-09-01T03:29:11.0000000Z",
+                                                  "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
+                                                  "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
+                                                  "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
+                                                  "year":  2005
                                               },
                                "upNext":  {
-                                              "title":  "Boogeyman",
-                                              "start":  "2026-09-01T01:49:49.0000000Z",
-                                              "stop":  "2026-09-01T03:29:11.0000000Z",
-                                              "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
-                                              "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
-                                              "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
-                                              "year":  2005
+                                              "title":  "World War Z",
+                                              "start":  "2026-09-01T03:29:11.0000000Z",
+                                              "stop":  "2026-09-01T05:42:48.0000000Z",
+                                              "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
+                                              "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
+                                              "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+                                              "year":  2013
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Boogeyman",
-                                                    "start":  "2026-09-01T01:49:49.0000000Z",
-                                                    "stop":  "2026-09-01T03:29:11.0000000Z",
-                                                    "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
-                                                    "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
-                                                    "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
-                                                    "year":  2005
-                                                },
                                                 {
                                                     "title":  "World War Z",
                                                     "start":  "2026-09-01T03:29:11.0000000Z",
