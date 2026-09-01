@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-01T11:09:05.3729088Z",
+    "updated":  "2026-09-01T11:10:05.3413420Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Blade 2",
-                                                  "start":  "2026-09-01T09:12:46.0000000Z",
-                                                  "stop":  "2026-09-01T11:09:48.0000000Z",
+                                                  "title":  "F1_t00",
+                                                  "start":  "2026-09-01T11:09:48.0000000Z",
+                                                  "stop":  "2026-09-01T12:56:22.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "F1_t00",
-                                              "start":  "2026-09-01T11:09:48.0000000Z",
-                                              "stop":  "2026-09-01T12:56:22.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Dusk Till Dawn",
+                                              "start":  "2026-09-01T12:56:22.0000000Z",
+                                              "stop":  "2026-09-01T14:44:23.0000000Z",
+                                              "itemId":  "648811d2182191a63ce32eb861ad9020",
+                                              "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
+                                              "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
+                                              "year":  1996
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "F1_t00",
-                                                    "start":  "2026-09-01T11:09:48.0000000Z",
-                                                    "stop":  "2026-09-01T12:56:22.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Dusk Till Dawn",
                                                     "start":  "2026-09-01T12:56:22.0000000Z",
