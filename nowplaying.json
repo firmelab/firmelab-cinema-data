@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-01T07:28:04.9098559Z",
+    "updated":  "2026-09-01T07:29:04.7806359Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -92,33 +92,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Resident Evil",
-                                                  "start":  "2026-09-01T05:42:48.0000000Z",
-                                                  "stop":  "2026-09-01T07:28:30.0000000Z",
-                                                  "itemId":  "760d913661074a3a3f5a58738842a2f8",
-                                                  "poster":  "http://127.0.0.1:8096/Items/760d913661074a3a3f5a58738842a2f8/Images/Primary",
-                                                  "description":  "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
-                                                  "year":  2002
+                                                  "title":  "D1_t00",
+                                                  "start":  "2026-09-01T07:28:30.0000000Z",
+                                                  "stop":  "2026-09-01T09:45:18.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "D1_t00",
-                                              "start":  "2026-09-01T07:28:30.0000000Z",
-                                              "stop":  "2026-09-01T09:45:18.0000000Z",
+                                              "title":  "Underworld Evolution",
+                                              "start":  "2026-09-01T09:45:18.0000000Z",
+                                              "stop":  "2026-09-01T11:47:34.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "D1_t00",
-                                                    "start":  "2026-09-01T07:28:30.0000000Z",
-                                                    "stop":  "2026-09-01T09:45:18.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Underworld Evolution",
                                                     "start":  "2026-09-01T09:45:18.0000000Z",
