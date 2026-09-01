@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-01T23:53:05.4805199Z",
+    "updated":  "2026-09-01T23:54:05.5047120Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -473,33 +473,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Dancing Cobra",
-                                                  "start":  "2026-09-01T23:46:01.0000000Z",
-                                                  "stop":  "2026-09-01T23:53:44.0000000Z",
-                                                  "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                                  "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
+                                                  "title":  "Duende",
+                                                  "start":  "2026-09-01T23:48:05.0000000Z",
+                                                  "stop":  "2026-09-01T23:55:18.0000000Z",
+                                                  "itemId":  "80d6feb8f0c835e935a80db3275c5412",
+                                                  "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Never 3Nding",
-                                              "start":  "2026-09-01T23:53:43.0000000Z",
-                                              "stop":  "2026-09-01T23:55:55.0000000Z",
-                                              "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
-                                              "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
+                                              "title":  "Ninja Now",
+                                              "start":  "2026-09-01T23:55:55.0000000Z",
+                                              "stop":  "2026-09-01T23:56:38.0000000Z",
+                                              "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
+                                              "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Never 3Nding",
-                                                    "start":  "2026-09-01T23:53:43.0000000Z",
-                                                    "stop":  "2026-09-01T23:55:55.0000000Z",
-                                                    "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
-                                                    "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-09-01T23:55:55.0000000Z",
@@ -560,6 +551,15 @@
                                                     "stop":  "2026-09-02T00:07:08.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Chingadasos",
+                                                    "start":  "2026-09-02T00:07:08.0000000Z",
+                                                    "stop":  "2026-09-02T00:11:32.0000000Z",
+                                                    "itemId":  "8988d98fd90679aab5aff5b786344b1c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
