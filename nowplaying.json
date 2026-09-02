@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-02T08:16:05.3137864Z",
+    "updated":  "2026-09-02T08:17:05.3236262Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,33 +101,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "D1_t00",
-                                                  "start":  "2026-09-02T06:01:24.0000000Z",
-                                                  "stop":  "2026-09-02T08:16:26.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Land of the Dead",
+                                                  "start":  "2026-09-02T08:16:26.0000000Z",
+                                                  "stop":  "2026-09-02T10:00:16.0000000Z",
+                                                  "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
+                                                  "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
+                                                  "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
+                                                  "year":  2005
                                               },
                                "upNext":  {
-                                              "title":  "Land of the Dead",
-                                              "start":  "2026-09-02T08:16:26.0000000Z",
-                                              "stop":  "2026-09-02T10:00:16.0000000Z",
-                                              "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
-                                              "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
-                                              "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
-                                              "year":  2005
+                                              "title":  "World War Z",
+                                              "start":  "2026-09-02T10:00:16.0000000Z",
+                                              "stop":  "2026-09-02T12:06:46.0000000Z",
+                                              "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
+                                              "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
+                                              "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+                                              "year":  2013
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Land of the Dead",
-                                                    "start":  "2026-09-02T08:16:26.0000000Z",
-                                                    "stop":  "2026-09-02T10:00:16.0000000Z",
-                                                    "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
-                                                    "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
-                                                    "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
-                                                    "year":  2005
-                                                },
                                                 {
                                                     "title":  "World War Z",
                                                     "start":  "2026-09-02T10:00:16.0000000Z",
@@ -186,6 +177,15 @@
                                                     "title":  "Resident Evil- Apocalypse",
                                                     "start":  "2026-09-02T22:15:44.0000000Z",
                                                     "stop":  "2026-09-02T23:53:39.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Underworld Evolution",
+                                                    "start":  "2026-09-02T23:53:39.0000000Z",
+                                                    "stop":  "2026-09-03T01:44:08.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -581,33 +581,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "BloodJoke",
-                                                  "start":  "2026-09-02T07:37:47.0000000Z",
-                                                  "stop":  "2026-09-02T08:16:36.0000000Z",
-                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                  "title":  "Dancing Cobra",
+                                                  "start":  "2026-09-02T07:47:06.0000000Z",
+                                                  "stop":  "2026-09-02T08:31:30.0000000Z",
+                                                  "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                                  "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "COKCE6139",
-                                              "start":  "2026-09-02T08:16:34.0000000Z",
-                                              "stop":  "2026-09-02T08:17:35.0000000Z",
-                                              "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
-                                              "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
+                                              "title":  "MrPayo",
+                                              "start":  "2026-09-02T08:18:45.0000000Z",
+                                              "stop":  "2026-09-02T08:48:45.0000000Z",
+                                              "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
+                                              "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "COKCE6139",
-                                                    "start":  "2026-09-02T08:16:34.0000000Z",
-                                                    "stop":  "2026-09-02T08:17:35.0000000Z",
-                                                    "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "MrPayo",
                                                     "start":  "2026-09-02T08:18:45.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-09-02T08:34:04.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "JamminG",
+                                                    "start":  "2026-09-02T08:34:36.0000000Z",
+                                                    "stop":  "2026-09-02T08:38:28.0000000Z",
+                                                    "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                                    "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
