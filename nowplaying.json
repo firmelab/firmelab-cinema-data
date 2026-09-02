@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-02T12:52:05.6695122Z",
+    "updated":  "2026-09-02T12:53:05.4284908Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Critters 3",
-                                                  "start":  "2026-09-02T11:27:30.0000000Z",
-                                                  "stop":  "2026-09-02T12:52:48.0000000Z",
-                                                  "itemId":  "f9168c1a730f0cc71fd31a7f22c4663f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f9168c1a730f0cc71fd31a7f22c4663f/Images/Primary",
-                                                  "description":  "As fanged, furious furballs viciously invade an L.A. apartment building and sink their teeth into the low-rent tenants, Josh leads the battle to beat back the conniving critters and save the planet.",
-                                                  "year":  1991
+                                                  "title":  "FRIGHT NIGHT",
+                                                  "start":  "2026-09-02T12:52:48.0000000Z",
+                                                  "stop":  "2026-09-02T14:39:30.0000000Z",
+                                                  "itemId":  "8bda9bd3955398694e4a57e90f6c4904",
+                                                  "poster":  "http://127.0.0.1:8096/Items/8bda9bd3955398694e4a57e90f6c4904/Images/Primary",
+                                                  "description":  "Charley Brewster, a high school student, accidentally discovers the true and creepy nature of Jerry Dandrige, his dashing and enigmatic new neighbor; but no one seems willing to believe him.",
+                                                  "year":  1985
                                               },
                                "upNext":  {
-                                              "title":  "FRIGHT NIGHT",
-                                              "start":  "2026-09-02T12:52:48.0000000Z",
-                                              "stop":  "2026-09-02T14:39:30.0000000Z",
-                                              "itemId":  "8bda9bd3955398694e4a57e90f6c4904",
-                                              "poster":  "http://127.0.0.1:8096/Items/8bda9bd3955398694e4a57e90f6c4904/Images/Primary",
-                                              "description":  "Charley Brewster, a high school student, accidentally discovers the true and creepy nature of Jerry Dandrige, his dashing and enigmatic new neighbor; but no one seems willing to believe him.",
-                                              "year":  1985
+                                              "title":  "Predator",
+                                              "start":  "2026-09-02T14:39:30.0000000Z",
+                                              "stop":  "2026-09-02T16:26:15.0000000Z",
+                                              "itemId":  "9745bbd80aedfd3750130547f37af704",
+                                              "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
+                                              "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+                                              "year":  1987
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "FRIGHT NIGHT",
-                                                    "start":  "2026-09-02T12:52:48.0000000Z",
-                                                    "stop":  "2026-09-02T14:39:30.0000000Z",
-                                                    "itemId":  "8bda9bd3955398694e4a57e90f6c4904",
-                                                    "poster":  "http://127.0.0.1:8096/Items/8bda9bd3955398694e4a57e90f6c4904/Images/Primary",
-                                                    "description":  "Charley Brewster, a high school student, accidentally discovers the true and creepy nature of Jerry Dandrige, his dashing and enigmatic new neighbor; but no one seems willing to believe him.",
-                                                    "year":  1985
-                                                },
                                                 {
                                                     "title":  "Predator",
                                                     "start":  "2026-09-02T14:39:30.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
                                                     "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
                                                     "year":  1995
+                                                },
+                                                {
+                                                    "title":  "E1_t00",
+                                                    "start":  "2026-09-03T03:30:58.0000000Z",
+                                                    "stop":  "2026-09-03T05:10:14.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
@@ -293,33 +293,24 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "AnchorMan",
-                                                  "start":  "2026-09-02T11:15:05.0000000Z",
-                                                  "stop":  "2026-09-02T12:52:28.0000000Z",
-                                                  "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
-                                                  "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
-                                                  "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
-                                                  "year":  2004
+                                                  "title":  "Duplex",
+                                                  "start":  "2026-09-02T12:52:28.0000000Z",
+                                                  "stop":  "2026-09-02T14:21:41.0000000Z",
+                                                  "itemId":  "e2340e07092b6de7376760916297a934",
+                                                  "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
+                                                  "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
+                                                  "year":  2003
                                               },
                                "upNext":  {
-                                              "title":  "Duplex",
-                                              "start":  "2026-09-02T12:52:28.0000000Z",
-                                              "stop":  "2026-09-02T14:21:41.0000000Z",
-                                              "itemId":  "e2340e07092b6de7376760916297a934",
-                                              "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
-                                              "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
-                                              "year":  2003
+                                              "title":  "UP IN SMOKE",
+                                              "start":  "2026-09-02T14:21:41.0000000Z",
+                                              "stop":  "2026-09-02T15:47:31.0000000Z",
+                                              "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
+                                              "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
+                                              "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
+                                              "year":  1978
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Duplex",
-                                                    "start":  "2026-09-02T12:52:28.0000000Z",
-                                                    "stop":  "2026-09-02T14:21:41.0000000Z",
-                                                    "itemId":  "e2340e07092b6de7376760916297a934",
-                                                    "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
-                                                    "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
-                                                    "year":  2003
-                                                },
                                                 {
                                                     "title":  "UP IN SMOKE",
                                                     "start":  "2026-09-02T14:21:41.0000000Z",
@@ -382,6 +373,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
                                                     "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
                                                     "year":  1978
+                                                },
+                                                {
+                                                    "title":  "HALF BAKED",
+                                                    "start":  "2026-09-03T00:52:58.0000000Z",
+                                                    "stop":  "2026-09-03T02:15:04.0000000Z",
+                                                    "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
+                                                    "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
+                                                    "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
+                                                    "year":  1998
                                                 }
                                             ]
                            },
