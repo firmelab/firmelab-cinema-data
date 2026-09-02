@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-02T04:53:06.4084391Z",
+    "updated":  "2026-09-02T04:54:07.3713311Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -152,33 +152,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "ROBOCOP 3",
-                                                  "start":  "2026-09-02T03:09:10.0000000Z",
-                                                  "stop":  "2026-09-02T04:54:01.0000000Z",
-                                                  "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
-                                                  "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
-                                                  "year":  1993
+                                                  "title":  "Total Recall",
+                                                  "start":  "2026-09-02T04:54:01.0000000Z",
+                                                  "stop":  "2026-09-02T06:47:21.0000000Z",
+                                                  "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
+                                                  "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
+                                                  "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
+                                                  "year":  1990
                                               },
                                "upNext":  {
-                                              "title":  "Total Recall",
-                                              "start":  "2026-09-02T04:54:01.0000000Z",
-                                              "stop":  "2026-09-02T06:47:21.0000000Z",
-                                              "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
-                                              "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
-                                              "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
-                                              "year":  1990
+                                              "title":  "BATMAN BEGINS",
+                                              "start":  "2026-09-02T06:47:21.0000000Z",
+                                              "stop":  "2026-09-02T09:07:23.0000000Z",
+                                              "itemId":  "40cf44019306b29674462340007b5e1a",
+                                              "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
+                                              "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+                                              "year":  2005
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Total Recall",
-                                                    "start":  "2026-09-02T04:54:01.0000000Z",
-                                                    "stop":  "2026-09-02T06:47:21.0000000Z",
-                                                    "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
-                                                    "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
-                                                    "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
-                                                    "year":  1990
-                                                },
                                                 {
                                                     "title":  "BATMAN BEGINS",
                                                     "start":  "2026-09-02T06:47:21.0000000Z",
@@ -463,34 +454,17 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "Dancing Cobra",
-                                                  "start":  "2026-09-02T04:52:10.0000000Z",
-                                                  "stop":  "2026-09-02T04:53:16.0000000Z",
-                                                  "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                                  "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
-                                                  "description":  null,
-                                                  "year":  null
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
-                                              "title":  "DnBaPCsht",
-                                              "start":  "2026-09-02T04:53:16.0000000Z",
-                                              "stop":  "2026-09-02T04:54:02.0000000Z",
-                                              "itemId":  "d2296bca99a831548bbada0bb3bac719",
-                                              "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
+                                              "title":  "Duende",
+                                              "start":  "2026-09-02T04:54:14.0000000Z",
+                                              "stop":  "2026-09-02T04:55:23.0000000Z",
+                                              "itemId":  "80d6feb8f0c835e935a80db3275c5412",
+                                              "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "DnBaPCsht",
-                                                    "start":  "2026-09-02T04:53:16.0000000Z",
-                                                    "stop":  "2026-09-02T04:54:02.0000000Z",
-                                                    "itemId":  "d2296bca99a831548bbada0bb3bac719",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-09-02T04:54:14.0000000Z",
@@ -551,6 +525,15 @@
                                                     "stop":  "2026-09-02T05:05:52.0000000Z",
                                                     "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
                                                     "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "After H0uRs",
+                                                    "start":  "2026-09-02T05:05:52.0000000Z",
+                                                    "stop":  "2026-09-02T05:06:41.0000000Z",
+                                                    "itemId":  "150bbae732cd647eeed3060cd67b032f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
