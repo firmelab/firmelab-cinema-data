@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-02T01:59:07.4886382Z",
+    "updated":  "2026-09-02T02:00:06.3102551Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -409,26 +409,25 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  null,
+                               "nowPlaying":  {
+                                                  "title":  "Duende",
+                                                  "start":  "2026-09-02T01:59:17.0000000Z",
+                                                  "stop":  "2026-09-02T02:00:26.0000000Z",
+                                                  "itemId":  "80d6feb8f0c835e935a80db3275c5412",
+                                                  "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                                  "description":  null,
+                                                  "year":  null
+                                              },
                                "upNext":  {
-                                              "title":  "Duende",
-                                              "start":  "2026-09-02T01:59:17.0000000Z",
-                                              "stop":  "2026-09-02T02:00:26.0000000Z",
-                                              "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                              "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                              "title":  "JamminG",
+                                              "start":  "2026-09-02T02:00:59.0000000Z",
+                                              "stop":  "2026-09-02T02:04:50.0000000Z",
+                                              "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                              "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Duende",
-                                                    "start":  "2026-09-02T01:59:17.0000000Z",
-                                                    "stop":  "2026-09-02T02:00:26.0000000Z",
-                                                    "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                                    "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-09-02T02:00:59.0000000Z",
@@ -491,6 +490,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Ass Kicker Bruce",
+                                                    "start":  "2026-09-02T02:11:44.0000000Z",
+                                                    "stop":  "2026-09-02T02:17:40.0000000Z",
+                                                    "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
