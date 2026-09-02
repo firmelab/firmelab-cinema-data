@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-02T18:10:05.5865895Z",
+    "updated":  "2026-09-02T18:11:05.6134490Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Who Framed Roger Rabbit",
-                                                  "start":  "2026-09-02T16:26:15.0000000Z",
-                                                  "stop":  "2026-09-02T18:10:11.0000000Z",
-                                                  "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
-                                                  "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
-                                                  "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+                                                  "title":  "Seventh Sign",
+                                                  "start":  "2026-09-02T18:10:11.0000000Z",
+                                                  "stop":  "2026-09-02T19:47:21.0000000Z",
+                                                  "itemId":  "ee279419a64df59247370e38f4f0deea",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ee279419a64df59247370e38f4f0deea/Images/Primary",
+                                                  "description":  "Abby is a pregnant woman with a curious new boarder in the apartment over her garage. Turns out he\u0027s heaven-sent and is speeding along the Apocalypse by bloodying rivers, egging on plagues and following scripture word for word.",
                                                   "year":  1988
                                               },
                                "upNext":  {
-                                              "title":  "Seventh Sign",
-                                              "start":  "2026-09-02T18:10:11.0000000Z",
-                                              "stop":  "2026-09-02T19:47:21.0000000Z",
-                                              "itemId":  "ee279419a64df59247370e38f4f0deea",
-                                              "poster":  "http://127.0.0.1:8096/Items/ee279419a64df59247370e38f4f0deea/Images/Primary",
-                                              "description":  "Abby is a pregnant woman with a curious new boarder in the apartment over her garage. Turns out he\u0027s heaven-sent and is speeding along the Apocalypse by bloodying rivers, egging on plagues and following scripture word for word.",
-                                              "year":  1988
+                                              "title":  "Conan The Barbarian",
+                                              "start":  "2026-09-02T19:47:21.0000000Z",
+                                              "stop":  "2026-09-02T21:57:54.0000000Z",
+                                              "itemId":  "d0a933c7f9688726a8f9a30f309399ad",
+                                              "poster":  "http://127.0.0.1:8096/Items/d0a933c7f9688726a8f9a30f309399ad/Images/Primary",
+                                              "description":  "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
+                                              "year":  1982
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Seventh Sign",
-                                                    "start":  "2026-09-02T18:10:11.0000000Z",
-                                                    "stop":  "2026-09-02T19:47:21.0000000Z",
-                                                    "itemId":  "ee279419a64df59247370e38f4f0deea",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ee279419a64df59247370e38f4f0deea/Images/Primary",
-                                                    "description":  "Abby is a pregnant woman with a curious new boarder in the apartment over her garage. Turns out he\u0027s heaven-sent and is speeding along the Apocalypse by bloodying rivers, egging on plagues and following scripture word for word.",
-                                                    "year":  1988
-                                                },
                                                 {
                                                     "title":  "Conan The Barbarian",
                                                     "start":  "2026-09-02T19:47:21.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/aaf87b319e700aef20429fed5429cdee/Images/Primary",
                                                     "description":  "A \"rockumentary\", covering the rise to fame of MC Gusto, Stab Master Arson, and Dead Mike: members of the rap group \"CB4\". We soon learn that these three are not what they seem and don\u0027t appear to know as much about rap music as they claim... but a lack of musical ability in an artist never hurts sales, does it? You\u0027ve just got to play the part of a rap star...",
                                                     "year":  1993
+                                                },
+                                                {
+                                                    "title":  "Manhunter",
+                                                    "start":  "2026-09-03T08:13:23.0000000Z",
+                                                    "stop":  "2026-09-03T10:15:14.0000000Z",
+                                                    "itemId":  "f6b5fc1a94fb32ecc9a9bff1ff06a6a4",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f6b5fc1a94fb32ecc9a9bff1ff06a6a4/Images/Primary",
+                                                    "description":  "FBI Agent Will Graham, retired after catching notorious cannibal Hannibal Lecter, returns to duty to engage in a risky cat-and-mouse game with Lecter to capture a new killer.",
+                                                    "year":  1986
                                                 }
                                             ]
                            },
@@ -581,33 +581,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "SSBI4649",
-                                                  "start":  "2026-09-02T18:10:01.0000000Z",
-                                                  "stop":  "2026-09-02T18:10:50.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
+                                                  "title":  "Arnold Dynamite",
+                                                  "start":  "2026-09-02T18:10:50.0000000Z",
+                                                  "stop":  "2026-09-02T18:12:18.0000000Z",
+                                                  "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
+                                                  "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Arnold Dynamite",
-                                              "start":  "2026-09-02T18:10:50.0000000Z",
-                                              "stop":  "2026-09-02T18:12:18.0000000Z",
-                                              "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
-                                              "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
+                                              "title":  "0Ld Sc00L",
+                                              "start":  "2026-09-02T18:12:18.0000000Z",
+                                              "stop":  "2026-09-02T18:13:06.0000000Z",
+                                              "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                              "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Arnold Dynamite",
-                                                    "start":  "2026-09-02T18:10:50.0000000Z",
-                                                    "stop":  "2026-09-02T18:12:18.0000000Z",
-                                                    "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "0Ld Sc00L",
                                                     "start":  "2026-09-02T18:12:18.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-09-02T18:23:52.0000000Z",
                                                     "itemId":  "1315943017e226076a7899408d36dec5",
                                                     "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Ricardo \u0026 Mocoso",
+                                                    "start":  "2026-09-02T18:23:52.0000000Z",
+                                                    "stop":  "2026-09-02T18:26:07.0000000Z",
+                                                    "itemId":  "0e268bdc592953760cc985e16953d93d",
+                                                    "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
