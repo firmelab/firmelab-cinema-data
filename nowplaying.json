@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-02T01:03:05.6806392Z",
+    "updated":  "2026-09-02T01:04:07.1049866Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -74,33 +74,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Underworld Evolution",
-                                                  "start":  "2026-09-01T23:14:06.0000000Z",
-                                                  "stop":  "2026-09-02T01:03:55.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Wrong Turn",
+                                                  "start":  "2026-09-02T01:03:55.0000000Z",
+                                                  "stop":  "2026-09-02T02:31:33.0000000Z",
+                                                  "itemId":  "58d332deb67464546d571f7fda1cd63c",
+                                                  "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
+                                                  "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
+                                                  "year":  2003
                                               },
                                "upNext":  {
-                                              "title":  "Wrong Turn",
-                                              "start":  "2026-09-02T01:03:55.0000000Z",
-                                              "stop":  "2026-09-02T02:31:33.0000000Z",
-                                              "itemId":  "58d332deb67464546d571f7fda1cd63c",
-                                              "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
-                                              "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
-                                              "year":  2003
+                                              "title":  "Resident Evil- Apocalypse",
+                                              "start":  "2026-09-02T02:31:33.0000000Z",
+                                              "stop":  "2026-09-02T04:08:46.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Wrong Turn",
-                                                    "start":  "2026-09-02T01:03:55.0000000Z",
-                                                    "stop":  "2026-09-02T02:31:33.0000000Z",
-                                                    "itemId":  "58d332deb67464546d571f7fda1cd63c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
-                                                    "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
-                                                    "year":  2003
-                                                },
                                                 {
                                                     "title":  "Resident Evil- Apocalypse",
                                                     "start":  "2026-09-02T02:31:33.0000000Z",
@@ -436,15 +427,7 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "Oz",
-                                                  "start":  "2026-09-02T01:02:29.0000000Z",
-                                                  "stop":  "2026-09-02T01:03:42.0000000Z",
-                                                  "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
-                                                  "description":  null,
-                                                  "year":  2026
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
                                               "title":  "BloodJoke",
                                               "start":  "2026-09-02T01:04:10.0000000Z",
