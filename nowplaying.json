@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-02T03:09:06.0664143Z",
+    "updated":  "2026-09-02T03:10:05.8222638Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -170,33 +170,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "ROBOCOP 2",
-                                                  "start":  "2026-09-02T01:12:31.0000000Z",
-                                                  "stop":  "2026-09-02T03:09:10.0000000Z",
-                                                  "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
-                                                  "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
-                                                  "year":  1990
+                                                  "title":  "ROBOCOP 3",
+                                                  "start":  "2026-09-02T03:09:10.0000000Z",
+                                                  "stop":  "2026-09-02T04:54:01.0000000Z",
+                                                  "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
+                                                  "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
+                                                  "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
+                                                  "year":  1993
                                               },
                                "upNext":  {
-                                              "title":  "ROBOCOP 3",
-                                              "start":  "2026-09-02T03:09:10.0000000Z",
-                                              "stop":  "2026-09-02T04:54:01.0000000Z",
-                                              "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
-                                              "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
-                                              "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
-                                              "year":  1993
+                                              "title":  "Total Recall",
+                                              "start":  "2026-09-02T04:54:01.0000000Z",
+                                              "stop":  "2026-09-02T06:47:21.0000000Z",
+                                              "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
+                                              "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
+                                              "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
+                                              "year":  1990
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "ROBOCOP 3",
-                                                    "start":  "2026-09-02T03:09:10.0000000Z",
-                                                    "stop":  "2026-09-02T04:54:01.0000000Z",
-                                                    "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
-                                                    "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
-                                                    "year":  1993
-                                                },
                                                 {
                                                     "title":  "Total Recall",
                                                     "start":  "2026-09-02T04:54:01.0000000Z",
