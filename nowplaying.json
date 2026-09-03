@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-03T03:38:05.8298358Z",
+    "updated":  "2026-09-03T03:39:05.7902145Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -197,33 +197,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Sherlock Holmes",
-                                                  "start":  "2026-09-03T01:30:29.0000000Z",
-                                                  "stop":  "2026-09-03T03:38:58.0000000Z",
-                                                  "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
-                                                  "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
-                                                  "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
-                                                  "year":  2009
+                                                  "title":  "Fast N Furious",
+                                                  "start":  "2026-09-03T03:38:58.0000000Z",
+                                                  "stop":  "2026-09-03T05:25:54.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Fast N Furious",
-                                              "start":  "2026-09-03T03:38:58.0000000Z",
-                                              "stop":  "2026-09-03T05:25:54.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "John Wick",
+                                              "start":  "2026-09-03T05:25:54.0000000Z",
+                                              "stop":  "2026-09-03T07:07:07.0000000Z",
+                                              "itemId":  "84b70d75a3d957b57b02cf83796504a8",
+                                              "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
+                                              "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+                                              "year":  2014
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Fast N Furious",
-                                                    "start":  "2026-09-03T03:38:58.0000000Z",
-                                                    "stop":  "2026-09-03T05:25:54.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "John Wick",
                                                     "start":  "2026-09-03T05:25:54.0000000Z",
@@ -286,6 +277,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
                                                     "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
                                                     "year":  2005
+                                                },
+                                                {
+                                                    "title":  "Black Hawk Down",
+                                                    "start":  "2026-09-03T18:38:18.0000000Z",
+                                                    "stop":  "2026-09-03T21:02:39.0000000Z",
+                                                    "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
+                                                    "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+                                                    "year":  2001
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "SSBI4649",
-                                              "start":  "2026-09-03T03:38:35.0000000Z",
-                                              "stop":  "2026-09-03T03:39:24.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
+                                              "title":  "Arnold Dynamite",
+                                              "start":  "2026-09-03T03:39:24.0000000Z",
+                                              "stop":  "2026-09-03T03:40:52.0000000Z",
+                                              "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
+                                              "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                               "description":  null,
-                                              "year":  null
+                                              "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "SSBI4649",
-                                                    "start":  "2026-09-03T03:38:35.0000000Z",
-                                                    "stop":  "2026-09-03T03:39:24.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-09-03T03:39:24.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-09-03T04:31:09.0000000Z",
                                                     "itemId":  "56c94066e018711311e81d6a3f6cc139",
                                                     "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "T2",
+                                                    "start":  "2026-09-03T03:51:54.0000000Z",
+                                                    "stop":  "2026-09-03T03:52:26.0000000Z",
+                                                    "itemId":  "1315943017e226076a7899408d36dec5",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
