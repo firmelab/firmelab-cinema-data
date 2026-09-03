@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-03T03:30:05.6816184Z",
+    "updated":  "2026-09-03T03:31:05.6838818Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Get Shorty",
-                                                  "start":  "2026-09-03T01:45:59.0000000Z",
-                                                  "stop":  "2026-09-03T03:30:58.0000000Z",
-                                                  "itemId":  "746531a34dc012efd97b57703e1903af",
-                                                  "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
-                                                  "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
-                                                  "year":  1995
+                                                  "title":  "E1_t00",
+                                                  "start":  "2026-09-03T03:30:58.0000000Z",
+                                                  "stop":  "2026-09-03T05:10:14.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "E1_t00",
-                                              "start":  "2026-09-03T03:30:58.0000000Z",
-                                              "stop":  "2026-09-03T05:10:14.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Critters 4",
+                                              "start":  "2026-09-03T05:10:14.0000000Z",
+                                              "stop":  "2026-09-03T06:44:53.0000000Z",
+                                              "itemId":  "9236028cd5b40f7dab68ae6983570831",
+                                              "poster":  "http://127.0.0.1:8096/Items/9236028cd5b40f7dab68ae6983570831/Images/Primary",
+                                              "description":  "A super strain of genetically engineered mutants are designed to take over the universe, hungry to conquer the galaxy, with an appetite for mankind.",
+                                              "year":  1992
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "E1_t00",
-                                                    "start":  "2026-09-03T03:30:58.0000000Z",
-                                                    "stop":  "2026-09-03T05:10:14.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Critters 4",
                                                     "start":  "2026-09-03T05:10:14.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/45595e0d5e2d1d1e536514ebf9b1deaf/Images/Primary",
                                                     "description":  "A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.",
                                                     "year":  2019
+                                                },
+                                                {
+                                                    "title":  "BATMAN BEGINS",
+                                                    "start":  "2026-09-03T20:12:54.0000000Z",
+                                                    "stop":  "2026-09-03T22:33:05.0000000Z",
+                                                    "itemId":  "40cf44019306b29674462340007b5e1a",
+                                                    "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
+                                                    "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+                                                    "year":  2005
                                                 }
                                             ]
                            },
