@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-03T23:01:05.8687989Z",
+    "updated":  "2026-09-03T23:02:05.8880741Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -7,7 +7,7 @@
                                "nowPlaying":  {
                                                   "title":  "Boogeyman",
                                                   "start":  "2026-09-03T22:33:05.0000000Z",
-                                                  "stop":  "2026-09-04T00:02:15.0000000Z",
+                                                  "stop":  "2026-09-04T00:02:16.0000000Z",
                                                   "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
                                                   "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
                                                   "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
@@ -35,7 +35,7 @@
                                                 {
                                                     "title":  "Who Framed Roger Rabbit",
                                                     "start":  "2026-09-04T01:28:08.0000000Z",
-                                                    "stop":  "2026-09-04T03:12:18.0000000Z",
+                                                    "stop":  "2026-09-04T03:12:16.0000000Z",
                                                     "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
                                                     "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
                                                     "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
@@ -71,7 +71,7 @@
                                                 {
                                                     "title":  "Reservor Dogs",
                                                     "start":  "2026-09-04T10:00:33.0000000Z",
-                                                    "stop":  "2026-09-04T11:40:02.0000000Z",
+                                                    "stop":  "2026-09-04T11:40:01.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -89,7 +89,7 @@
                                                 {
                                                     "title":  "Jacky Brown",
                                                     "start":  "2026-09-04T13:24:50.0000000Z",
-                                                    "stop":  "2026-09-04T15:59:33.0000000Z",
+                                                    "stop":  "2026-09-04T15:59:34.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -583,31 +583,22 @@
                                "nowPlaying":  {
                                                   "title":  "BloodJoke",
                                                   "start":  "2026-09-03T22:59:31.0000000Z",
-                                                  "stop":  "2026-09-03T23:01:06.0000000Z",
+                                                  "stop":  "2026-09-03T23:09:43.0000000Z",
                                                   "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
                                                   "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Carrito",
-                                              "start":  "2026-09-03T23:01:11.0000000Z",
-                                              "stop":  "2026-09-03T23:08:50.0000000Z",
-                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                              "title":  "Dancing Cobra",
+                                              "start":  "2026-09-03T23:08:50.0000000Z",
+                                              "stop":  "2026-09-03T23:09:56.0000000Z",
+                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Carrito",
-                                                    "start":  "2026-09-03T23:01:11.0000000Z",
-                                                    "stop":  "2026-09-03T23:08:50.0000000Z",
-                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-09-03T23:08:50.0000000Z",
@@ -620,7 +611,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-09-03T23:09:56.0000000Z",
-                                                    "stop":  "2026-09-03T23:10:42.0000000Z",
+                                                    "stop":  "2026-09-03T23:10:54.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -629,7 +620,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-09-03T23:10:54.0000000Z",
-                                                    "stop":  "2026-09-03T23:12:03.0000000Z",
+                                                    "stop":  "2026-09-03T23:31:16.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -638,7 +629,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-09-03T23:12:35.0000000Z",
-                                                    "stop":  "2026-09-03T23:16:27.0000000Z",
+                                                    "stop":  "2026-09-03T23:16:32.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -647,7 +638,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-09-03T23:16:32.0000000Z",
-                                                    "stop":  "2026-09-03T23:18:44.0000000Z",
+                                                    "stop":  "2026-09-03T23:27:17.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -656,7 +647,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-09-03T23:18:44.0000000Z",
-                                                    "stop":  "2026-09-03T23:19:27.0000000Z",
+                                                    "stop":  "2026-09-03T23:27:59.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -665,11 +656,20 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-09-03T23:19:27.0000000Z",
-                                                    "stop":  "2026-09-03T23:20:16.0000000Z",
+                                                    "stop":  "2026-09-03T23:28:48.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Arnold Dynamite",
+                                                    "start":  "2026-09-03T23:20:16.0000000Z",
+                                                    "stop":  "2026-09-03T23:49:03.0000000Z",
+                                                    "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
