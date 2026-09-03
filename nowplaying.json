@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-03T20:55:19.1555825Z",
+    "updated":  "2026-09-03T20:56:06.0466684Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,11 +581,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Dancing Cobra",
-                                                  "start":  "2026-09-03T20:13:53.0000000Z",
-                                                  "stop":  "2026-09-03T20:55:38.0000000Z",
-                                                  "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                                  "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
+                                                  "title":  "DnBaPCsht",
+                                                  "start":  "2026-09-03T20:14:59.0000000Z",
+                                                  "stop":  "2026-09-03T21:03:57.0000000Z",
+                                                  "itemId":  "d2296bca99a831548bbada0bb3bac719",
+                                                  "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
