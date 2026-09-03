@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-03T23:40:05.0832059Z",
+    "updated":  "2026-09-03T23:41:07.2179914Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -590,24 +590,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "MrPayo",
-                                              "start":  "2026-09-03T23:40:28.0000000Z",
-                                              "stop":  "2026-09-03T23:41:34.0000000Z",
-                                              "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
-                                              "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
+                                              "title":  "Oz",
+                                              "start":  "2026-09-03T23:41:34.0000000Z",
+                                              "stop":  "2026-09-04T00:20:28.0000000Z",
+                                              "itemId":  "f332ba1673f9273e5349cd38b640cf51",
+                                              "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                               "description":  null,
-                                              "year":  null
+                                              "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "MrPayo",
-                                                    "start":  "2026-09-03T23:40:28.0000000Z",
-                                                    "stop":  "2026-09-03T23:41:34.0000000Z",
-                                                    "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
-                                                    "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Oz",
                                                     "start":  "2026-09-03T23:41:34.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Never 3Nding",
+                                                    "start":  "2026-09-04T00:00:16.0000000Z",
+                                                    "stop":  "2026-09-04T00:02:28.0000000Z",
+                                                    "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                                    "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
