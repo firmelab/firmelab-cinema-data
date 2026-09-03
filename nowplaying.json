@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-03T05:10:05.3619484Z",
+    "updated":  "2026-09-03T05:11:05.3493069Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "E1_t00",
-                                                  "start":  "2026-09-03T03:30:58.0000000Z",
-                                                  "stop":  "2026-09-03T05:10:14.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Critters 4",
+                                                  "start":  "2026-09-03T05:10:14.0000000Z",
+                                                  "stop":  "2026-09-03T06:44:53.0000000Z",
+                                                  "itemId":  "9236028cd5b40f7dab68ae6983570831",
+                                                  "poster":  "http://127.0.0.1:8096/Items/9236028cd5b40f7dab68ae6983570831/Images/Primary",
+                                                  "description":  "A super strain of genetically engineered mutants are designed to take over the universe, hungry to conquer the galaxy, with an appetite for mankind.",
+                                                  "year":  1992
                                               },
                                "upNext":  {
-                                              "title":  "Critters 4",
-                                              "start":  "2026-09-03T05:10:14.0000000Z",
-                                              "stop":  "2026-09-03T06:44:53.0000000Z",
-                                              "itemId":  "9236028cd5b40f7dab68ae6983570831",
-                                              "poster":  "http://127.0.0.1:8096/Items/9236028cd5b40f7dab68ae6983570831/Images/Primary",
-                                              "description":  "A super strain of genetically engineered mutants are designed to take over the universe, hungry to conquer the galaxy, with an appetite for mankind.",
-                                              "year":  1992
+                                              "title":  "CB4",
+                                              "start":  "2026-09-03T06:44:53.0000000Z",
+                                              "stop":  "2026-09-03T08:13:23.0000000Z",
+                                              "itemId":  "aaf87b319e700aef20429fed5429cdee",
+                                              "poster":  "http://127.0.0.1:8096/Items/aaf87b319e700aef20429fed5429cdee/Images/Primary",
+                                              "description":  "A \"rockumentary\", covering the rise to fame of MC Gusto, Stab Master Arson, and Dead Mike: members of the rap group \"CB4\". We soon learn that these three are not what they seem and don\u0027t appear to know as much about rap music as they claim... but a lack of musical ability in an artist never hurts sales, does it? You\u0027ve just got to play the part of a rap star...",
+                                              "year":  1993
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Critters 4",
-                                                    "start":  "2026-09-03T05:10:14.0000000Z",
-                                                    "stop":  "2026-09-03T06:44:53.0000000Z",
-                                                    "itemId":  "9236028cd5b40f7dab68ae6983570831",
-                                                    "poster":  "http://127.0.0.1:8096/Items/9236028cd5b40f7dab68ae6983570831/Images/Primary",
-                                                    "description":  "A super strain of genetically engineered mutants are designed to take over the universe, hungry to conquer the galaxy, with an appetite for mankind.",
-                                                    "year":  1992
-                                                },
                                                 {
                                                     "title":  "CB4",
                                                     "start":  "2026-09-03T06:44:53.0000000Z",
@@ -93,6 +84,15 @@
                                                     "itemId":  "40cf44019306b29674462340007b5e1a",
                                                     "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
                                                     "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+                                                    "year":  2005
+                                                },
+                                                {
+                                                    "title":  "Boogeyman",
+                                                    "start":  "2026-09-03T22:33:05.0000000Z",
+                                                    "stop":  "2026-09-04T00:02:05.0000000Z",
+                                                    "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
+                                                    "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
+                                                    "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
                                                     "year":  2005
                                                 }
                                             ]
