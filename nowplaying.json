@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-03T20:12:05.6616919Z",
+    "updated":  "2026-09-03T20:13:05.7002760Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Uncut Gems",
-                                                  "start":  "2026-09-03T17:57:35.0000000Z",
-                                                  "stop":  "2026-09-03T20:13:05.0000000Z",
-                                                  "itemId":  "45595e0d5e2d1d1e536514ebf9b1deaf",
-                                                  "poster":  "http://127.0.0.1:8096/Items/45595e0d5e2d1d1e536514ebf9b1deaf/Images/Primary",
-                                                  "description":  "A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.",
-                                                  "year":  2019
+                                                  "title":  "BATMAN BEGINS",
+                                                  "start":  "2026-09-03T20:12:54.0000000Z",
+                                                  "stop":  "2026-09-03T22:33:05.0000000Z",
+                                                  "itemId":  "40cf44019306b29674462340007b5e1a",
+                                                  "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
+                                                  "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+                                                  "year":  2005
                                               },
                                "upNext":  {
-                                              "title":  "BATMAN BEGINS",
-                                              "start":  "2026-09-03T20:12:54.0000000Z",
-                                              "stop":  "2026-09-03T22:33:05.0000000Z",
-                                              "itemId":  "40cf44019306b29674462340007b5e1a",
-                                              "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
-                                              "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+                                              "title":  "Boogeyman",
+                                              "start":  "2026-09-03T22:33:05.0000000Z",
+                                              "stop":  "2026-09-04T00:02:15.0000000Z",
+                                              "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
+                                              "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
+                                              "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
                                               "year":  2005
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "BATMAN BEGINS",
-                                                    "start":  "2026-09-03T20:12:54.0000000Z",
-                                                    "stop":  "2026-09-03T22:33:05.0000000Z",
-                                                    "itemId":  "40cf44019306b29674462340007b5e1a",
-                                                    "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
-                                                    "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
-                                                    "year":  2005
-                                                },
                                                 {
                                                     "title":  "Boogeyman",
                                                     "start":  "2026-09-03T22:33:05.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Get Shorty",
+                                                    "start":  "2026-09-04T11:39:50.0000000Z",
+                                                    "stop":  "2026-09-04T13:24:50.0000000Z",
+                                                    "itemId":  "746531a34dc012efd97b57703e1903af",
+                                                    "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
+                                                    "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
+                                                    "year":  1995
                                                 }
                                             ]
                            },
