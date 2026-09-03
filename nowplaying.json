@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-03T23:19:05.9226578Z",
+    "updated":  "2026-09-03T23:20:05.9360618Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -590,24 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "SSBI4649",
-                                              "start":  "2026-09-03T23:19:27.0000000Z",
-                                              "stop":  "2026-09-03T23:28:48.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
+                                              "title":  "Arnold Dynamite",
+                                              "start":  "2026-09-03T23:20:16.0000000Z",
+                                              "stop":  "2026-09-03T23:49:03.0000000Z",
+                                              "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
+                                              "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                               "description":  null,
-                                              "year":  null
+                                              "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "SSBI4649",
-                                                    "start":  "2026-09-03T23:19:27.0000000Z",
-                                                    "stop":  "2026-09-03T23:28:48.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-09-03T23:20:16.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-09-03T23:32:45.0000000Z",
                                                     "itemId":  "56c94066e018711311e81d6a3f6cc139",
                                                     "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "T2",
+                                                    "start":  "2026-09-03T23:32:45.0000000Z",
+                                                    "stop":  "2026-09-03T23:33:17.0000000Z",
+                                                    "itemId":  "1315943017e226076a7899408d36dec5",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
