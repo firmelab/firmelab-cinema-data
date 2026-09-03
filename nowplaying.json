@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-03T18:55:23.4041513Z",
+    "updated":  "2026-09-03T19:13:10.9432531Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -7,7 +7,7 @@
                                "nowPlaying":  {
                                                   "title":  "Uncut Gems",
                                                   "start":  "2026-09-03T17:57:35.0000000Z",
-                                                  "stop":  "2026-09-03T20:12:54.0000000Z",
+                                                  "stop":  "2026-09-03T20:13:05.0000000Z",
                                                   "itemId":  "45595e0d5e2d1d1e536514ebf9b1deaf",
                                                   "poster":  "http://127.0.0.1:8096/Items/45595e0d5e2d1d1e536514ebf9b1deaf/Images/Primary",
                                                   "description":  "A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.",
@@ -16,7 +16,7 @@
                                "upNext":  {
                                               "title":  "BATMAN BEGINS",
                                               "start":  "2026-09-03T20:12:54.0000000Z",
-                                              "stop":  "2026-09-03T22:33:15.0000000Z",
+                                              "stop":  "2026-09-03T22:33:05.0000000Z",
                                               "itemId":  "40cf44019306b29674462340007b5e1a",
                                               "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
                                               "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
@@ -26,7 +26,7 @@
                                                 {
                                                     "title":  "BATMAN BEGINS",
                                                     "start":  "2026-09-03T20:12:54.0000000Z",
-                                                    "stop":  "2026-09-03T22:33:15.0000000Z",
+                                                    "stop":  "2026-09-03T22:33:05.0000000Z",
                                                     "itemId":  "40cf44019306b29674462340007b5e1a",
                                                     "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
                                                     "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
@@ -35,7 +35,7 @@
                                                 {
                                                     "title":  "Boogeyman",
                                                     "start":  "2026-09-03T22:33:05.0000000Z",
-                                                    "stop":  "2026-09-04T00:02:05.0000000Z",
+                                                    "stop":  "2026-09-04T00:02:15.0000000Z",
                                                     "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
                                                     "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
                                                     "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
@@ -44,7 +44,7 @@
                                                 {
                                                     "title":  "Critters",
                                                     "start":  "2026-09-04T00:02:05.0000000Z",
-                                                    "stop":  "2026-09-04T01:28:20.0000000Z",
+                                                    "stop":  "2026-09-04T01:28:08.0000000Z",
                                                     "itemId":  "54493e812aba3ee1edef65108ed95c05",
                                                     "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
                                                     "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
@@ -53,7 +53,7 @@
                                                 {
                                                     "title":  "Who Framed Roger Rabbit",
                                                     "start":  "2026-09-04T01:28:08.0000000Z",
-                                                    "stop":  "2026-09-04T03:12:06.0000000Z",
+                                                    "stop":  "2026-09-04T03:12:18.0000000Z",
                                                     "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
                                                     "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
                                                     "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
@@ -62,7 +62,7 @@
                                                 {
                                                     "title":  "ROBOCOP 2",
                                                     "start":  "2026-09-04T03:12:06.0000000Z",
-                                                    "stop":  "2026-09-04T05:09:08.0000000Z",
+                                                    "stop":  "2026-09-04T05:08:57.0000000Z",
                                                     "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
                                                     "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
@@ -71,7 +71,7 @@
                                                 {
                                                     "title":  "DEATH PROOF",
                                                     "start":  "2026-09-04T05:08:57.0000000Z",
-                                                    "stop":  "2026-09-04T07:02:41.0000000Z",
+                                                    "stop":  "2026-09-04T07:02:53.0000000Z",
                                                     "itemId":  "5220d04d46ddf5fa55aacae5d4916919",
                                                     "poster":  "http://127.0.0.1:8096/Items/5220d04d46ddf5fa55aacae5d4916919/Images/Primary",
                                                     "description":  "Austin\u0027s hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
@@ -80,7 +80,7 @@
                                                 {
                                                     "title":  "Brave Heart",
                                                     "start":  "2026-09-04T07:02:41.0000000Z",
-                                                    "stop":  "2026-09-04T10:00:45.0000000Z",
+                                                    "stop":  "2026-09-04T10:00:33.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -89,7 +89,7 @@
                                                 {
                                                     "title":  "Reservor Dogs",
                                                     "start":  "2026-09-04T10:00:33.0000000Z",
-                                                    "stop":  "2026-09-04T11:39:50.0000000Z",
+                                                    "stop":  "2026-09-04T11:40:02.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -101,33 +101,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "World War Z",
-                                                  "start":  "2026-09-03T17:00:00.0000000Z",
-                                                  "stop":  "2026-09-03T19:05:13.0000000Z",
-                                                  "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
-                                                  "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                                  "year":  2013
+                                                  "title":  "Boogeyman",
+                                                  "start":  "2026-09-03T19:05:13.0000000Z",
+                                                  "stop":  "2026-09-03T20:36:13.0000000Z",
+                                                  "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
+                                                  "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
+                                                  "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
+                                                  "year":  2005
                                               },
                                "upNext":  {
-                                              "title":  "Boogeyman",
-                                              "start":  "2026-09-03T19:05:13.0000000Z",
-                                              "stop":  "2026-09-03T20:36:13.0000000Z",
-                                              "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
-                                              "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
-                                              "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
+                                              "title":  "Land of the Dead",
+                                              "start":  "2026-09-03T20:36:13.0000000Z",
+                                              "stop":  "2026-09-03T22:14:02.0000000Z",
+                                              "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
+                                              "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
+                                              "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
                                               "year":  2005
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Boogeyman",
-                                                    "start":  "2026-09-03T19:05:13.0000000Z",
-                                                    "stop":  "2026-09-03T20:36:13.0000000Z",
-                                                    "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
-                                                    "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
-                                                    "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
-                                                    "year":  2005
-                                                },
                                                 {
                                                     "title":  "Land of the Dead",
                                                     "start":  "2026-09-03T20:36:13.0000000Z",
@@ -190,6 +181,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Boogeyman",
+                                                    "start":  "2026-09-04T08:51:26.0000000Z",
+                                                    "stop":  "2026-09-04T10:21:16.0000000Z",
+                                                    "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
+                                                    "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
+                                                    "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
+                                                    "year":  2005
                                                 }
                                             ]
                            },
@@ -293,33 +293,24 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "UP IN SMOKE",
-                                                  "start":  "2026-09-03T17:38:00.0000000Z",
-                                                  "stop":  "2026-09-03T19:03:51.0000000Z",
-                                                  "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
-                                                  "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
-                                                  "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
-                                                  "year":  1978
+                                                  "title":  "HALF BAKED",
+                                                  "start":  "2026-09-03T19:03:51.0000000Z",
+                                                  "stop":  "2026-09-03T20:25:57.0000000Z",
+                                                  "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
+                                                  "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
+                                                  "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
+                                                  "year":  1998
                                               },
                                "upNext":  {
-                                              "title":  "HALF BAKED",
-                                              "start":  "2026-09-03T19:03:51.0000000Z",
-                                              "stop":  "2026-09-03T20:25:57.0000000Z",
-                                              "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
-                                              "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
-                                              "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
-                                              "year":  1998
+                                              "title":  "Get Shorty",
+                                              "start":  "2026-09-03T20:25:57.0000000Z",
+                                              "stop":  "2026-09-03T22:10:45.0000000Z",
+                                              "itemId":  "746531a34dc012efd97b57703e1903af",
+                                              "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
+                                              "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
+                                              "year":  1995
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "HALF BAKED",
-                                                    "start":  "2026-09-03T19:03:51.0000000Z",
-                                                    "stop":  "2026-09-03T20:25:57.0000000Z",
-                                                    "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
-                                                    "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
-                                                    "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
-                                                    "year":  1998
-                                                },
                                                 {
                                                     "title":  "Get Shorty",
                                                     "start":  "2026-09-03T20:25:57.0000000Z",
@@ -382,6 +373,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
                                                     "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
                                                     "year":  1995
+                                                },
+                                                {
+                                                    "title":  "Undercover Brother",
+                                                    "start":  "2026-09-04T07:16:12.0000000Z",
+                                                    "stop":  "2026-09-04T08:42:18.0000000Z",
+                                                    "itemId":  "6317b8f6b30a049091764b8311c08279",
+                                                    "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
+                                                    "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
+                                                    "year":  2002
                                                 }
                                             ]
                            },
@@ -581,95 +581,95 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Never 3Nding",
-                                                  "start":  "2026-09-03T18:54:08.0000000Z",
-                                                  "stop":  "2026-09-03T18:56:20.0000000Z",
-                                                  "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
-                                                  "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
+                                                  "title":  "Chingadasos",
+                                                  "start":  "2026-09-03T19:07:33.0000000Z",
+                                                  "stop":  "2026-09-03T19:28:16.0000000Z",
+                                                  "itemId":  "8988d98fd90679aab5aff5b786344b1c",
+                                                  "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Ninja Now",
-                                              "start":  "2026-09-03T18:56:20.0000000Z",
-                                              "stop":  "2026-09-03T18:57:02.0000000Z",
-                                              "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                              "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                              "title":  "COKCE6139",
+                                              "start":  "2026-09-03T19:15:53.0000000Z",
+                                              "stop":  "2026-09-03T19:45:40.0000000Z",
+                                              "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
+                                              "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
                                               "description":  null,
-                                              "year":  null
+                                              "year":  2026
                                           },
                                "upcoming":  [
                                                 {
-                                                    "title":  "Ninja Now",
-                                                    "start":  "2026-09-03T18:56:20.0000000Z",
-                                                    "stop":  "2026-09-03T18:57:02.0000000Z",
-                                                    "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
-                                                    "title":  "SSBI4649",
-                                                    "start":  "2026-09-03T18:57:02.0000000Z",
-                                                    "stop":  "2026-09-03T18:57:51.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
-                                                    "title":  "Arnold Dynamite",
-                                                    "start":  "2026-09-03T18:57:51.0000000Z",
-                                                    "stop":  "2026-09-03T18:59:18.0000000Z",
-                                                    "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
+                                                    "title":  "COKCE6139",
+                                                    "start":  "2026-09-03T19:15:53.0000000Z",
+                                                    "stop":  "2026-09-03T19:45:40.0000000Z",
+                                                    "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 },
                                                 {
-                                                    "title":  "0Ld Sc00L",
-                                                    "start":  "2026-09-03T18:59:18.0000000Z",
-                                                    "stop":  "2026-09-03T19:00:07.0000000Z",
-                                                    "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
-                                                    "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                    "title":  "MrPayo",
+                                                    "start":  "2026-09-03T19:18:03.0000000Z",
+                                                    "stop":  "2026-09-03T19:19:09.0000000Z",
+                                                    "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
+                                                    "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 },
                                                 {
-                                                    "title":  "After H0uRs",
-                                                    "start":  "2026-09-03T19:00:07.0000000Z",
-                                                    "stop":  "2026-09-03T19:00:56.0000000Z",
-                                                    "itemId":  "150bbae732cd647eeed3060cd67b032f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
+                                                    "title":  "Oz",
+                                                    "start":  "2026-09-03T19:19:09.0000000Z",
+                                                    "stop":  "2026-09-03T19:29:22.0000000Z",
+                                                    "itemId":  "f332ba1673f9273e5349cd38b640cf51",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "BloodJoke",
+                                                    "start":  "2026-09-03T19:20:50.0000000Z",
+                                                    "stop":  "2026-09-03T19:22:26.0000000Z",
+                                                    "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 },
                                                 {
-                                                    "title":  "Ass Kicker Bruce",
-                                                    "start":  "2026-09-03T19:00:56.0000000Z",
-                                                    "stop":  "2026-09-03T19:06:52.0000000Z",
-                                                    "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                                    "title":  "Carrito",
+                                                    "start":  "2026-09-03T19:22:31.0000000Z",
+                                                    "stop":  "2026-09-03T19:30:09.0000000Z",
+                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                     "description":  null,
-                                                    "year":  2026
+                                                    "year":  null
                                                 },
                                                 {
-                                                    "title":  "Biggie Mobbing",
-                                                    "start":  "2026-09-03T19:06:52.0000000Z",
-                                                    "stop":  "2026-09-03T19:07:33.0000000Z",
-                                                    "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
+                                                    "title":  "Dancing Cobra",
+                                                    "start":  "2026-09-03T19:30:09.0000000Z",
+                                                    "stop":  "2026-09-03T19:31:15.0000000Z",
+                                                    "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                                    "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                     "description":  null,
-                                                    "year":  2026
+                                                    "year":  null
                                                 },
                                                 {
-                                                    "title":  "Chingadasos",
-                                                    "start":  "2026-09-03T19:07:33.0000000Z",
-                                                    "stop":  "2026-09-03T19:08:19.0000000Z",
-                                                    "itemId":  "8988d98fd90679aab5aff5b786344b1c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
+                                                    "title":  "DnBaPCsht",
+                                                    "start":  "2026-09-03T19:31:15.0000000Z",
+                                                    "stop":  "2026-09-03T19:32:02.0000000Z",
+                                                    "itemId":  "d2296bca99a831548bbada0bb3bac719",
+                                                    "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
-                                                    "year":  2026
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Duende",
+                                                    "start":  "2026-09-03T19:32:13.0000000Z",
+                                                    "stop":  "2026-09-03T19:33:22.0000000Z",
+                                                    "itemId":  "80d6feb8f0c835e935a80db3275c5412",
+                                                    "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
