@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-03T20:36:05.8090039Z",
+    "updated":  "2026-09-03T20:37:05.8061655Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,33 +101,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Boogeyman",
-                                                  "start":  "2026-09-03T19:05:13.0000000Z",
-                                                  "stop":  "2026-09-03T20:36:13.0000000Z",
-                                                  "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
-                                                  "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
-                                                  "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
+                                                  "title":  "Land of the Dead",
+                                                  "start":  "2026-09-03T20:36:13.0000000Z",
+                                                  "stop":  "2026-09-03T22:14:02.0000000Z",
+                                                  "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
+                                                  "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
+                                                  "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
                                                   "year":  2005
                                               },
                                "upNext":  {
-                                              "title":  "Land of the Dead",
-                                              "start":  "2026-09-03T20:36:13.0000000Z",
-                                              "stop":  "2026-09-03T22:14:02.0000000Z",
-                                              "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
-                                              "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
-                                              "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
-                                              "year":  2005
+                                              "title":  "Wrong Turn",
+                                              "start":  "2026-09-03T22:14:02.0000000Z",
+                                              "stop":  "2026-09-03T23:39:13.0000000Z",
+                                              "itemId":  "58d332deb67464546d571f7fda1cd63c",
+                                              "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
+                                              "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
+                                              "year":  2003
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Land of the Dead",
-                                                    "start":  "2026-09-03T20:36:13.0000000Z",
-                                                    "stop":  "2026-09-03T22:14:02.0000000Z",
-                                                    "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
-                                                    "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
-                                                    "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
-                                                    "year":  2005
-                                                },
                                                 {
                                                     "title":  "Wrong Turn",
                                                     "start":  "2026-09-03T22:14:02.0000000Z",
@@ -190,6 +181,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
                                                     "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
                                                     "year":  2005
+                                                },
+                                                {
+                                                    "title":  "Resident Evil- Apocalypse",
+                                                    "start":  "2026-09-04T10:21:16.0000000Z",
+                                                    "stop":  "2026-09-04T11:57:14.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Mr J-Carry",
-                                              "start":  "2026-09-03T20:36:53.0000000Z",
-                                              "stop":  "2026-09-03T20:37:24.0000000Z",
-                                              "itemId":  "56c94066e018711311e81d6a3f6cc139",
-                                              "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
+                                              "title":  "T2",
+                                              "start":  "2026-09-03T20:37:49.0000000Z",
+                                              "stop":  "2026-09-03T20:38:21.0000000Z",
+                                              "itemId":  "1315943017e226076a7899408d36dec5",
+                                              "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Mr J-Carry",
-                                                    "start":  "2026-09-03T20:36:53.0000000Z",
-                                                    "stop":  "2026-09-03T20:37:24.0000000Z",
-                                                    "itemId":  "56c94066e018711311e81d6a3f6cc139",
-                                                    "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "T2",
                                                     "start":  "2026-09-03T20:37:49.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-09-03T20:49:54.0000000Z",
                                                     "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
                                                     "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Carrito",
+                                                    "start":  "2026-09-03T20:49:59.0000000Z",
+                                                    "stop":  "2026-09-03T20:57:38.0000000Z",
+                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
