@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-03T18:38:05.9896370Z",
+    "updated":  "2026-09-03T18:39:05.9453997Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -197,33 +197,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "BATMAN BEGINS",
-                                                  "start":  "2026-09-03T16:18:17.0000000Z",
-                                                  "stop":  "2026-09-03T18:38:18.0000000Z",
-                                                  "itemId":  "40cf44019306b29674462340007b5e1a",
-                                                  "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
-                                                  "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
-                                                  "year":  2005
+                                                  "title":  "Black Hawk Down",
+                                                  "start":  "2026-09-03T18:38:18.0000000Z",
+                                                  "stop":  "2026-09-03T21:02:39.0000000Z",
+                                                  "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
+                                                  "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
+                                                  "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+                                                  "year":  2001
                                               },
                                "upNext":  {
-                                              "title":  "Black Hawk Down",
-                                              "start":  "2026-09-03T18:38:18.0000000Z",
-                                              "stop":  "2026-09-03T21:02:39.0000000Z",
-                                              "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
-                                              "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
-                                              "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
-                                              "year":  2001
+                                              "title":  "Bourne Identity",
+                                              "start":  "2026-09-03T21:02:39.0000000Z",
+                                              "stop":  "2026-09-03T23:00:56.0000000Z",
+                                              "itemId":  "ad22fba25f4ceaee407d76b5620443de",
+                                              "poster":  "http://127.0.0.1:8096/Items/ad22fba25f4ceaee407d76b5620443de/Images/Primary",
+                                              "description":  "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
+                                              "year":  2002
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Black Hawk Down",
-                                                    "start":  "2026-09-03T18:38:18.0000000Z",
-                                                    "stop":  "2026-09-03T21:02:39.0000000Z",
-                                                    "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
-                                                    "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
-                                                    "year":  2001
-                                                },
                                                 {
                                                     "title":  "Bourne Identity",
                                                     "start":  "2026-09-03T21:02:39.0000000Z",
@@ -286,6 +277,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
                                                     "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
                                                     "year":  1987
+                                                },
+                                                {
+                                                    "title":  "Rambo First Blood",
+                                                    "start":  "2026-09-04T09:28:15.0000000Z",
+                                                    "stop":  "2026-09-04T11:01:25.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
@@ -581,33 +581,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "BloodJoke",
-                                                  "start":  "2026-09-03T18:37:06.0000000Z",
-                                                  "stop":  "2026-09-03T18:38:41.0000000Z",
-                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                  "title":  "Carrito",
+                                                  "start":  "2026-09-03T18:38:47.0000000Z",
+                                                  "stop":  "2026-09-03T18:46:25.0000000Z",
+                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Carrito",
-                                              "start":  "2026-09-03T18:38:47.0000000Z",
-                                              "stop":  "2026-09-03T18:46:25.0000000Z",
-                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                              "title":  "Dancing Cobra",
+                                              "start":  "2026-09-03T18:46:25.0000000Z",
+                                              "stop":  "2026-09-03T18:47:31.0000000Z",
+                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Carrito",
-                                                    "start":  "2026-09-03T18:38:47.0000000Z",
-                                                    "stop":  "2026-09-03T18:46:25.0000000Z",
-                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-09-03T18:46:25.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Arnold Dynamite",
+                                                    "start":  "2026-09-03T18:57:51.0000000Z",
+                                                    "stop":  "2026-09-03T18:59:18.0000000Z",
+                                                    "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
