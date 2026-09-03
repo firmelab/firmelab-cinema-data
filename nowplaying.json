@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-03T08:13:05.6658198Z",
+    "updated":  "2026-09-03T08:14:05.6638731Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "CB4",
-                                                  "start":  "2026-09-03T06:44:53.0000000Z",
-                                                  "stop":  "2026-09-03T08:13:34.0000000Z",
-                                                  "itemId":  "aaf87b319e700aef20429fed5429cdee",
-                                                  "poster":  "http://127.0.0.1:8096/Items/aaf87b319e700aef20429fed5429cdee/Images/Primary",
-                                                  "description":  "A \"rockumentary\", covering the rise to fame of MC Gusto, Stab Master Arson, and Dead Mike: members of the rap group \"CB4\". We soon learn that these three are not what they seem and don\u0027t appear to know as much about rap music as they claim... but a lack of musical ability in an artist never hurts sales, does it? You\u0027ve just got to play the part of a rap star...",
-                                                  "year":  1993
+                                                  "title":  "Manhunter",
+                                                  "start":  "2026-09-03T08:13:23.0000000Z",
+                                                  "stop":  "2026-09-03T10:15:14.0000000Z",
+                                                  "itemId":  "f6b5fc1a94fb32ecc9a9bff1ff06a6a4",
+                                                  "poster":  "http://127.0.0.1:8096/Items/f6b5fc1a94fb32ecc9a9bff1ff06a6a4/Images/Primary",
+                                                  "description":  "FBI Agent Will Graham, retired after catching notorious cannibal Hannibal Lecter, returns to duty to engage in a risky cat-and-mouse game with Lecter to capture a new killer.",
+                                                  "year":  1986
                                               },
                                "upNext":  {
-                                              "title":  "Manhunter",
-                                              "start":  "2026-09-03T08:13:23.0000000Z",
-                                              "stop":  "2026-09-03T10:15:14.0000000Z",
-                                              "itemId":  "f6b5fc1a94fb32ecc9a9bff1ff06a6a4",
-                                              "poster":  "http://127.0.0.1:8096/Items/f6b5fc1a94fb32ecc9a9bff1ff06a6a4/Images/Primary",
-                                              "description":  "FBI Agent Will Graham, retired after catching notorious cannibal Hannibal Lecter, returns to duty to engage in a risky cat-and-mouse game with Lecter to capture a new killer.",
-                                              "year":  1986
+                                              "title":  "Master and Commander",
+                                              "start":  "2026-09-03T10:15:14.0000000Z",
+                                              "stop":  "2026-09-03T12:33:45.0000000Z",
+                                              "itemId":  "5fcc6b3e811cdcaf000036c06aef62b9",
+                                              "poster":  "http://127.0.0.1:8096/Items/5fcc6b3e811cdcaf000036c06aef62b9/Images/Primary",
+                                              "description":  "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship\u0027s thoughtful surgeon, his best friend.",
+                                              "year":  2003
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Manhunter",
-                                                    "start":  "2026-09-03T08:13:23.0000000Z",
-                                                    "stop":  "2026-09-03T10:15:14.0000000Z",
-                                                    "itemId":  "f6b5fc1a94fb32ecc9a9bff1ff06a6a4",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f6b5fc1a94fb32ecc9a9bff1ff06a6a4/Images/Primary",
-                                                    "description":  "FBI Agent Will Graham, retired after catching notorious cannibal Hannibal Lecter, returns to duty to engage in a risky cat-and-mouse game with Lecter to capture a new killer.",
-                                                    "year":  1986
-                                                },
                                                 {
                                                     "title":  "Master and Commander",
                                                     "start":  "2026-09-03T10:15:14.0000000Z",
@@ -93,6 +84,15 @@
                                                     "itemId":  "54493e812aba3ee1edef65108ed95c05",
                                                     "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
                                                     "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
+                                                    "year":  1988
+                                                },
+                                                {
+                                                    "title":  "Who Framed Roger Rabbit",
+                                                    "start":  "2026-09-04T01:28:08.0000000Z",
+                                                    "stop":  "2026-09-04T03:12:06.0000000Z",
+                                                    "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
+                                                    "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
+                                                    "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
                                                     "year":  1988
                                                 }
                                             ]
@@ -590,24 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Mr J-Carry",
-                                              "start":  "2026-09-03T08:13:22.0000000Z",
-                                              "stop":  "2026-09-03T08:54:33.0000000Z",
-                                              "itemId":  "56c94066e018711311e81d6a3f6cc139",
-                                              "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
+                                              "title":  "T2",
+                                              "start":  "2026-09-03T08:14:18.0000000Z",
+                                              "stop":  "2026-09-03T09:03:02.0000000Z",
+                                              "itemId":  "1315943017e226076a7899408d36dec5",
+                                              "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Mr J-Carry",
-                                                    "start":  "2026-09-03T08:13:22.0000000Z",
-                                                    "stop":  "2026-09-03T08:54:33.0000000Z",
-                                                    "itemId":  "56c94066e018711311e81d6a3f6cc139",
-                                                    "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "T2",
                                                     "start":  "2026-09-03T08:14:18.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-09-03T08:26:23.0000000Z",
                                                     "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
                                                     "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Carrito",
+                                                    "start":  "2026-09-03T08:26:29.0000000Z",
+                                                    "stop":  "2026-09-03T08:34:07.0000000Z",
+                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
