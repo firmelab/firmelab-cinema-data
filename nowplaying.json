@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-03T15:01:05.5550953Z",
+    "updated":  "2026-09-03T15:02:05.5997166Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -7,7 +7,7 @@
                                "nowPlaying":  {
                                                   "title":  "Dawn of the Dead",
                                                   "start":  "2026-09-03T14:18:46.0000000Z",
-                                                  "stop":  "2026-09-03T17:57:45.0000000Z",
+                                                  "stop":  "2026-09-03T17:57:46.0000000Z",
                                                   "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
                                                   "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
                                                   "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
@@ -35,7 +35,7 @@
                                                 {
                                                     "title":  "BATMAN BEGINS",
                                                     "start":  "2026-09-03T20:12:54.0000000Z",
-                                                    "stop":  "2026-09-03T22:33:17.0000000Z",
+                                                    "stop":  "2026-09-03T22:33:15.0000000Z",
                                                     "itemId":  "40cf44019306b29674462340007b5e1a",
                                                     "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
                                                     "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
@@ -53,7 +53,7 @@
                                                 {
                                                     "title":  "Critters",
                                                     "start":  "2026-09-04T00:02:05.0000000Z",
-                                                    "stop":  "2026-09-04T01:28:08.0000000Z",
+                                                    "stop":  "2026-09-04T01:28:20.0000000Z",
                                                     "itemId":  "54493e812aba3ee1edef65108ed95c05",
                                                     "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
                                                     "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
@@ -71,7 +71,7 @@
                                                 {
                                                     "title":  "ROBOCOP 2",
                                                     "start":  "2026-09-04T03:12:06.0000000Z",
-                                                    "stop":  "2026-09-04T05:08:57.0000000Z",
+                                                    "stop":  "2026-09-04T05:09:08.0000000Z",
                                                     "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
                                                     "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
@@ -89,7 +89,7 @@
                                                 {
                                                     "title":  "Brave Heart",
                                                     "start":  "2026-09-04T07:02:41.0000000Z",
-                                                    "stop":  "2026-09-04T10:00:33.0000000Z",
+                                                    "stop":  "2026-09-04T10:00:45.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -581,11 +581,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Carrito",
-                                                  "start":  "2026-09-03T15:00:06.0000000Z",
-                                                  "stop":  "2026-09-03T15:07:44.0000000Z",
-                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                                  "title":  "BloodJoke",
+                                                  "start":  "2026-09-03T14:58:25.0000000Z",
+                                                  "stop":  "2026-09-03T15:08:38.0000000Z",
+                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-09-03T15:08:50.0000000Z",
-                                                    "stop":  "2026-09-03T15:09:37.0000000Z",
+                                                    "stop":  "2026-09-03T15:09:48.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-09-03T15:09:48.0000000Z",
-                                                    "stop":  "2026-09-03T15:10:57.0000000Z",
+                                                    "stop":  "2026-09-03T15:30:10.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-09-03T15:11:30.0000000Z",
-                                                    "stop":  "2026-09-03T15:15:22.0000000Z",
+                                                    "stop":  "2026-09-03T15:15:27.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-09-03T15:15:27.0000000Z",
-                                                    "stop":  "2026-09-03T15:17:39.0000000Z",
+                                                    "stop":  "2026-09-03T15:26:12.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-09-03T15:17:39.0000000Z",
-                                                    "stop":  "2026-09-03T15:18:21.0000000Z",
+                                                    "stop":  "2026-09-03T15:26:54.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-09-03T15:18:21.0000000Z",
-                                                    "stop":  "2026-09-03T15:19:10.0000000Z",
+                                                    "stop":  "2026-09-03T15:27:43.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-09-03T15:19:10.0000000Z",
-                                                    "stop":  "2026-09-03T15:20:38.0000000Z",
+                                                    "stop":  "2026-09-03T15:47:58.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
