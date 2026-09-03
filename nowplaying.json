@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-03T18:16:05.8310569Z",
+    "updated":  "2026-09-03T18:17:11.1883255Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,33 +581,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "0Ld Sc00L",
-                                                  "start":  "2026-09-03T18:15:34.0000000Z",
-                                                  "stop":  "2026-09-03T18:16:23.0000000Z",
-                                                  "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
-                                                  "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                  "title":  "After H0uRs",
+                                                  "start":  "2026-09-03T18:16:23.0000000Z",
+                                                  "stop":  "2026-09-03T18:17:12.0000000Z",
+                                                  "itemId":  "150bbae732cd647eeed3060cd67b032f",
+                                                  "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "After H0uRs",
-                                              "start":  "2026-09-03T18:16:23.0000000Z",
-                                              "stop":  "2026-09-03T18:17:12.0000000Z",
-                                              "itemId":  "150bbae732cd647eeed3060cd67b032f",
-                                              "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
+                                              "title":  "Ass Kicker Bruce",
+                                              "start":  "2026-09-03T18:17:12.0000000Z",
+                                              "stop":  "2026-09-03T18:23:07.0000000Z",
+                                              "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
+                                              "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                               "description":  null,
-                                              "year":  null
+                                              "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "After H0uRs",
-                                                    "start":  "2026-09-03T18:16:23.0000000Z",
-                                                    "stop":  "2026-09-03T18:17:12.0000000Z",
-                                                    "itemId":  "150bbae732cd647eeed3060cd67b032f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-09-03T18:17:12.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-09-03T18:30:52.0000000Z",
                                                     "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
                                                     "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "COKCE6139",
+                                                    "start":  "2026-09-03T18:32:09.0000000Z",
+                                                    "stop":  "2026-09-03T18:33:10.0000000Z",
+                                                    "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
