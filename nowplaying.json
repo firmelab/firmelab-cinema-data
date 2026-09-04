@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-04T00:01:15.1996623Z",
+    "updated":  "2026-09-04T00:02:06.3127340Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -14,24 +14,15 @@
                                                   "year":  2005
                                               },
                                "upNext":  {
-                                              "title":  "Critters",
-                                              "start":  "2026-09-04T00:02:05.0000000Z",
-                                              "stop":  "2026-09-04T01:28:08.0000000Z",
-                                              "itemId":  "54493e812aba3ee1edef65108ed95c05",
-                                              "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
-                                              "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
+                                              "title":  "Who Framed Roger Rabbit",
+                                              "start":  "2026-09-04T01:28:08.0000000Z",
+                                              "stop":  "2026-09-04T03:12:16.0000000Z",
+                                              "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
+                                              "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
+                                              "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
                                               "year":  1988
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Critters",
-                                                    "start":  "2026-09-04T00:02:05.0000000Z",
-                                                    "stop":  "2026-09-04T01:28:08.0000000Z",
-                                                    "itemId":  "54493e812aba3ee1edef65108ed95c05",
-                                                    "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
-                                                    "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
-                                                    "year":  1988
-                                                },
                                                 {
                                                     "title":  "Who Framed Roger Rabbit",
                                                     "start":  "2026-09-04T01:28:08.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "CHRISTINE",
+                                                    "start":  "2026-09-04T15:59:22.0000000Z",
+                                                    "stop":  "2026-09-04T17:49:54.0000000Z",
+                                                    "itemId":  "91dc7dc3ea26a9c92725048bc480729c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/91dc7dc3ea26a9c92725048bc480729c/Images/Primary",
+                                                    "description":  "Nerdy high schooler Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory. As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty. Arnie\u0027s girlfriend Leigh and best friend Dennis reach out to him, only to be met by a Fury like no other.",
+                                                    "year":  1983
                                                 }
                                             ]
                            },
