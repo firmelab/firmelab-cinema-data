@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-04T17:49:05.9138414Z",
+    "updated":  "2026-09-04T17:50:05.9227032Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "CHRISTINE",
-                                                  "start":  "2026-09-04T15:59:22.0000000Z",
-                                                  "stop":  "2026-09-04T17:49:54.0000000Z",
-                                                  "itemId":  "91dc7dc3ea26a9c92725048bc480729c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/91dc7dc3ea26a9c92725048bc480729c/Images/Primary",
-                                                  "description":  "Nerdy high schooler Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory. As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty. Arnie\u0027s girlfriend Leigh and best friend Dennis reach out to him, only to be met by a Fury like no other.",
-                                                  "year":  1983
+                                                  "title":  "Land of the Dead",
+                                                  "start":  "2026-09-04T17:49:54.0000000Z",
+                                                  "stop":  "2026-09-04T19:27:04.0000000Z",
+                                                  "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
+                                                  "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
+                                                  "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
+                                                  "year":  2005
                                               },
                                "upNext":  {
-                                              "title":  "Land of the Dead",
-                                              "start":  "2026-09-04T17:49:54.0000000Z",
-                                              "stop":  "2026-09-04T19:27:04.0000000Z",
-                                              "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
-                                              "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
-                                              "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
-                                              "year":  2005
+                                              "title":  "Commando",
+                                              "start":  "2026-09-04T19:26:54.0000000Z",
+                                              "stop":  "2026-09-04T20:57:19.0000000Z",
+                                              "itemId":  "4d57925cf6d4f5a046509bad0a68d29f",
+                                              "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
+                                              "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
+                                              "year":  1985
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Land of the Dead",
-                                                    "start":  "2026-09-04T17:49:54.0000000Z",
-                                                    "stop":  "2026-09-04T19:27:04.0000000Z",
-                                                    "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
-                                                    "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
-                                                    "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
-                                                    "year":  2005
-                                                },
                                                 {
                                                     "title":  "Commando",
                                                     "start":  "2026-09-04T19:26:54.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/ee279419a64df59247370e38f4f0deea/Images/Primary",
                                                     "description":  "Abby is a pregnant woman with a curious new boarder in the apartment over her garage. Turns out he\u0027s heaven-sent and is speeding along the Apocalypse by bloodying rivers, egging on plagues and following scripture word for word.",
                                                     "year":  1988
+                                                },
+                                                {
+                                                    "title":  "Conan The Destroyer",
+                                                    "start":  "2026-09-05T07:52:29.0000000Z",
+                                                    "stop":  "2026-09-05T09:33:59.0000000Z",
+                                                    "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
+                                                    "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
+                                                    "year":  1984
                                                 }
                                             ]
                            },
