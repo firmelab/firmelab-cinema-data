@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-04T05:08:05.5360666Z",
+    "updated":  "2026-09-04T05:09:05.5414056Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "ROBOCOP 2",
-                                                  "start":  "2026-09-04T03:12:06.0000000Z",
-                                                  "stop":  "2026-09-04T05:08:57.0000000Z",
-                                                  "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
-                                                  "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
-                                                  "year":  1990
+                                                  "title":  "DEATH PROOF",
+                                                  "start":  "2026-09-04T05:08:57.0000000Z",
+                                                  "stop":  "2026-09-04T07:02:51.0000000Z",
+                                                  "itemId":  "5220d04d46ddf5fa55aacae5d4916919",
+                                                  "poster":  "http://127.0.0.1:8096/Items/5220d04d46ddf5fa55aacae5d4916919/Images/Primary",
+                                                  "description":  "Austin\u0027s hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
+                                                  "year":  2007
                                               },
                                "upNext":  {
-                                              "title":  "DEATH PROOF",
-                                              "start":  "2026-09-04T05:08:57.0000000Z",
-                                              "stop":  "2026-09-04T07:02:51.0000000Z",
-                                              "itemId":  "5220d04d46ddf5fa55aacae5d4916919",
-                                              "poster":  "http://127.0.0.1:8096/Items/5220d04d46ddf5fa55aacae5d4916919/Images/Primary",
-                                              "description":  "Austin\u0027s hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
-                                              "year":  2007
+                                              "title":  "Brave Heart",
+                                              "start":  "2026-09-04T07:02:41.0000000Z",
+                                              "stop":  "2026-09-04T10:00:33.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "DEATH PROOF",
-                                                    "start":  "2026-09-04T05:08:57.0000000Z",
-                                                    "stop":  "2026-09-04T07:02:51.0000000Z",
-                                                    "itemId":  "5220d04d46ddf5fa55aacae5d4916919",
-                                                    "poster":  "http://127.0.0.1:8096/Items/5220d04d46ddf5fa55aacae5d4916919/Images/Primary",
-                                                    "description":  "Austin\u0027s hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
-                                                    "year":  2007
-                                                },
                                                 {
                                                     "title":  "Brave Heart",
                                                     "start":  "2026-09-04T07:02:41.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
                                                     "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
                                                     "year":  1985
+                                                },
+                                                {
+                                                    "title":  "Master and Commander",
+                                                    "start":  "2026-09-04T20:57:19.0000000Z",
+                                                    "stop":  "2026-09-04T23:16:02.0000000Z",
+                                                    "itemId":  "5fcc6b3e811cdcaf000036c06aef62b9",
+                                                    "poster":  "http://127.0.0.1:8096/Items/5fcc6b3e811cdcaf000036c06aef62b9/Images/Primary",
+                                                    "description":  "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship\u0027s thoughtful surgeon, his best friend.",
+                                                    "year":  2003
                                                 }
                                             ]
                            },
@@ -581,33 +581,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Never 3Nding",
-                                                  "start":  "2026-09-04T05:06:25.0000000Z",
-                                                  "stop":  "2026-09-04T05:08:37.0000000Z",
-                                                  "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
-                                                  "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
+                                                  "title":  "Ninja Now",
+                                                  "start":  "2026-09-04T05:08:37.0000000Z",
+                                                  "stop":  "2026-09-04T05:09:20.0000000Z",
+                                                  "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
+                                                  "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Ninja Now",
-                                              "start":  "2026-09-04T05:08:37.0000000Z",
-                                              "stop":  "2026-09-04T05:09:20.0000000Z",
-                                              "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                              "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                              "title":  "SSBI4649",
+                                              "start":  "2026-09-04T05:09:20.0000000Z",
+                                              "stop":  "2026-09-04T05:10:09.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Ninja Now",
-                                                    "start":  "2026-09-04T05:08:37.0000000Z",
-                                                    "stop":  "2026-09-04T05:09:20.0000000Z",
-                                                    "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-09-04T05:09:20.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-09-04T05:20:37.0000000Z",
                                                     "itemId":  "8988d98fd90679aab5aff5b786344b1c",
                                                     "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Mr J-Carry",
+                                                    "start":  "2026-09-04T05:21:42.0000000Z",
+                                                    "stop":  "2026-09-04T05:22:14.0000000Z",
+                                                    "itemId":  "56c94066e018711311e81d6a3f6cc139",
+                                                    "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
