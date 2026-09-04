@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-04T23:01:05.2757061Z",
+    "updated":  "2026-09-04T23:02:05.4080043Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -7,7 +7,7 @@
                                "nowPlaying":  {
                                                   "title":  "Master and Commander",
                                                   "start":  "2026-09-04T20:57:19.0000000Z",
-                                                  "stop":  "2026-09-04T23:16:01.0000000Z",
+                                                  "stop":  "2026-09-04T23:16:02.0000000Z",
                                                   "itemId":  "5fcc6b3e811cdcaf000036c06aef62b9",
                                                   "poster":  "http://127.0.0.1:8096/Items/5fcc6b3e811cdcaf000036c06aef62b9/Images/Primary",
                                                   "description":  "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship\u0027s thoughtful surgeon, his best friend.",
@@ -35,7 +35,7 @@
                                                 {
                                                     "title":  "Brightburn",
                                                     "start":  "2026-09-05T01:49:02.0000000Z",
-                                                    "stop":  "2026-09-05T03:20:20.0000000Z",
+                                                    "stop":  "2026-09-05T03:20:18.0000000Z",
                                                     "itemId":  "a562e465a7ff31b0113aee613a779bf2",
                                                     "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
                                                     "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
@@ -53,7 +53,7 @@
                                                 {
                                                     "title":  "CB4",
                                                     "start":  "2026-09-05T04:46:50.0000000Z",
-                                                    "stop":  "2026-09-05T06:15:30.0000000Z",
+                                                    "stop":  "2026-09-05T06:15:31.0000000Z",
                                                     "itemId":  "aaf87b319e700aef20429fed5429cdee",
                                                     "poster":  "http://127.0.0.1:8096/Items/aaf87b319e700aef20429fed5429cdee/Images/Primary",
                                                     "description":  "A \"rockumentary\", covering the rise to fame of MC Gusto, Stab Master Arson, and Dead Mike: members of the rap group \"CB4\". We soon learn that these three are not what they seem and don\u0027t appear to know as much about rap music as they claim... but a lack of musical ability in an artist never hurts sales, does it? You\u0027ve just got to play the part of a rap star...",
@@ -71,7 +71,7 @@
                                                 {
                                                     "title":  "Conan The Destroyer",
                                                     "start":  "2026-09-05T07:52:29.0000000Z",
-                                                    "stop":  "2026-09-05T09:34:00.0000000Z",
+                                                    "stop":  "2026-09-05T09:33:59.0000000Z",
                                                     "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
                                                     "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
                                                     "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
@@ -580,26 +580,25 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  null,
+                               "nowPlaying":  {
+                                                  "title":  "FL MIXTAPE",
+                                                  "start":  "2026-09-04T23:00:00.0000000Z",
+                                                  "stop":  "2026-09-04T23:08:38.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
+                                              },
                                "upNext":  {
-                                              "title":  "Oz",
-                                              "start":  "2026-09-04T23:01:06.0000000Z",
-                                              "stop":  "2026-09-04T23:02:19.0000000Z",
-                                              "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                              "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                              "title":  "BloodJoke",
+                                              "start":  "2026-09-04T23:02:47.0000000Z",
+                                              "stop":  "2026-09-04T23:04:23.0000000Z",
+                                              "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                              "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Oz",
-                                                    "start":  "2026-09-04T23:01:06.0000000Z",
-                                                    "stop":  "2026-09-04T23:02:19.0000000Z",
-                                                    "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "BloodJoke",
                                                     "start":  "2026-09-04T23:02:47.0000000Z",
@@ -612,7 +611,7 @@
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-09-04T23:04:28.0000000Z",
-                                                    "stop":  "2026-09-04T23:12:07.0000000Z",
+                                                    "stop":  "2026-09-04T23:30:59.0000000Z",
                                                     "itemId":  "ed83754111f4ed370a338cab8345534d",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                     "description":  null,
@@ -630,7 +629,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-09-04T23:13:12.0000000Z",
-                                                    "stop":  "2026-09-04T23:13:59.0000000Z",
+                                                    "stop":  "2026-09-04T23:22:37.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -639,7 +638,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-09-04T23:14:10.0000000Z",
-                                                    "stop":  "2026-09-04T23:15:20.0000000Z",
+                                                    "stop":  "2026-09-04T23:24:20.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -648,7 +647,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-09-04T23:15:52.0000000Z",
-                                                    "stop":  "2026-09-04T23:19:44.0000000Z",
+                                                    "stop":  "2026-09-04T23:28:22.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -657,11 +656,20 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-09-04T23:19:49.0000000Z",
-                                                    "stop":  "2026-09-04T23:22:01.0000000Z",
+                                                    "stop":  "2026-09-04T23:49:21.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Ninja Now",
+                                                    "start":  "2026-09-04T23:22:01.0000000Z",
+                                                    "stop":  "2026-09-04T23:22:43.0000000Z",
+                                                    "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
