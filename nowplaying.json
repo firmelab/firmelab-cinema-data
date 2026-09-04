@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-04T15:59:06.5103841Z",
+    "updated":  "2026-09-04T16:00:06.0747894Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Jacky Brown",
-                                                  "start":  "2026-09-04T13:24:50.0000000Z",
-                                                  "stop":  "2026-09-04T15:59:33.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "CHRISTINE",
+                                                  "start":  "2026-09-04T15:59:22.0000000Z",
+                                                  "stop":  "2026-09-04T17:49:54.0000000Z",
+                                                  "itemId":  "91dc7dc3ea26a9c92725048bc480729c",
+                                                  "poster":  "http://127.0.0.1:8096/Items/91dc7dc3ea26a9c92725048bc480729c/Images/Primary",
+                                                  "description":  "Nerdy high schooler Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory. As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty. Arnie\u0027s girlfriend Leigh and best friend Dennis reach out to him, only to be met by a Fury like no other.",
+                                                  "year":  1983
                                               },
                                "upNext":  {
-                                              "title":  "CHRISTINE",
-                                              "start":  "2026-09-04T15:59:22.0000000Z",
-                                              "stop":  "2026-09-04T17:49:54.0000000Z",
-                                              "itemId":  "91dc7dc3ea26a9c92725048bc480729c",
-                                              "poster":  "http://127.0.0.1:8096/Items/91dc7dc3ea26a9c92725048bc480729c/Images/Primary",
-                                              "description":  "Nerdy high schooler Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory. As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty. Arnie\u0027s girlfriend Leigh and best friend Dennis reach out to him, only to be met by a Fury like no other.",
-                                              "year":  1983
+                                              "title":  "Land of the Dead",
+                                              "start":  "2026-09-04T17:49:54.0000000Z",
+                                              "stop":  "2026-09-04T19:27:04.0000000Z",
+                                              "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
+                                              "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
+                                              "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
+                                              "year":  2005
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "CHRISTINE",
-                                                    "start":  "2026-09-04T15:59:22.0000000Z",
-                                                    "stop":  "2026-09-04T17:49:54.0000000Z",
-                                                    "itemId":  "91dc7dc3ea26a9c92725048bc480729c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/91dc7dc3ea26a9c92725048bc480729c/Images/Primary",
-                                                    "description":  "Nerdy high schooler Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory. As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty. Arnie\u0027s girlfriend Leigh and best friend Dennis reach out to him, only to be met by a Fury like no other.",
-                                                    "year":  1983
-                                                },
                                                 {
                                                     "title":  "Land of the Dead",
                                                     "start":  "2026-09-04T17:49:54.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/aaf87b319e700aef20429fed5429cdee/Images/Primary",
                                                     "description":  "A \"rockumentary\", covering the rise to fame of MC Gusto, Stab Master Arson, and Dead Mike: members of the rap group \"CB4\". We soon learn that these three are not what they seem and don\u0027t appear to know as much about rap music as they claim... but a lack of musical ability in an artist never hurts sales, does it? You\u0027ve just got to play the part of a rap star...",
                                                     "year":  1993
+                                                },
+                                                {
+                                                    "title":  "Seventh Sign",
+                                                    "start":  "2026-09-05T06:15:19.0000000Z",
+                                                    "stop":  "2026-09-05T07:52:29.0000000Z",
+                                                    "itemId":  "ee279419a64df59247370e38f4f0deea",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ee279419a64df59247370e38f4f0deea/Images/Primary",
+                                                    "description":  "Abby is a pregnant woman with a curious new boarder in the apartment over her garage. Turns out he\u0027s heaven-sent and is speeding along the Apocalypse by bloodying rivers, egging on plagues and following scripture word for word.",
+                                                    "year":  1988
                                                 }
                                             ]
                            },
