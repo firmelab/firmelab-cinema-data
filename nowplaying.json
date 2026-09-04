@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-04T10:00:05.5232624Z",
+    "updated":  "2026-09-04T10:01:05.5270359Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Brave Heart",
-                                                  "start":  "2026-09-04T07:02:41.0000000Z",
-                                                  "stop":  "2026-09-04T10:00:33.0000000Z",
+                                                  "title":  "Reservor Dogs",
+                                                  "start":  "2026-09-04T10:00:33.0000000Z",
+                                                  "stop":  "2026-09-04T11:40:00.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Reservor Dogs",
-                                              "start":  "2026-09-04T10:00:33.0000000Z",
-                                              "stop":  "2026-09-04T11:40:00.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Get Shorty",
+                                              "start":  "2026-09-04T11:39:50.0000000Z",
+                                              "stop":  "2026-09-04T13:24:50.0000000Z",
+                                              "itemId":  "746531a34dc012efd97b57703e1903af",
+                                              "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
+                                              "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
+                                              "year":  1995
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Reservor Dogs",
-                                                    "start":  "2026-09-04T10:00:33.0000000Z",
-                                                    "stop":  "2026-09-04T11:40:00.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Get Shorty",
                                                     "start":  "2026-09-04T11:39:50.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Brightburn",
+                                                    "start":  "2026-09-05T01:49:02.0000000Z",
+                                                    "stop":  "2026-09-05T03:20:19.0000000Z",
+                                                    "itemId":  "a562e465a7ff31b0113aee613a779bf2",
+                                                    "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
+                                                    "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
+                                                    "year":  2019
                                                 }
                                             ]
                            },
