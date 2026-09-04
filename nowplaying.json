@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-04T13:24:05.8736705Z",
+    "updated":  "2026-09-04T13:25:05.8750771Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Get Shorty",
-                                                  "start":  "2026-09-04T11:39:50.0000000Z",
-                                                  "stop":  "2026-09-04T13:24:50.0000000Z",
-                                                  "itemId":  "746531a34dc012efd97b57703e1903af",
-                                                  "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
-                                                  "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
-                                                  "year":  1995
+                                                  "title":  "Jacky Brown",
+                                                  "start":  "2026-09-04T13:24:50.0000000Z",
+                                                  "stop":  "2026-09-04T15:59:32.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Jacky Brown",
-                                              "start":  "2026-09-04T13:24:50.0000000Z",
-                                              "stop":  "2026-09-04T15:59:32.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "CHRISTINE",
+                                              "start":  "2026-09-04T15:59:22.0000000Z",
+                                              "stop":  "2026-09-04T17:49:54.0000000Z",
+                                              "itemId":  "91dc7dc3ea26a9c92725048bc480729c",
+                                              "poster":  "http://127.0.0.1:8096/Items/91dc7dc3ea26a9c92725048bc480729c/Images/Primary",
+                                              "description":  "Nerdy high schooler Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory. As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty. Arnie\u0027s girlfriend Leigh and best friend Dennis reach out to him, only to be met by a Fury like no other.",
+                                              "year":  1983
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Jacky Brown",
-                                                    "start":  "2026-09-04T13:24:50.0000000Z",
-                                                    "stop":  "2026-09-04T15:59:32.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "CHRISTINE",
                                                     "start":  "2026-09-04T15:59:22.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/b03986ae5fac22e258cf02b8c89bc7a4/Images/Primary",
                                                     "description":  "Private eye Rafe Guttman is hired by repressed, born-again Katherine to find her missing bad-boy brother. The trail leads him to a whorehouse run by a thousand-year-old vampire and secretly backed by Katherine\u0027s boss, televangelist Jimmy Current.",
                                                     "year":  1996
+                                                },
+                                                {
+                                                    "title":  "CB4",
+                                                    "start":  "2026-09-05T04:46:50.0000000Z",
+                                                    "stop":  "2026-09-05T06:15:30.0000000Z",
+                                                    "itemId":  "aaf87b319e700aef20429fed5429cdee",
+                                                    "poster":  "http://127.0.0.1:8096/Items/aaf87b319e700aef20429fed5429cdee/Images/Primary",
+                                                    "description":  "A \"rockumentary\", covering the rise to fame of MC Gusto, Stab Master Arson, and Dead Mike: members of the rap group \"CB4\". We soon learn that these three are not what they seem and don\u0027t appear to know as much about rap music as they claim... but a lack of musical ability in an artist never hurts sales, does it? You\u0027ve just got to play the part of a rap star...",
+                                                    "year":  1993
                                                 }
                                             ]
                            },
@@ -581,33 +581,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "T2",
-                                                  "start":  "2026-09-04T13:23:44.0000000Z",
-                                                  "stop":  "2026-09-04T13:24:16.0000000Z",
-                                                  "itemId":  "1315943017e226076a7899408d36dec5",
-                                                  "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
+                                                  "title":  "Ricardo \u0026 Mocoso",
+                                                  "start":  "2026-09-04T13:24:16.0000000Z",
+                                                  "stop":  "2026-09-04T13:26:32.0000000Z",
+                                                  "itemId":  "0e268bdc592953760cc985e16953d93d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Ricardo \u0026 Mocoso",
-                                              "start":  "2026-09-04T13:24:16.0000000Z",
-                                              "stop":  "2026-09-04T13:26:32.0000000Z",
-                                              "itemId":  "0e268bdc592953760cc985e16953d93d",
-                                              "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
+                                              "title":  "XocoBruja",
+                                              "start":  "2026-09-04T13:26:32.0000000Z",
+                                              "stop":  "2026-09-04T13:28:00.0000000Z",
+                                              "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
+                                              "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Ricardo \u0026 Mocoso",
-                                                    "start":  "2026-09-04T13:24:16.0000000Z",
-                                                    "stop":  "2026-09-04T13:26:32.0000000Z",
-                                                    "itemId":  "0e268bdc592953760cc985e16953d93d",
-                                                    "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "XocoBruja",
                                                     "start":  "2026-09-04T13:26:32.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-09-04T13:44:38.0000000Z",
                                                     "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                                     "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "DnBaPCsht",
+                                                    "start":  "2026-09-04T13:44:38.0000000Z",
+                                                    "stop":  "2026-09-04T13:45:25.0000000Z",
+                                                    "itemId":  "d2296bca99a831548bbada0bb3bac719",
+                                                    "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
