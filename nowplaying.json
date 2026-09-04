@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-04T03:49:05.0272861Z",
+    "updated":  "2026-09-04T03:50:14.8607920Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -197,33 +197,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Commando",
-                                                  "start":  "2026-09-04T02:19:58.0000000Z",
-                                                  "stop":  "2026-09-04T03:50:12.0000000Z",
-                                                  "itemId":  "4d57925cf6d4f5a046509bad0a68d29f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
-                                                  "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
-                                                  "year":  1985
+                                                  "title":  "Conan The Barbarian",
+                                                  "start":  "2026-09-04T03:50:12.0000000Z",
+                                                  "stop":  "2026-09-04T06:00:33.0000000Z",
+                                                  "itemId":  "d0a933c7f9688726a8f9a30f309399ad",
+                                                  "poster":  "http://127.0.0.1:8096/Items/d0a933c7f9688726a8f9a30f309399ad/Images/Primary",
+                                                  "description":  "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
+                                                  "year":  1982
                                               },
                                "upNext":  {
-                                              "title":  "Conan The Barbarian",
-                                              "start":  "2026-09-04T03:50:12.0000000Z",
-                                              "stop":  "2026-09-04T06:00:33.0000000Z",
-                                              "itemId":  "d0a933c7f9688726a8f9a30f309399ad",
-                                              "poster":  "http://127.0.0.1:8096/Items/d0a933c7f9688726a8f9a30f309399ad/Images/Primary",
-                                              "description":  "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
-                                              "year":  1982
+                                              "title":  "Conan The Destroyer",
+                                              "start":  "2026-09-04T06:00:33.0000000Z",
+                                              "stop":  "2026-09-04T07:41:41.0000000Z",
+                                              "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
+                                              "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
+                                              "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
+                                              "year":  1984
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Conan The Barbarian",
-                                                    "start":  "2026-09-04T03:50:12.0000000Z",
-                                                    "stop":  "2026-09-04T06:00:33.0000000Z",
-                                                    "itemId":  "d0a933c7f9688726a8f9a30f309399ad",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d0a933c7f9688726a8f9a30f309399ad/Images/Primary",
-                                                    "description":  "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
-                                                    "year":  1982
-                                                },
                                                 {
                                                     "title":  "Conan The Destroyer",
                                                     "start":  "2026-09-04T06:00:33.0000000Z",
@@ -286,6 +277,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/5220d04d46ddf5fa55aacae5d4916919/Images/Primary",
                                                     "description":  "Austin\u0027s hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
                                                     "year":  2007
+                                                },
+                                                {
+                                                    "title":  "Robocop",
+                                                    "start":  "2026-09-04T18:31:36.0000000Z",
+                                                    "stop":  "2026-09-04T20:14:23.0000000Z",
+                                                    "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
+                                                    "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
+                                                    "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
+                                                    "year":  1987
                                                 }
                                             ]
                            },
