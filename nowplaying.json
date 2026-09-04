@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-04T07:00:05.3328069Z",
+    "updated":  "2026-09-04T07:02:12.0597456Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -7,7 +7,7 @@
                                "nowPlaying":  {
                                                   "title":  "DEATH PROOF",
                                                   "start":  "2026-09-04T05:08:57.0000000Z",
-                                                  "stop":  "2026-09-04T07:02:51.0000000Z",
+                                                  "stop":  "2026-09-04T07:02:53.0000000Z",
                                                   "itemId":  "5220d04d46ddf5fa55aacae5d4916919",
                                                   "poster":  "http://127.0.0.1:8096/Items/5220d04d46ddf5fa55aacae5d4916919/Images/Primary",
                                                   "description":  "Austin\u0027s hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
@@ -35,7 +35,7 @@
                                                 {
                                                     "title":  "Reservor Dogs",
                                                     "start":  "2026-09-04T10:00:33.0000000Z",
-                                                    "stop":  "2026-09-04T11:40:02.0000000Z",
+                                                    "stop":  "2026-09-04T11:40:00.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -53,7 +53,7 @@
                                                 {
                                                     "title":  "Jacky Brown",
                                                     "start":  "2026-09-04T13:24:50.0000000Z",
-                                                    "stop":  "2026-09-04T15:59:33.0000000Z",
+                                                    "stop":  "2026-09-04T15:59:34.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -71,7 +71,7 @@
                                                 {
                                                     "title":  "Land of the Dead",
                                                     "start":  "2026-09-04T17:49:54.0000000Z",
-                                                    "stop":  "2026-09-04T19:27:06.0000000Z",
+                                                    "stop":  "2026-09-04T19:27:05.0000000Z",
                                                     "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
                                                     "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
                                                     "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
@@ -89,7 +89,7 @@
                                                 {
                                                     "title":  "Master and Commander",
                                                     "start":  "2026-09-04T20:57:19.0000000Z",
-                                                    "stop":  "2026-09-04T23:16:02.0000000Z",
+                                                    "stop":  "2026-09-04T23:16:03.0000000Z",
                                                     "itemId":  "5fcc6b3e811cdcaf000036c06aef62b9",
                                                     "poster":  "http://127.0.0.1:8096/Items/5fcc6b3e811cdcaf000036c06aef62b9/Images/Primary",
                                                     "description":  "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship\u0027s thoughtful surgeon, his best friend.",
@@ -583,31 +583,22 @@
                                "nowPlaying":  {
                                                   "title":  "Oz",
                                                   "start":  "2026-09-04T06:58:55.0000000Z",
-                                                  "stop":  "2026-09-04T07:00:08.0000000Z",
+                                                  "stop":  "2026-09-04T07:09:13.0000000Z",
                                                   "itemId":  "f332ba1673f9273e5349cd38b640cf51",
                                                   "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "BloodJoke",
-                                              "start":  "2026-09-04T07:00:36.0000000Z",
-                                              "stop":  "2026-09-04T07:02:12.0000000Z",
-                                              "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                              "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                              "title":  "Carrito",
+                                              "start":  "2026-09-04T07:02:17.0000000Z",
+                                              "stop":  "2026-09-04T07:09:56.0000000Z",
+                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "BloodJoke",
-                                                    "start":  "2026-09-04T07:00:36.0000000Z",
-                                                    "stop":  "2026-09-04T07:02:12.0000000Z",
-                                                    "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-09-04T07:02:17.0000000Z",
@@ -629,7 +620,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-09-04T07:11:01.0000000Z",
-                                                    "stop":  "2026-09-04T07:11:48.0000000Z",
+                                                    "stop":  "2026-09-04T07:30:40.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -638,7 +629,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-09-04T07:11:59.0000000Z",
-                                                    "stop":  "2026-09-04T07:13:09.0000000Z",
+                                                    "stop":  "2026-09-04T07:13:41.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -647,7 +638,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-09-04T07:13:41.0000000Z",
-                                                    "stop":  "2026-09-04T07:17:33.0000000Z",
+                                                    "stop":  "2026-09-04T07:26:11.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -656,7 +647,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-09-04T07:17:38.0000000Z",
-                                                    "stop":  "2026-09-04T07:19:50.0000000Z",
+                                                    "stop":  "2026-09-04T07:28:23.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -665,9 +656,18 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-09-04T07:19:50.0000000Z",
-                                                    "stop":  "2026-09-04T07:20:32.0000000Z",
+                                                    "stop":  "2026-09-04T07:29:05.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "SSBI4649",
+                                                    "start":  "2026-09-04T07:20:32.0000000Z",
+                                                    "stop":  "2026-09-04T07:48:41.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
                                                     "description":  null,
                                                     "year":  null
                                                 }
