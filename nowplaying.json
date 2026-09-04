@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-04T14:50:05.5903965Z",
+    "updated":  "2026-09-04T14:51:05.5925728Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -582,24 +582,15 @@
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  null,
                                "upNext":  {
-                                              "title":  "Mr J-Carry",
-                                              "start":  "2026-09-04T14:50:16.0000000Z",
-                                              "stop":  "2026-09-04T14:50:48.0000000Z",
-                                              "itemId":  "56c94066e018711311e81d6a3f6cc139",
-                                              "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
+                                              "title":  "T2",
+                                              "start":  "2026-09-04T14:51:12.0000000Z",
+                                              "stop":  "2026-09-04T14:51:44.0000000Z",
+                                              "itemId":  "1315943017e226076a7899408d36dec5",
+                                              "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Mr J-Carry",
-                                                    "start":  "2026-09-04T14:50:16.0000000Z",
-                                                    "stop":  "2026-09-04T14:50:48.0000000Z",
-                                                    "itemId":  "56c94066e018711311e81d6a3f6cc139",
-                                                    "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "T2",
                                                     "start":  "2026-09-04T14:51:12.0000000Z",
@@ -660,6 +651,15 @@
                                                     "stop":  "2026-09-04T15:03:17.0000000Z",
                                                     "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
                                                     "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Carrito",
+                                                    "start":  "2026-09-04T15:03:23.0000000Z",
+                                                    "stop":  "2026-09-04T15:11:01.0000000Z",
+                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
