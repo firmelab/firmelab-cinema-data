@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-04T11:39:05.7275025Z",
+    "updated":  "2026-09-04T11:40:05.2064202Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Reservor Dogs",
-                                                  "start":  "2026-09-04T10:00:33.0000000Z",
-                                                  "stop":  "2026-09-04T11:40:01.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Get Shorty",
+                                                  "start":  "2026-09-04T11:39:50.0000000Z",
+                                                  "stop":  "2026-09-04T13:24:50.0000000Z",
+                                                  "itemId":  "746531a34dc012efd97b57703e1903af",
+                                                  "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
+                                                  "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
+                                                  "year":  1995
                                               },
                                "upNext":  {
-                                              "title":  "Get Shorty",
-                                              "start":  "2026-09-04T11:39:50.0000000Z",
-                                              "stop":  "2026-09-04T13:24:50.0000000Z",
-                                              "itemId":  "746531a34dc012efd97b57703e1903af",
-                                              "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
-                                              "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
-                                              "year":  1995
+                                              "title":  "Jacky Brown",
+                                              "start":  "2026-09-04T13:24:50.0000000Z",
+                                              "stop":  "2026-09-04T15:59:32.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Get Shorty",
-                                                    "start":  "2026-09-04T11:39:50.0000000Z",
-                                                    "stop":  "2026-09-04T13:24:50.0000000Z",
-                                                    "itemId":  "746531a34dc012efd97b57703e1903af",
-                                                    "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
-                                                    "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
-                                                    "year":  1995
-                                                },
                                                 {
                                                     "title":  "Jacky Brown",
                                                     "start":  "2026-09-04T13:24:50.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
                                                     "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
                                                     "year":  2019
+                                                },
+                                                {
+                                                    "title":  "BORDELLO OF BLOOD",
+                                                    "start":  "2026-09-05T03:20:08.0000000Z",
+                                                    "stop":  "2026-09-05T04:46:50.0000000Z",
+                                                    "itemId":  "b03986ae5fac22e258cf02b8c89bc7a4",
+                                                    "poster":  "http://127.0.0.1:8096/Items/b03986ae5fac22e258cf02b8c89bc7a4/Images/Primary",
+                                                    "description":  "Private eye Rafe Guttman is hired by repressed, born-again Katherine to find her missing bad-boy brother. The trail leads him to a whorehouse run by a thousand-year-old vampire and secretly backed by Katherine\u0027s boss, televangelist Jimmy Current.",
+                                                    "year":  1996
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Never 3Nding",
-                                              "start":  "2026-09-04T11:40:03.0000000Z",
-                                              "stop":  "2026-09-04T11:42:15.0000000Z",
-                                              "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
-                                              "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
+                                              "title":  "Ninja Now",
+                                              "start":  "2026-09-04T11:42:15.0000000Z",
+                                              "stop":  "2026-09-04T12:20:10.0000000Z",
+                                              "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
+                                              "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Never 3Nding",
-                                                    "start":  "2026-09-04T11:40:03.0000000Z",
-                                                    "stop":  "2026-09-04T11:42:15.0000000Z",
-                                                    "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
-                                                    "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-09-04T11:42:15.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-09-04T11:53:28.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Chingadasos",
+                                                    "start":  "2026-09-04T11:53:28.0000000Z",
+                                                    "stop":  "2026-09-04T11:54:14.0000000Z",
+                                                    "itemId":  "8988d98fd90679aab5aff5b786344b1c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
