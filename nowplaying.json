@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-04T07:33:11.2519911Z",
+    "updated":  "2026-09-04T07:34:16.1162652Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -590,24 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "T2",
-                                              "start":  "2026-09-04T07:33:51.0000000Z",
-                                              "stop":  "2026-09-04T07:34:23.0000000Z",
-                                              "itemId":  "1315943017e226076a7899408d36dec5",
-                                              "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
+                                              "title":  "Ricardo \u0026 Mocoso",
+                                              "start":  "2026-09-04T07:34:23.0000000Z",
+                                              "stop":  "2026-09-04T07:36:39.0000000Z",
+                                              "itemId":  "0e268bdc592953760cc985e16953d93d",
+                                              "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "T2",
-                                                    "start":  "2026-09-04T07:33:51.0000000Z",
-                                                    "stop":  "2026-09-04T07:34:23.0000000Z",
-                                                    "itemId":  "1315943017e226076a7899408d36dec5",
-                                                    "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Ricardo \u0026 Mocoso",
                                                     "start":  "2026-09-04T07:34:23.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-09-04T07:53:40.0000000Z",
                                                     "itemId":  "ed83754111f4ed370a338cab8345534d",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Dancing Cobra",
+                                                    "start":  "2026-09-04T07:53:40.0000000Z",
+                                                    "stop":  "2026-09-04T08:34:25.0000000Z",
+                                                    "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                                    "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
