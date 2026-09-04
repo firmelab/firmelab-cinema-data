@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-04T16:09:05.2001034Z",
+    "updated":  "2026-09-04T16:10:05.8157254Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -590,24 +590,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Ass Kicker Bruce",
-                                              "start":  "2026-09-04T16:09:16.0000000Z",
-                                              "stop":  "2026-09-04T16:55:50.0000000Z",
-                                              "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
-                                              "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                              "title":  "Biggie Mobbing",
+                                              "start":  "2026-09-04T16:15:12.0000000Z",
+                                              "stop":  "2026-09-04T17:04:04.0000000Z",
+                                              "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
+                                              "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Ass Kicker Bruce",
-                                                    "start":  "2026-09-04T16:09:16.0000000Z",
-                                                    "stop":  "2026-09-04T16:55:50.0000000Z",
-                                                    "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-09-04T16:15:12.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "MrPayo",
+                                                    "start":  "2026-09-04T16:26:23.0000000Z",
+                                                    "stop":  "2026-09-04T16:27:06.0000000Z",
+                                                    "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
+                                                    "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
