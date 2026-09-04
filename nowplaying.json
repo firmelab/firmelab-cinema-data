@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-04T19:26:05.7345831Z",
+    "updated":  "2026-09-04T19:27:05.7470054Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Land of the Dead",
-                                                  "start":  "2026-09-04T17:49:54.0000000Z",
-                                                  "stop":  "2026-09-04T19:27:05.0000000Z",
-                                                  "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
-                                                  "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
-                                                  "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
-                                                  "year":  2005
+                                                  "title":  "Commando",
+                                                  "start":  "2026-09-04T19:26:54.0000000Z",
+                                                  "stop":  "2026-09-04T20:57:19.0000000Z",
+                                                  "itemId":  "4d57925cf6d4f5a046509bad0a68d29f",
+                                                  "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
+                                                  "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
+                                                  "year":  1985
                                               },
                                "upNext":  {
-                                              "title":  "Commando",
-                                              "start":  "2026-09-04T19:26:54.0000000Z",
-                                              "stop":  "2026-09-04T20:57:19.0000000Z",
-                                              "itemId":  "4d57925cf6d4f5a046509bad0a68d29f",
-                                              "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
-                                              "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
-                                              "year":  1985
+                                              "title":  "Master and Commander",
+                                              "start":  "2026-09-04T20:57:19.0000000Z",
+                                              "stop":  "2026-09-04T23:16:01.0000000Z",
+                                              "itemId":  "5fcc6b3e811cdcaf000036c06aef62b9",
+                                              "poster":  "http://127.0.0.1:8096/Items/5fcc6b3e811cdcaf000036c06aef62b9/Images/Primary",
+                                              "description":  "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship\u0027s thoughtful surgeon, his best friend.",
+                                              "year":  2003
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Commando",
-                                                    "start":  "2026-09-04T19:26:54.0000000Z",
-                                                    "stop":  "2026-09-04T20:57:19.0000000Z",
-                                                    "itemId":  "4d57925cf6d4f5a046509bad0a68d29f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
-                                                    "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
-                                                    "year":  1985
-                                                },
                                                 {
                                                     "title":  "Master and Commander",
                                                     "start":  "2026-09-04T20:57:19.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
                                                     "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
                                                     "year":  1984
+                                                },
+                                                {
+                                                    "title":  "The Patriot",
+                                                    "start":  "2026-09-05T09:33:48.0000000Z",
+                                                    "stop":  "2026-09-05T12:18:47.0000000Z",
+                                                    "itemId":  "17b673273650da7e33ae51350e123fb0",
+                                                    "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
+                                                    "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+                                                    "year":  2000
                                                 }
                                             ]
                            },
