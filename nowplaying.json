@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-04T08:42:06.1241266Z",
+    "updated":  "2026-09-04T08:43:05.9523479Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -293,33 +293,24 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "Undercover Brother",
-                                                  "start":  "2026-09-04T07:16:12.0000000Z",
-                                                  "stop":  "2026-09-04T08:42:18.0000000Z",
-                                                  "itemId":  "6317b8f6b30a049091764b8311c08279",
-                                                  "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
-                                                  "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
-                                                  "year":  2002
+                                                  "title":  "AnchorMan",
+                                                  "start":  "2026-09-04T08:42:18.0000000Z",
+                                                  "stop":  "2026-09-04T10:19:41.0000000Z",
+                                                  "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
+                                                  "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
+                                                  "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
+                                                  "year":  2004
                                               },
                                "upNext":  {
-                                              "title":  "AnchorMan",
-                                              "start":  "2026-09-04T08:42:18.0000000Z",
-                                              "stop":  "2026-09-04T10:19:41.0000000Z",
-                                              "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
-                                              "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
-                                              "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
-                                              "year":  2004
+                                              "title":  "Duplex",
+                                              "start":  "2026-09-04T10:19:41.0000000Z",
+                                              "stop":  "2026-09-04T11:48:54.0000000Z",
+                                              "itemId":  "e2340e07092b6de7376760916297a934",
+                                              "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
+                                              "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
+                                              "year":  2003
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "AnchorMan",
-                                                    "start":  "2026-09-04T08:42:18.0000000Z",
-                                                    "stop":  "2026-09-04T10:19:41.0000000Z",
-                                                    "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
-                                                    "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
-                                                    "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
-                                                    "year":  2004
-                                                },
                                                 {
                                                     "title":  "Duplex",
                                                     "start":  "2026-09-04T10:19:41.0000000Z",
@@ -382,6 +373,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
                                                     "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
                                                     "year":  2003
+                                                },
+                                                {
+                                                    "title":  "UP IN SMOKE",
+                                                    "start":  "2026-09-04T20:54:20.0000000Z",
+                                                    "stop":  "2026-09-04T22:20:11.0000000Z",
+                                                    "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
+                                                    "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
+                                                    "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
+                                                    "year":  1978
                                                 }
                                             ]
                            },
