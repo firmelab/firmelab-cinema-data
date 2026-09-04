@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-04T07:58:21.7744008Z",
+    "updated":  "2026-09-04T07:59:30.7142213Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -677,33 +677,24 @@
                                "number":  8,
                                "name":  "FIRMELAB FRONTIER",
                                "nowPlaying":  {
-                                                  "title":  "Young Guns",
-                                                  "start":  "2026-09-04T06:12:36.0000000Z",
-                                                  "stop":  "2026-09-04T07:59:22.0000000Z",
-                                                  "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
-                                                  "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
-                                                  "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
-                                                  "year":  1988
+                                                  "title":  "The Patriot",
+                                                  "start":  "2026-09-04T07:59:22.0000000Z",
+                                                  "stop":  "2026-09-04T10:44:08.0000000Z",
+                                                  "itemId":  "17b673273650da7e33ae51350e123fb0",
+                                                  "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
+                                                  "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+                                                  "year":  2000
                                               },
                                "upNext":  {
-                                              "title":  "The Patriot",
-                                              "start":  "2026-09-04T07:59:22.0000000Z",
-                                              "stop":  "2026-09-04T10:44:08.0000000Z",
-                                              "itemId":  "17b673273650da7e33ae51350e123fb0",
-                                              "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
-                                              "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
-                                              "year":  2000
+                                              "title":  "Master and Commander",
+                                              "start":  "2026-09-04T10:44:08.0000000Z",
+                                              "stop":  "2026-09-04T13:02:29.0000000Z",
+                                              "itemId":  "5fcc6b3e811cdcaf000036c06aef62b9",
+                                              "poster":  "http://127.0.0.1:8096/Items/5fcc6b3e811cdcaf000036c06aef62b9/Images/Primary",
+                                              "description":  "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship\u0027s thoughtful surgeon, his best friend.",
+                                              "year":  2003
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "The Patriot",
-                                                    "start":  "2026-09-04T07:59:22.0000000Z",
-                                                    "stop":  "2026-09-04T10:44:08.0000000Z",
-                                                    "itemId":  "17b673273650da7e33ae51350e123fb0",
-                                                    "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
-                                                    "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
-                                                    "year":  2000
-                                                },
                                                 {
                                                     "title":  "Master and Commander",
                                                     "start":  "2026-09-04T10:44:08.0000000Z",
@@ -762,6 +753,15 @@
                                                     "title":  "Brave Heart",
                                                     "start":  "2026-09-05T01:01:18.0000000Z",
                                                     "stop":  "2026-09-05T03:58:58.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "The Count Monte Cristos",
+                                                    "start":  "2026-09-05T03:58:58.0000000Z",
+                                                    "stop":  "2026-09-05T06:10:12.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
