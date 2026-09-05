@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-05T23:48:04.9817803Z",
+    "updated":  "2026-09-05T23:49:05.0108494Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "A Nightmare on Elm Street",
-                                                  "start":  "2026-09-05T22:16:43.0000000Z",
-                                                  "stop":  "2026-09-05T23:48:30.0000000Z",
-                                                  "itemId":  "c79ef56b1b57aea8237d2575aba106ee",
-                                                  "poster":  "http://127.0.0.1:8096/Items/c79ef56b1b57aea8237d2575aba106ee/Images/Primary",
-                                                  "description":  "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop\u0027s daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers\u0027 children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
-                                                  "year":  1984
+                                                  "title":  "Nightmare on Elm Street 3 Dream Master",
+                                                  "start":  "2026-09-05T23:48:19.0000000Z",
+                                                  "stop":  "2026-09-06T01:21:49.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Nightmare on Elm Street 3 Dream Master",
-                                              "start":  "2026-09-05T23:48:19.0000000Z",
-                                              "stop":  "2026-09-06T01:21:49.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Undercover Brother",
+                                              "start":  "2026-09-06T01:21:49.0000000Z",
+                                              "stop":  "2026-09-06T02:48:39.0000000Z",
+                                              "itemId":  "6317b8f6b30a049091764b8311c08279",
+                                              "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
+                                              "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
+                                              "year":  2002
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Nightmare on Elm Street 3 Dream Master",
-                                                    "start":  "2026-09-05T23:48:19.0000000Z",
-                                                    "stop":  "2026-09-06T01:21:49.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Undercover Brother",
                                                     "start":  "2026-09-06T01:21:49.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
                                                     "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
                                                     "year":  2003
+                                                },
+                                                {
+                                                    "title":  "BORDELLO OF BLOOD",
+                                                    "start":  "2026-09-06T13:10:22.0000000Z",
+                                                    "stop":  "2026-09-06T14:37:04.0000000Z",
+                                                    "itemId":  "b03986ae5fac22e258cf02b8c89bc7a4",
+                                                    "poster":  "http://127.0.0.1:8096/Items/b03986ae5fac22e258cf02b8c89bc7a4/Images/Primary",
+                                                    "description":  "Private eye Rafe Guttman is hired by repressed, born-again Katherine to find her missing bad-boy brother. The trail leads him to a whorehouse run by a thousand-year-old vampire and secretly backed by Katherine\u0027s boss, televangelist Jimmy Current.",
+                                                    "year":  1996
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Oz",
-                                              "start":  "2026-09-05T23:48:07.0000000Z",
-                                              "stop":  "2026-09-06T00:29:04.0000000Z",
-                                              "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                              "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                              "title":  "BloodJoke",
+                                              "start":  "2026-09-05T23:49:48.0000000Z",
+                                              "stop":  "2026-09-05T23:51:24.0000000Z",
+                                              "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                              "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Oz",
-                                                    "start":  "2026-09-05T23:48:07.0000000Z",
-                                                    "stop":  "2026-09-06T00:29:04.0000000Z",
-                                                    "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "BloodJoke",
                                                     "start":  "2026-09-05T23:49:48.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Ninja Now",
+                                                    "start":  "2026-09-06T00:09:02.0000000Z",
+                                                    "stop":  "2026-09-06T00:33:25.0000000Z",
+                                                    "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
