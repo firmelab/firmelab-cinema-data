@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-05T18:59:05.5404371Z",
+    "updated":  "2026-09-05T19:00:05.6500736Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -197,33 +197,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Predator",
-                                                  "start":  "2026-09-05T17:12:37.0000000Z",
-                                                  "stop":  "2026-09-05T18:59:11.0000000Z",
-                                                  "itemId":  "9745bbd80aedfd3750130547f37af704",
-                                                  "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
-                                                  "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
-                                                  "year":  1987
+                                                  "title":  "Rambo First Blood",
+                                                  "start":  "2026-09-05T18:59:11.0000000Z",
+                                                  "stop":  "2026-09-05T20:32:21.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Rambo First Blood",
-                                              "start":  "2026-09-05T18:59:11.0000000Z",
-                                              "stop":  "2026-09-05T20:32:21.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Sherlock Holmes",
+                                              "start":  "2026-09-05T20:32:21.0000000Z",
+                                              "stop":  "2026-09-05T22:40:50.0000000Z",
+                                              "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
+                                              "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
+                                              "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
+                                              "year":  2009
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Rambo First Blood",
-                                                    "start":  "2026-09-05T18:59:11.0000000Z",
-                                                    "stop":  "2026-09-05T20:32:21.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Sherlock Holmes",
                                                     "start":  "2026-09-05T20:32:21.0000000Z",
@@ -286,6 +277,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
                                                     "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
                                                     "year":  1993
+                                                },
+                                                {
+                                                    "title":  "Total Recall",
+                                                    "start":  "2026-09-06T09:26:49.0000000Z",
+                                                    "stop":  "2026-09-06T11:20:09.0000000Z",
+                                                    "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
+                                                    "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
+                                                    "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
+                                                    "year":  1990
                                                 }
                                             ]
                            },
