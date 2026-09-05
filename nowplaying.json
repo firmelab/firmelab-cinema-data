@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-05T04:46:05.0629958Z",
+    "updated":  "2026-09-05T04:47:05.0316883Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "BORDELLO OF BLOOD",
-                                                  "start":  "2026-09-05T03:20:08.0000000Z",
-                                                  "stop":  "2026-09-05T04:46:50.0000000Z",
-                                                  "itemId":  "b03986ae5fac22e258cf02b8c89bc7a4",
-                                                  "poster":  "http://127.0.0.1:8096/Items/b03986ae5fac22e258cf02b8c89bc7a4/Images/Primary",
-                                                  "description":  "Private eye Rafe Guttman is hired by repressed, born-again Katherine to find her missing bad-boy brother. The trail leads him to a whorehouse run by a thousand-year-old vampire and secretly backed by Katherine\u0027s boss, televangelist Jimmy Current.",
-                                                  "year":  1996
+                                                  "title":  "CB4",
+                                                  "start":  "2026-09-05T04:46:50.0000000Z",
+                                                  "stop":  "2026-09-05T06:15:29.0000000Z",
+                                                  "itemId":  "aaf87b319e700aef20429fed5429cdee",
+                                                  "poster":  "http://127.0.0.1:8096/Items/aaf87b319e700aef20429fed5429cdee/Images/Primary",
+                                                  "description":  "A \"rockumentary\", covering the rise to fame of MC Gusto, Stab Master Arson, and Dead Mike: members of the rap group \"CB4\". We soon learn that these three are not what they seem and don\u0027t appear to know as much about rap music as they claim... but a lack of musical ability in an artist never hurts sales, does it? You\u0027ve just got to play the part of a rap star...",
+                                                  "year":  1993
                                               },
                                "upNext":  {
-                                              "title":  "CB4",
-                                              "start":  "2026-09-05T04:46:50.0000000Z",
-                                              "stop":  "2026-09-05T06:15:29.0000000Z",
-                                              "itemId":  "aaf87b319e700aef20429fed5429cdee",
-                                              "poster":  "http://127.0.0.1:8096/Items/aaf87b319e700aef20429fed5429cdee/Images/Primary",
-                                              "description":  "A \"rockumentary\", covering the rise to fame of MC Gusto, Stab Master Arson, and Dead Mike: members of the rap group \"CB4\". We soon learn that these three are not what they seem and don\u0027t appear to know as much about rap music as they claim... but a lack of musical ability in an artist never hurts sales, does it? You\u0027ve just got to play the part of a rap star...",
-                                              "year":  1993
+                                              "title":  "Seventh Sign",
+                                              "start":  "2026-09-05T06:15:19.0000000Z",
+                                              "stop":  "2026-09-05T07:52:29.0000000Z",
+                                              "itemId":  "ee279419a64df59247370e38f4f0deea",
+                                              "poster":  "http://127.0.0.1:8096/Items/ee279419a64df59247370e38f4f0deea/Images/Primary",
+                                              "description":  "Abby is a pregnant woman with a curious new boarder in the apartment over her garage. Turns out he\u0027s heaven-sent and is speeding along the Apocalypse by bloodying rivers, egging on plagues and following scripture word for word.",
+                                              "year":  1988
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "CB4",
-                                                    "start":  "2026-09-05T04:46:50.0000000Z",
-                                                    "stop":  "2026-09-05T06:15:29.0000000Z",
-                                                    "itemId":  "aaf87b319e700aef20429fed5429cdee",
-                                                    "poster":  "http://127.0.0.1:8096/Items/aaf87b319e700aef20429fed5429cdee/Images/Primary",
-                                                    "description":  "A \"rockumentary\", covering the rise to fame of MC Gusto, Stab Master Arson, and Dead Mike: members of the rap group \"CB4\". We soon learn that these three are not what they seem and don\u0027t appear to know as much about rap music as they claim... but a lack of musical ability in an artist never hurts sales, does it? You\u0027ve just got to play the part of a rap star...",
-                                                    "year":  1993
-                                                },
                                                 {
                                                     "title":  "Seventh Sign",
                                                     "start":  "2026-09-05T06:15:19.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
                                                     "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
                                                     "year":  1997
+                                                },
+                                                {
+                                                    "title":  "HEAVY METAL",
+                                                    "start":  "2026-09-05T19:23:55.0000000Z",
+                                                    "stop":  "2026-09-05T20:54:39.0000000Z",
+                                                    "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                                    "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                                    "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                                    "year":  1981
                                                 }
                                             ]
                            },
