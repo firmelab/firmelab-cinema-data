@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-05T22:16:05.1878529Z",
+    "updated":  "2026-09-05T22:17:05.2174071Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "HALF BAKED",
-                                                  "start":  "2026-09-05T20:54:27.0000000Z",
-                                                  "stop":  "2026-09-05T22:16:53.0000000Z",
-                                                  "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
-                                                  "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
-                                                  "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
-                                                  "year":  1998
+                                                  "title":  "A Nightmare on Elm Street",
+                                                  "start":  "2026-09-05T22:16:43.0000000Z",
+                                                  "stop":  "2026-09-05T23:48:19.0000000Z",
+                                                  "itemId":  "c79ef56b1b57aea8237d2575aba106ee",
+                                                  "poster":  "http://127.0.0.1:8096/Items/c79ef56b1b57aea8237d2575aba106ee/Images/Primary",
+                                                  "description":  "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop\u0027s daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers\u0027 children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
+                                                  "year":  1984
                                               },
                                "upNext":  {
-                                              "title":  "A Nightmare on Elm Street",
-                                              "start":  "2026-09-05T22:16:43.0000000Z",
-                                              "stop":  "2026-09-05T23:48:19.0000000Z",
-                                              "itemId":  "c79ef56b1b57aea8237d2575aba106ee",
-                                              "poster":  "http://127.0.0.1:8096/Items/c79ef56b1b57aea8237d2575aba106ee/Images/Primary",
-                                              "description":  "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop\u0027s daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers\u0027 children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
-                                              "year":  1984
+                                              "title":  "Nightmare on Elm Street 3 Dream Master",
+                                              "start":  "2026-09-05T23:48:19.0000000Z",
+                                              "stop":  "2026-09-06T01:22:01.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "A Nightmare on Elm Street",
-                                                    "start":  "2026-09-05T22:16:43.0000000Z",
-                                                    "stop":  "2026-09-05T23:48:19.0000000Z",
-                                                    "itemId":  "c79ef56b1b57aea8237d2575aba106ee",
-                                                    "poster":  "http://127.0.0.1:8096/Items/c79ef56b1b57aea8237d2575aba106ee/Images/Primary",
-                                                    "description":  "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop\u0027s daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers\u0027 children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
-                                                    "year":  1984
-                                                },
                                                 {
                                                     "title":  "Nightmare on Elm Street 3 Dream Master",
                                                     "start":  "2026-09-05T23:48:19.0000000Z",
@@ -93,6 +84,15 @@
                                                     "itemId":  "e2340e07092b6de7376760916297a934",
                                                     "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
                                                     "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
+                                                    "year":  2003
+                                                },
+                                                {
+                                                    "title":  "Wrong Turn",
+                                                    "start":  "2026-09-06T11:45:58.0000000Z",
+                                                    "stop":  "2026-09-06T13:10:10.0000000Z",
+                                                    "itemId":  "58d332deb67464546d571f7fda1cd63c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
+                                                    "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
                                                     "year":  2003
                                                 }
                                             ]
@@ -580,15 +580,7 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "XocoBruja",
-                                                  "start":  "2026-09-05T22:14:38.0000000Z",
-                                                  "stop":  "2026-09-05T22:16:06.0000000Z",
-                                                  "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
-                                                  "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
-                                                  "description":  null,
-                                                  "year":  2026
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
                                               "title":  "COKCE6139",
                                               "start":  "2026-09-05T22:17:23.0000000Z",
