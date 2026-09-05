@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-05T20:41:05.4534789Z",
+    "updated":  "2026-09-05T20:44:14.5233403Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -590,33 +590,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Chingadasos",
-                                              "start":  "2026-09-05T20:41:34.0000000Z",
-                                              "stop":  "2026-09-05T20:42:20.0000000Z",
-                                              "itemId":  "8988d98fd90679aab5aff5b786344b1c",
-                                              "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
+                                              "title":  "T2",
+                                              "start":  "2026-09-05T20:44:22.0000000Z",
+                                              "stop":  "2026-09-05T20:44:54.0000000Z",
+                                              "itemId":  "1315943017e226076a7899408d36dec5",
+                                              "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Chingadasos",
-                                                    "start":  "2026-09-05T20:41:34.0000000Z",
-                                                    "stop":  "2026-09-05T20:42:20.0000000Z",
-                                                    "itemId":  "8988d98fd90679aab5aff5b786344b1c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
-                                                {
-                                                    "title":  "Mr J-Carry",
-                                                    "start":  "2026-09-05T20:43:26.0000000Z",
-                                                    "stop":  "2026-09-05T20:43:58.0000000Z",
-                                                    "itemId":  "56c94066e018711311e81d6a3f6cc139",
-                                                    "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "T2",
                                                     "start":  "2026-09-05T20:44:22.0000000Z",
@@ -670,6 +652,24 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "BloodJoke",
+                                                    "start":  "2026-09-05T20:54:52.0000000Z",
+                                                    "stop":  "2026-09-05T20:56:27.0000000Z",
+                                                    "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Carrito",
+                                                    "start":  "2026-09-05T20:56:32.0000000Z",
+                                                    "stop":  "2026-09-05T21:04:11.0000000Z",
+                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
