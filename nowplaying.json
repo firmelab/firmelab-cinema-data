@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-05T11:10:05.9304341Z",
+    "updated":  "2026-09-05T11:11:04.9482484Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,13 +581,13 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Never 3Nding",
-                                                  "start":  "2026-09-05T10:59:35.0000000Z",
-                                                  "stop":  "2026-09-05T11:10:24.0000000Z",
-                                                  "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
-                                                  "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
+                                                  "title":  "0Ld Sc00L",
+                                                  "start":  "2026-09-05T11:04:46.0000000Z",
+                                                  "stop":  "2026-09-05T11:24:15.0000000Z",
+                                                  "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                                  "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Biggie Mobbing",
