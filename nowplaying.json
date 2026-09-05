@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-05T16:06:05.2291237Z",
+    "updated":  "2026-09-05T16:07:05.2302567Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "DEMON KNIGHT",
-                                                  "start":  "2026-09-05T14:34:16.0000000Z",
-                                                  "stop":  "2026-09-05T16:07:02.0000000Z",
-                                                  "itemId":  "a5a1f15c45eb562ac5f7621a94c12742",
-                                                  "poster":  "http://127.0.0.1:8096/Items/a5a1f15c45eb562ac5f7621a94c12742/Images/Primary",
-                                                  "description":  "Ex-soldier Frank Brayker is the guardian of an ancient key that can unlock tremendous evil; the sinister Collector is a demon who wants the key so he can initiate the apocalypse. On the run from wicked mercenaries for almost 90 years, Brayker finally stops in at a boarding house in New Mexico where — with the help of its residents — he plans to face off against the Collector and his band of ghouls, preventing them from ever seizing the key.",
-                                                  "year":  1995
+                                                  "title":  "Young Guns",
+                                                  "start":  "2026-09-05T16:06:51.0000000Z",
+                                                  "stop":  "2026-09-05T17:53:47.0000000Z",
+                                                  "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
+                                                  "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
+                                                  "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
+                                                  "year":  1988
                                               },
                                "upNext":  {
-                                              "title":  "Young Guns",
-                                              "start":  "2026-09-05T16:06:51.0000000Z",
-                                              "stop":  "2026-09-05T17:53:47.0000000Z",
-                                              "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
-                                              "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
-                                              "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
-                                              "year":  1988
+                                              "title":  "WISHMASTER",
+                                              "start":  "2026-09-05T17:53:47.0000000Z",
+                                              "stop":  "2026-09-05T19:24:05.0000000Z",
+                                              "itemId":  "58d933a690c3d71b883c09370fa30d07",
+                                              "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
+                                              "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
+                                              "year":  1997
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Young Guns",
-                                                    "start":  "2026-09-05T16:06:51.0000000Z",
-                                                    "stop":  "2026-09-05T17:53:47.0000000Z",
-                                                    "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
-                                                    "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
-                                                    "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
-                                                    "year":  1988
-                                                },
                                                 {
                                                     "title":  "WISHMASTER",
                                                     "start":  "2026-09-05T17:53:47.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
                                                     "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
                                                     "year":  1987
+                                                },
+                                                {
+                                                    "title":  "Firmelab Cinema",
+                                                    "start":  "2026-09-06T04:35:03.0000000Z",
+                                                    "stop":  "2026-09-06T06:51:03.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
