@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-05T11:01:05.8827543Z",
+    "updated":  "2026-09-05T11:02:06.0243254Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -7,7 +7,7 @@
                                "nowPlaying":  {
                                                   "title":  "The Patriot",
                                                   "start":  "2026-09-05T09:33:48.0000000Z",
-                                                  "stop":  "2026-09-05T12:18:57.0000000Z",
+                                                  "stop":  "2026-09-05T12:18:58.0000000Z",
                                                   "itemId":  "17b673273650da7e33ae51350e123fb0",
                                                   "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
                                                   "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
@@ -35,7 +35,7 @@
                                                 {
                                                     "title":  "DEMON KNIGHT",
                                                     "start":  "2026-09-05T14:34:16.0000000Z",
-                                                    "stop":  "2026-09-05T16:07:03.0000000Z",
+                                                    "stop":  "2026-09-05T16:07:01.0000000Z",
                                                     "itemId":  "a5a1f15c45eb562ac5f7621a94c12742",
                                                     "poster":  "http://127.0.0.1:8096/Items/a5a1f15c45eb562ac5f7621a94c12742/Images/Primary",
                                                     "description":  "Ex-soldier Frank Brayker is the guardian of an ancient key that can unlock tremendous evil; the sinister Collector is a demon who wants the key so he can initiate the apocalypse. On the run from wicked mercenaries for almost 90 years, Brayker finally stops in at a boarding house in New Mexico where — with the help of its residents — he plans to face off against the Collector and his band of ghouls, preventing them from ever seizing the key.",
@@ -53,7 +53,7 @@
                                                 {
                                                     "title":  "WISHMASTER",
                                                     "start":  "2026-09-05T17:53:47.0000000Z",
-                                                    "stop":  "2026-09-05T19:24:06.0000000Z",
+                                                    "stop":  "2026-09-05T19:24:07.0000000Z",
                                                     "itemId":  "58d933a690c3d71b883c09370fa30d07",
                                                     "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
                                                     "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
@@ -583,31 +583,22 @@
                                "nowPlaying":  {
                                                   "title":  "Never 3Nding",
                                                   "start":  "2026-09-05T10:59:35.0000000Z",
-                                                  "stop":  "2026-09-05T11:01:47.0000000Z",
+                                                  "stop":  "2026-09-05T11:10:24.0000000Z",
                                                   "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                   "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Ninja Now",
-                                              "start":  "2026-09-05T11:01:47.0000000Z",
-                                              "stop":  "2026-09-05T11:02:29.0000000Z",
-                                              "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                              "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                              "title":  "SSBI4649",
+                                              "start":  "2026-09-05T11:02:29.0000000Z",
+                                              "stop":  "2026-09-05T11:03:18.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Ninja Now",
-                                                    "start":  "2026-09-05T11:01:47.0000000Z",
-                                                    "stop":  "2026-09-05T11:02:29.0000000Z",
-                                                    "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-09-05T11:02:29.0000000Z",
@@ -629,7 +620,7 @@
                                                 {
                                                     "title":  "0Ld Sc00L",
                                                     "start":  "2026-09-05T11:04:46.0000000Z",
-                                                    "stop":  "2026-09-05T11:05:35.0000000Z",
+                                                    "stop":  "2026-09-05T11:24:15.0000000Z",
                                                     "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
                                                     "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                                     "description":  null,
@@ -647,7 +638,7 @@
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-09-05T11:06:24.0000000Z",
-                                                    "stop":  "2026-09-05T11:12:19.0000000Z",
+                                                    "stop":  "2026-09-05T11:20:52.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                     "description":  null,
@@ -656,7 +647,7 @@
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-09-05T11:12:19.0000000Z",
-                                                    "stop":  "2026-09-05T11:13:00.0000000Z",
+                                                    "stop":  "2026-09-05T11:21:33.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
@@ -665,9 +656,18 @@
                                                 {
                                                     "title":  "Chingadasos",
                                                     "start":  "2026-09-05T11:13:00.0000000Z",
-                                                    "stop":  "2026-09-05T11:13:47.0000000Z",
+                                                    "stop":  "2026-09-05T11:23:25.0000000Z",
                                                     "itemId":  "8988d98fd90679aab5aff5b786344b1c",
                                                     "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Mr J-Carry",
+                                                    "start":  "2026-09-05T11:14:52.0000000Z",
+                                                    "stop":  "2026-09-05T11:43:08.0000000Z",
+                                                    "itemId":  "56c94066e018711311e81d6a3f6cc139",
+                                                    "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
