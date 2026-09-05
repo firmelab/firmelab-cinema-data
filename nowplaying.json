@@ -1,0 +1,765 @@
+{
+    "updated":  "2026-09-05T17:56:05.0198492Z",
+    "channels":  {
+                     "1":  {
+                               "number":  1,
+                               "name":  "FIRMELAB CINEMA",
+                               "nowPlaying":  {
+                                                  "title":  "WISHMASTER",
+                                                  "start":  "2026-09-05T17:53:47.0000000Z",
+                                                  "stop":  "2026-09-05T19:24:05.0000000Z",
+                                                  "itemId":  "58d933a690c3d71b883c09370fa30d07",
+                                                  "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
+                                                  "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
+                                                  "year":  1997
+                                              },
+                               "upNext":  {
+                                              "title":  "HEAVY METAL",
+                                              "start":  "2026-09-05T19:23:55.0000000Z",
+                                              "stop":  "2026-09-05T20:54:27.0000000Z",
+                                              "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                              "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                              "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                              "year":  1981
+                                          },
+                               "upcoming":  [
+                                                {
+                                                    "title":  "HEAVY METAL",
+                                                    "start":  "2026-09-05T19:23:55.0000000Z",
+                                                    "stop":  "2026-09-05T20:54:27.0000000Z",
+                                                    "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                                    "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                                    "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                                    "year":  1981
+                                                },
+                                                {
+                                                    "title":  "HALF BAKED",
+                                                    "start":  "2026-09-05T20:54:27.0000000Z",
+                                                    "stop":  "2026-09-05T22:16:55.0000000Z",
+                                                    "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
+                                                    "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
+                                                    "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
+                                                    "year":  1998
+                                                },
+                                                {
+                                                    "title":  "A Nightmare on Elm Street",
+                                                    "start":  "2026-09-05T22:16:43.0000000Z",
+                                                    "stop":  "2026-09-05T23:48:19.0000000Z",
+                                                    "itemId":  "c79ef56b1b57aea8237d2575aba106ee",
+                                                    "poster":  "http://127.0.0.1:8096/Items/c79ef56b1b57aea8237d2575aba106ee/Images/Primary",
+                                                    "description":  "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop\u0027s daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers\u0027 children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
+                                                    "year":  1984
+                                                },
+                                                {
+                                                    "title":  "Nightmare on Elm Street 3 Dream Master",
+                                                    "start":  "2026-09-05T23:48:19.0000000Z",
+                                                    "stop":  "2026-09-06T01:22:01.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Undercover Brother",
+                                                    "start":  "2026-09-06T01:21:49.0000000Z",
+                                                    "stop":  "2026-09-06T02:48:29.0000000Z",
+                                                    "itemId":  "6317b8f6b30a049091764b8311c08279",
+                                                    "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
+                                                    "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
+                                                    "year":  2002
+                                                },
+                                                {
+                                                    "title":  "Predator",
+                                                    "start":  "2026-09-06T02:48:29.0000000Z",
+                                                    "stop":  "2026-09-06T04:35:15.0000000Z",
+                                                    "itemId":  "9745bbd80aedfd3750130547f37af704",
+                                                    "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
+                                                    "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+                                                    "year":  1987
+                                                },
+                                                {
+                                                    "title":  "Firmelab Cinema",
+                                                    "start":  "2026-09-06T04:35:03.0000000Z",
+                                                    "stop":  "2026-09-06T06:51:03.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Fast N Furious",
+                                                    "start":  "2026-09-06T06:51:14.0000000Z",
+                                                    "stop":  "2026-09-06T08:38:21.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                }
+                                            ]
+                           },
+                     "2":  {
+                               "number":  2,
+                               "name":  "HELLA HORROR",
+                               "nowPlaying":  {
+                                                  "title":  "Resident Evil",
+                                                  "start":  "2026-09-05T17:00:00.0000000Z",
+                                                  "stop":  "2026-09-05T18:44:23.0000000Z",
+                                                  "itemId":  "760d913661074a3a3f5a58738842a2f8",
+                                                  "poster":  "http://127.0.0.1:8096/Items/760d913661074a3a3f5a58738842a2f8/Images/Primary",
+                                                  "description":  "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
+                                                  "year":  2002
+                                              },
+                               "upNext":  {
+                                              "title":  "D1_t00",
+                                              "start":  "2026-09-05T18:44:23.0000000Z",
+                                              "stop":  "2026-09-05T21:04:00.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
+                                          },
+                               "upcoming":  [
+                                                {
+                                                    "title":  "D1_t00",
+                                                    "start":  "2026-09-05T18:44:23.0000000Z",
+                                                    "stop":  "2026-09-05T21:04:00.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Dawn of the Dead",
+                                                    "start":  "2026-09-05T21:04:00.0000000Z",
+                                                    "stop":  "2026-09-05T22:57:07.0000000Z",
+                                                    "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
+                                                    "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
+                                                    "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
+                                                    "year":  2004
+                                                },
+                                                {
+                                                    "title":  "Land of the Dead",
+                                                    "start":  "2026-09-05T22:57:07.0000000Z",
+                                                    "stop":  "2026-09-06T00:41:54.0000000Z",
+                                                    "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
+                                                    "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
+                                                    "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
+                                                    "year":  2005
+                                                },
+                                                {
+                                                    "title":  "World War Z",
+                                                    "start":  "2026-09-06T00:41:54.0000000Z",
+                                                    "stop":  "2026-09-06T02:48:50.0000000Z",
+                                                    "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
+                                                    "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+                                                    "year":  2013
+                                                },
+                                                {
+                                                    "title":  "Boogeyman",
+                                                    "start":  "2026-09-06T02:48:50.0000000Z",
+                                                    "stop":  "2026-09-06T04:29:41.0000000Z",
+                                                    "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
+                                                    "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
+                                                    "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
+                                                    "year":  2005
+                                                },
+                                                {
+                                                    "title":  "Wrong Turn",
+                                                    "start":  "2026-09-06T04:29:41.0000000Z",
+                                                    "stop":  "2026-09-06T06:01:48.0000000Z",
+                                                    "itemId":  "58d332deb67464546d571f7fda1cd63c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
+                                                    "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
+                                                    "year":  2003
+                                                },
+                                                {
+                                                    "title":  "Dawn of the Dead",
+                                                    "start":  "2026-09-06T06:01:48.0000000Z",
+                                                    "stop":  "2026-09-06T07:54:54.0000000Z",
+                                                    "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
+                                                    "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
+                                                    "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
+                                                    "year":  2004
+                                                },
+                                                {
+                                                    "title":  "D1_t00",
+                                                    "start":  "2026-09-06T07:54:54.0000000Z",
+                                                    "stop":  "2026-09-06T10:10:27.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                }
+                                            ]
+                           },
+                     "3":  {
+                               "number":  3,
+                               "name":  "FIRMELAB ACTION",
+                               "nowPlaying":  {
+                                                  "title":  "Predator",
+                                                  "start":  "2026-09-05T17:12:37.0000000Z",
+                                                  "stop":  "2026-09-05T18:59:11.0000000Z",
+                                                  "itemId":  "9745bbd80aedfd3750130547f37af704",
+                                                  "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
+                                                  "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+                                                  "year":  1987
+                                              },
+                               "upNext":  {
+                                              "title":  "Rambo First Blood",
+                                              "start":  "2026-09-05T18:59:11.0000000Z",
+                                              "stop":  "2026-09-05T20:32:21.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
+                                          },
+                               "upcoming":  [
+                                                {
+                                                    "title":  "Rambo First Blood",
+                                                    "start":  "2026-09-05T18:59:11.0000000Z",
+                                                    "stop":  "2026-09-05T20:32:21.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Sherlock Holmes",
+                                                    "start":  "2026-09-05T20:32:21.0000000Z",
+                                                    "stop":  "2026-09-05T22:40:50.0000000Z",
+                                                    "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
+                                                    "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
+                                                    "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
+                                                    "year":  2009
+                                                },
+                                                {
+                                                    "title":  "Fast N Furious",
+                                                    "start":  "2026-09-05T22:40:50.0000000Z",
+                                                    "stop":  "2026-09-06T00:27:45.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "John Wick",
+                                                    "start":  "2026-09-06T00:27:45.0000000Z",
+                                                    "stop":  "2026-09-06T02:08:59.0000000Z",
+                                                    "itemId":  "84b70d75a3d957b57b02cf83796504a8",
+                                                    "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
+                                                    "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+                                                    "year":  2014
+                                                },
+                                                {
+                                                    "title":  "DEATH PROOF",
+                                                    "start":  "2026-09-06T02:08:59.0000000Z",
+                                                    "stop":  "2026-09-06T04:02:32.0000000Z",
+                                                    "itemId":  "5220d04d46ddf5fa55aacae5d4916919",
+                                                    "poster":  "http://127.0.0.1:8096/Items/5220d04d46ddf5fa55aacae5d4916919/Images/Primary",
+                                                    "description":  "Austin\u0027s hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
+                                                    "year":  2007
+                                                },
+                                                {
+                                                    "title":  "Robocop",
+                                                    "start":  "2026-09-06T04:02:32.0000000Z",
+                                                    "stop":  "2026-09-06T05:45:18.0000000Z",
+                                                    "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
+                                                    "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
+                                                    "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
+                                                    "year":  1987
+                                                },
+                                                {
+                                                    "title":  "ROBOCOP 2",
+                                                    "start":  "2026-09-06T05:45:18.0000000Z",
+                                                    "stop":  "2026-09-06T07:41:58.0000000Z",
+                                                    "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
+                                                    "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
+                                                    "year":  1990
+                                                },
+                                                {
+                                                    "title":  "ROBOCOP 3",
+                                                    "start":  "2026-09-06T07:41:58.0000000Z",
+                                                    "stop":  "2026-09-06T09:26:49.0000000Z",
+                                                    "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
+                                                    "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
+                                                    "year":  1993
+                                                }
+                                            ]
+                           },
+                     "4":  {
+                               "number":  4,
+                               "name":  "FIRMELAB COMEDY",
+                               "nowPlaying":  {
+                                                  "title":  "Get Shorty",
+                                                  "start":  "2026-09-05T17:53:10.0000000Z",
+                                                  "stop":  "2026-09-05T19:37:58.0000000Z",
+                                                  "itemId":  "746531a34dc012efd97b57703e1903af",
+                                                  "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
+                                                  "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
+                                                  "year":  1995
+                                              },
+                               "upNext":  {
+                                              "title":  "Undercover Brother",
+                                              "start":  "2026-09-05T19:37:58.0000000Z",
+                                              "stop":  "2026-09-05T21:04:04.0000000Z",
+                                              "itemId":  "6317b8f6b30a049091764b8311c08279",
+                                              "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
+                                              "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
+                                              "year":  2002
+                                          },
+                               "upcoming":  [
+                                                {
+                                                    "title":  "Undercover Brother",
+                                                    "start":  "2026-09-05T19:37:58.0000000Z",
+                                                    "stop":  "2026-09-05T21:04:04.0000000Z",
+                                                    "itemId":  "6317b8f6b30a049091764b8311c08279",
+                                                    "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
+                                                    "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
+                                                    "year":  2002
+                                                },
+                                                {
+                                                    "title":  "AnchorMan",
+                                                    "start":  "2026-09-05T21:04:04.0000000Z",
+                                                    "stop":  "2026-09-05T22:41:27.0000000Z",
+                                                    "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
+                                                    "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
+                                                    "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
+                                                    "year":  2004
+                                                },
+                                                {
+                                                    "title":  "Duplex",
+                                                    "start":  "2026-09-05T22:41:27.0000000Z",
+                                                    "stop":  "2026-09-06T00:10:40.0000000Z",
+                                                    "itemId":  "e2340e07092b6de7376760916297a934",
+                                                    "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
+                                                    "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
+                                                    "year":  2003
+                                                },
+                                                {
+                                                    "title":  "UP IN SMOKE",
+                                                    "start":  "2026-09-06T00:10:40.0000000Z",
+                                                    "stop":  "2026-09-06T01:36:30.0000000Z",
+                                                    "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
+                                                    "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
+                                                    "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
+                                                    "year":  1978
+                                                },
+                                                {
+                                                    "title":  "HALF BAKED",
+                                                    "start":  "2026-09-06T01:36:30.0000000Z",
+                                                    "stop":  "2026-09-06T02:58:36.0000000Z",
+                                                    "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
+                                                    "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
+                                                    "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
+                                                    "year":  1998
+                                                },
+                                                {
+                                                    "title":  "Get Shorty",
+                                                    "start":  "2026-09-06T02:58:36.0000000Z",
+                                                    "stop":  "2026-09-06T04:43:25.0000000Z",
+                                                    "itemId":  "746531a34dc012efd97b57703e1903af",
+                                                    "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
+                                                    "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
+                                                    "year":  1995
+                                                },
+                                                {
+                                                    "title":  "Undercover Brother",
+                                                    "start":  "2026-09-06T04:43:25.0000000Z",
+                                                    "stop":  "2026-09-06T06:09:31.0000000Z",
+                                                    "itemId":  "6317b8f6b30a049091764b8311c08279",
+                                                    "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
+                                                    "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
+                                                    "year":  2002
+                                                },
+                                                {
+                                                    "title":  "AnchorMan",
+                                                    "start":  "2026-09-06T06:09:31.0000000Z",
+                                                    "stop":  "2026-09-06T07:46:54.0000000Z",
+                                                    "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
+                                                    "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
+                                                    "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
+                                                    "year":  2004
+                                                }
+                                            ]
+                           },
+                     "5":  {
+                               "number":  5,
+                               "name":  "FIRMELAB TOONS",
+                               "nowPlaying":  {
+                                                  "title":  "Who Framed Roger Rabbit",
+                                                  "start":  "2026-09-05T17:17:35.0000000Z",
+                                                  "stop":  "2026-09-05T19:01:21.0000000Z",
+                                                  "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
+                                                  "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
+                                                  "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+                                                  "year":  1988
+                                              },
+                               "upNext":  {
+                                              "title":  "HEAVY METAL",
+                                              "start":  "2026-09-05T19:01:21.0000000Z",
+                                              "stop":  "2026-09-05T20:31:42.0000000Z",
+                                              "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                              "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                              "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                              "year":  1981
+                                          },
+                               "upcoming":  [
+                                                {
+                                                    "title":  "HEAVY METAL",
+                                                    "start":  "2026-09-05T19:01:21.0000000Z",
+                                                    "stop":  "2026-09-05T20:31:42.0000000Z",
+                                                    "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                                    "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                                    "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                                    "year":  1981
+                                                },
+                                                {
+                                                    "title":  "Who Framed Roger Rabbit",
+                                                    "start":  "2026-09-05T20:31:42.0000000Z",
+                                                    "stop":  "2026-09-05T22:15:28.0000000Z",
+                                                    "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
+                                                    "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
+                                                    "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+                                                    "year":  1988
+                                                },
+                                                {
+                                                    "title":  "HEAVY METAL",
+                                                    "start":  "2026-09-05T22:15:28.0000000Z",
+                                                    "stop":  "2026-09-05T23:45:49.0000000Z",
+                                                    "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                                    "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                                    "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                                    "year":  1981
+                                                },
+                                                {
+                                                    "title":  "Who Framed Roger Rabbit",
+                                                    "start":  "2026-09-05T23:45:49.0000000Z",
+                                                    "stop":  "2026-09-06T01:29:35.0000000Z",
+                                                    "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
+                                                    "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
+                                                    "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+                                                    "year":  1988
+                                                },
+                                                {
+                                                    "title":  "HEAVY METAL",
+                                                    "start":  "2026-09-06T01:29:35.0000000Z",
+                                                    "stop":  "2026-09-06T02:59:57.0000000Z",
+                                                    "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                                    "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                                    "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                                    "year":  1981
+                                                },
+                                                {
+                                                    "title":  "Who Framed Roger Rabbit",
+                                                    "start":  "2026-09-06T02:59:57.0000000Z",
+                                                    "stop":  "2026-09-06T04:43:42.0000000Z",
+                                                    "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
+                                                    "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
+                                                    "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+                                                    "year":  1988
+                                                },
+                                                {
+                                                    "title":  "HEAVY METAL",
+                                                    "start":  "2026-09-06T04:43:42.0000000Z",
+                                                    "stop":  "2026-09-06T06:14:04.0000000Z",
+                                                    "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                                    "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                                    "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                                    "year":  1981
+                                                },
+                                                {
+                                                    "title":  "Who Framed Roger Rabbit",
+                                                    "start":  "2026-09-06T06:14:04.0000000Z",
+                                                    "stop":  "2026-09-06T07:57:49.0000000Z",
+                                                    "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
+                                                    "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
+                                                    "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+                                                    "year":  1988
+                                                }
+                                            ]
+                           },
+                     "6":  {
+                               "number":  6,
+                               "name":  "FIRMELAB CRIME",
+                               "nowPlaying":  {
+                                                  "title":  "Jacky Brown",
+                                                  "start":  "2026-09-05T16:45:24.0000000Z",
+                                                  "stop":  "2026-09-05T19:19:45.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
+                                              },
+                               "upNext":  {
+                                              "title":  "Inside Man",
+                                              "start":  "2026-09-05T19:19:45.0000000Z",
+                                              "stop":  "2026-09-05T21:28:32.0000000Z",
+                                              "itemId":  "5f439285fe3ef8976153452a9fee8cbc",
+                                              "poster":  "http://127.0.0.1:8096/Items/5f439285fe3ef8976153452a9fee8cbc/Images/Primary",
+                                              "description":  "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
+                                              "year":  2006
+                                          },
+                               "upcoming":  [
+                                                {
+                                                    "title":  "Inside Man",
+                                                    "start":  "2026-09-05T19:19:45.0000000Z",
+                                                    "stop":  "2026-09-05T21:28:32.0000000Z",
+                                                    "itemId":  "5f439285fe3ef8976153452a9fee8cbc",
+                                                    "poster":  "http://127.0.0.1:8096/Items/5f439285fe3ef8976153452a9fee8cbc/Images/Primary",
+                                                    "description":  "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
+                                                    "year":  2006
+                                                },
+                                                {
+                                                    "title":  "Reservor Dogs",
+                                                    "start":  "2026-09-05T21:28:32.0000000Z",
+                                                    "stop":  "2026-09-05T23:07:37.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Scarface",
+                                                    "start":  "2026-09-05T23:07:37.0000000Z",
+                                                    "stop":  "2026-09-06T01:57:33.0000000Z",
+                                                    "itemId":  "1ca5b01d892bb1b5b113e7ccaa4ac889",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
+                                                    "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+                                                    "year":  1983
+                                                },
+                                                {
+                                                    "title":  "Carlitos Way",
+                                                    "start":  "2026-09-06T01:57:33.0000000Z",
+                                                    "stop":  "2026-09-06T04:21:43.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Jacky Brown",
+                                                    "start":  "2026-09-06T04:21:43.0000000Z",
+                                                    "stop":  "2026-09-06T06:56:04.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Inside Man",
+                                                    "start":  "2026-09-06T06:56:04.0000000Z",
+                                                    "stop":  "2026-09-06T09:04:51.0000000Z",
+                                                    "itemId":  "5f439285fe3ef8976153452a9fee8cbc",
+                                                    "poster":  "http://127.0.0.1:8096/Items/5f439285fe3ef8976153452a9fee8cbc/Images/Primary",
+                                                    "description":  "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
+                                                    "year":  2006
+                                                },
+                                                {
+                                                    "title":  "Reservor Dogs",
+                                                    "start":  "2026-09-06T09:04:51.0000000Z",
+                                                    "stop":  "2026-09-06T10:43:56.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Scarface",
+                                                    "start":  "2026-09-06T10:43:56.0000000Z",
+                                                    "stop":  "2026-09-06T13:33:53.0000000Z",
+                                                    "itemId":  "1ca5b01d892bb1b5b113e7ccaa4ac889",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
+                                                    "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+                                                    "year":  1983
+                                                }
+                                            ]
+                           },
+                     "7":  {
+                               "number":  7,
+                               "name":  "FIRMELAB MIXTAPE",
+                               "nowPlaying":  null,
+                               "upNext":  {
+                                              "title":  "MrPayo",
+                                              "start":  "2026-09-05T17:57:08.0000000Z",
+                                              "stop":  "2026-09-05T17:57:51.0000000Z",
+                                              "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
+                                              "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
+                                              "description":  null,
+                                              "year":  null
+                                          },
+                               "upcoming":  [
+                                                {
+                                                    "title":  "MrPayo",
+                                                    "start":  "2026-09-05T17:57:08.0000000Z",
+                                                    "stop":  "2026-09-05T17:57:51.0000000Z",
+                                                    "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
+                                                    "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Oz",
+                                                    "start":  "2026-09-05T17:58:14.0000000Z",
+                                                    "stop":  "2026-09-05T17:59:27.0000000Z",
+                                                    "itemId":  "f332ba1673f9273e5349cd38b640cf51",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "BloodJoke",
+                                                    "start":  "2026-09-05T17:59:55.0000000Z",
+                                                    "stop":  "2026-09-05T18:01:31.0000000Z",
+                                                    "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Carrito",
+                                                    "start":  "2026-09-05T18:01:36.0000000Z",
+                                                    "stop":  "2026-09-05T18:09:14.0000000Z",
+                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Dancing Cobra",
+                                                    "start":  "2026-09-05T18:09:14.0000000Z",
+                                                    "stop":  "2026-09-05T18:10:20.0000000Z",
+                                                    "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                                    "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "DnBaPCsht",
+                                                    "start":  "2026-09-05T18:10:20.0000000Z",
+                                                    "stop":  "2026-09-05T18:11:07.0000000Z",
+                                                    "itemId":  "d2296bca99a831548bbada0bb3bac719",
+                                                    "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Duende",
+                                                    "start":  "2026-09-05T18:11:18.0000000Z",
+                                                    "stop":  "2026-09-05T18:12:27.0000000Z",
+                                                    "itemId":  "80d6feb8f0c835e935a80db3275c5412",
+                                                    "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "JamminG",
+                                                    "start":  "2026-09-05T18:13:00.0000000Z",
+                                                    "stop":  "2026-09-05T18:16:51.0000000Z",
+                                                    "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                                    "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                }
+                                            ]
+                           },
+                     "8":  {
+                               "number":  8,
+                               "name":  "FIRMELAB FRONTIER",
+                               "nowPlaying":  {
+                                                  "title":  "The Count Monte Cristos",
+                                                  "start":  "2026-09-05T15:57:47.0000000Z",
+                                                  "stop":  "2026-09-05T18:09:01.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
+                                              },
+                               "upNext":  {
+                                              "title":  "Young Guns",
+                                              "start":  "2026-09-05T18:09:01.0000000Z",
+                                              "stop":  "2026-09-05T19:55:47.0000000Z",
+                                              "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
+                                              "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
+                                              "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
+                                              "year":  1988
+                                          },
+                               "upcoming":  [
+                                                {
+                                                    "title":  "Young Guns",
+                                                    "start":  "2026-09-05T18:09:01.0000000Z",
+                                                    "stop":  "2026-09-05T19:55:47.0000000Z",
+                                                    "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
+                                                    "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
+                                                    "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
+                                                    "year":  1988
+                                                },
+                                                {
+                                                    "title":  "The Patriot",
+                                                    "start":  "2026-09-05T19:55:47.0000000Z",
+                                                    "stop":  "2026-09-05T22:40:34.0000000Z",
+                                                    "itemId":  "17b673273650da7e33ae51350e123fb0",
+                                                    "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
+                                                    "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+                                                    "year":  2000
+                                                },
+                                                {
+                                                    "title":  "Master and Commander",
+                                                    "start":  "2026-09-05T22:40:34.0000000Z",
+                                                    "stop":  "2026-09-06T00:58:55.0000000Z",
+                                                    "itemId":  "5fcc6b3e811cdcaf000036c06aef62b9",
+                                                    "poster":  "http://127.0.0.1:8096/Items/5fcc6b3e811cdcaf000036c06aef62b9/Images/Primary",
+                                                    "description":  "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship\u0027s thoughtful surgeon, his best friend.",
+                                                    "year":  2003
+                                                },
+                                                {
+                                                    "title":  "Brave Heart",
+                                                    "start":  "2026-09-06T00:58:55.0000000Z",
+                                                    "stop":  "2026-09-06T03:56:35.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "The Count Monte Cristos",
+                                                    "start":  "2026-09-06T03:56:35.0000000Z",
+                                                    "stop":  "2026-09-06T06:07:49.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Young Guns",
+                                                    "start":  "2026-09-06T06:07:49.0000000Z",
+                                                    "stop":  "2026-09-06T07:54:35.0000000Z",
+                                                    "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
+                                                    "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
+                                                    "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
+                                                    "year":  1988
+                                                },
+                                                {
+                                                    "title":  "The Patriot",
+                                                    "start":  "2026-09-06T07:54:35.0000000Z",
+                                                    "stop":  "2026-09-06T10:39:22.0000000Z",
+                                                    "itemId":  "17b673273650da7e33ae51350e123fb0",
+                                                    "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
+                                                    "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+                                                    "year":  2000
+                                                },
+                                                {
+                                                    "title":  "Master and Commander",
+                                                    "start":  "2026-09-06T10:39:22.0000000Z",
+                                                    "stop":  "2026-09-06T12:57:43.0000000Z",
+                                                    "itemId":  "5fcc6b3e811cdcaf000036c06aef62b9",
+                                                    "poster":  "http://127.0.0.1:8096/Items/5fcc6b3e811cdcaf000036c06aef62b9/Images/Primary",
+                                                    "description":  "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship\u0027s thoughtful surgeon, his best friend.",
+                                                    "year":  2003
+                                                }
+                                            ]
+                           }
+                 }
+}
