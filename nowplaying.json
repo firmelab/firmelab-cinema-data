@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-05T20:29:05.3997278Z",
+    "updated":  "2026-09-05T20:30:05.3715791Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,11 +581,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Never 3Nding",
-                                                  "start":  "2026-09-05T19:44:25.0000000Z",
-                                                  "stop":  "2026-09-05T20:29:55.0000000Z",
-                                                  "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
-                                                  "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
+                                                  "title":  "Ass Kicker Bruce",
+                                                  "start":  "2026-09-05T19:51:13.0000000Z",
+                                                  "stop":  "2026-09-05T20:33:45.0000000Z",
+                                                  "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
+                                                  "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
