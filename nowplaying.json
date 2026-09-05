@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-05T07:52:05.3320069Z",
+    "updated":  "2026-09-05T07:53:05.3564197Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Seventh Sign",
-                                                  "start":  "2026-09-05T06:15:19.0000000Z",
-                                                  "stop":  "2026-09-05T07:52:40.0000000Z",
-                                                  "itemId":  "ee279419a64df59247370e38f4f0deea",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ee279419a64df59247370e38f4f0deea/Images/Primary",
-                                                  "description":  "Abby is a pregnant woman with a curious new boarder in the apartment over her garage. Turns out he\u0027s heaven-sent and is speeding along the Apocalypse by bloodying rivers, egging on plagues and following scripture word for word.",
-                                                  "year":  1988
+                                                  "title":  "Conan The Destroyer",
+                                                  "start":  "2026-09-05T07:52:29.0000000Z",
+                                                  "stop":  "2026-09-05T09:33:48.0000000Z",
+                                                  "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
+                                                  "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
+                                                  "year":  1984
                                               },
                                "upNext":  {
-                                              "title":  "Conan The Destroyer",
-                                              "start":  "2026-09-05T07:52:29.0000000Z",
-                                              "stop":  "2026-09-05T09:33:48.0000000Z",
-                                              "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
-                                              "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
-                                              "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
-                                              "year":  1984
+                                              "title":  "The Patriot",
+                                              "start":  "2026-09-05T09:33:48.0000000Z",
+                                              "stop":  "2026-09-05T12:18:57.0000000Z",
+                                              "itemId":  "17b673273650da7e33ae51350e123fb0",
+                                              "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
+                                              "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+                                              "year":  2000
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Conan The Destroyer",
-                                                    "start":  "2026-09-05T07:52:29.0000000Z",
-                                                    "stop":  "2026-09-05T09:33:48.0000000Z",
-                                                    "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
-                                                    "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
-                                                    "year":  1984
-                                                },
                                                 {
                                                     "title":  "The Patriot",
                                                     "start":  "2026-09-05T09:33:48.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
                                                     "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
                                                     "year":  1998
+                                                },
+                                                {
+                                                    "title":  "A Nightmare on Elm Street",
+                                                    "start":  "2026-09-05T22:16:43.0000000Z",
+                                                    "stop":  "2026-09-05T23:48:19.0000000Z",
+                                                    "itemId":  "c79ef56b1b57aea8237d2575aba106ee",
+                                                    "poster":  "http://127.0.0.1:8096/Items/c79ef56b1b57aea8237d2575aba106ee/Images/Primary",
+                                                    "description":  "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop\u0027s daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers\u0027 children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
+                                                    "year":  1984
                                                 }
                                             ]
                            },
