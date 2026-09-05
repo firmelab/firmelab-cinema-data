@@ -1,17 +1,17 @@
 {
-    "updated":  "2026-09-05T19:24:05.7685251Z",
+    "updated":  "2026-09-05T19:25:06.2439308Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "WISHMASTER",
-                                                  "start":  "2026-09-05T17:53:47.0000000Z",
-                                                  "stop":  "2026-09-05T19:24:06.0000000Z",
-                                                  "itemId":  "58d933a690c3d71b883c09370fa30d07",
-                                                  "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
-                                                  "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
-                                                  "year":  1997
+                                                  "title":  "HEAVY METAL",
+                                                  "start":  "2026-09-05T19:23:55.0000000Z",
+                                                  "stop":  "2026-09-05T20:54:27.0000000Z",
+                                                  "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                                  "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                                  "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                                  "year":  1981
                                               },
                                "upNext":  {
                                               "title":  "HALF BAKED",
@@ -581,33 +581,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Arnold Dynamite",
-                                                  "start":  "2026-09-05T19:04:24.0000000Z",
-                                                  "stop":  "2026-09-05T19:24:32.0000000Z",
-                                                  "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
+                                                  "title":  "Chingadasos",
+                                                  "start":  "2026-09-05T19:14:06.0000000Z",
+                                                  "stop":  "2026-09-05T19:43:17.0000000Z",
+                                                  "itemId":  "8988d98fd90679aab5aff5b786344b1c",
+                                                  "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "MrPayo",
-                                              "start":  "2026-09-05T19:24:37.0000000Z",
-                                              "stop":  "2026-09-05T19:25:42.0000000Z",
-                                              "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
-                                              "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
+                                              "title":  "Oz",
+                                              "start":  "2026-09-05T19:25:42.0000000Z",
+                                              "stop":  "2026-09-05T19:27:23.0000000Z",
+                                              "itemId":  "f332ba1673f9273e5349cd38b640cf51",
+                                              "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                               "description":  null,
-                                              "year":  null
+                                              "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "MrPayo",
-                                                    "start":  "2026-09-05T19:24:37.0000000Z",
-                                                    "stop":  "2026-09-05T19:25:42.0000000Z",
-                                                    "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
-                                                    "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Oz",
                                                     "start":  "2026-09-05T19:25:42.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Never 3Nding",
+                                                    "start":  "2026-09-05T19:44:25.0000000Z",
+                                                    "stop":  "2026-09-05T20:29:55.0000000Z",
+                                                    "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                                    "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
