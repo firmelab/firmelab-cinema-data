@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-05T03:20:05.4700043Z",
+    "updated":  "2026-09-05T03:21:05.4398207Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Brightburn",
-                                                  "start":  "2026-09-05T01:49:02.0000000Z",
-                                                  "stop":  "2026-09-05T03:20:19.0000000Z",
-                                                  "itemId":  "a562e465a7ff31b0113aee613a779bf2",
-                                                  "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
-                                                  "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
-                                                  "year":  2019
+                                                  "title":  "BORDELLO OF BLOOD",
+                                                  "start":  "2026-09-05T03:20:08.0000000Z",
+                                                  "stop":  "2026-09-05T04:46:50.0000000Z",
+                                                  "itemId":  "b03986ae5fac22e258cf02b8c89bc7a4",
+                                                  "poster":  "http://127.0.0.1:8096/Items/b03986ae5fac22e258cf02b8c89bc7a4/Images/Primary",
+                                                  "description":  "Private eye Rafe Guttman is hired by repressed, born-again Katherine to find her missing bad-boy brother. The trail leads him to a whorehouse run by a thousand-year-old vampire and secretly backed by Katherine\u0027s boss, televangelist Jimmy Current.",
+                                                  "year":  1996
                                               },
                                "upNext":  {
-                                              "title":  "BORDELLO OF BLOOD",
-                                              "start":  "2026-09-05T03:20:08.0000000Z",
-                                              "stop":  "2026-09-05T04:46:50.0000000Z",
-                                              "itemId":  "b03986ae5fac22e258cf02b8c89bc7a4",
-                                              "poster":  "http://127.0.0.1:8096/Items/b03986ae5fac22e258cf02b8c89bc7a4/Images/Primary",
-                                              "description":  "Private eye Rafe Guttman is hired by repressed, born-again Katherine to find her missing bad-boy brother. The trail leads him to a whorehouse run by a thousand-year-old vampire and secretly backed by Katherine\u0027s boss, televangelist Jimmy Current.",
-                                              "year":  1996
+                                              "title":  "CB4",
+                                              "start":  "2026-09-05T04:46:50.0000000Z",
+                                              "stop":  "2026-09-05T06:15:29.0000000Z",
+                                              "itemId":  "aaf87b319e700aef20429fed5429cdee",
+                                              "poster":  "http://127.0.0.1:8096/Items/aaf87b319e700aef20429fed5429cdee/Images/Primary",
+                                              "description":  "A \"rockumentary\", covering the rise to fame of MC Gusto, Stab Master Arson, and Dead Mike: members of the rap group \"CB4\". We soon learn that these three are not what they seem and don\u0027t appear to know as much about rap music as they claim... but a lack of musical ability in an artist never hurts sales, does it? You\u0027ve just got to play the part of a rap star...",
+                                              "year":  1993
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "BORDELLO OF BLOOD",
-                                                    "start":  "2026-09-05T03:20:08.0000000Z",
-                                                    "stop":  "2026-09-05T04:46:50.0000000Z",
-                                                    "itemId":  "b03986ae5fac22e258cf02b8c89bc7a4",
-                                                    "poster":  "http://127.0.0.1:8096/Items/b03986ae5fac22e258cf02b8c89bc7a4/Images/Primary",
-                                                    "description":  "Private eye Rafe Guttman is hired by repressed, born-again Katherine to find her missing bad-boy brother. The trail leads him to a whorehouse run by a thousand-year-old vampire and secretly backed by Katherine\u0027s boss, televangelist Jimmy Current.",
-                                                    "year":  1996
-                                                },
                                                 {
                                                     "title":  "CB4",
                                                     "start":  "2026-09-05T04:46:50.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
                                                     "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
                                                     "year":  1988
+                                                },
+                                                {
+                                                    "title":  "WISHMASTER",
+                                                    "start":  "2026-09-05T17:53:47.0000000Z",
+                                                    "stop":  "2026-09-05T19:23:55.0000000Z",
+                                                    "itemId":  "58d933a690c3d71b883c09370fa30d07",
+                                                    "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
+                                                    "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
+                                                    "year":  1997
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "COKCE6139",
-                                              "start":  "2026-09-05T03:20:15.0000000Z",
-                                              "stop":  "2026-09-05T03:22:26.0000000Z",
-                                              "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
-                                              "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
+                                              "title":  "MrPayo",
+                                              "start":  "2026-09-05T03:22:26.0000000Z",
+                                              "stop":  "2026-09-05T03:23:31.0000000Z",
+                                              "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
+                                              "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "COKCE6139",
-                                                    "start":  "2026-09-05T03:20:15.0000000Z",
-                                                    "stop":  "2026-09-05T03:22:26.0000000Z",
-                                                    "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "MrPayo",
                                                     "start":  "2026-09-05T03:22:26.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-09-05T03:37:44.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "JamminG",
+                                                    "start":  "2026-09-05T03:38:17.0000000Z",
+                                                    "stop":  "2026-09-05T04:19:22.0000000Z",
+                                                    "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                                    "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
