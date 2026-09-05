@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-05T04:57:06.7658279Z",
+    "updated":  "2026-09-05T04:58:06.2112580Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,13 +581,13 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Oz",
-                                                  "start":  "2026-09-05T04:07:15.0000000Z",
-                                                  "stop":  "2026-09-05T04:57:08.0000000Z",
-                                                  "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                                  "title":  "Carrito",
+                                                  "start":  "2026-09-05T04:54:21.0000000Z",
+                                                  "stop":  "2026-09-05T05:02:00.0000000Z",
+                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Dancing Cobra",
