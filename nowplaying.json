@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-05T06:33:05.8519452Z",
+    "updated":  "2026-09-05T06:34:05.8433692Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -197,33 +197,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Black Hawk Down",
-                                                  "start":  "2026-09-05T04:09:14.0000000Z",
-                                                  "stop":  "2026-09-05T06:33:35.0000000Z",
-                                                  "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
-                                                  "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
-                                                  "year":  2001
+                                                  "title":  "Bourne Identity",
+                                                  "start":  "2026-09-05T06:33:35.0000000Z",
+                                                  "stop":  "2026-09-05T08:31:52.0000000Z",
+                                                  "itemId":  "ad22fba25f4ceaee407d76b5620443de",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ad22fba25f4ceaee407d76b5620443de/Images/Primary",
+                                                  "description":  "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
+                                                  "year":  2002
                                               },
                                "upNext":  {
-                                              "title":  "Bourne Identity",
-                                              "start":  "2026-09-05T06:33:35.0000000Z",
-                                              "stop":  "2026-09-05T08:31:52.0000000Z",
-                                              "itemId":  "ad22fba25f4ceaee407d76b5620443de",
-                                              "poster":  "http://127.0.0.1:8096/Items/ad22fba25f4ceaee407d76b5620443de/Images/Primary",
-                                              "description":  "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
-                                              "year":  2002
+                                              "title":  "Bourne Supremacy",
+                                              "start":  "2026-09-05T08:31:52.0000000Z",
+                                              "stop":  "2026-09-05T10:20:24.0000000Z",
+                                              "itemId":  "031faf0da71af121647ff2d37294b07a",
+                                              "poster":  "http://127.0.0.1:8096/Items/031faf0da71af121647ff2d37294b07a/Images/Primary",
+                                              "description":  "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
+                                              "year":  2004
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Bourne Identity",
-                                                    "start":  "2026-09-05T06:33:35.0000000Z",
-                                                    "stop":  "2026-09-05T08:31:52.0000000Z",
-                                                    "itemId":  "ad22fba25f4ceaee407d76b5620443de",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ad22fba25f4ceaee407d76b5620443de/Images/Primary",
-                                                    "description":  "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
-                                                    "year":  2002
-                                                },
                                                 {
                                                     "title":  "Bourne Supremacy",
                                                     "start":  "2026-09-05T08:31:52.0000000Z",
@@ -286,6 +277,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Sherlock Holmes",
+                                                    "start":  "2026-09-05T20:32:21.0000000Z",
+                                                    "stop":  "2026-09-05T22:40:50.0000000Z",
+                                                    "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
+                                                    "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
+                                                    "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
+                                                    "year":  2009
                                                 }
                                             ]
                            },
@@ -580,26 +580,25 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  null,
+                               "nowPlaying":  {
+                                                  "title":  "JamminG",
+                                                  "start":  "2026-09-05T06:33:13.0000000Z",
+                                                  "stop":  "2026-09-05T06:37:05.0000000Z",
+                                                  "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
+                                                  "description":  null,
+                                                  "year":  null
+                                              },
                                "upNext":  {
-                                              "title":  "JamminG",
-                                              "start":  "2026-09-05T06:33:13.0000000Z",
-                                              "stop":  "2026-09-05T06:37:05.0000000Z",
-                                              "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
-                                              "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
+                                              "title":  "Never 3Nding",
+                                              "start":  "2026-09-05T06:37:10.0000000Z",
+                                              "stop":  "2026-09-05T06:39:22.0000000Z",
+                                              "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                              "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                               "description":  null,
-                                              "year":  null
+                                              "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "JamminG",
-                                                    "start":  "2026-09-05T06:33:13.0000000Z",
-                                                    "stop":  "2026-09-05T06:37:05.0000000Z",
-                                                    "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
-                                                    "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-09-05T06:37:10.0000000Z",
@@ -660,6 +659,15 @@
                                                     "stop":  "2026-09-05T06:49:54.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Biggie Mobbing",
+                                                    "start":  "2026-09-05T06:49:54.0000000Z",
+                                                    "stop":  "2026-09-05T06:50:36.0000000Z",
+                                                    "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
