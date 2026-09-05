@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-05T03:01:05.4777606Z",
+    "updated":  "2026-09-05T03:02:05.6272041Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -7,7 +7,7 @@
                                "nowPlaying":  {
                                                   "title":  "Brightburn",
                                                   "start":  "2026-09-05T01:49:02.0000000Z",
-                                                  "stop":  "2026-09-05T03:20:18.0000000Z",
+                                                  "stop":  "2026-09-05T03:20:19.0000000Z",
                                                   "itemId":  "a562e465a7ff31b0113aee613a779bf2",
                                                   "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
                                                   "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
@@ -35,7 +35,7 @@
                                                 {
                                                     "title":  "CB4",
                                                     "start":  "2026-09-05T04:46:50.0000000Z",
-                                                    "stop":  "2026-09-05T06:15:31.0000000Z",
+                                                    "stop":  "2026-09-05T06:15:29.0000000Z",
                                                     "itemId":  "aaf87b319e700aef20429fed5429cdee",
                                                     "poster":  "http://127.0.0.1:8096/Items/aaf87b319e700aef20429fed5429cdee/Images/Primary",
                                                     "description":  "A \"rockumentary\", covering the rise to fame of MC Gusto, Stab Master Arson, and Dead Mike: members of the rap group \"CB4\". We soon learn that these three are not what they seem and don\u0027t appear to know as much about rap music as they claim... but a lack of musical ability in an artist never hurts sales, does it? You\u0027ve just got to play the part of a rap star...",
@@ -53,7 +53,7 @@
                                                 {
                                                     "title":  "Conan The Destroyer",
                                                     "start":  "2026-09-05T07:52:29.0000000Z",
-                                                    "stop":  "2026-09-05T09:33:59.0000000Z",
+                                                    "stop":  "2026-09-05T09:34:00.0000000Z",
                                                     "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
                                                     "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
                                                     "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
@@ -89,7 +89,7 @@
                                                 {
                                                     "title":  "Young Guns",
                                                     "start":  "2026-09-05T16:06:51.0000000Z",
-                                                    "stop":  "2026-09-05T17:53:58.0000000Z",
+                                                    "stop":  "2026-09-05T17:53:59.0000000Z",
                                                     "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
                                                     "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
                                                     "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
@@ -581,33 +581,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Ninja Now",
-                                                  "start":  "2026-09-05T03:00:42.0000000Z",
-                                                  "stop":  "2026-09-05T03:01:24.0000000Z",
-                                                  "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                  "title":  "Never 3Nding",
+                                                  "start":  "2026-09-05T02:58:30.0000000Z",
+                                                  "stop":  "2026-09-05T03:09:19.0000000Z",
+                                                  "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                                  "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "SSBI4649",
-                                              "start":  "2026-09-05T03:01:24.0000000Z",
-                                              "stop":  "2026-09-05T03:02:13.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
+                                              "title":  "Arnold Dynamite",
+                                              "start":  "2026-09-05T03:02:13.0000000Z",
+                                              "stop":  "2026-09-05T03:03:41.0000000Z",
+                                              "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
+                                              "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                               "description":  null,
-                                              "year":  null
+                                              "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "SSBI4649",
-                                                    "start":  "2026-09-05T03:01:24.0000000Z",
-                                                    "stop":  "2026-09-05T03:02:13.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-09-05T03:02:13.0000000Z",
@@ -620,7 +611,7 @@
                                                 {
                                                     "title":  "0Ld Sc00L",
                                                     "start":  "2026-09-05T03:03:41.0000000Z",
-                                                    "stop":  "2026-09-05T03:04:29.0000000Z",
+                                                    "stop":  "2026-09-05T03:23:09.0000000Z",
                                                     "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
                                                     "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                                     "description":  null,
@@ -638,7 +629,7 @@
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-09-05T03:05:18.0000000Z",
-                                                    "stop":  "2026-09-05T03:11:14.0000000Z",
+                                                    "stop":  "2026-09-05T03:19:47.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                     "description":  null,
@@ -647,7 +638,7 @@
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-09-05T03:11:14.0000000Z",
-                                                    "stop":  "2026-09-05T03:11:55.0000000Z",
+                                                    "stop":  "2026-09-05T03:20:28.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
@@ -656,7 +647,7 @@
                                                 {
                                                     "title":  "Chingadasos",
                                                     "start":  "2026-09-05T03:11:55.0000000Z",
-                                                    "stop":  "2026-09-05T03:12:41.0000000Z",
+                                                    "stop":  "2026-09-05T03:22:19.0000000Z",
                                                     "itemId":  "8988d98fd90679aab5aff5b786344b1c",
                                                     "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
                                                     "description":  null,
@@ -665,9 +656,18 @@
                                                 {
                                                     "title":  "Mr J-Carry",
                                                     "start":  "2026-09-05T03:13:46.0000000Z",
-                                                    "stop":  "2026-09-05T03:14:18.0000000Z",
+                                                    "stop":  "2026-09-05T03:42:03.0000000Z",
                                                     "itemId":  "56c94066e018711311e81d6a3f6cc139",
                                                     "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "T2",
+                                                    "start":  "2026-09-05T03:14:43.0000000Z",
+                                                    "stop":  "2026-09-05T03:15:15.0000000Z",
+                                                    "itemId":  "1315943017e226076a7899408d36dec5",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
