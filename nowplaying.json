@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-05T10:09:05.4590697Z",
+    "updated":  "2026-09-05T10:10:05.4775148Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -580,34 +580,17 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  {
-                                                  "title":  "Dancing Cobra",
-                                                  "start":  "2026-09-05T10:08:09.0000000Z",
-                                                  "stop":  "2026-09-05T10:09:14.0000000Z",
-                                                  "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                                  "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
-                                                  "description":  null,
-                                                  "year":  null
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
-                                              "title":  "DnBaPCsht",
-                                              "start":  "2026-09-05T10:09:14.0000000Z",
-                                              "stop":  "2026-09-05T10:10:01.0000000Z",
-                                              "itemId":  "d2296bca99a831548bbada0bb3bac719",
-                                              "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
+                                              "title":  "Duende",
+                                              "start":  "2026-09-05T10:10:13.0000000Z",
+                                              "stop":  "2026-09-05T10:11:22.0000000Z",
+                                              "itemId":  "80d6feb8f0c835e935a80db3275c5412",
+                                              "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "DnBaPCsht",
-                                                    "start":  "2026-09-05T10:09:14.0000000Z",
-                                                    "stop":  "2026-09-05T10:10:01.0000000Z",
-                                                    "itemId":  "d2296bca99a831548bbada0bb3bac719",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-09-05T10:10:13.0000000Z",
@@ -668,6 +651,15 @@
                                                     "stop":  "2026-09-05T10:21:50.0000000Z",
                                                     "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
                                                     "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "After H0uRs",
+                                                    "start":  "2026-09-05T10:21:50.0000000Z",
+                                                    "stop":  "2026-09-05T10:22:39.0000000Z",
+                                                    "itemId":  "150bbae732cd647eeed3060cd67b032f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
