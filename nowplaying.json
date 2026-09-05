@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-05T00:19:04.9565655Z",
+    "updated":  "2026-09-05T00:20:04.9786212Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,33 +101,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Underworld Evolution",
-                                                  "start":  "2026-09-04T22:28:36.0000000Z",
-                                                  "stop":  "2026-09-05T00:19:59.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Resident Evil",
+                                                  "start":  "2026-09-05T00:19:59.0000000Z",
+                                                  "stop":  "2026-09-05T02:15:47.0000000Z",
+                                                  "itemId":  "760d913661074a3a3f5a58738842a2f8",
+                                                  "poster":  "http://127.0.0.1:8096/Items/760d913661074a3a3f5a58738842a2f8/Images/Primary",
+                                                  "description":  "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
+                                                  "year":  2002
                                               },
                                "upNext":  {
-                                              "title":  "Resident Evil",
-                                              "start":  "2026-09-05T00:19:59.0000000Z",
-                                              "stop":  "2026-09-05T02:15:47.0000000Z",
-                                              "itemId":  "760d913661074a3a3f5a58738842a2f8",
-                                              "poster":  "http://127.0.0.1:8096/Items/760d913661074a3a3f5a58738842a2f8/Images/Primary",
-                                              "description":  "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
-                                              "year":  2002
+                                              "title":  "World War Z",
+                                              "start":  "2026-09-05T02:15:47.0000000Z",
+                                              "stop":  "2026-09-05T04:29:01.0000000Z",
+                                              "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
+                                              "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
+                                              "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+                                              "year":  2013
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Resident Evil",
-                                                    "start":  "2026-09-05T00:19:59.0000000Z",
-                                                    "stop":  "2026-09-05T02:15:47.0000000Z",
-                                                    "itemId":  "760d913661074a3a3f5a58738842a2f8",
-                                                    "poster":  "http://127.0.0.1:8096/Items/760d913661074a3a3f5a58738842a2f8/Images/Primary",
-                                                    "description":  "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
-                                                    "year":  2002
-                                                },
                                                 {
                                                     "title":  "World War Z",
                                                     "start":  "2026-09-05T02:15:47.0000000Z",
@@ -186,6 +177,15 @@
                                                     "title":  "Underworld Evolution",
                                                     "start":  "2026-09-05T13:29:49.0000000Z",
                                                     "stop":  "2026-09-05T15:21:12.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Resident Evil- Apocalypse",
+                                                    "start":  "2026-09-05T15:21:12.0000000Z",
+                                                    "stop":  "2026-09-05T17:00:00.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -590,24 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "T2",
-                                              "start":  "2026-09-05T00:19:46.0000000Z",
-                                              "stop":  "2026-09-05T00:49:36.0000000Z",
-                                              "itemId":  "1315943017e226076a7899408d36dec5",
-                                              "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
+                                              "title":  "Ricardo \u0026 Mocoso",
+                                              "start":  "2026-09-05T00:20:18.0000000Z",
+                                              "stop":  "2026-09-05T00:38:42.0000000Z",
+                                              "itemId":  "0e268bdc592953760cc985e16953d93d",
+                                              "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "T2",
-                                                    "start":  "2026-09-05T00:19:46.0000000Z",
-                                                    "stop":  "2026-09-05T00:49:36.0000000Z",
-                                                    "itemId":  "1315943017e226076a7899408d36dec5",
-                                                    "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Ricardo \u0026 Mocoso",
                                                     "start":  "2026-09-05T00:20:18.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-09-05T00:39:35.0000000Z",
                                                     "itemId":  "ed83754111f4ed370a338cab8345534d",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Dancing Cobra",
+                                                    "start":  "2026-09-05T00:39:35.0000000Z",
+                                                    "stop":  "2026-09-05T00:40:41.0000000Z",
+                                                    "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                                    "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
