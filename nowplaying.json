@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-05T01:48:05.7036202Z",
+    "updated":  "2026-09-05T01:49:05.7093173Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Inglorius Bastards",
-                                                  "start":  "2026-09-04T23:15:51.0000000Z",
-                                                  "stop":  "2026-09-05T01:49:02.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Brightburn",
+                                                  "start":  "2026-09-05T01:49:02.0000000Z",
+                                                  "stop":  "2026-09-05T03:20:18.0000000Z",
+                                                  "itemId":  "a562e465a7ff31b0113aee613a779bf2",
+                                                  "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
+                                                  "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
+                                                  "year":  2019
                                               },
                                "upNext":  {
-                                              "title":  "Brightburn",
-                                              "start":  "2026-09-05T01:49:02.0000000Z",
-                                              "stop":  "2026-09-05T03:20:18.0000000Z",
-                                              "itemId":  "a562e465a7ff31b0113aee613a779bf2",
-                                              "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
-                                              "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
-                                              "year":  2019
+                                              "title":  "BORDELLO OF BLOOD",
+                                              "start":  "2026-09-05T03:20:08.0000000Z",
+                                              "stop":  "2026-09-05T04:46:50.0000000Z",
+                                              "itemId":  "b03986ae5fac22e258cf02b8c89bc7a4",
+                                              "poster":  "http://127.0.0.1:8096/Items/b03986ae5fac22e258cf02b8c89bc7a4/Images/Primary",
+                                              "description":  "Private eye Rafe Guttman is hired by repressed, born-again Katherine to find her missing bad-boy brother. The trail leads him to a whorehouse run by a thousand-year-old vampire and secretly backed by Katherine\u0027s boss, televangelist Jimmy Current.",
+                                              "year":  1996
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Brightburn",
-                                                    "start":  "2026-09-05T01:49:02.0000000Z",
-                                                    "stop":  "2026-09-05T03:20:18.0000000Z",
-                                                    "itemId":  "a562e465a7ff31b0113aee613a779bf2",
-                                                    "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
-                                                    "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
-                                                    "year":  2019
-                                                },
                                                 {
                                                     "title":  "BORDELLO OF BLOOD",
                                                     "start":  "2026-09-05T03:20:08.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/a5a1f15c45eb562ac5f7621a94c12742/Images/Primary",
                                                     "description":  "Ex-soldier Frank Brayker is the guardian of an ancient key that can unlock tremendous evil; the sinister Collector is a demon who wants the key so he can initiate the apocalypse. On the run from wicked mercenaries for almost 90 years, Brayker finally stops in at a boarding house in New Mexico where — with the help of its residents — he plans to face off against the Collector and his band of ghouls, preventing them from ever seizing the key.",
                                                     "year":  1995
+                                                },
+                                                {
+                                                    "title":  "Young Guns",
+                                                    "start":  "2026-09-05T16:06:51.0000000Z",
+                                                    "stop":  "2026-09-05T17:53:58.0000000Z",
+                                                    "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
+                                                    "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
+                                                    "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
+                                                    "year":  1988
                                                 }
                                             ]
                            },
