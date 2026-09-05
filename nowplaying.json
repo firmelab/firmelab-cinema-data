@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-05T07:01:05.1227237Z",
+    "updated":  "2026-09-05T07:02:05.0301755Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -7,7 +7,7 @@
                                "nowPlaying":  {
                                                   "title":  "Seventh Sign",
                                                   "start":  "2026-09-05T06:15:19.0000000Z",
-                                                  "stop":  "2026-09-05T07:52:29.0000000Z",
+                                                  "stop":  "2026-09-05T07:52:40.0000000Z",
                                                   "itemId":  "ee279419a64df59247370e38f4f0deea",
                                                   "poster":  "http://127.0.0.1:8096/Items/ee279419a64df59247370e38f4f0deea/Images/Primary",
                                                   "description":  "Abby is a pregnant woman with a curious new boarder in the apartment over her garage. Turns out he\u0027s heaven-sent and is speeding along the Apocalypse by bloodying rivers, egging on plagues and following scripture word for word.",
@@ -16,7 +16,7 @@
                                "upNext":  {
                                               "title":  "Conan The Destroyer",
                                               "start":  "2026-09-05T07:52:29.0000000Z",
-                                              "stop":  "2026-09-05T09:34:00.0000000Z",
+                                              "stop":  "2026-09-05T09:33:48.0000000Z",
                                               "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
                                               "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
                                               "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
@@ -26,7 +26,7 @@
                                                 {
                                                     "title":  "Conan The Destroyer",
                                                     "start":  "2026-09-05T07:52:29.0000000Z",
-                                                    "stop":  "2026-09-05T09:34:00.0000000Z",
+                                                    "stop":  "2026-09-05T09:33:48.0000000Z",
                                                     "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
                                                     "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
                                                     "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
@@ -35,7 +35,7 @@
                                                 {
                                                     "title":  "The Patriot",
                                                     "start":  "2026-09-05T09:33:48.0000000Z",
-                                                    "stop":  "2026-09-05T12:18:47.0000000Z",
+                                                    "stop":  "2026-09-05T12:18:57.0000000Z",
                                                     "itemId":  "17b673273650da7e33ae51350e123fb0",
                                                     "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
                                                     "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
@@ -44,7 +44,7 @@
                                                 {
                                                     "title":  "A Beatiful Mind",
                                                     "start":  "2026-09-05T12:18:47.0000000Z",
-                                                    "stop":  "2026-09-05T14:34:28.0000000Z",
+                                                    "stop":  "2026-09-05T14:34:16.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -53,7 +53,7 @@
                                                 {
                                                     "title":  "DEMON KNIGHT",
                                                     "start":  "2026-09-05T14:34:16.0000000Z",
-                                                    "stop":  "2026-09-05T16:06:51.0000000Z",
+                                                    "stop":  "2026-09-05T16:07:03.0000000Z",
                                                     "itemId":  "a5a1f15c45eb562ac5f7621a94c12742",
                                                     "poster":  "http://127.0.0.1:8096/Items/a5a1f15c45eb562ac5f7621a94c12742/Images/Primary",
                                                     "description":  "Ex-soldier Frank Brayker is the guardian of an ancient key that can unlock tremendous evil; the sinister Collector is a demon who wants the key so he can initiate the apocalypse. On the run from wicked mercenaries for almost 90 years, Brayker finally stops in at a boarding house in New Mexico where — with the help of its residents — he plans to face off against the Collector and his band of ghouls, preventing them from ever seizing the key.",
@@ -62,7 +62,7 @@
                                                 {
                                                     "title":  "Young Guns",
                                                     "start":  "2026-09-05T16:06:51.0000000Z",
-                                                    "stop":  "2026-09-05T17:53:59.0000000Z",
+                                                    "stop":  "2026-09-05T17:53:47.0000000Z",
                                                     "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
                                                     "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
                                                     "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
@@ -71,7 +71,7 @@
                                                 {
                                                     "title":  "WISHMASTER",
                                                     "start":  "2026-09-05T17:53:47.0000000Z",
-                                                    "stop":  "2026-09-05T19:23:55.0000000Z",
+                                                    "stop":  "2026-09-05T19:24:06.0000000Z",
                                                     "itemId":  "58d933a690c3d71b883c09370fa30d07",
                                                     "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
                                                     "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
@@ -80,7 +80,7 @@
                                                 {
                                                     "title":  "HEAVY METAL",
                                                     "start":  "2026-09-05T19:23:55.0000000Z",
-                                                    "stop":  "2026-09-05T20:54:39.0000000Z",
+                                                    "stop":  "2026-09-05T20:54:27.0000000Z",
                                                     "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
                                                     "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
                                                     "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
@@ -89,7 +89,7 @@
                                                 {
                                                     "title":  "HALF BAKED",
                                                     "start":  "2026-09-05T20:54:27.0000000Z",
-                                                    "stop":  "2026-09-05T22:16:43.0000000Z",
+                                                    "stop":  "2026-09-05T22:16:55.0000000Z",
                                                     "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
                                                     "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
                                                     "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
@@ -580,30 +580,29 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  null,
+                               "nowPlaying":  {
+                                                  "title":  "FL MIXTAPE",
+                                                  "start":  "2026-09-05T07:00:00.0000000Z",
+                                                  "stop":  "2026-09-05T07:09:43.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
+                                              },
                                "upNext":  {
-                                              "title":  "MrPayo",
-                                              "start":  "2026-09-05T07:01:06.0000000Z",
-                                              "stop":  "2026-09-05T07:01:49.0000000Z",
-                                              "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
-                                              "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
+                                              "title":  "Oz",
+                                              "start":  "2026-09-05T07:02:12.0000000Z",
+                                              "stop":  "2026-09-05T07:03:53.0000000Z",
+                                              "itemId":  "f332ba1673f9273e5349cd38b640cf51",
+                                              "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                               "description":  null,
-                                              "year":  null
+                                              "year":  2026
                                           },
                                "upcoming":  [
                                                 {
-                                                    "title":  "MrPayo",
-                                                    "start":  "2026-09-05T07:01:06.0000000Z",
-                                                    "stop":  "2026-09-05T07:01:49.0000000Z",
-                                                    "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
-                                                    "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
                                                     "title":  "Oz",
                                                     "start":  "2026-09-05T07:02:12.0000000Z",
-                                                    "stop":  "2026-09-05T07:03:25.0000000Z",
+                                                    "stop":  "2026-09-05T07:03:53.0000000Z",
                                                     "itemId":  "f332ba1673f9273e5349cd38b640cf51",
                                                     "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                                     "description":  null,
@@ -621,7 +620,7 @@
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-09-05T07:05:34.0000000Z",
-                                                    "stop":  "2026-09-05T07:13:12.0000000Z",
+                                                    "stop":  "2026-09-05T07:32:04.0000000Z",
                                                     "itemId":  "ed83754111f4ed370a338cab8345534d",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                     "description":  null,
@@ -639,7 +638,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-09-05T07:14:18.0000000Z",
-                                                    "stop":  "2026-09-05T07:15:05.0000000Z",
+                                                    "stop":  "2026-09-05T07:23:43.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -648,7 +647,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-09-05T07:15:16.0000000Z",
-                                                    "stop":  "2026-09-05T07:16:25.0000000Z",
+                                                    "stop":  "2026-09-05T07:25:25.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -657,11 +656,20 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-09-05T07:16:58.0000000Z",
-                                                    "stop":  "2026-09-05T07:20:49.0000000Z",
+                                                    "stop":  "2026-09-05T07:29:27.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Never 3Nding",
+                                                    "start":  "2026-09-05T07:20:55.0000000Z",
+                                                    "stop":  "2026-09-05T07:50:26.0000000Z",
+                                                    "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                                    "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
