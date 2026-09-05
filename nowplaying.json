@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-05T23:19:05.7463218Z",
+    "updated":  "2026-09-05T23:20:05.7513866Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -590,24 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "JamminG",
-                                              "start":  "2026-09-05T23:19:09.0000000Z",
-                                              "stop":  "2026-09-05T23:50:25.0000000Z",
-                                              "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
-                                              "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
+                                              "title":  "Never 3Nding",
+                                              "start":  "2026-09-05T23:23:06.0000000Z",
+                                              "stop":  "2026-09-05T23:25:18.0000000Z",
+                                              "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                              "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                               "description":  null,
-                                              "year":  null
+                                              "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "JamminG",
-                                                    "start":  "2026-09-05T23:19:09.0000000Z",
-                                                    "stop":  "2026-09-05T23:50:25.0000000Z",
-                                                    "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
-                                                    "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-09-05T23:23:06.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-09-05T23:35:50.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Biggie Mobbing",
+                                                    "start":  "2026-09-05T23:35:50.0000000Z",
+                                                    "stop":  "2026-09-05T23:36:31.0000000Z",
+                                                    "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
