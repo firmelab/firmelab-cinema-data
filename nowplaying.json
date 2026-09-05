@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-05T16:45:05.5144423Z",
+    "updated":  "2026-09-05T16:46:05.5234647Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -485,33 +485,24 @@
                                "number":  6,
                                "name":  "FIRMELAB CRIME",
                                "nowPlaying":  {
-                                                  "title":  "Carlitos Way",
-                                                  "start":  "2026-09-05T14:21:14.0000000Z",
-                                                  "stop":  "2026-09-05T16:45:24.0000000Z",
+                                                  "title":  "Jacky Brown",
+                                                  "start":  "2026-09-05T16:45:24.0000000Z",
+                                                  "stop":  "2026-09-05T19:19:45.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Jacky Brown",
-                                              "start":  "2026-09-05T16:45:24.0000000Z",
-                                              "stop":  "2026-09-05T19:19:45.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Inside Man",
+                                              "start":  "2026-09-05T19:19:45.0000000Z",
+                                              "stop":  "2026-09-05T21:28:32.0000000Z",
+                                              "itemId":  "5f439285fe3ef8976153452a9fee8cbc",
+                                              "poster":  "http://127.0.0.1:8096/Items/5f439285fe3ef8976153452a9fee8cbc/Images/Primary",
+                                              "description":  "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
+                                              "year":  2006
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Jacky Brown",
-                                                    "start":  "2026-09-05T16:45:24.0000000Z",
-                                                    "stop":  "2026-09-05T19:19:45.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Inside Man",
                                                     "start":  "2026-09-05T19:19:45.0000000Z",
@@ -574,6 +565,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Scarface",
+                                                    "start":  "2026-09-06T10:43:56.0000000Z",
+                                                    "stop":  "2026-09-06T13:33:53.0000000Z",
+                                                    "itemId":  "1ca5b01d892bb1b5b113e7ccaa4ac889",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
+                                                    "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+                                                    "year":  1983
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "JamminG",
-                                              "start":  "2026-09-05T16:45:31.0000000Z",
-                                              "stop":  "2026-09-05T16:49:23.0000000Z",
-                                              "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
-                                              "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
+                                              "title":  "Never 3Nding",
+                                              "start":  "2026-09-05T16:49:28.0000000Z",
+                                              "stop":  "2026-09-05T16:51:40.0000000Z",
+                                              "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                              "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                               "description":  null,
-                                              "year":  null
+                                              "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "JamminG",
-                                                    "start":  "2026-09-05T16:45:31.0000000Z",
-                                                    "stop":  "2026-09-05T16:49:23.0000000Z",
-                                                    "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
-                                                    "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-09-05T16:49:28.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-09-05T17:02:12.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Biggie Mobbing",
+                                                    "start":  "2026-09-05T17:02:12.0000000Z",
+                                                    "stop":  "2026-09-05T17:02:54.0000000Z",
+                                                    "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
