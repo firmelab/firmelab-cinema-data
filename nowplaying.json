@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-05T02:44:05.8978406Z",
+    "updated":  "2026-09-05T02:45:06.1724233Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -485,33 +485,24 @@
                                "number":  6,
                                "name":  "FIRMELAB CRIME",
                                "nowPlaying":  {
-                                                  "title":  "Scarface",
-                                                  "start":  "2026-09-04T23:54:58.0000000Z",
-                                                  "stop":  "2026-09-05T02:44:54.0000000Z",
-                                                  "itemId":  "1ca5b01d892bb1b5b113e7ccaa4ac889",
-                                                  "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
-                                                  "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
-                                                  "year":  1983
+                                                  "title":  "Carlitos Way",
+                                                  "start":  "2026-09-05T02:44:54.0000000Z",
+                                                  "stop":  "2026-09-05T05:09:04.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Carlitos Way",
-                                              "start":  "2026-09-05T02:44:54.0000000Z",
-                                              "stop":  "2026-09-05T05:09:04.0000000Z",
+                                              "title":  "Jacky Brown",
+                                              "start":  "2026-09-05T05:09:04.0000000Z",
+                                              "stop":  "2026-09-05T07:43:25.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Carlitos Way",
-                                                    "start":  "2026-09-05T02:44:54.0000000Z",
-                                                    "stop":  "2026-09-05T05:09:04.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Jacky Brown",
                                                     "start":  "2026-09-05T05:09:04.0000000Z",
@@ -574,6 +565,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/5f439285fe3ef8976153452a9fee8cbc/Images/Primary",
                                                     "description":  "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
                                                     "year":  2006
+                                                },
+                                                {
+                                                    "title":  "Reservor Dogs",
+                                                    "start":  "2026-09-05T21:28:32.0000000Z",
+                                                    "stop":  "2026-09-05T23:07:37.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
