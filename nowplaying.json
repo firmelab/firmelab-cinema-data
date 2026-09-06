@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-06T05:32:18.4328027Z",
+    "updated":  "2026-09-06T05:33:09.7786530Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -755,4 +755,19 @@
                                                     "stop":  "2026-09-06T22:38:11.0000000Z",
                                                     "itemId":  "17b673273650da7e33ae51350e123fb0",
                                                     "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
-                                                    "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defe
+                                                    "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+                                                    "year":  2000
+                                                },
+                                                {
+                                                    "title":  "Master and Commander",
+                                                    "start":  "2026-09-06T22:38:11.0000000Z",
+                                                    "stop":  "2026-09-07T00:56:32.0000000Z",
+                                                    "itemId":  "5fcc6b3e811cdcaf000036c06aef62b9",
+                                                    "poster":  "http://127.0.0.1:8096/Items/5fcc6b3e811cdcaf000036c06aef62b9/Images/Primary",
+                                                    "description":  "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship\u0027s thoughtful surgeon, his best friend.",
+                                                    "year":  2003
+                                                }
+                                            ]
+                           }
+                 }
+}
