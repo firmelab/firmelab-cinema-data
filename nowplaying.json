@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-06T18:02:06.1129764Z",
+    "updated":  "2026-09-06T18:03:06.1741374Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -197,33 +197,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Bourne Identity",
-                                                  "start":  "2026-09-06T16:04:31.0000000Z",
-                                                  "stop":  "2026-09-06T18:02:47.0000000Z",
-                                                  "itemId":  "ad22fba25f4ceaee407d76b5620443de",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ad22fba25f4ceaee407d76b5620443de/Images/Primary",
-                                                  "description":  "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
-                                                  "year":  2002
+                                                  "title":  "Bourne Supremacy",
+                                                  "start":  "2026-09-06T18:02:47.0000000Z",
+                                                  "stop":  "2026-09-06T19:51:20.0000000Z",
+                                                  "itemId":  "031faf0da71af121647ff2d37294b07a",
+                                                  "poster":  "http://127.0.0.1:8096/Items/031faf0da71af121647ff2d37294b07a/Images/Primary",
+                                                  "description":  "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
+                                                  "year":  2004
                                               },
                                "upNext":  {
-                                              "title":  "Bourne Supremacy",
-                                              "start":  "2026-09-06T18:02:47.0000000Z",
-                                              "stop":  "2026-09-06T19:51:20.0000000Z",
-                                              "itemId":  "031faf0da71af121647ff2d37294b07a",
-                                              "poster":  "http://127.0.0.1:8096/Items/031faf0da71af121647ff2d37294b07a/Images/Primary",
-                                              "description":  "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
-                                              "year":  2004
+                                              "title":  "Brightburn",
+                                              "start":  "2026-09-06T19:51:20.0000000Z",
+                                              "stop":  "2026-09-06T21:21:50.0000000Z",
+                                              "itemId":  "a562e465a7ff31b0113aee613a779bf2",
+                                              "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
+                                              "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
+                                              "year":  2019
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Bourne Supremacy",
-                                                    "start":  "2026-09-06T18:02:47.0000000Z",
-                                                    "stop":  "2026-09-06T19:51:20.0000000Z",
-                                                    "itemId":  "031faf0da71af121647ff2d37294b07a",
-                                                    "poster":  "http://127.0.0.1:8096/Items/031faf0da71af121647ff2d37294b07a/Images/Primary",
-                                                    "description":  "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
-                                                    "year":  2004
-                                                },
                                                 {
                                                     "title":  "Brightburn",
                                                     "start":  "2026-09-06T19:51:20.0000000Z",
@@ -286,6 +277,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
                                                     "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
                                                     "year":  2009
+                                                },
+                                                {
+                                                    "title":  "Fast N Furious",
+                                                    "start":  "2026-09-07T08:11:46.0000000Z",
+                                                    "stop":  "2026-09-07T09:58:41.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
