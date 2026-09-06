@@ -1,29 +1,28 @@
 {
-    "updated":  "2026-09-06T06:51:05.3523004Z",
+    "updated":  "2026-09-06T06:52:05.3700610Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
-                               "nowPlaying":  null,
+                               "nowPlaying":  {
+                                                  "title":  "Fast N Furious",
+                                                  "start":  "2026-09-06T06:51:14.0000000Z",
+                                                  "stop":  "2026-09-06T08:38:20.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
+                                              },
                                "upNext":  {
-                                              "title":  "Fast N Furious",
-                                              "start":  "2026-09-06T06:51:14.0000000Z",
-                                              "stop":  "2026-09-06T08:38:20.0000000Z",
+                                              "title":  "FightPlan",
+                                              "start":  "2026-09-06T08:38:20.0000000Z",
+                                              "stop":  "2026-09-06T10:16:34.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Fast N Furious",
-                                                    "start":  "2026-09-06T06:51:14.0000000Z",
-                                                    "stop":  "2026-09-06T08:38:20.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "FightPlan",
                                                     "start":  "2026-09-06T08:38:20.0000000Z",
@@ -86,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
                                                     "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
                                                     "year":  1985
+                                                },
+                                                {
+                                                    "title":  "Total Recall",
+                                                    "start":  "2026-09-06T19:10:55.0000000Z",
+                                                    "stop":  "2026-09-06T21:04:27.0000000Z",
+                                                    "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
+                                                    "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
+                                                    "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
+                                                    "year":  1990
                                                 }
                                             ]
                            },
