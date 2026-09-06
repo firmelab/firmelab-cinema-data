@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-06T22:58:05.8421245Z",
+    "updated":  "2026-09-06T22:59:05.8615877Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "D1_t00",
-                                                  "start":  "2026-09-06T20:46:53.0000000Z",
-                                                  "stop":  "2026-09-06T22:58:42.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Young Guns",
+                                                  "start":  "2026-09-06T22:58:42.0000000Z",
+                                                  "stop":  "2026-09-07T00:45:40.0000000Z",
+                                                  "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
+                                                  "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
+                                                  "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
+                                                  "year":  1988
                                               },
                                "upNext":  {
-                                              "title":  "Young Guns",
-                                              "start":  "2026-09-06T22:58:42.0000000Z",
-                                              "stop":  "2026-09-07T00:45:40.0000000Z",
-                                              "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
-                                              "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
-                                              "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
-                                              "year":  1988
+                                              "title":  "Conan The Destroyer",
+                                              "start":  "2026-09-07T00:45:40.0000000Z",
+                                              "stop":  "2026-09-07T02:27:00.0000000Z",
+                                              "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
+                                              "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
+                                              "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
+                                              "year":  1984
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Young Guns",
-                                                    "start":  "2026-09-06T22:58:42.0000000Z",
-                                                    "stop":  "2026-09-07T00:45:40.0000000Z",
-                                                    "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
-                                                    "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
-                                                    "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
-                                                    "year":  1988
-                                                },
                                                 {
                                                     "title":  "Conan The Destroyer",
                                                     "start":  "2026-09-07T00:45:40.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/f6b5fc1a94fb32ecc9a9bff1ff06a6a4/Images/Primary",
                                                     "description":  "FBI Agent Will Graham, retired after catching notorious cannibal Hannibal Lecter, returns to duty to engage in a risky cat-and-mouse game with Lecter to capture a new killer.",
                                                     "year":  1986
+                                                },
+                                                {
+                                                    "title":  "Carlitos Way",
+                                                    "start":  "2026-09-07T12:47:26.0000000Z",
+                                                    "stop":  "2026-09-07T15:11:47.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
@@ -581,33 +581,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Mr J-Carry",
-                                                  "start":  "2026-09-06T22:57:55.0000000Z",
-                                                  "stop":  "2026-09-06T22:58:27.0000000Z",
-                                                  "itemId":  "56c94066e018711311e81d6a3f6cc139",
-                                                  "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
+                                                  "title":  "T2",
+                                                  "start":  "2026-09-06T22:58:51.0000000Z",
+                                                  "stop":  "2026-09-06T22:59:23.0000000Z",
+                                                  "itemId":  "1315943017e226076a7899408d36dec5",
+                                                  "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "T2",
-                                              "start":  "2026-09-06T22:58:51.0000000Z",
-                                              "stop":  "2026-09-06T22:59:23.0000000Z",
-                                              "itemId":  "1315943017e226076a7899408d36dec5",
-                                              "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
+                                              "title":  "Ricardo \u0026 Mocoso",
+                                              "start":  "2026-09-06T22:59:23.0000000Z",
+                                              "stop":  "2026-09-06T23:01:39.0000000Z",
+                                              "itemId":  "0e268bdc592953760cc985e16953d93d",
+                                              "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "T2",
-                                                    "start":  "2026-09-06T22:58:51.0000000Z",
-                                                    "stop":  "2026-09-06T22:59:23.0000000Z",
-                                                    "itemId":  "1315943017e226076a7899408d36dec5",
-                                                    "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Ricardo \u0026 Mocoso",
                                                     "start":  "2026-09-06T22:59:23.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-09-06T23:18:40.0000000Z",
                                                     "itemId":  "ed83754111f4ed370a338cab8345534d",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Dancing Cobra",
+                                                    "start":  "2026-09-06T23:18:40.0000000Z",
+                                                    "stop":  "2026-09-06T23:19:46.0000000Z",
+                                                    "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                                    "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
