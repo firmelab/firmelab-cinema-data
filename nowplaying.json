@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-06T14:57:05.1827058Z",
+    "updated":  "2026-09-06T14:58:05.1970210Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,33 +581,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Mr J-Carry",
-                                                  "start":  "2026-09-06T14:56:49.0000000Z",
-                                                  "stop":  "2026-09-06T14:57:21.0000000Z",
-                                                  "itemId":  "56c94066e018711311e81d6a3f6cc139",
-                                                  "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
+                                                  "title":  "T2",
+                                                  "start":  "2026-09-06T14:57:46.0000000Z",
+                                                  "stop":  "2026-09-06T14:58:18.0000000Z",
+                                                  "itemId":  "1315943017e226076a7899408d36dec5",
+                                                  "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "T2",
-                                              "start":  "2026-09-06T14:57:46.0000000Z",
-                                              "stop":  "2026-09-06T14:58:18.0000000Z",
-                                              "itemId":  "1315943017e226076a7899408d36dec5",
-                                              "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
+                                              "title":  "Ricardo \u0026 Mocoso",
+                                              "start":  "2026-09-06T14:58:18.0000000Z",
+                                              "stop":  "2026-09-06T15:00:33.0000000Z",
+                                              "itemId":  "0e268bdc592953760cc985e16953d93d",
+                                              "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "T2",
-                                                    "start":  "2026-09-06T14:57:46.0000000Z",
-                                                    "stop":  "2026-09-06T14:58:18.0000000Z",
-                                                    "itemId":  "1315943017e226076a7899408d36dec5",
-                                                    "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Ricardo \u0026 Mocoso",
                                                     "start":  "2026-09-06T14:58:18.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-09-06T15:17:34.0000000Z",
                                                     "itemId":  "ed83754111f4ed370a338cab8345534d",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Dancing Cobra",
+                                                    "start":  "2026-09-06T15:17:34.0000000Z",
+                                                    "stop":  "2026-09-06T15:18:40.0000000Z",
+                                                    "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                                    "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
