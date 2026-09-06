@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-06T11:11:07.0935845Z",
+    "updated":  "2026-09-06T11:12:05.4607487Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -389,33 +389,24 @@
                                "number":  5,
                                "name":  "FIRMELAB TOONS",
                                "nowPlaying":  {
-                                                  "title":  "Who Framed Roger Rabbit",
-                                                  "start":  "2026-09-06T09:28:11.0000000Z",
-                                                  "stop":  "2026-09-06T11:11:56.0000000Z",
-                                                  "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
-                                                  "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
-                                                  "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
-                                                  "year":  1988
+                                                  "title":  "HEAVY METAL",
+                                                  "start":  "2026-09-06T11:11:56.0000000Z",
+                                                  "stop":  "2026-09-06T12:42:18.0000000Z",
+                                                  "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                                  "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                                  "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                                  "year":  1981
                                               },
                                "upNext":  {
-                                              "title":  "HEAVY METAL",
-                                              "start":  "2026-09-06T11:11:56.0000000Z",
-                                              "stop":  "2026-09-06T12:42:18.0000000Z",
-                                              "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
-                                              "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
-                                              "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
-                                              "year":  1981
+                                              "title":  "Who Framed Roger Rabbit",
+                                              "start":  "2026-09-06T12:42:18.0000000Z",
+                                              "stop":  "2026-09-06T14:26:04.0000000Z",
+                                              "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
+                                              "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
+                                              "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+                                              "year":  1988
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "HEAVY METAL",
-                                                    "start":  "2026-09-06T11:11:56.0000000Z",
-                                                    "stop":  "2026-09-06T12:42:18.0000000Z",
-                                                    "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
-                                                    "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
-                                                    "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
-                                                    "year":  1981
-                                                },
                                                 {
                                                     "title":  "Who Framed Roger Rabbit",
                                                     "start":  "2026-09-06T12:42:18.0000000Z",
@@ -478,6 +469,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
                                                     "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
                                                     "year":  1988
+                                                },
+                                                {
+                                                    "title":  "HEAVY METAL",
+                                                    "start":  "2026-09-07T00:08:25.0000000Z",
+                                                    "stop":  "2026-09-07T01:38:46.0000000Z",
+                                                    "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                                    "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                                    "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                                    "year":  1981
                                                 }
                                             ]
                            },
@@ -581,13 +581,13 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "JamminG",
-                                                  "start":  "2026-09-06T10:58:55.0000000Z",
-                                                  "stop":  "2026-09-06T11:11:29.0000000Z",
-                                                  "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
-                                                  "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
+                                                  "title":  "Arnold Dynamite",
+                                                  "start":  "2026-09-06T11:06:35.0000000Z",
+                                                  "stop":  "2026-09-06T11:26:43.0000000Z",
+                                                  "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
+                                                  "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
                                               "title":  "Biggie Mobbing",
