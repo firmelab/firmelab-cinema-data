@@ -1,18 +1,10 @@
 {
-    "updated":  "2026-09-06T06:50:05.3469228Z",
+    "updated":  "2026-09-06T06:51:05.3523004Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
-                               "nowPlaying":  {
-                                                  "title":  "Firmelab Cinema",
-                                                  "start":  "2026-09-06T04:35:03.0000000Z",
-                                                  "stop":  "2026-09-06T06:51:03.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
-                                              },
+                               "nowPlaying":  null,
                                "upNext":  {
                                               "title":  "Fast N Furious",
                                               "start":  "2026-09-06T06:51:14.0000000Z",
