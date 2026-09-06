@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-06T11:45:05.7043522Z",
+    "updated":  "2026-09-06T11:46:05.7282366Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Duplex",
-                                                  "start":  "2026-09-06T10:16:34.0000000Z",
-                                                  "stop":  "2026-09-06T11:45:58.0000000Z",
-                                                  "itemId":  "e2340e07092b6de7376760916297a934",
-                                                  "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
-                                                  "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
+                                                  "title":  "Wrong Turn",
+                                                  "start":  "2026-09-06T11:45:58.0000000Z",
+                                                  "stop":  "2026-09-06T13:10:22.0000000Z",
+                                                  "itemId":  "58d332deb67464546d571f7fda1cd63c",
+                                                  "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
+                                                  "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
                                                   "year":  2003
                                               },
                                "upNext":  {
-                                              "title":  "Wrong Turn",
-                                              "start":  "2026-09-06T11:45:58.0000000Z",
-                                              "stop":  "2026-09-06T13:10:22.0000000Z",
-                                              "itemId":  "58d332deb67464546d571f7fda1cd63c",
-                                              "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
-                                              "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
-                                              "year":  2003
+                                              "title":  "BORDELLO OF BLOOD",
+                                              "start":  "2026-09-06T13:10:22.0000000Z",
+                                              "stop":  "2026-09-06T14:37:04.0000000Z",
+                                              "itemId":  "b03986ae5fac22e258cf02b8c89bc7a4",
+                                              "poster":  "http://127.0.0.1:8096/Items/b03986ae5fac22e258cf02b8c89bc7a4/Images/Primary",
+                                              "description":  "Private eye Rafe Guttman is hired by repressed, born-again Katherine to find her missing bad-boy brother. The trail leads him to a whorehouse run by a thousand-year-old vampire and secretly backed by Katherine\u0027s boss, televangelist Jimmy Current.",
+                                              "year":  1996
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Wrong Turn",
-                                                    "start":  "2026-09-06T11:45:58.0000000Z",
-                                                    "stop":  "2026-09-06T13:10:22.0000000Z",
-                                                    "itemId":  "58d332deb67464546d571f7fda1cd63c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
-                                                    "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
-                                                    "year":  2003
-                                                },
                                                 {
                                                     "title":  "BORDELLO OF BLOOD",
                                                     "start":  "2026-09-06T13:10:22.0000000Z",
@@ -90,6 +81,15 @@
                                                     "title":  "The Count Monte Cristos",
                                                     "start":  "2026-09-06T22:38:00.0000000Z",
                                                     "stop":  "2026-09-07T00:49:26.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Resident Evil- Apocalypse",
+                                                    "start":  "2026-09-07T00:49:26.0000000Z",
+                                                    "stop":  "2026-09-07T02:23:26.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -581,13 +581,13 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Chingadasos",
-                                                  "start":  "2026-09-06T11:16:17.0000000Z",
-                                                  "stop":  "2026-09-06T11:45:28.0000000Z",
-                                                  "itemId":  "8988d98fd90679aab5aff5b786344b1c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
+                                                  "title":  "Duende",
+                                                  "start":  "2026-09-06T11:40:57.0000000Z",
+                                                  "stop":  "2026-09-06T12:19:20.0000000Z",
+                                                  "itemId":  "80d6feb8f0c835e935a80db3275c5412",
+                                                  "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Never 3Nding",
