@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-06T01:21:05.7649669Z",
+    "updated":  "2026-09-06T01:22:05.7697095Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Nightmare on Elm Street 3 Dream Master",
-                                                  "start":  "2026-09-05T23:48:19.0000000Z",
-                                                  "stop":  "2026-09-06T01:21:49.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Undercover Brother",
+                                                  "start":  "2026-09-06T01:21:49.0000000Z",
+                                                  "stop":  "2026-09-06T02:48:39.0000000Z",
+                                                  "itemId":  "6317b8f6b30a049091764b8311c08279",
+                                                  "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
+                                                  "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
+                                                  "year":  2002
                                               },
                                "upNext":  {
-                                              "title":  "Undercover Brother",
-                                              "start":  "2026-09-06T01:21:49.0000000Z",
-                                              "stop":  "2026-09-06T02:48:39.0000000Z",
-                                              "itemId":  "6317b8f6b30a049091764b8311c08279",
-                                              "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
-                                              "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
-                                              "year":  2002
+                                              "title":  "Predator",
+                                              "start":  "2026-09-06T02:48:29.0000000Z",
+                                              "stop":  "2026-09-06T04:35:03.0000000Z",
+                                              "itemId":  "9745bbd80aedfd3750130547f37af704",
+                                              "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
+                                              "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+                                              "year":  1987
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Undercover Brother",
-                                                    "start":  "2026-09-06T01:21:49.0000000Z",
-                                                    "stop":  "2026-09-06T02:48:39.0000000Z",
-                                                    "itemId":  "6317b8f6b30a049091764b8311c08279",
-                                                    "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
-                                                    "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
-                                                    "year":  2002
-                                                },
                                                 {
                                                     "title":  "Predator",
                                                     "start":  "2026-09-06T02:48:29.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/b03986ae5fac22e258cf02b8c89bc7a4/Images/Primary",
                                                     "description":  "Private eye Rafe Guttman is hired by repressed, born-again Katherine to find her missing bad-boy brother. The trail leads him to a whorehouse run by a thousand-year-old vampire and secretly backed by Katherine\u0027s boss, televangelist Jimmy Current.",
                                                     "year":  1996
+                                                },
+                                                {
+                                                    "title":  "WISHMASTER",
+                                                    "start":  "2026-09-06T14:37:04.0000000Z",
+                                                    "stop":  "2026-09-06T16:07:11.0000000Z",
+                                                    "itemId":  "58d933a690c3d71b883c09370fa30d07",
+                                                    "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
+                                                    "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
+                                                    "year":  1997
                                                 }
                                             ]
                            },
