@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-06T03:01:05.5129464Z",
+    "updated":  "2026-09-06T03:02:05.5167844Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -7,7 +7,7 @@
                                "nowPlaying":  {
                                                   "title":  "Predator",
                                                   "start":  "2026-09-06T02:48:29.0000000Z",
-                                                  "stop":  "2026-09-06T04:35:03.0000000Z",
+                                                  "stop":  "2026-09-06T04:35:14.0000000Z",
                                                   "itemId":  "9745bbd80aedfd3750130547f37af704",
                                                   "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
                                                   "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
@@ -16,7 +16,7 @@
                                "upNext":  {
                                               "title":  "Firmelab Cinema",
                                               "start":  "2026-09-06T04:35:03.0000000Z",
-                                              "stop":  "2026-09-06T06:51:15.0000000Z",
+                                              "stop":  "2026-09-06T06:51:03.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
@@ -26,7 +26,7 @@
                                                 {
                                                     "title":  "Firmelab Cinema",
                                                     "start":  "2026-09-06T04:35:03.0000000Z",
-                                                    "stop":  "2026-09-06T06:51:15.0000000Z",
+                                                    "stop":  "2026-09-06T06:51:03.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -35,7 +35,7 @@
                                                 {
                                                     "title":  "Fast N Furious",
                                                     "start":  "2026-09-06T06:51:14.0000000Z",
-                                                    "stop":  "2026-09-06T08:38:10.0000000Z",
+                                                    "stop":  "2026-09-06T08:38:20.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -44,7 +44,7 @@
                                                 {
                                                     "title":  "FightPlan",
                                                     "start":  "2026-09-06T08:38:20.0000000Z",
-                                                    "stop":  "2026-09-06T10:16:33.0000000Z",
+                                                    "stop":  "2026-09-06T10:16:34.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -53,7 +53,7 @@
                                                 {
                                                     "title":  "Duplex",
                                                     "start":  "2026-09-06T10:16:34.0000000Z",
-                                                    "stop":  "2026-09-06T11:45:47.0000000Z",
+                                                    "stop":  "2026-09-06T11:45:58.0000000Z",
                                                     "itemId":  "e2340e07092b6de7376760916297a934",
                                                     "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
                                                     "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
@@ -583,31 +583,22 @@
                                "nowPlaying":  {
                                                   "title":  "JamminG",
                                                   "start":  "2026-09-06T02:57:49.0000000Z",
-                                                  "stop":  "2026-09-06T03:01:41.0000000Z",
+                                                  "stop":  "2026-09-06T03:10:23.0000000Z",
                                                   "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                   "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Never 3Nding",
-                                              "start":  "2026-09-06T03:01:46.0000000Z",
-                                              "stop":  "2026-09-06T03:03:58.0000000Z",
-                                              "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
-                                              "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
+                                              "title":  "Ninja Now",
+                                              "start":  "2026-09-06T03:03:58.0000000Z",
+                                              "stop":  "2026-09-06T03:04:41.0000000Z",
+                                              "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
+                                              "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Never 3Nding",
-                                                    "start":  "2026-09-06T03:01:46.0000000Z",
-                                                    "stop":  "2026-09-06T03:03:58.0000000Z",
-                                                    "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
-                                                    "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-09-06T03:03:58.0000000Z",
@@ -629,7 +620,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-09-06T03:05:30.0000000Z",
-                                                    "stop":  "2026-09-06T03:06:57.0000000Z",
+                                                    "stop":  "2026-09-06T03:25:38.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
@@ -647,7 +638,7 @@
                                                 {
                                                     "title":  "After H0uRs",
                                                     "start":  "2026-09-06T03:07:46.0000000Z",
-                                                    "stop":  "2026-09-06T03:08:35.0000000Z",
+                                                    "stop":  "2026-09-06T03:17:07.0000000Z",
                                                     "itemId":  "150bbae732cd647eeed3060cd67b032f",
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +647,7 @@
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-09-06T03:08:35.0000000Z",
-                                                    "stop":  "2026-09-06T03:14:30.0000000Z",
+                                                    "stop":  "2026-09-06T03:23:03.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                     "description":  null,
@@ -665,9 +656,18 @@
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-09-06T03:14:30.0000000Z",
-                                                    "stop":  "2026-09-06T03:15:11.0000000Z",
+                                                    "stop":  "2026-09-06T03:23:44.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Chingadasos",
+                                                    "start":  "2026-09-06T03:15:11.0000000Z",
+                                                    "stop":  "2026-09-06T03:44:23.0000000Z",
+                                                    "itemId":  "8988d98fd90679aab5aff5b786344b1c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
