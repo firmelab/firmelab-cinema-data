@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-06T09:26:05.6851266Z",
+    "updated":  "2026-09-06T09:27:08.8872635Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -197,33 +197,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "ROBOCOP 3",
-                                                  "start":  "2026-09-06T07:41:58.0000000Z",
-                                                  "stop":  "2026-09-06T09:26:49.0000000Z",
-                                                  "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
-                                                  "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
-                                                  "year":  1993
+                                                  "title":  "Total Recall",
+                                                  "start":  "2026-09-06T09:26:49.0000000Z",
+                                                  "stop":  "2026-09-06T11:20:09.0000000Z",
+                                                  "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
+                                                  "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
+                                                  "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
+                                                  "year":  1990
                                               },
                                "upNext":  {
-                                              "title":  "Total Recall",
-                                              "start":  "2026-09-06T09:26:49.0000000Z",
-                                              "stop":  "2026-09-06T11:20:09.0000000Z",
-                                              "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
-                                              "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
-                                              "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
-                                              "year":  1990
+                                              "title":  "BATMAN BEGINS",
+                                              "start":  "2026-09-06T11:20:09.0000000Z",
+                                              "stop":  "2026-09-06T13:40:10.0000000Z",
+                                              "itemId":  "40cf44019306b29674462340007b5e1a",
+                                              "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
+                                              "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+                                              "year":  2005
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Total Recall",
-                                                    "start":  "2026-09-06T09:26:49.0000000Z",
-                                                    "stop":  "2026-09-06T11:20:09.0000000Z",
-                                                    "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
-                                                    "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
-                                                    "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
-                                                    "year":  1990
-                                                },
                                                 {
                                                     "title":  "BATMAN BEGINS",
                                                     "start":  "2026-09-06T11:20:09.0000000Z",
@@ -286,6 +277,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/d0a933c7f9688726a8f9a30f309399ad/Images/Primary",
                                                     "description":  "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
                                                     "year":  1982
+                                                },
+                                                {
+                                                    "title":  "Conan The Destroyer",
+                                                    "start":  "2026-09-07T01:02:25.0000000Z",
+                                                    "stop":  "2026-09-07T02:43:33.0000000Z",
+                                                    "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
+                                                    "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
+                                                    "year":  1984
                                                 }
                                             ]
                            },
