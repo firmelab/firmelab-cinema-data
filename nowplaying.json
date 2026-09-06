@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-06T20:33:05.7559407Z",
+    "updated":  "2026-09-06T20:34:05.7698400Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,33 +581,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Chingadasos",
-                                                  "start":  "2026-09-06T20:01:07.0000000Z",
-                                                  "stop":  "2026-09-06T20:33:41.0000000Z",
-                                                  "itemId":  "8988d98fd90679aab5aff5b786344b1c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
+                                                  "title":  "XocoBruja",
+                                                  "start":  "2026-09-06T20:06:42.0000000Z",
+                                                  "stop":  "2026-09-06T20:49:14.0000000Z",
+                                                  "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
+                                                  "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Ninja Now",
-                                              "start":  "2026-09-06T20:33:38.0000000Z",
-                                              "stop":  "2026-09-06T20:34:20.0000000Z",
-                                              "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                              "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                              "title":  "SSBI4649",
+                                              "start":  "2026-09-06T20:34:20.0000000Z",
+                                              "stop":  "2026-09-06T20:35:09.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Ninja Now",
-                                                    "start":  "2026-09-06T20:33:38.0000000Z",
-                                                    "stop":  "2026-09-06T20:34:20.0000000Z",
-                                                    "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-09-06T20:34:20.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-09-06T20:45:37.0000000Z",
                                                     "itemId":  "8988d98fd90679aab5aff5b786344b1c",
                                                     "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Mr J-Carry",
+                                                    "start":  "2026-09-06T20:46:42.0000000Z",
+                                                    "stop":  "2026-09-06T20:47:14.0000000Z",
+                                                    "itemId":  "56c94066e018711311e81d6a3f6cc139",
+                                                    "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
