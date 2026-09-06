@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-06T05:45:05.8119468Z",
+    "updated":  "2026-09-06T05:46:05.8063953Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -197,33 +197,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Robocop",
-                                                  "start":  "2026-09-06T04:02:32.0000000Z",
-                                                  "stop":  "2026-09-06T05:45:18.0000000Z",
-                                                  "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
-                                                  "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
-                                                  "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
-                                                  "year":  1987
+                                                  "title":  "ROBOCOP 2",
+                                                  "start":  "2026-09-06T05:45:18.0000000Z",
+                                                  "stop":  "2026-09-06T07:41:58.0000000Z",
+                                                  "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
+                                                  "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
+                                                  "year":  1990
                                               },
                                "upNext":  {
-                                              "title":  "ROBOCOP 2",
-                                              "start":  "2026-09-06T05:45:18.0000000Z",
-                                              "stop":  "2026-09-06T07:41:58.0000000Z",
-                                              "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
-                                              "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
-                                              "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
-                                              "year":  1990
+                                              "title":  "ROBOCOP 3",
+                                              "start":  "2026-09-06T07:41:58.0000000Z",
+                                              "stop":  "2026-09-06T09:26:49.0000000Z",
+                                              "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
+                                              "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
+                                              "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
+                                              "year":  1993
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "ROBOCOP 2",
-                                                    "start":  "2026-09-06T05:45:18.0000000Z",
-                                                    "stop":  "2026-09-06T07:41:58.0000000Z",
-                                                    "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
-                                                    "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
-                                                    "year":  1990
-                                                },
                                                 {
                                                     "title":  "ROBOCOP 3",
                                                     "start":  "2026-09-06T07:41:58.0000000Z",
@@ -286,6 +277,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
                                                     "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
                                                     "year":  2019
+                                                },
+                                                {
+                                                    "title":  "Commando",
+                                                    "start":  "2026-09-06T21:21:50.0000000Z",
+                                                    "stop":  "2026-09-06T22:52:03.0000000Z",
+                                                    "itemId":  "4d57925cf6d4f5a046509bad0a68d29f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
+                                                    "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
+                                                    "year":  1985
                                                 }
                                             ]
                            },
