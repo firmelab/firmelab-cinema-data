@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-06T11:01:05.3003289Z",
+    "updated":  "2026-09-06T11:02:05.2990535Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -583,7 +583,7 @@
                                "nowPlaying":  {
                                                   "title":  "JamminG",
                                                   "start":  "2026-09-06T10:58:55.0000000Z",
-                                                  "stop":  "2026-09-06T11:02:47.0000000Z",
+                                                  "stop":  "2026-09-06T11:11:29.0000000Z",
                                                   "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                   "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                   "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-09-06T11:06:35.0000000Z",
-                                                    "stop":  "2026-09-06T11:08:03.0000000Z",
+                                                    "stop":  "2026-09-06T11:26:43.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "After H0uRs",
                                                     "start":  "2026-09-06T11:08:51.0000000Z",
-                                                    "stop":  "2026-09-06T11:09:40.0000000Z",
+                                                    "stop":  "2026-09-06T11:18:13.0000000Z",
                                                     "itemId":  "150bbae732cd647eeed3060cd67b032f",
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-09-06T11:09:40.0000000Z",
-                                                    "stop":  "2026-09-06T11:15:36.0000000Z",
+                                                    "stop":  "2026-09-06T11:24:09.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-09-06T11:15:36.0000000Z",
-                                                    "stop":  "2026-09-06T11:16:17.0000000Z",
+                                                    "stop":  "2026-09-06T11:24:50.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
