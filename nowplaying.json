@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-06T07:28:05.5898886Z",
+    "updated":  "2026-09-06T07:29:05.5997620Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,11 +581,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Duende",
-                                                  "start":  "2026-09-06T07:18:33.0000000Z",
-                                                  "stop":  "2026-09-06T07:28:37.0000000Z",
-                                                  "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                                  "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                                  "title":  "JamminG",
+                                                  "start":  "2026-09-06T07:20:14.0000000Z",
+                                                  "stop":  "2026-09-06T07:51:31.0000000Z",
+                                                  "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
