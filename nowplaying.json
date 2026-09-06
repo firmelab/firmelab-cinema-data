@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-06T19:51:06.6142658Z",
+    "updated":  "2026-09-06T19:52:09.2168933Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -197,33 +197,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Bourne Supremacy",
-                                                  "start":  "2026-09-06T18:02:47.0000000Z",
-                                                  "stop":  "2026-09-06T19:51:20.0000000Z",
-                                                  "itemId":  "031faf0da71af121647ff2d37294b07a",
-                                                  "poster":  "http://127.0.0.1:8096/Items/031faf0da71af121647ff2d37294b07a/Images/Primary",
-                                                  "description":  "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
-                                                  "year":  2004
+                                                  "title":  "Brightburn",
+                                                  "start":  "2026-09-06T19:51:20.0000000Z",
+                                                  "stop":  "2026-09-06T21:21:50.0000000Z",
+                                                  "itemId":  "a562e465a7ff31b0113aee613a779bf2",
+                                                  "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
+                                                  "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
+                                                  "year":  2019
                                               },
                                "upNext":  {
-                                              "title":  "Brightburn",
-                                              "start":  "2026-09-06T19:51:20.0000000Z",
-                                              "stop":  "2026-09-06T21:21:50.0000000Z",
-                                              "itemId":  "a562e465a7ff31b0113aee613a779bf2",
-                                              "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
-                                              "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
-                                              "year":  2019
+                                              "title":  "Commando",
+                                              "start":  "2026-09-06T21:21:50.0000000Z",
+                                              "stop":  "2026-09-06T22:52:03.0000000Z",
+                                              "itemId":  "4d57925cf6d4f5a046509bad0a68d29f",
+                                              "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
+                                              "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
+                                              "year":  1985
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Brightburn",
-                                                    "start":  "2026-09-06T19:51:20.0000000Z",
-                                                    "stop":  "2026-09-06T21:21:50.0000000Z",
-                                                    "itemId":  "a562e465a7ff31b0113aee613a779bf2",
-                                                    "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
-                                                    "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
-                                                    "year":  2019
-                                                },
                                                 {
                                                     "title":  "Commando",
                                                     "start":  "2026-09-06T21:21:50.0000000Z",
@@ -286,6 +277,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "John Wick",
+                                                    "start":  "2026-09-07T09:58:41.0000000Z",
+                                                    "stop":  "2026-09-07T11:39:55.0000000Z",
+                                                    "itemId":  "84b70d75a3d957b57b02cf83796504a8",
+                                                    "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
+                                                    "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+                                                    "year":  2014
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Arnold Dynamite",
-                                              "start":  "2026-09-06T19:51:25.0000000Z",
-                                              "stop":  "2026-09-06T19:52:52.0000000Z",
-                                              "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
-                                              "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
+                                              "title":  "0Ld Sc00L",
+                                              "start":  "2026-09-06T19:52:52.0000000Z",
+                                              "stop":  "2026-09-06T19:53:41.0000000Z",
+                                              "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                              "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Arnold Dynamite",
-                                                    "start":  "2026-09-06T19:51:25.0000000Z",
-                                                    "stop":  "2026-09-06T19:52:52.0000000Z",
-                                                    "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "0Ld Sc00L",
                                                     "start":  "2026-09-06T19:52:52.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-09-06T20:04:27.0000000Z",
                                                     "itemId":  "1315943017e226076a7899408d36dec5",
                                                     "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Ricardo \u0026 Mocoso",
+                                                    "start":  "2026-09-06T20:04:27.0000000Z",
+                                                    "stop":  "2026-09-06T20:30:22.0000000Z",
+                                                    "itemId":  "0e268bdc592953760cc985e16953d93d",
+                                                    "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
