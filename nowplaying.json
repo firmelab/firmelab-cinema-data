@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-06T18:12:07.5299677Z",
+    "updated":  "2026-09-06T18:13:08.1122750Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -590,24 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Dancing Cobra",
-                                              "start":  "2026-09-06T18:12:31.0000000Z",
-                                              "stop":  "2026-09-06T18:13:37.0000000Z",
-                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
+                                              "title":  "DnBaPCsht",
+                                              "start":  "2026-09-06T18:13:37.0000000Z",
+                                              "stop":  "2026-09-06T18:38:03.0000000Z",
+                                              "itemId":  "d2296bca99a831548bbada0bb3bac719",
+                                              "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Dancing Cobra",
-                                                    "start":  "2026-09-06T18:12:31.0000000Z",
-                                                    "stop":  "2026-09-06T18:13:37.0000000Z",
-                                                    "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-09-06T18:13:37.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "0Ld Sc00L",
+                                                    "start":  "2026-09-06T18:25:24.0000000Z",
+                                                    "stop":  "2026-09-06T18:42:31.0000000Z",
+                                                    "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
