@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-06T07:54:05.8588873Z",
+    "updated":  "2026-09-06T07:55:06.7668512Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,33 +101,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Dawn of the Dead",
-                                                  "start":  "2026-09-06T06:01:48.0000000Z",
-                                                  "stop":  "2026-09-06T07:54:54.0000000Z",
-                                                  "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
-                                                  "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
-                                                  "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
-                                                  "year":  2004
+                                                  "title":  "D1_t00",
+                                                  "start":  "2026-09-06T07:54:54.0000000Z",
+                                                  "stop":  "2026-09-06T10:10:27.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "D1_t00",
-                                              "start":  "2026-09-06T07:54:54.0000000Z",
-                                              "stop":  "2026-09-06T10:10:27.0000000Z",
+                                              "title":  "Resident Evil- Apocalypse",
+                                              "start":  "2026-09-06T10:10:27.0000000Z",
+                                              "stop":  "2026-09-06T11:48:09.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "D1_t00",
-                                                    "start":  "2026-09-06T07:54:54.0000000Z",
-                                                    "stop":  "2026-09-06T10:10:27.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Resident Evil- Apocalypse",
                                                     "start":  "2026-09-06T10:10:27.0000000Z",
@@ -190,6 +181,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
                                                     "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
                                                     "year":  2005
+                                                },
+                                                {
+                                                    "title":  "Underworld Evolution",
+                                                    "start":  "2026-09-06T22:22:33.0000000Z",
+                                                    "stop":  "2026-09-07T00:12:38.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
@@ -677,33 +677,24 @@
                                "number":  8,
                                "name":  "FIRMELAB FRONTIER",
                                "nowPlaying":  {
-                                                  "title":  "Young Guns",
-                                                  "start":  "2026-09-06T06:07:49.0000000Z",
-                                                  "stop":  "2026-09-06T07:54:35.0000000Z",
-                                                  "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
-                                                  "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
-                                                  "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
-                                                  "year":  1988
+                                                  "title":  "The Patriot",
+                                                  "start":  "2026-09-06T07:54:35.0000000Z",
+                                                  "stop":  "2026-09-06T10:39:22.0000000Z",
+                                                  "itemId":  "17b673273650da7e33ae51350e123fb0",
+                                                  "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
+                                                  "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+                                                  "year":  2000
                                               },
                                "upNext":  {
-                                              "title":  "The Patriot",
-                                              "start":  "2026-09-06T07:54:35.0000000Z",
-                                              "stop":  "2026-09-06T10:39:22.0000000Z",
-                                              "itemId":  "17b673273650da7e33ae51350e123fb0",
-                                              "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
-                                              "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
-                                              "year":  2000
+                                              "title":  "Master and Commander",
+                                              "start":  "2026-09-06T10:39:22.0000000Z",
+                                              "stop":  "2026-09-06T12:57:43.0000000Z",
+                                              "itemId":  "5fcc6b3e811cdcaf000036c06aef62b9",
+                                              "poster":  "http://127.0.0.1:8096/Items/5fcc6b3e811cdcaf000036c06aef62b9/Images/Primary",
+                                              "description":  "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship\u0027s thoughtful surgeon, his best friend.",
+                                              "year":  2003
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "The Patriot",
-                                                    "start":  "2026-09-06T07:54:35.0000000Z",
-                                                    "stop":  "2026-09-06T10:39:22.0000000Z",
-                                                    "itemId":  "17b673273650da7e33ae51350e123fb0",
-                                                    "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
-                                                    "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
-                                                    "year":  2000
-                                                },
                                                 {
                                                     "title":  "Master and Commander",
                                                     "start":  "2026-09-06T10:39:22.0000000Z",
@@ -762,6 +753,15 @@
                                                     "title":  "Brave Heart",
                                                     "start":  "2026-09-07T00:56:32.0000000Z",
                                                     "stop":  "2026-09-07T03:54:12.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "The Count Monte Cristos",
+                                                    "start":  "2026-09-07T03:54:12.0000000Z",
+                                                    "stop":  "2026-09-07T06:05:26.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
