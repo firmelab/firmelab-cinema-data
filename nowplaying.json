@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-06T18:21:08.1954110Z",
+    "updated":  "2026-09-06T18:22:10.3004428Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -293,33 +293,24 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "Duplex",
-                                                  "start":  "2026-09-06T16:52:20.0000000Z",
-                                                  "stop":  "2026-09-06T18:21:33.0000000Z",
-                                                  "itemId":  "e2340e07092b6de7376760916297a934",
-                                                  "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
-                                                  "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
-                                                  "year":  2003
+                                                  "title":  "UP IN SMOKE",
+                                                  "start":  "2026-09-06T18:21:33.0000000Z",
+                                                  "stop":  "2026-09-06T19:47:24.0000000Z",
+                                                  "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
+                                                  "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
+                                                  "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
+                                                  "year":  1978
                                               },
                                "upNext":  {
-                                              "title":  "UP IN SMOKE",
-                                              "start":  "2026-09-06T18:21:33.0000000Z",
-                                              "stop":  "2026-09-06T19:47:24.0000000Z",
-                                              "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
-                                              "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
-                                              "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
-                                              "year":  1978
+                                              "title":  "HALF BAKED",
+                                              "start":  "2026-09-06T19:47:24.0000000Z",
+                                              "stop":  "2026-09-06T21:09:30.0000000Z",
+                                              "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
+                                              "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
+                                              "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
+                                              "year":  1998
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "UP IN SMOKE",
-                                                    "start":  "2026-09-06T18:21:33.0000000Z",
-                                                    "stop":  "2026-09-06T19:47:24.0000000Z",
-                                                    "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
-                                                    "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
-                                                    "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
-                                                    "year":  1978
-                                                },
                                                 {
                                                     "title":  "HALF BAKED",
                                                     "start":  "2026-09-06T19:47:24.0000000Z",
@@ -382,6 +373,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
                                                     "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
                                                     "year":  1998
+                                                },
+                                                {
+                                                    "title":  "Get Shorty",
+                                                    "start":  "2026-09-07T06:14:56.0000000Z",
+                                                    "stop":  "2026-09-07T07:59:44.0000000Z",
+                                                    "itemId":  "746531a34dc012efd97b57703e1903af",
+                                                    "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
+                                                    "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
+                                                    "year":  1995
                                                 }
                                             ]
                            },
