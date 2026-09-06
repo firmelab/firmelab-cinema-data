@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-06T07:46:05.7478857Z",
+    "updated":  "2026-09-06T07:47:05.7454547Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -293,33 +293,24 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "AnchorMan",
-                                                  "start":  "2026-09-06T06:09:31.0000000Z",
-                                                  "stop":  "2026-09-06T07:46:54.0000000Z",
-                                                  "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
-                                                  "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
-                                                  "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
-                                                  "year":  2004
+                                                  "title":  "Duplex",
+                                                  "start":  "2026-09-06T07:46:54.0000000Z",
+                                                  "stop":  "2026-09-06T09:16:07.0000000Z",
+                                                  "itemId":  "e2340e07092b6de7376760916297a934",
+                                                  "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
+                                                  "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
+                                                  "year":  2003
                                               },
                                "upNext":  {
-                                              "title":  "Duplex",
-                                              "start":  "2026-09-06T07:46:54.0000000Z",
-                                              "stop":  "2026-09-06T09:16:07.0000000Z",
-                                              "itemId":  "e2340e07092b6de7376760916297a934",
-                                              "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
-                                              "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
-                                              "year":  2003
+                                              "title":  "UP IN SMOKE",
+                                              "start":  "2026-09-06T09:16:07.0000000Z",
+                                              "stop":  "2026-09-06T10:41:57.0000000Z",
+                                              "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
+                                              "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
+                                              "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
+                                              "year":  1978
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Duplex",
-                                                    "start":  "2026-09-06T07:46:54.0000000Z",
-                                                    "stop":  "2026-09-06T09:16:07.0000000Z",
-                                                    "itemId":  "e2340e07092b6de7376760916297a934",
-                                                    "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
-                                                    "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
-                                                    "year":  2003
-                                                },
                                                 {
                                                     "title":  "UP IN SMOKE",
                                                     "start":  "2026-09-06T09:16:07.0000000Z",
@@ -382,6 +373,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
                                                     "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
                                                     "year":  1978
+                                                },
+                                                {
+                                                    "title":  "HALF BAKED",
+                                                    "start":  "2026-09-06T19:47:24.0000000Z",
+                                                    "stop":  "2026-09-06T21:09:30.0000000Z",
+                                                    "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
+                                                    "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
+                                                    "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
+                                                    "year":  1998
                                                 }
                                             ]
                            },
