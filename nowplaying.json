@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-06T00:37:05.3853691Z",
+    "updated":  "2026-09-06T00:38:05.4338979Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,13 +581,13 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "DnBaPCsht",
-                                                  "start":  "2026-09-06T00:00:13.0000000Z",
-                                                  "stop":  "2026-09-06T00:37:14.0000000Z",
-                                                  "itemId":  "d2296bca99a831548bbada0bb3bac719",
-                                                  "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
+                                                  "title":  "Never 3Nding",
+                                                  "start":  "2026-09-06T00:06:50.0000000Z",
+                                                  "stop":  "2026-09-06T00:40:30.0000000Z",
+                                                  "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                                  "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
                                               "title":  "Dancing Cobra",
