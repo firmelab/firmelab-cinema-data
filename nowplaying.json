@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-07T20:48:07.1110124Z",
+    "updated":  "2026-09-07T21:00:49.5634526Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -197,33 +197,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Total Recall",
-                                                  "start":  "2026-09-07T18:57:44.0000000Z",
-                                                  "stop":  "2026-09-07T20:51:05.0000000Z",
-                                                  "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
-                                                  "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
-                                                  "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
-                                                  "year":  1990
+                                                  "title":  "BATMAN BEGINS",
+                                                  "start":  "2026-09-07T20:51:05.0000000Z",
+                                                  "stop":  "2026-09-07T23:11:06.0000000Z",
+                                                  "itemId":  "40cf44019306b29674462340007b5e1a",
+                                                  "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
+                                                  "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+                                                  "year":  2005
                                               },
                                "upNext":  {
-                                              "title":  "BATMAN BEGINS",
-                                              "start":  "2026-09-07T20:51:05.0000000Z",
-                                              "stop":  "2026-09-07T23:11:06.0000000Z",
-                                              "itemId":  "40cf44019306b29674462340007b5e1a",
-                                              "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
-                                              "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
-                                              "year":  2005
+                                              "title":  "Black Hawk Down",
+                                              "start":  "2026-09-07T23:11:06.0000000Z",
+                                              "stop":  "2026-09-08T01:35:27.0000000Z",
+                                              "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
+                                              "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
+                                              "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+                                              "year":  2001
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "BATMAN BEGINS",
-                                                    "start":  "2026-09-07T20:51:05.0000000Z",
-                                                    "stop":  "2026-09-07T23:11:06.0000000Z",
-                                                    "itemId":  "40cf44019306b29674462340007b5e1a",
-                                                    "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
-                                                    "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
-                                                    "year":  2005
-                                                },
                                                 {
                                                     "title":  "Black Hawk Down",
                                                     "start":  "2026-09-07T23:11:06.0000000Z",
@@ -286,6 +277,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
                                                     "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
                                                     "year":  1984
+                                                },
+                                                {
+                                                    "title":  "Predator",
+                                                    "start":  "2026-09-08T12:14:29.0000000Z",
+                                                    "stop":  "2026-09-08T14:01:03.0000000Z",
+                                                    "itemId":  "9745bbd80aedfd3750130547f37af704",
+                                                    "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
+                                                    "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+                                                    "year":  1987
                                                 }
                                             ]
                            },
@@ -581,93 +581,93 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "T2",
-                                                  "start":  "2026-09-07T20:07:11.0000000Z",
-                                                  "stop":  "2026-09-07T20:48:47.0000000Z",
-                                                  "itemId":  "1315943017e226076a7899408d36dec5",
-                                                  "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
+                                                  "title":  "Oz",
+                                                  "start":  "2026-09-07T20:59:44.0000000Z",
+                                                  "stop":  "2026-09-07T21:00:57.0000000Z",
+                                                  "itemId":  "f332ba1673f9273e5349cd38b640cf51",
+                                                  "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Mr J-Carry",
-                                              "start":  "2026-09-07T20:49:59.0000000Z",
-                                              "stop":  "2026-09-07T20:50:31.0000000Z",
-                                              "itemId":  "56c94066e018711311e81d6a3f6cc139",
-                                              "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
+                                              "title":  "BloodJoke",
+                                              "start":  "2026-09-07T21:01:25.0000000Z",
+                                              "stop":  "2026-09-07T21:03:00.0000000Z",
+                                              "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                              "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Mr J-Carry",
-                                                    "start":  "2026-09-07T20:49:59.0000000Z",
-                                                    "stop":  "2026-09-07T20:50:31.0000000Z",
-                                                    "itemId":  "56c94066e018711311e81d6a3f6cc139",
-                                                    "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
-                                                {
-                                                    "title":  "T2",
-                                                    "start":  "2026-09-07T20:50:55.0000000Z",
-                                                    "stop":  "2026-09-07T20:51:27.0000000Z",
-                                                    "itemId":  "1315943017e226076a7899408d36dec5",
-                                                    "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
-                                                {
-                                                    "title":  "Ricardo \u0026 Mocoso",
-                                                    "start":  "2026-09-07T20:51:27.0000000Z",
-                                                    "stop":  "2026-09-07T20:53:43.0000000Z",
-                                                    "itemId":  "0e268bdc592953760cc985e16953d93d",
-                                                    "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
-                                                {
-                                                    "title":  "XocoBruja",
-                                                    "start":  "2026-09-07T20:53:43.0000000Z",
-                                                    "stop":  "2026-09-07T20:55:11.0000000Z",
-                                                    "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
-                                                    "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
-                                                {
-                                                    "title":  "COKCE6139",
-                                                    "start":  "2026-09-07T20:56:28.0000000Z",
-                                                    "stop":  "2026-09-07T20:57:29.0000000Z",
-                                                    "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
-                                                {
-                                                    "title":  "MrPayo",
-                                                    "start":  "2026-09-07T20:58:38.0000000Z",
-                                                    "stop":  "2026-09-07T20:59:21.0000000Z",
-                                                    "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
-                                                    "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
-                                                    "title":  "Oz",
-                                                    "start":  "2026-09-07T20:59:44.0000000Z",
-                                                    "stop":  "2026-09-07T21:00:57.0000000Z",
-                                                    "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "BloodJoke",
                                                     "start":  "2026-09-07T21:01:25.0000000Z",
                                                     "stop":  "2026-09-07T21:03:00.0000000Z",
                                                     "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
                                                     "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Carrito",
+                                                    "start":  "2026-09-07T21:03:06.0000000Z",
+                                                    "stop":  "2026-09-07T21:10:44.0000000Z",
+                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Dancing Cobra",
+                                                    "start":  "2026-09-07T21:10:44.0000000Z",
+                                                    "stop":  "2026-09-07T21:11:50.0000000Z",
+                                                    "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                                    "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "DnBaPCsht",
+                                                    "start":  "2026-09-07T21:11:50.0000000Z",
+                                                    "stop":  "2026-09-07T21:12:37.0000000Z",
+                                                    "itemId":  "d2296bca99a831548bbada0bb3bac719",
+                                                    "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Duende",
+                                                    "start":  "2026-09-07T21:12:48.0000000Z",
+                                                    "stop":  "2026-09-07T21:13:57.0000000Z",
+                                                    "itemId":  "80d6feb8f0c835e935a80db3275c5412",
+                                                    "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "JamminG",
+                                                    "start":  "2026-09-07T21:14:29.0000000Z",
+                                                    "stop":  "2026-09-07T21:18:21.0000000Z",
+                                                    "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                                    "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Never 3Nding",
+                                                    "start":  "2026-09-07T21:18:26.0000000Z",
+                                                    "stop":  "2026-09-07T21:20:38.0000000Z",
+                                                    "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                                    "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Ninja Now",
+                                                    "start":  "2026-09-07T21:20:38.0000000Z",
+                                                    "stop":  "2026-09-07T21:21:21.0000000Z",
+                                                    "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
