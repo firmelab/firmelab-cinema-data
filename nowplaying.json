@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-07T16:58:05.3089659Z",
+    "updated":  "2026-09-07T16:59:05.2967900Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Predator",
-                                                  "start":  "2026-09-07T15:11:47.0000000Z",
-                                                  "stop":  "2026-09-07T16:58:33.0000000Z",
-                                                  "itemId":  "9745bbd80aedfd3750130547f37af704",
-                                                  "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
-                                                  "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
-                                                  "year":  1987
+                                                  "title":  "AnchorMan",
+                                                  "start":  "2026-09-07T16:58:33.0000000Z",
+                                                  "stop":  "2026-09-07T18:36:07.0000000Z",
+                                                  "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
+                                                  "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
+                                                  "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
+                                                  "year":  2004
                                               },
                                "upNext":  {
-                                              "title":  "AnchorMan",
-                                              "start":  "2026-09-07T16:58:33.0000000Z",
-                                              "stop":  "2026-09-07T18:36:07.0000000Z",
-                                              "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
-                                              "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
-                                              "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
+                                              "title":  "Dawn of the Dead",
+                                              "start":  "2026-09-07T18:36:07.0000000Z",
+                                              "stop":  "2026-09-07T20:25:31.0000000Z",
+                                              "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
+                                              "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
+                                              "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
                                               "year":  2004
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "AnchorMan",
-                                                    "start":  "2026-09-07T16:58:33.0000000Z",
-                                                    "stop":  "2026-09-07T18:36:07.0000000Z",
-                                                    "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
-                                                    "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
-                                                    "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
-                                                    "year":  2004
-                                                },
                                                 {
                                                     "title":  "Dawn of the Dead",
                                                     "start":  "2026-09-07T18:36:07.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
                                                     "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
                                                     "year":  1978
+                                                },
+                                                {
+                                                    "title":  "Total Recall",
+                                                    "start":  "2026-09-08T08:43:30.0000000Z",
+                                                    "stop":  "2026-09-08T10:37:02.0000000Z",
+                                                    "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
+                                                    "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
+                                                    "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
+                                                    "year":  1990
                                                 }
                                             ]
                            },
@@ -590,33 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Ninja Now",
-                                              "start":  "2026-09-07T16:58:14.0000000Z",
-                                              "stop":  "2026-09-07T16:58:56.0000000Z",
-                                              "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                              "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                              "title":  "Arnold Dynamite",
+                                              "start":  "2026-09-07T16:59:45.0000000Z",
+                                              "stop":  "2026-09-07T17:01:13.0000000Z",
+                                              "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
+                                              "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                               "description":  null,
-                                              "year":  null
+                                              "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Ninja Now",
-                                                    "start":  "2026-09-07T16:58:14.0000000Z",
-                                                    "stop":  "2026-09-07T16:58:56.0000000Z",
-                                                    "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
-                                                    "title":  "SSBI4649",
-                                                    "start":  "2026-09-07T16:58:56.0000000Z",
-                                                    "stop":  "2026-09-07T16:59:45.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-09-07T16:59:45.0000000Z",
@@ -668,6 +650,24 @@
                                                     "stop":  "2026-09-07T17:10:13.0000000Z",
                                                     "itemId":  "8988d98fd90679aab5aff5b786344b1c",
                                                     "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Mr J-Carry",
+                                                    "start":  "2026-09-07T17:11:18.0000000Z",
+                                                    "stop":  "2026-09-07T17:11:50.0000000Z",
+                                                    "itemId":  "56c94066e018711311e81d6a3f6cc139",
+                                                    "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "T2",
+                                                    "start":  "2026-09-07T17:12:15.0000000Z",
+                                                    "stop":  "2026-09-07T17:12:47.0000000Z",
+                                                    "itemId":  "1315943017e226076a7899408d36dec5",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
