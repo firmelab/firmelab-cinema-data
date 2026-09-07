@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-07T12:47:05.2181428Z",
+    "updated":  "2026-09-07T12:48:05.2480634Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Manhunter",
-                                                  "start":  "2026-09-07T10:45:34.0000000Z",
-                                                  "stop":  "2026-09-07T12:47:26.0000000Z",
-                                                  "itemId":  "f6b5fc1a94fb32ecc9a9bff1ff06a6a4",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f6b5fc1a94fb32ecc9a9bff1ff06a6a4/Images/Primary",
-                                                  "description":  "FBI Agent Will Graham, retired after catching notorious cannibal Hannibal Lecter, returns to duty to engage in a risky cat-and-mouse game with Lecter to capture a new killer.",
-                                                  "year":  1986
+                                                  "title":  "Carlitos Way",
+                                                  "start":  "2026-09-07T12:47:26.0000000Z",
+                                                  "stop":  "2026-09-07T15:11:47.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Carlitos Way",
-                                              "start":  "2026-09-07T12:47:26.0000000Z",
-                                              "stop":  "2026-09-07T15:11:47.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Predator",
+                                              "start":  "2026-09-07T15:11:47.0000000Z",
+                                              "stop":  "2026-09-07T16:58:33.0000000Z",
+                                              "itemId":  "9745bbd80aedfd3750130547f37af704",
+                                              "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
+                                              "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+                                              "year":  1987
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Carlitos Way",
-                                                    "start":  "2026-09-07T12:47:26.0000000Z",
-                                                    "stop":  "2026-09-07T15:11:47.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Predator",
                                                     "start":  "2026-09-07T15:11:47.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/d0a933c7f9688726a8f9a30f309399ad/Images/Primary",
                                                     "description":  "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
                                                     "year":  1982
+                                                },
+                                                {
+                                                    "title":  "Black Hawk Down",
+                                                    "start":  "2026-09-08T04:52:56.0000000Z",
+                                                    "stop":  "2026-09-08T07:17:29.0000000Z",
+                                                    "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
+                                                    "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+                                                    "year":  2001
                                                 }
                                             ]
                            },
