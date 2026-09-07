@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-07T12:46:05.2370269Z",
+    "updated":  "2026-09-07T12:47:05.2181428Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -485,33 +485,24 @@
                                "number":  6,
                                "name":  "FIRMELAB CRIME",
                                "nowPlaying":  {
-                                                  "title":  "Scarface",
-                                                  "start":  "2026-09-07T09:56:35.0000000Z",
-                                                  "stop":  "2026-09-07T12:46:32.0000000Z",
-                                                  "itemId":  "1ca5b01d892bb1b5b113e7ccaa4ac889",
-                                                  "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
-                                                  "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
-                                                  "year":  1983
+                                                  "title":  "Carlitos Way",
+                                                  "start":  "2026-09-07T12:46:32.0000000Z",
+                                                  "stop":  "2026-09-07T15:10:42.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Carlitos Way",
-                                              "start":  "2026-09-07T12:46:32.0000000Z",
-                                              "stop":  "2026-09-07T15:10:42.0000000Z",
+                                              "title":  "Jacky Brown",
+                                              "start":  "2026-09-07T15:10:42.0000000Z",
+                                              "stop":  "2026-09-07T17:45:03.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Carlitos Way",
-                                                    "start":  "2026-09-07T12:46:32.0000000Z",
-                                                    "stop":  "2026-09-07T15:10:42.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Jacky Brown",
                                                     "start":  "2026-09-07T15:10:42.0000000Z",
@@ -574,6 +565,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/5f439285fe3ef8976153452a9fee8cbc/Images/Primary",
                                                     "description":  "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
                                                     "year":  2006
+                                                },
+                                                {
+                                                    "title":  "Reservor Dogs",
+                                                    "start":  "2026-09-08T07:30:09.0000000Z",
+                                                    "stop":  "2026-09-08T09:09:14.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
@@ -590,33 +590,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Biggie Mobbing",
-                                              "start":  "2026-09-07T12:46:21.0000000Z",
-                                              "stop":  "2026-09-07T12:47:02.0000000Z",
-                                              "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
-                                              "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
+                                              "title":  "Mr J-Carry",
+                                              "start":  "2026-09-07T12:48:53.0000000Z",
+                                              "stop":  "2026-09-07T12:49:25.0000000Z",
+                                              "itemId":  "56c94066e018711311e81d6a3f6cc139",
+                                              "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Biggie Mobbing",
-                                                    "start":  "2026-09-07T12:46:21.0000000Z",
-                                                    "stop":  "2026-09-07T12:47:02.0000000Z",
-                                                    "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
-                                                {
-                                                    "title":  "Chingadasos",
-                                                    "start":  "2026-09-07T12:47:02.0000000Z",
-                                                    "stop":  "2026-09-07T12:47:48.0000000Z",
-                                                    "itemId":  "8988d98fd90679aab5aff5b786344b1c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Mr J-Carry",
                                                     "start":  "2026-09-07T12:48:53.0000000Z",
@@ -668,6 +650,24 @@
                                                     "stop":  "2026-09-07T12:58:15.0000000Z",
                                                     "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
                                                     "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Oz",
+                                                    "start":  "2026-09-07T12:58:38.0000000Z",
+                                                    "stop":  "2026-09-07T12:59:51.0000000Z",
+                                                    "itemId":  "f332ba1673f9273e5349cd38b640cf51",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "BloodJoke",
+                                                    "start":  "2026-09-07T13:00:19.0000000Z",
+                                                    "stop":  "2026-09-07T13:01:55.0000000Z",
+                                                    "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
