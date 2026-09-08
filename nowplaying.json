@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-08T08:43:05.6885766Z",
+    "updated":  "2026-09-08T08:44:05.6810094Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "UP IN SMOKE",
-                                                  "start":  "2026-09-08T07:17:29.0000000Z",
-                                                  "stop":  "2026-09-08T08:43:30.0000000Z",
-                                                  "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
-                                                  "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
-                                                  "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
-                                                  "year":  1978
+                                                  "title":  "Total Recall",
+                                                  "start":  "2026-09-08T08:43:30.0000000Z",
+                                                  "stop":  "2026-09-08T10:37:02.0000000Z",
+                                                  "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
+                                                  "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
+                                                  "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
+                                                  "year":  1990
                                               },
                                "upNext":  {
-                                              "title":  "Total Recall",
-                                              "start":  "2026-09-08T08:43:30.0000000Z",
-                                              "stop":  "2026-09-08T10:37:02.0000000Z",
-                                              "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
-                                              "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
-                                              "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
-                                              "year":  1990
+                                              "title":  "Bourne Identity",
+                                              "start":  "2026-09-08T10:37:02.0000000Z",
+                                              "stop":  "2026-09-08T12:35:29.0000000Z",
+                                              "itemId":  "ad22fba25f4ceaee407d76b5620443de",
+                                              "poster":  "http://127.0.0.1:8096/Items/ad22fba25f4ceaee407d76b5620443de/Images/Primary",
+                                              "description":  "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
+                                              "year":  2002
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Total Recall",
-                                                    "start":  "2026-09-08T08:43:30.0000000Z",
-                                                    "stop":  "2026-09-08T10:37:02.0000000Z",
-                                                    "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
-                                                    "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
-                                                    "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
-                                                    "year":  1990
-                                                },
                                                 {
                                                     "title":  "Bourne Identity",
                                                     "start":  "2026-09-08T10:37:02.0000000Z",
@@ -90,6 +81,15 @@
                                                     "title":  "Underworld Evolution",
                                                     "start":  "2026-09-08T21:52:46.0000000Z",
                                                     "stop":  "2026-09-08T23:39:22.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "FightPlan",
+                                                    "start":  "2026-09-08T23:39:22.0000000Z",
+                                                    "stop":  "2026-09-09T01:17:36.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
