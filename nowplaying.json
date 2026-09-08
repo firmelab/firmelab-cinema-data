@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-08T20:34:05.3220362Z",
+    "updated":  "2026-09-08T20:35:05.3196507Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,13 +581,13 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "SSBI4649",
-                                                  "start":  "2026-09-08T19:57:09.0000000Z",
-                                                  "stop":  "2026-09-08T20:34:34.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
+                                                  "title":  "Mr J-Carry",
+                                                  "start":  "2026-09-08T20:09:31.0000000Z",
+                                                  "stop":  "2026-09-08T20:51:07.0000000Z",
+                                                  "itemId":  "56c94066e018711311e81d6a3f6cc139",
+                                                  "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
                                               "title":  "Never 3Nding",
