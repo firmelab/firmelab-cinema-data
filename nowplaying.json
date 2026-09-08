@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-08T02:42:06.4413600Z",
+    "updated":  "2026-09-08T02:43:05.8427939Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Sherlock Holmes",
-                                                  "start":  "2026-09-08T00:33:42.0000000Z",
-                                                  "stop":  "2026-09-08T02:42:22.0000000Z",
-                                                  "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
-                                                  "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
-                                                  "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
-                                                  "year":  2009
+                                                  "title":  "Conan The Barbarian",
+                                                  "start":  "2026-09-08T02:42:22.0000000Z",
+                                                  "stop":  "2026-09-08T04:52:56.0000000Z",
+                                                  "itemId":  "d0a933c7f9688726a8f9a30f309399ad",
+                                                  "poster":  "http://127.0.0.1:8096/Items/d0a933c7f9688726a8f9a30f309399ad/Images/Primary",
+                                                  "description":  "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
+                                                  "year":  1982
                                               },
                                "upNext":  {
-                                              "title":  "Conan The Barbarian",
-                                              "start":  "2026-09-08T02:42:22.0000000Z",
-                                              "stop":  "2026-09-08T04:52:56.0000000Z",
-                                              "itemId":  "d0a933c7f9688726a8f9a30f309399ad",
-                                              "poster":  "http://127.0.0.1:8096/Items/d0a933c7f9688726a8f9a30f309399ad/Images/Primary",
-                                              "description":  "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
-                                              "year":  1982
+                                              "title":  "Black Hawk Down",
+                                              "start":  "2026-09-08T04:52:56.0000000Z",
+                                              "stop":  "2026-09-08T07:17:29.0000000Z",
+                                              "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
+                                              "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
+                                              "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+                                              "year":  2001
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Conan The Barbarian",
-                                                    "start":  "2026-09-08T02:42:22.0000000Z",
-                                                    "stop":  "2026-09-08T04:52:56.0000000Z",
-                                                    "itemId":  "d0a933c7f9688726a8f9a30f309399ad",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d0a933c7f9688726a8f9a30f309399ad/Images/Primary",
-                                                    "description":  "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
-                                                    "year":  1982
-                                                },
                                                 {
                                                     "title":  "Black Hawk Down",
                                                     "start":  "2026-09-08T04:52:56.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
                                                     "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
                                                     "year":  1998
+                                                },
+                                                {
+                                                    "title":  "John Wick",
+                                                    "start":  "2026-09-08T18:13:58.0000000Z",
+                                                    "stop":  "2026-09-08T19:55:44.0000000Z",
+                                                    "itemId":  "84b70d75a3d957b57b02cf83796504a8",
+                                                    "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
+                                                    "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+                                                    "year":  2014
                                                 }
                                             ]
                            },
