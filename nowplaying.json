@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-08T08:50:05.7701217Z",
+    "updated":  "2026-09-08T08:52:11.2813959Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,33 +101,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "World War Z",
-                                                  "start":  "2026-09-08T06:45:47.0000000Z",
-                                                  "stop":  "2026-09-08T08:50:15.0000000Z",
-                                                  "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
-                                                  "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                                  "year":  2013
+                                                  "title":  "Dawn of the Dead",
+                                                  "start":  "2026-09-08T08:50:15.0000000Z",
+                                                  "stop":  "2026-09-08T10:40:52.0000000Z",
+                                                  "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
+                                                  "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
+                                                  "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
+                                                  "year":  2004
                                               },
                                "upNext":  {
-                                              "title":  "Dawn of the Dead",
-                                              "start":  "2026-09-08T08:50:15.0000000Z",
-                                              "stop":  "2026-09-08T10:40:52.0000000Z",
-                                              "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
-                                              "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
-                                              "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
-                                              "year":  2004
+                                              "title":  "Wrong Turn",
+                                              "start":  "2026-09-08T10:40:52.0000000Z",
+                                              "stop":  "2026-09-08T12:08:02.0000000Z",
+                                              "itemId":  "58d332deb67464546d571f7fda1cd63c",
+                                              "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
+                                              "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
+                                              "year":  2003
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Dawn of the Dead",
-                                                    "start":  "2026-09-08T08:50:15.0000000Z",
-                                                    "stop":  "2026-09-08T10:40:52.0000000Z",
-                                                    "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
-                                                    "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
-                                                    "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
-                                                    "year":  2004
-                                                },
                                                 {
                                                     "title":  "Wrong Turn",
                                                     "start":  "2026-09-08T10:40:52.0000000Z",
@@ -186,6 +177,15 @@
                                                     "title":  "Resident Evil- Apocalypse",
                                                     "start":  "2026-09-08T21:13:34.0000000Z",
                                                     "stop":  "2026-09-08T22:51:11.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "D1_t00",
+                                                    "start":  "2026-09-08T22:51:11.0000000Z",
+                                                    "stop":  "2026-09-09T01:10:33.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -590,33 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Dancing Cobra",
-                                              "start":  "2026-09-08T08:50:30.0000000Z",
-                                              "stop":  "2026-09-08T08:51:36.0000000Z",
-                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
+                                              "title":  "Duende",
+                                              "start":  "2026-09-08T08:52:34.0000000Z",
+                                              "stop":  "2026-09-08T08:53:43.0000000Z",
+                                              "itemId":  "80d6feb8f0c835e935a80db3275c5412",
+                                              "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Dancing Cobra",
-                                                    "start":  "2026-09-08T08:50:30.0000000Z",
-                                                    "stop":  "2026-09-08T08:51:36.0000000Z",
-                                                    "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
-                                                    "title":  "DnBaPCsht",
-                                                    "start":  "2026-09-08T08:51:36.0000000Z",
-                                                    "stop":  "2026-09-08T08:52:23.0000000Z",
-                                                    "itemId":  "d2296bca99a831548bbada0bb3bac719",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-09-08T08:52:34.0000000Z",
@@ -670,6 +652,24 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "0Ld Sc00L",
+                                                    "start":  "2026-09-08T09:03:24.0000000Z",
+                                                    "stop":  "2026-09-08T09:04:12.0000000Z",
+                                                    "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "After H0uRs",
+                                                    "start":  "2026-09-08T09:04:12.0000000Z",
+                                                    "stop":  "2026-09-08T09:05:01.0000000Z",
+                                                    "itemId":  "150bbae732cd647eeed3060cd67b032f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
