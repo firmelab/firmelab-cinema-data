@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-08T21:52:06.3309347Z",
+    "updated":  "2026-09-08T21:53:05.8367750Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Blade II",
-                                                  "start":  "2026-09-08T19:55:44.0000000Z",
-                                                  "stop":  "2026-09-08T21:52:46.0000000Z",
-                                                  "itemId":  "74e7a571bdb0578b253598a3f8b45f12",
-                                                  "poster":  "http://127.0.0.1:8096/Items/74e7a571bdb0578b253598a3f8b45f12/Images/Primary",
-                                                  "description":  "Blade forms an uneasy alliance with the vampire council in order to combat the Reapers, who are feeding on vampires.",
-                                                  "year":  2002
+                                                  "title":  "Underworld Evolution",
+                                                  "start":  "2026-09-08T21:52:46.0000000Z",
+                                                  "stop":  "2026-09-08T23:39:22.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Underworld Evolution",
-                                              "start":  "2026-09-08T21:52:46.0000000Z",
-                                              "stop":  "2026-09-08T23:39:22.0000000Z",
+                                              "title":  "FightPlan",
+                                              "start":  "2026-09-08T23:39:22.0000000Z",
+                                              "stop":  "2026-09-09T01:17:36.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Underworld Evolution",
-                                                    "start":  "2026-09-08T21:52:46.0000000Z",
-                                                    "stop":  "2026-09-08T23:39:22.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "FightPlan",
                                                     "start":  "2026-09-08T23:39:22.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/031faf0da71af121647ff2d37294b07a/Images/Primary",
                                                     "description":  "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
                                                     "year":  2004
+                                                },
+                                                {
+                                                    "title":  "Fast N Furious",
+                                                    "start":  "2026-09-09T11:58:19.0000000Z",
+                                                    "stop":  "2026-09-09T13:45:27.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
