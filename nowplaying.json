@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-09T11:58:05.4032215Z",
+    "updated":  "2026-09-09T11:59:05.4284993Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Bourne Supremacy",
-                                                  "start":  "2026-09-09T10:09:35.0000000Z",
-                                                  "stop":  "2026-09-09T11:58:19.0000000Z",
-                                                  "itemId":  "031faf0da71af121647ff2d37294b07a",
-                                                  "poster":  "http://127.0.0.1:8096/Items/031faf0da71af121647ff2d37294b07a/Images/Primary",
-                                                  "description":  "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
-                                                  "year":  2004
+                                                  "title":  "Fast N Furious",
+                                                  "start":  "2026-09-09T11:58:19.0000000Z",
+                                                  "stop":  "2026-09-09T13:45:27.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Fast N Furious",
-                                              "start":  "2026-09-09T11:58:19.0000000Z",
-                                              "stop":  "2026-09-09T13:45:27.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Land of the Dead",
+                                              "start":  "2026-09-09T13:45:27.0000000Z",
+                                              "stop":  "2026-09-09T15:22:29.0000000Z",
+                                              "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
+                                              "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
+                                              "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
+                                              "year":  2005
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Fast N Furious",
-                                                    "start":  "2026-09-09T11:58:19.0000000Z",
-                                                    "stop":  "2026-09-09T13:45:27.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Land of the Dead",
                                                     "start":  "2026-09-09T13:45:27.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
                                                     "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
                                                     "year":  1990
+                                                },
+                                                {
+                                                    "title":  "Brightburn",
+                                                    "start":  "2026-09-10T02:38:45.0000000Z",
+                                                    "stop":  "2026-09-10T04:09:26.0000000Z",
+                                                    "itemId":  "a562e465a7ff31b0113aee613a779bf2",
+                                                    "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
+                                                    "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
+                                                    "year":  2019
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Ninja Now",
-                                              "start":  "2026-09-09T11:58:38.0000000Z",
-                                              "stop":  "2026-09-09T11:59:20.0000000Z",
-                                              "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                              "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                              "title":  "SSBI4649",
+                                              "start":  "2026-09-09T11:59:20.0000000Z",
+                                              "stop":  "2026-09-09T12:36:45.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Ninja Now",
-                                                    "start":  "2026-09-09T11:58:38.0000000Z",
-                                                    "stop":  "2026-09-09T11:59:20.0000000Z",
-                                                    "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-09-09T11:59:20.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-09-09T12:34:03.0000000Z",
                                                     "itemId":  "8988d98fd90679aab5aff5b786344b1c",
                                                     "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Mr J-Carry",
+                                                    "start":  "2026-09-09T12:11:43.0000000Z",
+                                                    "stop":  "2026-09-09T12:52:53.0000000Z",
+                                                    "itemId":  "56c94066e018711311e81d6a3f6cc139",
+                                                    "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
