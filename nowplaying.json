@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-09T04:33:05.0121834Z",
+    "updated":  "2026-09-09T04:34:04.9866251Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -485,33 +485,24 @@
                                "number":  6,
                                "name":  "FIRMELAB CRIME",
                                "nowPlaying":  {
-                                                  "title":  "Jacky Brown",
-                                                  "start":  "2026-09-09T01:59:40.0000000Z",
-                                                  "stop":  "2026-09-09T04:34:01.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Inside Man",
+                                                  "start":  "2026-09-09T04:34:01.0000000Z",
+                                                  "stop":  "2026-09-09T06:42:48.0000000Z",
+                                                  "itemId":  "5f439285fe3ef8976153452a9fee8cbc",
+                                                  "poster":  "http://127.0.0.1:8096/Items/5f439285fe3ef8976153452a9fee8cbc/Images/Primary",
+                                                  "description":  "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
+                                                  "year":  2006
                                               },
                                "upNext":  {
-                                              "title":  "Inside Man",
-                                              "start":  "2026-09-09T04:34:01.0000000Z",
-                                              "stop":  "2026-09-09T06:42:48.0000000Z",
-                                              "itemId":  "5f439285fe3ef8976153452a9fee8cbc",
-                                              "poster":  "http://127.0.0.1:8096/Items/5f439285fe3ef8976153452a9fee8cbc/Images/Primary",
-                                              "description":  "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
-                                              "year":  2006
+                                              "title":  "Reservor Dogs",
+                                              "start":  "2026-09-09T06:42:48.0000000Z",
+                                              "stop":  "2026-09-09T08:21:53.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Inside Man",
-                                                    "start":  "2026-09-09T04:34:01.0000000Z",
-                                                    "stop":  "2026-09-09T06:42:48.0000000Z",
-                                                    "itemId":  "5f439285fe3ef8976153452a9fee8cbc",
-                                                    "poster":  "http://127.0.0.1:8096/Items/5f439285fe3ef8976153452a9fee8cbc/Images/Primary",
-                                                    "description":  "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
-                                                    "year":  2006
-                                                },
                                                 {
                                                     "title":  "Reservor Dogs",
                                                     "start":  "2026-09-09T06:42:48.0000000Z",
@@ -574,6 +565,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
                                                     "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
                                                     "year":  1983
+                                                },
+                                                {
+                                                    "title":  "Carlitos Way",
+                                                    "start":  "2026-09-09T22:48:10.0000000Z",
+                                                    "stop":  "2026-09-10T01:12:19.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Duende",
-                                              "start":  "2026-09-09T04:33:26.0000000Z",
-                                              "stop":  "2026-09-09T04:34:35.0000000Z",
-                                              "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                              "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                              "title":  "JamminG",
+                                              "start":  "2026-09-09T04:35:08.0000000Z",
+                                              "stop":  "2026-09-09T04:38:59.0000000Z",
+                                              "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                              "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Duende",
-                                                    "start":  "2026-09-09T04:33:26.0000000Z",
-                                                    "stop":  "2026-09-09T04:34:35.0000000Z",
-                                                    "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                                    "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-09-09T04:35:08.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Ass Kicker Bruce",
+                                                    "start":  "2026-09-09T04:45:53.0000000Z",
+                                                    "stop":  "2026-09-09T04:51:48.0000000Z",
+                                                    "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
