@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-09T23:01:05.7049620Z",
+    "updated":  "2026-09-09T23:02:05.7338718Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -583,7 +583,7 @@
                                "nowPlaying":  {
                                                   "title":  "Ass Kicker Bruce",
                                                   "start":  "2026-09-09T22:59:16.0000000Z",
-                                                  "stop":  "2026-09-09T23:05:12.0000000Z",
+                                                  "stop":  "2026-09-09T23:13:49.0000000Z",
                                                   "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                   "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                   "description":  null,
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "Chingadasos",
                                                     "start":  "2026-09-09T23:05:53.0000000Z",
-                                                    "stop":  "2026-09-09T23:06:39.0000000Z",
+                                                    "stop":  "2026-09-09T23:07:45.0000000Z",
                                                     "itemId":  "8988d98fd90679aab5aff5b786344b1c",
                                                     "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "Mr J-Carry",
                                                     "start":  "2026-09-09T23:07:45.0000000Z",
-                                                    "stop":  "2026-09-09T23:08:17.0000000Z",
+                                                    "stop":  "2026-09-09T23:08:41.0000000Z",
                                                     "itemId":  "56c94066e018711311e81d6a3f6cc139",
                                                     "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "T2",
                                                     "start":  "2026-09-09T23:08:41.0000000Z",
-                                                    "stop":  "2026-09-09T23:09:13.0000000Z",
+                                                    "stop":  "2026-09-09T23:28:05.0000000Z",
                                                     "itemId":  "1315943017e226076a7899408d36dec5",
                                                     "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "XocoBruja",
                                                     "start":  "2026-09-09T23:11:29.0000000Z",
-                                                    "stop":  "2026-09-09T23:12:57.0000000Z",
+                                                    "stop":  "2026-09-09T23:22:51.0000000Z",
                                                     "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
                                                     "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "COKCE6139",
                                                     "start":  "2026-09-09T23:14:13.0000000Z",
-                                                    "stop":  "2026-09-09T23:15:14.0000000Z",
+                                                    "stop":  "2026-09-09T23:25:02.0000000Z",
                                                     "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "MrPayo",
                                                     "start":  "2026-09-09T23:16:24.0000000Z",
-                                                    "stop":  "2026-09-09T23:17:07.0000000Z",
+                                                    "stop":  "2026-09-09T23:26:07.0000000Z",
                                                     "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
                                                     "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
                                                     "description":  null,
