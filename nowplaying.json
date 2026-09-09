@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-09T09:56:06.2421602Z",
+    "updated":  "2026-09-09T09:57:05.5037451Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,33 +101,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Land of the Dead",
-                                                  "start":  "2026-09-09T08:12:12.0000000Z",
-                                                  "stop":  "2026-09-09T09:56:49.0000000Z",
-                                                  "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
-                                                  "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
-                                                  "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
-                                                  "year":  2005
+                                                  "title":  "Resident Evil- Apocalypse",
+                                                  "start":  "2026-09-09T09:56:49.0000000Z",
+                                                  "stop":  "2026-09-09T11:38:24.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Resident Evil- Apocalypse",
-                                              "start":  "2026-09-09T09:56:49.0000000Z",
-                                              "stop":  "2026-09-09T11:38:24.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Resident Evil",
+                                              "start":  "2026-09-09T11:38:24.0000000Z",
+                                              "stop":  "2026-09-09T13:22:43.0000000Z",
+                                              "itemId":  "760d913661074a3a3f5a58738842a2f8",
+                                              "poster":  "http://127.0.0.1:8096/Items/760d913661074a3a3f5a58738842a2f8/Images/Primary",
+                                              "description":  "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
+                                              "year":  2002
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Resident Evil- Apocalypse",
-                                                    "start":  "2026-09-09T09:56:49.0000000Z",
-                                                    "stop":  "2026-09-09T11:38:24.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Resident Evil",
                                                     "start":  "2026-09-09T11:38:24.0000000Z",
@@ -190,6 +181,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
                                                     "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
                                                     "year":  2005
+                                                },
+                                                {
+                                                    "title":  "Underworld Evolution",
+                                                    "start":  "2026-09-10T00:26:43.0000000Z",
+                                                    "stop":  "2026-09-10T02:21:08.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
