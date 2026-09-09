@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-09T04:31:04.9745256Z",
+    "updated":  "2026-09-09T04:32:04.9676523Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Who Framed Roger Rabbit",
-                                                  "start":  "2026-09-09T02:48:01.0000000Z",
-                                                  "stop":  "2026-09-09T04:31:58.0000000Z",
-                                                  "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
-                                                  "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
-                                                  "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
-                                                  "year":  1988
+                                                  "title":  "Blade Trinity",
+                                                  "start":  "2026-09-09T04:31:58.0000000Z",
+                                                  "stop":  "2026-09-09T06:25:01.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Blade Trinity",
-                                              "start":  "2026-09-09T04:31:58.0000000Z",
-                                              "stop":  "2026-09-09T06:25:01.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "BATMAN BEGINS",
+                                              "start":  "2026-09-09T06:25:01.0000000Z",
+                                              "stop":  "2026-09-09T08:45:12.0000000Z",
+                                              "itemId":  "40cf44019306b29674462340007b5e1a",
+                                              "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
+                                              "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+                                              "year":  2005
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Blade Trinity",
-                                                    "start":  "2026-09-09T04:31:58.0000000Z",
-                                                    "stop":  "2026-09-09T06:25:01.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "BATMAN BEGINS",
                                                     "start":  "2026-09-09T06:25:01.0000000Z",
@@ -90,6 +81,15 @@
                                                     "title":  "Nightmare on Elm Street 4 Dream Master",
                                                     "start":  "2026-09-09T17:33:54.0000000Z",
                                                     "stop":  "2026-09-09T19:07:25.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Jacky Brown",
+                                                    "start":  "2026-09-09T19:07:25.0000000Z",
+                                                    "stop":  "2026-09-09T21:41:56.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -581,33 +581,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Dancing Cobra",
-                                                  "start":  "2026-09-09T03:47:38.0000000Z",
-                                                  "stop":  "2026-09-09T04:32:01.0000000Z",
-                                                  "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                                  "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
+                                                  "title":  "SSBI4649",
+                                                  "start":  "2026-09-09T03:58:15.0000000Z",
+                                                  "stop":  "2026-09-09T04:35:40.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Dancing Cobra",
-                                              "start":  "2026-09-09T04:31:22.0000000Z",
-                                              "stop":  "2026-09-09T04:32:28.0000000Z",
-                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
+                                              "title":  "DnBaPCsht",
+                                              "start":  "2026-09-09T04:32:28.0000000Z",
+                                              "stop":  "2026-09-09T04:33:15.0000000Z",
+                                              "itemId":  "d2296bca99a831548bbada0bb3bac719",
+                                              "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Dancing Cobra",
-                                                    "start":  "2026-09-09T04:31:22.0000000Z",
-                                                    "stop":  "2026-09-09T04:32:28.0000000Z",
-                                                    "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-09-09T04:32:28.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "0Ld Sc00L",
+                                                    "start":  "2026-09-09T04:44:15.0000000Z",
+                                                    "stop":  "2026-09-09T04:45:04.0000000Z",
+                                                    "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
