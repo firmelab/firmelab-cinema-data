@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-09T01:59:06.7669136Z",
+    "updated":  "2026-09-09T02:00:06.8931774Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -485,33 +485,24 @@
                                "number":  6,
                                "name":  "FIRMELAB CRIME",
                                "nowPlaying":  {
-                                                  "title":  "Carlitos Way",
-                                                  "start":  "2026-09-08T23:35:31.0000000Z",
-                                                  "stop":  "2026-09-09T01:59:40.0000000Z",
+                                                  "title":  "Jacky Brown",
+                                                  "start":  "2026-09-09T01:59:40.0000000Z",
+                                                  "stop":  "2026-09-09T04:34:01.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Jacky Brown",
-                                              "start":  "2026-09-09T01:59:40.0000000Z",
-                                              "stop":  "2026-09-09T04:34:01.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Inside Man",
+                                              "start":  "2026-09-09T04:34:01.0000000Z",
+                                              "stop":  "2026-09-09T06:42:48.0000000Z",
+                                              "itemId":  "5f439285fe3ef8976153452a9fee8cbc",
+                                              "poster":  "http://127.0.0.1:8096/Items/5f439285fe3ef8976153452a9fee8cbc/Images/Primary",
+                                              "description":  "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
+                                              "year":  2006
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Jacky Brown",
-                                                    "start":  "2026-09-09T01:59:40.0000000Z",
-                                                    "stop":  "2026-09-09T04:34:01.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Inside Man",
                                                     "start":  "2026-09-09T04:34:01.0000000Z",
@@ -574,6 +565,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Scarface",
+                                                    "start":  "2026-09-09T19:58:13.0000000Z",
+                                                    "stop":  "2026-09-09T22:48:10.0000000Z",
+                                                    "itemId":  "1ca5b01d892bb1b5b113e7ccaa4ac889",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
+                                                    "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+                                                    "year":  1983
                                                 }
                                             ]
                            },
@@ -582,24 +582,15 @@
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  null,
                                "upNext":  {
-                                              "title":  "Mr J-Carry",
-                                              "start":  "2026-09-09T01:59:25.0000000Z",
-                                              "stop":  "2026-09-09T01:59:57.0000000Z",
-                                              "itemId":  "56c94066e018711311e81d6a3f6cc139",
-                                              "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
+                                              "title":  "T2",
+                                              "start":  "2026-09-09T02:00:21.0000000Z",
+                                              "stop":  "2026-09-09T02:00:53.0000000Z",
+                                              "itemId":  "1315943017e226076a7899408d36dec5",
+                                              "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Mr J-Carry",
-                                                    "start":  "2026-09-09T01:59:25.0000000Z",
-                                                    "stop":  "2026-09-09T01:59:57.0000000Z",
-                                                    "itemId":  "56c94066e018711311e81d6a3f6cc139",
-                                                    "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "T2",
                                                     "start":  "2026-09-09T02:00:21.0000000Z",
@@ -660,6 +651,15 @@
                                                     "stop":  "2026-09-09T02:12:26.0000000Z",
                                                     "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
                                                     "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Carrito",
+                                                    "start":  "2026-09-09T02:12:31.0000000Z",
+                                                    "stop":  "2026-09-09T02:20:10.0000000Z",
+                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
