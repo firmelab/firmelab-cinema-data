@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-10T11:02:05.4763675Z",
+    "updated":  "2026-09-10T11:03:05.5060953Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Blade",
-                                                  "start":  "2026-09-10T09:02:31.0000000Z",
-                                                  "stop":  "2026-09-10T11:02:57.0000000Z",
-                                                  "itemId":  "b15fb14f946bc7e00478a81aa4943fdf",
-                                                  "poster":  "http://127.0.0.1:8096/Items/b15fb14f946bc7e00478a81aa4943fdf/Images/Primary",
-                                                  "description":  "The Daywalker known as \"Blade\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",
-                                                  "year":  1998
+                                                  "title":  "Inside Man",
+                                                  "start":  "2026-09-10T11:02:57.0000000Z",
+                                                  "stop":  "2026-09-10T13:11:56.0000000Z",
+                                                  "itemId":  "5f439285fe3ef8976153452a9fee8cbc",
+                                                  "poster":  "http://127.0.0.1:8096/Items/5f439285fe3ef8976153452a9fee8cbc/Images/Primary",
+                                                  "description":  "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
+                                                  "year":  2006
                                               },
                                "upNext":  {
-                                              "title":  "Inside Man",
-                                              "start":  "2026-09-10T11:02:57.0000000Z",
-                                              "stop":  "2026-09-10T13:11:56.0000000Z",
-                                              "itemId":  "5f439285fe3ef8976153452a9fee8cbc",
-                                              "poster":  "http://127.0.0.1:8096/Items/5f439285fe3ef8976153452a9fee8cbc/Images/Primary",
-                                              "description":  "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
-                                              "year":  2006
+                                              "title":  "Master and Commander",
+                                              "start":  "2026-09-10T13:11:56.0000000Z",
+                                              "stop":  "2026-09-10T15:30:28.0000000Z",
+                                              "itemId":  "5fcc6b3e811cdcaf000036c06aef62b9",
+                                              "poster":  "http://127.0.0.1:8096/Items/5fcc6b3e811cdcaf000036c06aef62b9/Images/Primary",
+                                              "description":  "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship\u0027s thoughtful surgeon, his best friend.",
+                                              "year":  2003
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Inside Man",
-                                                    "start":  "2026-09-10T11:02:57.0000000Z",
-                                                    "stop":  "2026-09-10T13:11:56.0000000Z",
-                                                    "itemId":  "5f439285fe3ef8976153452a9fee8cbc",
-                                                    "poster":  "http://127.0.0.1:8096/Items/5f439285fe3ef8976153452a9fee8cbc/Images/Primary",
-                                                    "description":  "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
-                                                    "year":  2006
-                                                },
                                                 {
                                                     "title":  "Master and Commander",
                                                     "start":  "2026-09-10T13:11:56.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
                                                     "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
                                                     "year":  2000
+                                                },
+                                                {
+                                                    "title":  "A Beatiful Mind",
+                                                    "start":  "2026-09-11T03:54:12.0000000Z",
+                                                    "stop":  "2026-09-11T06:09:41.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
