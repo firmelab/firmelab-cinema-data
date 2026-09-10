@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-10T23:24:05.4203296Z",
+    "updated":  "2026-09-10T23:25:05.4294469Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "CHRISTINE",
-                                                  "start":  "2026-09-10T21:33:58.0000000Z",
-                                                  "stop":  "2026-09-10T23:24:11.0000000Z",
-                                                  "itemId":  "91dc7dc3ea26a9c92725048bc480729c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/91dc7dc3ea26a9c92725048bc480729c/Images/Primary",
-                                                  "description":  "Nerdy high schooler Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory. As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty. Arnie\u0027s girlfriend Leigh and best friend Dennis reach out to him, only to be met by a Fury like no other.",
-                                                  "year":  1983
+                                                  "title":  "ROBOCOP 3",
+                                                  "start":  "2026-09-10T23:24:11.0000000Z",
+                                                  "stop":  "2026-09-11T01:09:14.0000000Z",
+                                                  "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
+                                                  "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
+                                                  "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
+                                                  "year":  1993
                                               },
                                "upNext":  {
-                                              "title":  "ROBOCOP 3",
-                                              "start":  "2026-09-10T23:24:11.0000000Z",
-                                              "stop":  "2026-09-11T01:09:14.0000000Z",
-                                              "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
-                                              "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
-                                              "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
-                                              "year":  1993
+                                              "title":  "The Patriot",
+                                              "start":  "2026-09-11T01:09:14.0000000Z",
+                                              "stop":  "2026-09-11T03:54:12.0000000Z",
+                                              "itemId":  "17b673273650da7e33ae51350e123fb0",
+                                              "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
+                                              "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+                                              "year":  2000
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "ROBOCOP 3",
-                                                    "start":  "2026-09-10T23:24:11.0000000Z",
-                                                    "stop":  "2026-09-11T01:09:14.0000000Z",
-                                                    "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
-                                                    "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
-                                                    "year":  1993
-                                                },
                                                 {
                                                     "title":  "The Patriot",
                                                     "start":  "2026-09-11T01:09:14.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/6e5ccc599868e8e4908111e8e00356ea/Images/Primary",
                                                     "description":  "Cynical bodyguard Jericho is hired by a man possessed by Satan, who is in search of his bride. When Jericho realizes what is happening, he must do everything he can to save the woman and the world.",
                                                     "year":  1999
+                                                },
+                                                {
+                                                    "title":  "Uncut Gems",
+                                                    "start":  "2026-09-11T14:17:10.0000000Z",
+                                                    "stop":  "2026-09-11T16:32:29.0000000Z",
+                                                    "itemId":  "45595e0d5e2d1d1e536514ebf9b1deaf",
+                                                    "poster":  "http://127.0.0.1:8096/Items/45595e0d5e2d1d1e536514ebf9b1deaf/Images/Primary",
+                                                    "description":  "A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.",
+                                                    "year":  2019
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Carrito",
-                                              "start":  "2026-09-10T23:24:08.0000000Z",
-                                              "stop":  "2026-09-10T23:31:46.0000000Z",
-                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                              "title":  "Dancing Cobra",
+                                              "start":  "2026-09-10T23:31:46.0000000Z",
+                                              "stop":  "2026-09-10T23:32:52.0000000Z",
+                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Carrito",
-                                                    "start":  "2026-09-10T23:24:08.0000000Z",
-                                                    "stop":  "2026-09-10T23:31:46.0000000Z",
-                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-09-10T23:31:46.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Arnold Dynamite",
+                                                    "start":  "2026-09-10T23:43:12.0000000Z",
+                                                    "stop":  "2026-09-11T00:10:51.0000000Z",
+                                                    "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
