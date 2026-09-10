@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-10T20:04:08.3338515Z",
+    "updated":  "2026-09-10T20:05:06.0562177Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Brave Heart",
-                                                  "start":  "2026-09-10T17:06:40.0000000Z",
-                                                  "stop":  "2026-09-10T20:04:33.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Duplex",
+                                                  "start":  "2026-09-10T20:04:33.0000000Z",
+                                                  "stop":  "2026-09-10T21:33:58.0000000Z",
+                                                  "itemId":  "e2340e07092b6de7376760916297a934",
+                                                  "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
+                                                  "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
+                                                  "year":  2003
                                               },
                                "upNext":  {
-                                              "title":  "Duplex",
-                                              "start":  "2026-09-10T20:04:33.0000000Z",
-                                              "stop":  "2026-09-10T21:33:58.0000000Z",
-                                              "itemId":  "e2340e07092b6de7376760916297a934",
-                                              "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
-                                              "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
-                                              "year":  2003
+                                              "title":  "CHRISTINE",
+                                              "start":  "2026-09-10T21:33:58.0000000Z",
+                                              "stop":  "2026-09-10T23:24:11.0000000Z",
+                                              "itemId":  "91dc7dc3ea26a9c92725048bc480729c",
+                                              "poster":  "http://127.0.0.1:8096/Items/91dc7dc3ea26a9c92725048bc480729c/Images/Primary",
+                                              "description":  "Nerdy high schooler Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory. As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty. Arnie\u0027s girlfriend Leigh and best friend Dennis reach out to him, only to be met by a Fury like no other.",
+                                              "year":  1983
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Duplex",
-                                                    "start":  "2026-09-10T20:04:33.0000000Z",
-                                                    "stop":  "2026-09-10T21:33:58.0000000Z",
-                                                    "itemId":  "e2340e07092b6de7376760916297a934",
-                                                    "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
-                                                    "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
-                                                    "year":  2003
-                                                },
                                                 {
                                                     "title":  "CHRISTINE",
                                                     "start":  "2026-09-10T21:33:58.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/f9168c1a730f0cc71fd31a7f22c4663f/Images/Primary",
                                                     "description":  "As fanged, furious furballs viciously invade an L.A. apartment building and sink their teeth into the low-rent tenants, Josh leads the battle to beat back the conniving critters and save the planet.",
                                                     "year":  1991
+                                                },
+                                                {
+                                                    "title":  "Rambo First Blood",
+                                                    "start":  "2026-09-11T10:41:22.0000000Z",
+                                                    "stop":  "2026-09-11T12:14:44.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Arnold Dynamite",
-                                              "start":  "2026-09-10T20:04:31.0000000Z",
-                                              "stop":  "2026-09-10T20:37:27.0000000Z",
-                                              "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
-                                              "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
+                                              "title":  "0Ld Sc00L",
+                                              "start":  "2026-09-10T20:05:59.0000000Z",
+                                              "stop":  "2026-09-10T20:30:29.0000000Z",
+                                              "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                              "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Arnold Dynamite",
-                                                    "start":  "2026-09-10T20:04:31.0000000Z",
-                                                    "stop":  "2026-09-10T20:37:27.0000000Z",
-                                                    "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "0Ld Sc00L",
                                                     "start":  "2026-09-10T20:05:59.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-09-10T20:54:25.0000000Z",
                                                     "itemId":  "1315943017e226076a7899408d36dec5",
                                                     "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Ricardo \u0026 Mocoso",
+                                                    "start":  "2026-09-10T20:17:33.0000000Z",
+                                                    "stop":  "2026-09-10T20:19:49.0000000Z",
+                                                    "itemId":  "0e268bdc592953760cc985e16953d93d",
+                                                    "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
