@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-10T22:21:05.9865544Z",
+    "updated":  "2026-09-10T22:22:05.9294438Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,33 +101,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Boogeyman",
-                                                  "start":  "2026-09-10T20:47:47.0000000Z",
-                                                  "stop":  "2026-09-10T22:22:04.0000000Z",
-                                                  "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
-                                                  "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
-                                                  "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
-                                                  "year":  2005
+                                                  "title":  "Underworld Evolution",
+                                                  "start":  "2026-09-10T22:22:04.0000000Z",
+                                                  "stop":  "2026-09-11T00:13:56.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Underworld Evolution",
-                                              "start":  "2026-09-10T22:22:04.0000000Z",
-                                              "stop":  "2026-09-11T00:13:56.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Land of the Dead",
+                                              "start":  "2026-09-11T00:13:56.0000000Z",
+                                              "stop":  "2026-09-11T02:13:08.0000000Z",
+                                              "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
+                                              "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
+                                              "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
+                                              "year":  2005
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Underworld Evolution",
-                                                    "start":  "2026-09-10T22:22:04.0000000Z",
-                                                    "stop":  "2026-09-11T00:13:56.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Land of the Dead",
                                                     "start":  "2026-09-11T00:13:56.0000000Z",
@@ -190,6 +181,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
                                                     "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
                                                     "year":  2013
+                                                },
+                                                {
+                                                    "title":  "D1_t00",
+                                                    "start":  "2026-09-11T13:13:16.0000000Z",
+                                                    "stop":  "2026-09-11T15:30:22.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
@@ -293,33 +293,24 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "Duplex",
-                                                  "start":  "2026-09-10T20:52:13.0000000Z",
-                                                  "stop":  "2026-09-10T22:21:26.0000000Z",
-                                                  "itemId":  "e2340e07092b6de7376760916297a934",
-                                                  "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
-                                                  "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
-                                                  "year":  2003
+                                                  "title":  "UP IN SMOKE",
+                                                  "start":  "2026-09-10T22:21:26.0000000Z",
+                                                  "stop":  "2026-09-10T23:47:16.0000000Z",
+                                                  "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
+                                                  "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
+                                                  "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
+                                                  "year":  1978
                                               },
                                "upNext":  {
-                                              "title":  "UP IN SMOKE",
-                                              "start":  "2026-09-10T22:21:26.0000000Z",
-                                              "stop":  "2026-09-10T23:47:16.0000000Z",
-                                              "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
-                                              "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
-                                              "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
-                                              "year":  1978
+                                              "title":  "HALF BAKED",
+                                              "start":  "2026-09-10T23:47:16.0000000Z",
+                                              "stop":  "2026-09-11T01:09:22.0000000Z",
+                                              "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
+                                              "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
+                                              "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
+                                              "year":  1998
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "UP IN SMOKE",
-                                                    "start":  "2026-09-10T22:21:26.0000000Z",
-                                                    "stop":  "2026-09-10T23:47:16.0000000Z",
-                                                    "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
-                                                    "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
-                                                    "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
-                                                    "year":  1978
-                                                },
                                                 {
                                                     "title":  "HALF BAKED",
                                                     "start":  "2026-09-10T23:47:16.0000000Z",
@@ -382,6 +373,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
                                                     "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
                                                     "year":  1998
+                                                },
+                                                {
+                                                    "title":  "Get Shorty",
+                                                    "start":  "2026-09-11T10:14:49.0000000Z",
+                                                    "stop":  "2026-09-11T11:59:37.0000000Z",
+                                                    "itemId":  "746531a34dc012efd97b57703e1903af",
+                                                    "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
+                                                    "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
+                                                    "year":  1995
                                                 }
                                             ]
                            },
