@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-11T14:17:05.6234061Z",
+    "updated":  "2026-09-11T14:18:05.6365456Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "End of Days",
-                                                  "start":  "2026-09-11T12:14:44.0000000Z",
-                                                  "stop":  "2026-09-11T14:17:10.0000000Z",
-                                                  "itemId":  "6e5ccc599868e8e4908111e8e00356ea",
-                                                  "poster":  "http://127.0.0.1:8096/Items/6e5ccc599868e8e4908111e8e00356ea/Images/Primary",
-                                                  "description":  "Cynical bodyguard Jericho is hired by a man possessed by Satan, who is in search of his bride. When Jericho realizes what is happening, he must do everything he can to save the woman and the world.",
-                                                  "year":  1999
+                                                  "title":  "Uncut Gems",
+                                                  "start":  "2026-09-11T14:17:10.0000000Z",
+                                                  "stop":  "2026-09-11T16:32:29.0000000Z",
+                                                  "itemId":  "45595e0d5e2d1d1e536514ebf9b1deaf",
+                                                  "poster":  "http://127.0.0.1:8096/Items/45595e0d5e2d1d1e536514ebf9b1deaf/Images/Primary",
+                                                  "description":  "A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.",
+                                                  "year":  2019
                                               },
                                "upNext":  {
-                                              "title":  "Uncut Gems",
-                                              "start":  "2026-09-11T14:17:10.0000000Z",
-                                              "stop":  "2026-09-11T16:32:29.0000000Z",
-                                              "itemId":  "45595e0d5e2d1d1e536514ebf9b1deaf",
-                                              "poster":  "http://127.0.0.1:8096/Items/45595e0d5e2d1d1e536514ebf9b1deaf/Images/Primary",
-                                              "description":  "A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.",
-                                              "year":  2019
+                                              "title":  "Seventh Sign",
+                                              "start":  "2026-09-11T16:32:29.0000000Z",
+                                              "stop":  "2026-09-11T18:09:37.0000000Z",
+                                              "itemId":  "ee279419a64df59247370e38f4f0deea",
+                                              "poster":  "http://127.0.0.1:8096/Items/ee279419a64df59247370e38f4f0deea/Images/Primary",
+                                              "description":  "Abby is a pregnant woman with a curious new boarder in the apartment over her garage. Turns out he\u0027s heaven-sent and is speeding along the Apocalypse by bloodying rivers, egging on plagues and following scripture word for word.",
+                                              "year":  1988
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Uncut Gems",
-                                                    "start":  "2026-09-11T14:17:10.0000000Z",
-                                                    "stop":  "2026-09-11T16:32:29.0000000Z",
-                                                    "itemId":  "45595e0d5e2d1d1e536514ebf9b1deaf",
-                                                    "poster":  "http://127.0.0.1:8096/Items/45595e0d5e2d1d1e536514ebf9b1deaf/Images/Primary",
-                                                    "description":  "A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.",
-                                                    "year":  2019
-                                                },
                                                 {
                                                     "title":  "Seventh Sign",
                                                     "start":  "2026-09-11T16:32:29.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
                                                     "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
                                                     "year":  1995
+                                                },
+                                                {
+                                                    "title":  "CANDYMAN",
+                                                    "start":  "2026-09-12T03:52:02.0000000Z",
+                                                    "stop":  "2026-09-12T05:31:10.0000000Z",
+                                                    "itemId":  "75bc45c9af5e154aea4dd68eb38e0354",
+                                                    "poster":  "http://127.0.0.1:8096/Items/75bc45c9af5e154aea4dd68eb38e0354/Images/Primary",
+                                                    "description":  "A Chicago artist\u0027s sanity starts to unravel, unleashing a terrifying wave of violence when he begins to explore the macabre history of the Candyman.",
+                                                    "year":  2021
                                                 }
                                             ]
                            },
@@ -581,42 +581,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Ninja Now",
-                                                  "start":  "2026-09-11T14:16:24.0000000Z",
-                                                  "stop":  "2026-09-11T14:17:06.0000000Z",
-                                                  "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                  "title":  "Arnold Dynamite",
+                                                  "start":  "2026-09-11T14:17:55.0000000Z",
+                                                  "stop":  "2026-09-11T14:19:22.0000000Z",
+                                                  "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
+                                                  "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "SSBI4649",
-                                              "start":  "2026-09-11T14:17:06.0000000Z",
-                                              "stop":  "2026-09-11T14:17:55.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
+                                              "title":  "0Ld Sc00L",
+                                              "start":  "2026-09-11T14:19:22.0000000Z",
+                                              "stop":  "2026-09-11T14:20:11.0000000Z",
+                                              "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                              "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "SSBI4649",
-                                                    "start":  "2026-09-11T14:17:06.0000000Z",
-                                                    "stop":  "2026-09-11T14:17:55.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
-                                                    "title":  "Arnold Dynamite",
-                                                    "start":  "2026-09-11T14:17:55.0000000Z",
-                                                    "stop":  "2026-09-11T14:19:22.0000000Z",
-                                                    "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "0Ld Sc00L",
                                                     "start":  "2026-09-11T14:19:22.0000000Z",
@@ -668,6 +650,24 @@
                                                     "stop":  "2026-09-11T14:30:00.0000000Z",
                                                     "itemId":  "56c94066e018711311e81d6a3f6cc139",
                                                     "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "T2",
+                                                    "start":  "2026-09-11T14:30:25.0000000Z",
+                                                    "stop":  "2026-09-11T14:30:57.0000000Z",
+                                                    "itemId":  "1315943017e226076a7899408d36dec5",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Ricardo \u0026 Mocoso",
+                                                    "start":  "2026-09-11T14:30:57.0000000Z",
+                                                    "stop":  "2026-09-11T14:33:12.0000000Z",
+                                                    "itemId":  "0e268bdc592953760cc985e16953d93d",
+                                                    "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
