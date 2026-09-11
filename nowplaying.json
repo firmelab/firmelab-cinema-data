@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-11T11:09:05.0671686Z",
+    "updated":  "2026-09-11T11:10:05.0379424Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,11 +581,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "MrPayo",
-                                                  "start":  "2026-09-11T10:59:27.0000000Z",
-                                                  "stop":  "2026-09-11T11:09:09.0000000Z",
-                                                  "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
-                                                  "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
+                                                  "title":  "Carrito",
+                                                  "start":  "2026-09-11T11:03:54.0000000Z",
+                                                  "stop":  "2026-09-11T11:11:33.0000000Z",
+                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
