@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-11T00:24:05.9911931Z",
+    "updated":  "2026-09-11T00:25:05.9430907Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -197,33 +197,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Bourne Supremacy",
-                                                  "start":  "2026-09-10T22:35:35.0000000Z",
-                                                  "stop":  "2026-09-11T00:24:07.0000000Z",
-                                                  "itemId":  "031faf0da71af121647ff2d37294b07a",
-                                                  "poster":  "http://127.0.0.1:8096/Items/031faf0da71af121647ff2d37294b07a/Images/Primary",
-                                                  "description":  "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
-                                                  "year":  2004
+                                                  "title":  "Brightburn",
+                                                  "start":  "2026-09-11T00:24:07.0000000Z",
+                                                  "stop":  "2026-09-11T01:54:37.0000000Z",
+                                                  "itemId":  "a562e465a7ff31b0113aee613a779bf2",
+                                                  "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
+                                                  "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
+                                                  "year":  2019
                                               },
                                "upNext":  {
-                                              "title":  "Brightburn",
-                                              "start":  "2026-09-11T00:24:07.0000000Z",
-                                              "stop":  "2026-09-11T01:54:37.0000000Z",
-                                              "itemId":  "a562e465a7ff31b0113aee613a779bf2",
-                                              "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
-                                              "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
-                                              "year":  2019
+                                              "title":  "Commando",
+                                              "start":  "2026-09-11T01:54:37.0000000Z",
+                                              "stop":  "2026-09-11T03:24:50.0000000Z",
+                                              "itemId":  "4d57925cf6d4f5a046509bad0a68d29f",
+                                              "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
+                                              "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
+                                              "year":  1985
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Brightburn",
-                                                    "start":  "2026-09-11T00:24:07.0000000Z",
-                                                    "stop":  "2026-09-11T01:54:37.0000000Z",
-                                                    "itemId":  "a562e465a7ff31b0113aee613a779bf2",
-                                                    "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
-                                                    "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
-                                                    "year":  2019
-                                                },
                                                 {
                                                     "title":  "Commando",
                                                     "start":  "2026-09-11T01:54:37.0000000Z",
@@ -286,6 +277,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "John Wick",
+                                                    "start":  "2026-09-11T14:31:28.0000000Z",
+                                                    "stop":  "2026-09-11T16:12:42.0000000Z",
+                                                    "itemId":  "84b70d75a3d957b57b02cf83796504a8",
+                                                    "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
+                                                    "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+                                                    "year":  2014
                                                 }
                                             ]
                            },
@@ -485,33 +485,24 @@
                                "number":  6,
                                "name":  "FIRMELAB CRIME",
                                "nowPlaying":  {
-                                                  "title":  "Carlitos Way",
-                                                  "start":  "2026-09-10T22:00:49.0000000Z",
-                                                  "stop":  "2026-09-11T00:24:58.0000000Z",
+                                                  "title":  "Jacky Brown",
+                                                  "start":  "2026-09-11T00:24:58.0000000Z",
+                                                  "stop":  "2026-09-11T02:59:19.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Jacky Brown",
-                                              "start":  "2026-09-11T00:24:58.0000000Z",
-                                              "stop":  "2026-09-11T02:59:19.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Inside Man",
+                                              "start":  "2026-09-11T02:59:19.0000000Z",
+                                              "stop":  "2026-09-11T05:08:06.0000000Z",
+                                              "itemId":  "5f439285fe3ef8976153452a9fee8cbc",
+                                              "poster":  "http://127.0.0.1:8096/Items/5f439285fe3ef8976153452a9fee8cbc/Images/Primary",
+                                              "description":  "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
+                                              "year":  2006
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Jacky Brown",
-                                                    "start":  "2026-09-11T00:24:58.0000000Z",
-                                                    "stop":  "2026-09-11T02:59:19.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Inside Man",
                                                     "start":  "2026-09-11T02:59:19.0000000Z",
@@ -574,6 +565,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Scarface",
+                                                    "start":  "2026-09-11T18:23:31.0000000Z",
+                                                    "stop":  "2026-09-11T21:13:28.0000000Z",
+                                                    "itemId":  "1ca5b01d892bb1b5b113e7ccaa4ac889",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
+                                                    "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+                                                    "year":  1983
                                                 }
                                             ]
                            },
