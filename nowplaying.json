@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-11T09:16:05.1842742Z",
+    "updated":  "2026-09-11T09:17:05.1787335Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "The Blob",
-                                                  "start":  "2026-09-11T07:41:15.0000000Z",
-                                                  "stop":  "2026-09-11T09:16:25.0000000Z",
-                                                  "itemId":  "5dc1ff349ca7c8caaf1ecfe4f830a683",
-                                                  "poster":  "http://127.0.0.1:8096/Items/5dc1ff349ca7c8caaf1ecfe4f830a683/Images/Primary",
-                                                  "description":  "In Arborville, California, three high school students try to protect their hometown from a gelatinous alien life form that engulfs everything it touches.",
-                                                  "year":  1988
+                                                  "title":  "Critters 3",
+                                                  "start":  "2026-09-11T09:16:25.0000000Z",
+                                                  "stop":  "2026-09-11T10:41:22.0000000Z",
+                                                  "itemId":  "f9168c1a730f0cc71fd31a7f22c4663f",
+                                                  "poster":  "http://127.0.0.1:8096/Items/f9168c1a730f0cc71fd31a7f22c4663f/Images/Primary",
+                                                  "description":  "As fanged, furious furballs viciously invade an L.A. apartment building and sink their teeth into the low-rent tenants, Josh leads the battle to beat back the conniving critters and save the planet.",
+                                                  "year":  1991
                                               },
                                "upNext":  {
-                                              "title":  "Critters 3",
-                                              "start":  "2026-09-11T09:16:25.0000000Z",
-                                              "stop":  "2026-09-11T10:41:22.0000000Z",
-                                              "itemId":  "f9168c1a730f0cc71fd31a7f22c4663f",
-                                              "poster":  "http://127.0.0.1:8096/Items/f9168c1a730f0cc71fd31a7f22c4663f/Images/Primary",
-                                              "description":  "As fanged, furious furballs viciously invade an L.A. apartment building and sink their teeth into the low-rent tenants, Josh leads the battle to beat back the conniving critters and save the planet.",
-                                              "year":  1991
+                                              "title":  "Rambo First Blood",
+                                              "start":  "2026-09-11T10:41:22.0000000Z",
+                                              "stop":  "2026-09-11T12:14:44.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Critters 3",
-                                                    "start":  "2026-09-11T09:16:25.0000000Z",
-                                                    "stop":  "2026-09-11T10:41:22.0000000Z",
-                                                    "itemId":  "f9168c1a730f0cc71fd31a7f22c4663f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f9168c1a730f0cc71fd31a7f22c4663f/Images/Primary",
-                                                    "description":  "As fanged, furious furballs viciously invade an L.A. apartment building and sink their teeth into the low-rent tenants, Josh leads the battle to beat back the conniving critters and save the planet.",
-                                                    "year":  1991
-                                                },
                                                 {
                                                     "title":  "Rambo First Blood",
                                                     "start":  "2026-09-11T10:41:22.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/760d913661074a3a3f5a58738842a2f8/Images/Primary",
                                                     "description":  "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
                                                     "year":  2002
+                                                },
+                                                {
+                                                    "title":  "A Nightmare on Elm Street 2 Freddy\u0027s Revenge",
+                                                    "start":  "2026-09-11T22:47:34.0000000Z",
+                                                    "stop":  "2026-09-12T00:13:19.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
