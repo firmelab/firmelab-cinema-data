@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-11T10:35:05.7777461Z",
+    "updated":  "2026-09-11T10:36:05.8106562Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -197,33 +197,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Rambo First Blood",
-                                                  "start":  "2026-09-11T09:02:54.0000000Z",
-                                                  "stop":  "2026-09-11T10:36:04.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Sherlock Holmes",
+                                                  "start":  "2026-09-11T10:36:04.0000000Z",
+                                                  "stop":  "2026-09-11T12:44:33.0000000Z",
+                                                  "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
+                                                  "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
+                                                  "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
+                                                  "year":  2009
                                               },
                                "upNext":  {
-                                              "title":  "Sherlock Holmes",
-                                              "start":  "2026-09-11T10:36:04.0000000Z",
-                                              "stop":  "2026-09-11T12:44:33.0000000Z",
-                                              "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
-                                              "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
-                                              "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
-                                              "year":  2009
+                                              "title":  "Fast N Furious",
+                                              "start":  "2026-09-11T12:44:33.0000000Z",
+                                              "stop":  "2026-09-11T14:31:28.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Sherlock Holmes",
-                                                    "start":  "2026-09-11T10:36:04.0000000Z",
-                                                    "stop":  "2026-09-11T12:44:33.0000000Z",
-                                                    "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
-                                                    "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
-                                                    "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
-                                                    "year":  2009
-                                                },
                                                 {
                                                     "title":  "Fast N Furious",
                                                     "start":  "2026-09-11T12:44:33.0000000Z",
@@ -286,6 +277,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
                                                     "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
                                                     "year":  1990
+                                                },
+                                                {
+                                                    "title":  "BATMAN BEGINS",
+                                                    "start":  "2026-09-12T01:23:52.0000000Z",
+                                                    "stop":  "2026-09-12T03:43:53.0000000Z",
+                                                    "itemId":  "40cf44019306b29674462340007b5e1a",
+                                                    "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
+                                                    "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+                                                    "year":  2005
                                                 }
                                             ]
                            },
@@ -581,33 +581,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "JamminG",
-                                                  "start":  "2026-09-11T10:31:34.0000000Z",
-                                                  "stop":  "2026-09-11T10:35:26.0000000Z",
-                                                  "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
-                                                  "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
+                                                  "title":  "Never 3Nding",
+                                                  "start":  "2026-09-11T10:35:31.0000000Z",
+                                                  "stop":  "2026-09-11T10:37:43.0000000Z",
+                                                  "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                                  "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Never 3Nding",
-                                              "start":  "2026-09-11T10:35:31.0000000Z",
-                                              "stop":  "2026-09-11T10:37:43.0000000Z",
-                                              "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
-                                              "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
+                                              "title":  "Ninja Now",
+                                              "start":  "2026-09-11T10:37:43.0000000Z",
+                                              "stop":  "2026-09-11T10:38:25.0000000Z",
+                                              "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
+                                              "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Never 3Nding",
-                                                    "start":  "2026-09-11T10:35:31.0000000Z",
-                                                    "stop":  "2026-09-11T10:37:43.0000000Z",
-                                                    "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
-                                                    "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-09-11T10:37:43.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-09-11T10:48:56.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Chingadasos",
+                                                    "start":  "2026-09-11T10:48:56.0000000Z",
+                                                    "stop":  "2026-09-11T10:49:42.0000000Z",
+                                                    "itemId":  "8988d98fd90679aab5aff5b786344b1c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
