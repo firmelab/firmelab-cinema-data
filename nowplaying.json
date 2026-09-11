@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-11T15:01:06.3119192Z",
+    "updated":  "2026-09-11T15:02:06.4902864Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,37 +581,28 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "SSBI4649",
-                                                  "start":  "2026-09-11T15:00:50.0000000Z",
-                                                  "stop":  "2026-09-11T15:01:39.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
+                                                  "title":  "Never 3Nding",
+                                                  "start":  "2026-09-11T14:57:56.0000000Z",
+                                                  "stop":  "2026-09-11T15:08:45.0000000Z",
+                                                  "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                                  "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Arnold Dynamite",
-                                              "start":  "2026-09-11T15:01:39.0000000Z",
-                                              "stop":  "2026-09-11T15:03:07.0000000Z",
-                                              "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
-                                              "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
+                                              "title":  "0Ld Sc00L",
+                                              "start":  "2026-09-11T15:03:07.0000000Z",
+                                              "stop":  "2026-09-11T15:22:35.0000000Z",
+                                              "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                              "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
                                                 {
-                                                    "title":  "Arnold Dynamite",
-                                                    "start":  "2026-09-11T15:01:39.0000000Z",
-                                                    "stop":  "2026-09-11T15:03:07.0000000Z",
-                                                    "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
-                                                {
                                                     "title":  "0Ld Sc00L",
                                                     "start":  "2026-09-11T15:03:07.0000000Z",
-                                                    "stop":  "2026-09-11T15:03:55.0000000Z",
+                                                    "stop":  "2026-09-11T15:22:35.0000000Z",
                                                     "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
                                                     "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                                     "description":  null,
@@ -629,7 +620,7 @@
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-09-11T15:04:44.0000000Z",
-                                                    "stop":  "2026-09-11T15:10:40.0000000Z",
+                                                    "stop":  "2026-09-11T15:19:13.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                     "description":  null,
@@ -638,7 +629,7 @@
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-09-11T15:10:40.0000000Z",
-                                                    "stop":  "2026-09-11T15:11:21.0000000Z",
+                                                    "stop":  "2026-09-11T15:19:54.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
@@ -647,7 +638,7 @@
                                                 {
                                                     "title":  "Chingadasos",
                                                     "start":  "2026-09-11T15:11:21.0000000Z",
-                                                    "stop":  "2026-09-11T15:12:07.0000000Z",
+                                                    "stop":  "2026-09-11T15:21:45.0000000Z",
                                                     "itemId":  "8988d98fd90679aab5aff5b786344b1c",
                                                     "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
                                                     "description":  null,
@@ -656,7 +647,7 @@
                                                 {
                                                     "title":  "Mr J-Carry",
                                                     "start":  "2026-09-11T15:13:12.0000000Z",
-                                                    "stop":  "2026-09-11T15:13:44.0000000Z",
+                                                    "stop":  "2026-09-11T15:41:29.0000000Z",
                                                     "itemId":  "56c94066e018711311e81d6a3f6cc139",
                                                     "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
                                                     "description":  null,
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-09-11T15:14:41.0000000Z",
                                                     "itemId":  "1315943017e226076a7899408d36dec5",
                                                     "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Ricardo \u0026 Mocoso",
+                                                    "start":  "2026-09-11T15:14:41.0000000Z",
+                                                    "stop":  "2026-09-11T15:25:28.0000000Z",
+                                                    "itemId":  "0e268bdc592953760cc985e16953d93d",
+                                                    "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
