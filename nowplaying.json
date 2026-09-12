@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-12T11:36:05.5166409Z",
+    "updated":  "2026-09-12T11:37:05.7948728Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "BORDELLO OF BLOOD",
-                                                  "start":  "2026-09-12T10:09:37.0000000Z",
-                                                  "stop":  "2026-09-12T11:36:30.0000000Z",
-                                                  "itemId":  "b03986ae5fac22e258cf02b8c89bc7a4",
-                                                  "poster":  "http://127.0.0.1:8096/Items/b03986ae5fac22e258cf02b8c89bc7a4/Images/Primary",
-                                                  "description":  "Private eye Rafe Guttman is hired by repressed, born-again Katherine to find her missing bad-boy brother. The trail leads him to a whorehouse run by a thousand-year-old vampire and secretly backed by Katherine\u0027s boss, televangelist Jimmy Current.",
-                                                  "year":  1996
+                                                  "title":  "Get Shorty",
+                                                  "start":  "2026-09-12T11:36:18.0000000Z",
+                                                  "stop":  "2026-09-12T13:21:17.0000000Z",
+                                                  "itemId":  "746531a34dc012efd97b57703e1903af",
+                                                  "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
+                                                  "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
+                                                  "year":  1995
                                               },
                                "upNext":  {
-                                              "title":  "Get Shorty",
-                                              "start":  "2026-09-12T11:36:18.0000000Z",
-                                              "stop":  "2026-09-12T13:21:17.0000000Z",
-                                              "itemId":  "746531a34dc012efd97b57703e1903af",
-                                              "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
-                                              "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
-                                              "year":  1995
+                                              "title":  "Boogeyman",
+                                              "start":  "2026-09-12T13:21:17.0000000Z",
+                                              "stop":  "2026-09-12T14:50:30.0000000Z",
+                                              "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
+                                              "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
+                                              "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
+                                              "year":  2005
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Get Shorty",
-                                                    "start":  "2026-09-12T11:36:18.0000000Z",
-                                                    "stop":  "2026-09-12T13:21:17.0000000Z",
-                                                    "itemId":  "746531a34dc012efd97b57703e1903af",
-                                                    "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
-                                                    "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
-                                                    "year":  1995
-                                                },
                                                 {
                                                     "title":  "Boogeyman",
                                                     "start":  "2026-09-12T13:21:17.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
                                                     "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
                                                     "year":  1985
+                                                },
+                                                {
+                                                    "title":  "Critters",
+                                                    "start":  "2026-09-13T00:47:34.0000000Z",
+                                                    "stop":  "2026-09-13T02:13:38.0000000Z",
+                                                    "itemId":  "54493e812aba3ee1edef65108ed95c05",
+                                                    "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
+                                                    "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
+                                                    "year":  1988
                                                 }
                                             ]
                            },
