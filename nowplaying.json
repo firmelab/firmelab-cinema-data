@@ -1,17 +1,17 @@
 {
-    "updated":  "2026-09-12T03:52:05.9411434Z",
+    "updated":  "2026-09-12T03:53:05.9669909Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Get Shorty",
-                                                  "start":  "2026-09-12T02:07:04.0000000Z",
-                                                  "stop":  "2026-09-12T03:52:14.0000000Z",
-                                                  "itemId":  "746531a34dc012efd97b57703e1903af",
-                                                  "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
-                                                  "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
-                                                  "year":  1995
+                                                  "title":  "CANDYMAN",
+                                                  "start":  "2026-09-12T03:52:02.0000000Z",
+                                                  "stop":  "2026-09-12T05:31:10.0000000Z",
+                                                  "itemId":  "75bc45c9af5e154aea4dd68eb38e0354",
+                                                  "poster":  "http://127.0.0.1:8096/Items/75bc45c9af5e154aea4dd68eb38e0354/Images/Primary",
+                                                  "description":  "A Chicago artist\u0027s sanity starts to unravel, unleashing a terrifying wave of violence when he begins to explore the macabre history of the Candyman.",
+                                                  "year":  2021
                                               },
                                "upNext":  {
                                               "title":  "Boogeyman",
