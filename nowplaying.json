@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-12T12:18:05.8274824Z",
+    "updated":  "2026-09-12T12:19:05.8760950Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,33 +581,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Ricardo \u0026 Mocoso",
-                                                  "start":  "2026-09-12T11:39:17.0000000Z",
-                                                  "stop":  "2026-09-12T12:18:22.0000000Z",
-                                                  "itemId":  "0e268bdc592953760cc985e16953d93d",
-                                                  "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
+                                                  "title":  "COKCE6139",
+                                                  "start":  "2026-09-12T11:44:17.0000000Z",
+                                                  "stop":  "2026-09-12T12:29:19.0000000Z",
+                                                  "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
+                                                  "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Biggie Mobbing",
-                                              "start":  "2026-09-12T12:19:00.0000000Z",
-                                              "stop":  "2026-09-12T12:56:33.0000000Z",
-                                              "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
-                                              "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
+                                              "title":  "Chingadasos",
+                                              "start":  "2026-09-12T12:19:41.0000000Z",
+                                              "stop":  "2026-09-12T12:20:27.0000000Z",
+                                              "itemId":  "8988d98fd90679aab5aff5b786344b1c",
+                                              "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Biggie Mobbing",
-                                                    "start":  "2026-09-12T12:19:00.0000000Z",
-                                                    "stop":  "2026-09-12T12:56:33.0000000Z",
-                                                    "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Chingadasos",
                                                     "start":  "2026-09-12T12:19:41.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Oz",
+                                                    "start":  "2026-09-12T12:31:17.0000000Z",
+                                                    "stop":  "2026-09-12T12:32:30.0000000Z",
+                                                    "itemId":  "f332ba1673f9273e5349cd38b640cf51",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
