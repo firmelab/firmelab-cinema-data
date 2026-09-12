@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-12T15:01:05.2549402Z",
+    "updated":  "2026-09-12T15:02:05.2416085Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -7,7 +7,7 @@
                                "nowPlaying":  {
                                                   "title":  "Blade Trinity",
                                                   "start":  "2026-09-12T14:50:19.0000000Z",
-                                                  "stop":  "2026-09-12T16:43:21.0000000Z",
+                                                  "stop":  "2026-09-12T16:43:33.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
@@ -16,7 +16,7 @@
                                "upNext":  {
                                               "title":  "Critters 4",
                                               "start":  "2026-09-12T16:43:21.0000000Z",
-                                              "stop":  "2026-09-12T18:18:11.0000000Z",
+                                              "stop":  "2026-09-12T18:17:59.0000000Z",
                                               "itemId":  "9236028cd5b40f7dab68ae6983570831",
                                               "poster":  "http://127.0.0.1:8096/Items/9236028cd5b40f7dab68ae6983570831/Images/Primary",
                                               "description":  "A super strain of genetically engineered mutants are designed to take over the universe, hungry to conquer the galaxy, with an appetite for mankind.",
@@ -26,7 +26,7 @@
                                                 {
                                                     "title":  "Critters 4",
                                                     "start":  "2026-09-12T16:43:21.0000000Z",
-                                                    "stop":  "2026-09-12T18:18:11.0000000Z",
+                                                    "stop":  "2026-09-12T18:17:59.0000000Z",
                                                     "itemId":  "9236028cd5b40f7dab68ae6983570831",
                                                     "poster":  "http://127.0.0.1:8096/Items/9236028cd5b40f7dab68ae6983570831/Images/Primary",
                                                     "description":  "A super strain of genetically engineered mutants are designed to take over the universe, hungry to conquer the galaxy, with an appetite for mankind.",
@@ -35,7 +35,7 @@
                                                 {
                                                     "title":  "Fast N Furious",
                                                     "start":  "2026-09-12T18:17:59.0000000Z",
-                                                    "stop":  "2026-09-12T20:05:05.0000000Z",
+                                                    "stop":  "2026-09-12T20:05:16.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -44,7 +44,7 @@
                                                 {
                                                     "title":  "John Wick",
                                                     "start":  "2026-09-12T20:05:05.0000000Z",
-                                                    "stop":  "2026-09-12T21:46:41.0000000Z",
+                                                    "stop":  "2026-09-12T21:46:30.0000000Z",
                                                     "itemId":  "84b70d75a3d957b57b02cf83796504a8",
                                                     "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
                                                     "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
@@ -53,7 +53,7 @@
                                                 {
                                                     "title":  "Brightburn",
                                                     "start":  "2026-09-12T21:46:30.0000000Z",
-                                                    "stop":  "2026-09-12T23:17:10.0000000Z",
+                                                    "stop":  "2026-09-12T23:17:21.0000000Z",
                                                     "itemId":  "a562e465a7ff31b0113aee613a779bf2",
                                                     "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
                                                     "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
@@ -62,7 +62,7 @@
                                                 {
                                                     "title":  "Commando",
                                                     "start":  "2026-09-12T23:17:10.0000000Z",
-                                                    "stop":  "2026-09-13T00:47:46.0000000Z",
+                                                    "stop":  "2026-09-13T00:47:34.0000000Z",
                                                     "itemId":  "4d57925cf6d4f5a046509bad0a68d29f",
                                                     "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
                                                     "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
@@ -71,7 +71,7 @@
                                                 {
                                                     "title":  "Critters",
                                                     "start":  "2026-09-13T00:47:34.0000000Z",
-                                                    "stop":  "2026-09-13T02:13:38.0000000Z",
+                                                    "stop":  "2026-09-13T02:13:49.0000000Z",
                                                     "itemId":  "54493e812aba3ee1edef65108ed95c05",
                                                     "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
                                                     "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
@@ -80,7 +80,7 @@
                                                 {
                                                     "title":  "FightPlan",
                                                     "start":  "2026-09-13T02:13:38.0000000Z",
-                                                    "stop":  "2026-09-13T03:52:03.0000000Z",
+                                                    "stop":  "2026-09-13T03:51:52.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -89,7 +89,7 @@
                                                 {
                                                     "title":  "Young Guns",
                                                     "start":  "2026-09-13T03:51:52.0000000Z",
-                                                    "stop":  "2026-09-13T05:38:48.0000000Z",
+                                                    "stop":  "2026-09-13T05:39:00.0000000Z",
                                                     "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
                                                     "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
                                                     "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
@@ -583,31 +583,22 @@
                                "nowPlaying":  {
                                                   "title":  "JamminG",
                                                   "start":  "2026-09-12T14:57:15.0000000Z",
-                                                  "stop":  "2026-09-12T15:01:07.0000000Z",
+                                                  "stop":  "2026-09-12T15:09:49.0000000Z",
                                                   "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                   "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Never 3Nding",
-                                              "start":  "2026-09-12T15:01:12.0000000Z",
-                                              "stop":  "2026-09-12T15:03:24.0000000Z",
-                                              "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
-                                              "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
+                                              "title":  "Ninja Now",
+                                              "start":  "2026-09-12T15:03:24.0000000Z",
+                                              "stop":  "2026-09-12T15:04:07.0000000Z",
+                                              "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
+                                              "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Never 3Nding",
-                                                    "start":  "2026-09-12T15:01:12.0000000Z",
-                                                    "stop":  "2026-09-12T15:03:24.0000000Z",
-                                                    "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
-                                                    "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-09-12T15:03:24.0000000Z",
@@ -629,7 +620,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-09-12T15:04:56.0000000Z",
-                                                    "stop":  "2026-09-12T15:06:23.0000000Z",
+                                                    "stop":  "2026-09-12T15:25:04.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
@@ -647,7 +638,7 @@
                                                 {
                                                     "title":  "After H0uRs",
                                                     "start":  "2026-09-12T15:07:12.0000000Z",
-                                                    "stop":  "2026-09-12T15:08:01.0000000Z",
+                                                    "stop":  "2026-09-12T15:16:33.0000000Z",
                                                     "itemId":  "150bbae732cd647eeed3060cd67b032f",
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +647,7 @@
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-09-12T15:08:01.0000000Z",
-                                                    "stop":  "2026-09-12T15:13:56.0000000Z",
+                                                    "stop":  "2026-09-12T15:22:29.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                     "description":  null,
@@ -665,9 +656,18 @@
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-09-12T15:13:56.0000000Z",
-                                                    "stop":  "2026-09-12T15:14:37.0000000Z",
+                                                    "stop":  "2026-09-12T15:23:10.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Chingadasos",
+                                                    "start":  "2026-09-12T15:14:37.0000000Z",
+                                                    "stop":  "2026-09-12T15:43:49.0000000Z",
+                                                    "itemId":  "8988d98fd90679aab5aff5b786344b1c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
