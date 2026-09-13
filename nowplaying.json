@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-13T05:51:06.3939942Z",
+    "updated":  "2026-09-13T05:52:05.6816705Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -582,24 +582,15 @@
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  null,
                                "upNext":  {
-                                              "title":  "Mr J-Carry",
-                                              "start":  "2026-09-13T05:51:12.0000000Z",
-                                              "stop":  "2026-09-13T05:51:44.0000000Z",
-                                              "itemId":  "56c94066e018711311e81d6a3f6cc139",
-                                              "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
+                                              "title":  "T2",
+                                              "start":  "2026-09-13T05:52:08.0000000Z",
+                                              "stop":  "2026-09-13T05:52:40.0000000Z",
+                                              "itemId":  "1315943017e226076a7899408d36dec5",
+                                              "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Mr J-Carry",
-                                                    "start":  "2026-09-13T05:51:12.0000000Z",
-                                                    "stop":  "2026-09-13T05:51:44.0000000Z",
-                                                    "itemId":  "56c94066e018711311e81d6a3f6cc139",
-                                                    "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "T2",
                                                     "start":  "2026-09-13T05:52:08.0000000Z",
@@ -662,6 +653,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Carrito",
+                                                    "start":  "2026-09-13T06:04:18.0000000Z",
+                                                    "stop":  "2026-09-13T06:11:57.0000000Z",
+                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
@@ -669,33 +669,24 @@
                                "number":  8,
                                "name":  "FIRMELAB FRONTIER",
                                "nowPlaying":  {
-                                                  "title":  "The Count Monte Cristos",
-                                                  "start":  "2026-09-13T03:39:53.0000000Z",
-                                                  "stop":  "2026-09-13T05:51:07.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Young Guns",
+                                                  "start":  "2026-09-13T05:51:07.0000000Z",
+                                                  "stop":  "2026-09-13T07:37:53.0000000Z",
+                                                  "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
+                                                  "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
+                                                  "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
+                                                  "year":  1988
                                               },
                                "upNext":  {
-                                              "title":  "Young Guns",
-                                              "start":  "2026-09-13T05:51:07.0000000Z",
-                                              "stop":  "2026-09-13T07:37:53.0000000Z",
-                                              "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
-                                              "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
-                                              "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
-                                              "year":  1988
+                                              "title":  "The Patriot",
+                                              "start":  "2026-09-13T07:37:53.0000000Z",
+                                              "stop":  "2026-09-13T10:22:40.0000000Z",
+                                              "itemId":  "17b673273650da7e33ae51350e123fb0",
+                                              "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
+                                              "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+                                              "year":  2000
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Young Guns",
-                                                    "start":  "2026-09-13T05:51:07.0000000Z",
-                                                    "stop":  "2026-09-13T07:37:53.0000000Z",
-                                                    "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
-                                                    "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
-                                                    "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
-                                                    "year":  1988
-                                                },
                                                 {
                                                     "title":  "The Patriot",
                                                     "start":  "2026-09-13T07:37:53.0000000Z",
@@ -758,6 +749,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/5fcc6b3e811cdcaf000036c06aef62b9/Images/Primary",
                                                     "description":  "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship\u0027s thoughtful surgeon, his best friend.",
                                                     "year":  2003
+                                                },
+                                                {
+                                                    "title":  "Brave Heart",
+                                                    "start":  "2026-09-14T00:39:50.0000000Z",
+                                                    "stop":  "2026-09-14T03:37:30.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            }
