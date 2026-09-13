@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-13T23:01:05.4002377Z",
+    "updated":  "2026-09-13T23:02:05.3754492Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -7,7 +7,7 @@
                                "nowPlaying":  {
                                                   "title":  "Duplex",
                                                   "start":  "2026-09-13T22:10:58.0000000Z",
-                                                  "stop":  "2026-09-13T23:40:32.0000000Z",
+                                                  "stop":  "2026-09-13T23:40:33.0000000Z",
                                                   "itemId":  "e2340e07092b6de7376760916297a934",
                                                   "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
                                                   "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
@@ -71,7 +71,7 @@
                                                 {
                                                     "title":  "UP IN SMOKE",
                                                     "start":  "2026-09-14T08:38:55.0000000Z",
-                                                    "stop":  "2026-09-14T10:05:10.0000000Z",
+                                                    "stop":  "2026-09-14T10:05:09.0000000Z",
                                                     "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
                                                     "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
                                                     "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
@@ -89,7 +89,7 @@
                                                 {
                                                     "title":  "Underworld Evolution",
                                                     "start":  "2026-09-14T11:54:22.0000000Z",
-                                                    "stop":  "2026-09-14T13:41:09.0000000Z",
+                                                    "stop":  "2026-09-14T13:41:10.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -580,26 +580,25 @@
                      "7":  {
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
-                               "nowPlaying":  null,
+                               "nowPlaying":  {
+                                                  "title":  "Duende",
+                                                  "start":  "2026-09-13T22:59:56.0000000Z",
+                                                  "stop":  "2026-09-13T23:10:15.0000000Z",
+                                                  "itemId":  "80d6feb8f0c835e935a80db3275c5412",
+                                                  "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                                  "description":  null,
+                                                  "year":  null
+                                              },
                                "upNext":  {
-                                              "title":  "JamminG",
-                                              "start":  "2026-09-13T23:01:37.0000000Z",
-                                              "stop":  "2026-09-13T23:05:29.0000000Z",
-                                              "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
-                                              "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
+                                              "title":  "Never 3Nding",
+                                              "start":  "2026-09-13T23:05:34.0000000Z",
+                                              "stop":  "2026-09-13T23:07:46.0000000Z",
+                                              "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                              "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                               "description":  null,
-                                              "year":  null
+                                              "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "JamminG",
-                                                    "start":  "2026-09-13T23:01:37.0000000Z",
-                                                    "stop":  "2026-09-13T23:05:29.0000000Z",
-                                                    "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
-                                                    "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-09-13T23:05:34.0000000Z",
@@ -621,7 +620,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-09-13T23:08:29.0000000Z",
-                                                    "stop":  "2026-09-13T23:09:18.0000000Z",
+                                                    "stop":  "2026-09-13T23:27:58.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -639,7 +638,7 @@
                                                 {
                                                     "title":  "0Ld Sc00L",
                                                     "start":  "2026-09-13T23:10:45.0000000Z",
-                                                    "stop":  "2026-09-13T23:11:34.0000000Z",
+                                                    "stop":  "2026-09-13T23:20:07.0000000Z",
                                                     "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
                                                     "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                                     "description":  null,
@@ -648,7 +647,7 @@
                                                 {
                                                     "title":  "After H0uRs",
                                                     "start":  "2026-09-13T23:11:34.0000000Z",
-                                                    "stop":  "2026-09-13T23:12:23.0000000Z",
+                                                    "stop":  "2026-09-13T23:20:56.0000000Z",
                                                     "itemId":  "150bbae732cd647eeed3060cd67b032f",
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
@@ -657,9 +656,18 @@
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-09-13T23:12:23.0000000Z",
-                                                    "stop":  "2026-09-13T23:18:18.0000000Z",
+                                                    "stop":  "2026-09-13T23:26:51.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Biggie Mobbing",
+                                                    "start":  "2026-09-13T23:18:18.0000000Z",
+                                                    "stop":  "2026-09-13T23:46:19.0000000Z",
+                                                    "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
