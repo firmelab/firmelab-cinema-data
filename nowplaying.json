@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-13T07:16:07.4444461Z",
+    "updated":  "2026-09-13T07:17:39.6102361Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -197,33 +197,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "ROBOCOP 2",
-                                                  "start":  "2026-09-13T05:19:57.0000000Z",
-                                                  "stop":  "2026-09-13T07:16:37.0000000Z",
-                                                  "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
-                                                  "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
-                                                  "year":  1990
+                                                  "title":  "ROBOCOP 3",
+                                                  "start":  "2026-09-13T07:16:37.0000000Z",
+                                                  "stop":  "2026-09-13T09:01:28.0000000Z",
+                                                  "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
+                                                  "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
+                                                  "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
+                                                  "year":  1993
                                               },
                                "upNext":  {
-                                              "title":  "ROBOCOP 3",
-                                              "start":  "2026-09-13T07:16:37.0000000Z",
-                                              "stop":  "2026-09-13T09:01:28.0000000Z",
-                                              "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
-                                              "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
-                                              "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
-                                              "year":  1993
+                                              "title":  "Total Recall",
+                                              "start":  "2026-09-13T09:01:28.0000000Z",
+                                              "stop":  "2026-09-13T10:54:48.0000000Z",
+                                              "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
+                                              "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
+                                              "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
+                                              "year":  1990
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "ROBOCOP 3",
-                                                    "start":  "2026-09-13T07:16:37.0000000Z",
-                                                    "stop":  "2026-09-13T09:01:28.0000000Z",
-                                                    "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
-                                                    "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
-                                                    "year":  1993
-                                                },
                                                 {
                                                     "title":  "Total Recall",
                                                     "start":  "2026-09-13T09:01:28.0000000Z",
@@ -286,6 +277,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
                                                     "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
                                                     "year":  1985
+                                                },
+                                                {
+                                                    "title":  "Conan The Barbarian",
+                                                    "start":  "2026-09-13T22:26:42.0000000Z",
+                                                    "stop":  "2026-09-14T00:37:04.0000000Z",
+                                                    "itemId":  "d0a933c7f9688726a8f9a30f309399ad",
+                                                    "poster":  "http://127.0.0.1:8096/Items/d0a933c7f9688726a8f9a30f309399ad/Images/Primary",
+                                                    "description":  "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
+                                                    "year":  1982
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Chingadasos",
-                                              "start":  "2026-09-13T07:16:49.0000000Z",
-                                              "stop":  "2026-09-13T07:46:00.0000000Z",
-                                              "itemId":  "8988d98fd90679aab5aff5b786344b1c",
-                                              "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
+                                              "title":  "Mr J-Carry",
+                                              "start":  "2026-09-13T07:18:40.0000000Z",
+                                              "stop":  "2026-09-13T07:19:36.0000000Z",
+                                              "itemId":  "56c94066e018711311e81d6a3f6cc139",
+                                              "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Chingadasos",
-                                                    "start":  "2026-09-13T07:16:49.0000000Z",
-                                                    "stop":  "2026-09-13T07:46:00.0000000Z",
-                                                    "itemId":  "8988d98fd90679aab5aff5b786344b1c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Mr J-Carry",
                                                     "start":  "2026-09-13T07:18:40.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "BloodJoke",
+                                                    "start":  "2026-09-13T07:30:06.0000000Z",
+                                                    "stop":  "2026-09-13T07:31:41.0000000Z",
+                                                    "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
