@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-13T00:53:08.0565949Z",
+    "updated":  "2026-09-13T00:54:06.6161073Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,33 +101,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Underworld Evolution",
-                                                  "start":  "2026-09-12T22:59:20.0000000Z",
-                                                  "stop":  "2026-09-13T00:53:49.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "World War Z",
+                                                  "start":  "2026-09-13T00:53:49.0000000Z",
+                                                  "stop":  "2026-09-13T02:59:29.0000000Z",
+                                                  "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
+                                                  "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
+                                                  "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+                                                  "year":  2013
                                               },
                                "upNext":  {
-                                              "title":  "World War Z",
-                                              "start":  "2026-09-13T00:53:49.0000000Z",
-                                              "stop":  "2026-09-13T02:59:29.0000000Z",
-                                              "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
-                                              "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
-                                              "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                              "year":  2013
+                                              "title":  "Boogeyman",
+                                              "start":  "2026-09-13T02:59:29.0000000Z",
+                                              "stop":  "2026-09-13T04:30:54.0000000Z",
+                                              "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
+                                              "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
+                                              "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
+                                              "year":  2005
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "World War Z",
-                                                    "start":  "2026-09-13T00:53:49.0000000Z",
-                                                    "stop":  "2026-09-13T02:59:29.0000000Z",
-                                                    "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
-                                                    "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                                    "year":  2013
-                                                },
                                                 {
                                                     "title":  "Boogeyman",
                                                     "start":  "2026-09-13T02:59:29.0000000Z",
@@ -190,6 +181,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/760d913661074a3a3f5a58738842a2f8/Images/Primary",
                                                     "description":  "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
                                                     "year":  2002
+                                                },
+                                                {
+                                                    "title":  "Resident Evil- Apocalypse",
+                                                    "start":  "2026-09-13T15:18:03.0000000Z",
+                                                    "stop":  "2026-09-13T17:00:00.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "MrPayo",
-                                              "start":  "2026-09-13T00:53:42.0000000Z",
-                                              "stop":  "2026-09-13T00:54:25.0000000Z",
-                                              "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
-                                              "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
+                                              "title":  "Oz",
+                                              "start":  "2026-09-13T00:54:47.0000000Z",
+                                              "stop":  "2026-09-13T00:56:01.0000000Z",
+                                              "itemId":  "f332ba1673f9273e5349cd38b640cf51",
+                                              "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                               "description":  null,
-                                              "year":  null
+                                              "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "MrPayo",
-                                                    "start":  "2026-09-13T00:53:42.0000000Z",
-                                                    "stop":  "2026-09-13T00:54:25.0000000Z",
-                                                    "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
-                                                    "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Oz",
                                                     "start":  "2026-09-13T00:54:47.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Never 3Nding",
+                                                    "start":  "2026-09-13T01:13:30.0000000Z",
+                                                    "stop":  "2026-09-13T01:15:42.0000000Z",
+                                                    "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                                    "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
