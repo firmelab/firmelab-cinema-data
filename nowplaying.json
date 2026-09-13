@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-13T07:01:15.2157983Z",
+    "updated":  "2026-09-13T07:02:08.0719274Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -7,7 +7,7 @@
                                "nowPlaying":  {
                                                   "title":  "Sherlock Holmes",
                                                   "start":  "2026-09-13T05:38:48.0000000Z",
-                                                  "stop":  "2026-09-13T07:47:38.0000000Z",
+                                                  "stop":  "2026-09-13T07:47:39.0000000Z",
                                                   "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
                                                   "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
                                                   "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
@@ -89,7 +89,7 @@
                                                 {
                                                     "title":  "Duplex",
                                                     "start":  "2026-09-13T22:10:58.0000000Z",
-                                                    "stop":  "2026-09-13T23:40:32.0000000Z",
+                                                    "stop":  "2026-09-13T23:40:33.0000000Z",
                                                     "itemId":  "e2340e07092b6de7376760916297a934",
                                                     "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
                                                     "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
@@ -583,7 +583,7 @@
                                "nowPlaying":  {
                                                   "title":  "JamminG",
                                                   "start":  "2026-09-13T06:59:26.0000000Z",
-                                                  "stop":  "2026-09-13T07:03:18.0000000Z",
+                                                  "stop":  "2026-09-13T07:12:00.0000000Z",
                                                   "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                   "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                   "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-09-13T07:07:07.0000000Z",
-                                                    "stop":  "2026-09-13T07:08:34.0000000Z",
+                                                    "stop":  "2026-09-13T07:27:15.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "After H0uRs",
                                                     "start":  "2026-09-13T07:09:23.0000000Z",
-                                                    "stop":  "2026-09-13T07:10:12.0000000Z",
+                                                    "stop":  "2026-09-13T07:18:45.0000000Z",
                                                     "itemId":  "150bbae732cd647eeed3060cd67b032f",
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-09-13T07:10:12.0000000Z",
-                                                    "stop":  "2026-09-13T07:16:07.0000000Z",
+                                                    "stop":  "2026-09-13T07:24:40.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-09-13T07:16:07.0000000Z",
-                                                    "stop":  "2026-09-13T07:16:49.0000000Z",
+                                                    "stop":  "2026-09-13T07:25:21.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
