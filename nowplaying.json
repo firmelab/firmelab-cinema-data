@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-13T12:56:05.6732191Z",
+    "updated":  "2026-09-13T12:57:05.5682094Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -389,33 +389,24 @@
                                "number":  5,
                                "name":  "FIRMELAB TOONS",
                                "nowPlaying":  {
-                                                  "title":  "HEAVY METAL",
-                                                  "start":  "2026-09-13T11:26:05.0000000Z",
-                                                  "stop":  "2026-09-13T12:56:27.0000000Z",
-                                                  "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
-                                                  "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
-                                                  "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
-                                                  "year":  1981
+                                                  "title":  "Who Framed Roger Rabbit",
+                                                  "start":  "2026-09-13T12:56:27.0000000Z",
+                                                  "stop":  "2026-09-13T14:40:12.0000000Z",
+                                                  "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
+                                                  "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
+                                                  "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+                                                  "year":  1988
                                               },
                                "upNext":  {
-                                              "title":  "Who Framed Roger Rabbit",
-                                              "start":  "2026-09-13T12:56:27.0000000Z",
-                                              "stop":  "2026-09-13T14:40:12.0000000Z",
-                                              "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
-                                              "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
-                                              "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
-                                              "year":  1988
+                                              "title":  "HEAVY METAL",
+                                              "start":  "2026-09-13T14:40:12.0000000Z",
+                                              "stop":  "2026-09-13T16:10:34.0000000Z",
+                                              "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                              "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                              "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                              "year":  1981
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Who Framed Roger Rabbit",
-                                                    "start":  "2026-09-13T12:56:27.0000000Z",
-                                                    "stop":  "2026-09-13T14:40:12.0000000Z",
-                                                    "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
-                                                    "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
-                                                    "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
-                                                    "year":  1988
-                                                },
                                                 {
                                                     "title":  "HEAVY METAL",
                                                     "start":  "2026-09-13T14:40:12.0000000Z",
@@ -478,6 +469,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
                                                     "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
                                                     "year":  1981
+                                                },
+                                                {
+                                                    "title":  "Who Framed Roger Rabbit",
+                                                    "start":  "2026-09-14T01:52:55.0000000Z",
+                                                    "stop":  "2026-09-14T03:36:41.0000000Z",
+                                                    "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
+                                                    "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
+                                                    "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+                                                    "year":  1988
                                                 }
                                             ]
                            },
@@ -590,33 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "SSBI4649",
-                                              "start":  "2026-09-13T12:56:11.0000000Z",
-                                              "stop":  "2026-09-13T12:57:00.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
+                                              "title":  "0Ld Sc00L",
+                                              "start":  "2026-09-13T12:58:27.0000000Z",
+                                              "stop":  "2026-09-13T12:59:16.0000000Z",
+                                              "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                              "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "SSBI4649",
-                                                    "start":  "2026-09-13T12:56:11.0000000Z",
-                                                    "stop":  "2026-09-13T12:57:00.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
-                                                    "title":  "Arnold Dynamite",
-                                                    "start":  "2026-09-13T12:57:00.0000000Z",
-                                                    "stop":  "2026-09-13T12:58:27.0000000Z",
-                                                    "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "0Ld Sc00L",
                                                     "start":  "2026-09-13T12:58:27.0000000Z",
@@ -668,6 +650,24 @@
                                                     "stop":  "2026-09-13T13:09:05.0000000Z",
                                                     "itemId":  "56c94066e018711311e81d6a3f6cc139",
                                                     "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "T2",
+                                                    "start":  "2026-09-13T13:09:29.0000000Z",
+                                                    "stop":  "2026-09-13T13:10:02.0000000Z",
+                                                    "itemId":  "1315943017e226076a7899408d36dec5",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Ricardo \u0026 Mocoso",
+                                                    "start":  "2026-09-13T13:10:02.0000000Z",
+                                                    "stop":  "2026-09-13T13:12:17.0000000Z",
+                                                    "itemId":  "0e268bdc592953760cc985e16953d93d",
+                                                    "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
