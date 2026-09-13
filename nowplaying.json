@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-13T23:40:05.6816364Z",
+    "updated":  "2026-09-13T23:41:05.7185788Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Duplex",
-                                                  "start":  "2026-09-13T22:10:58.0000000Z",
-                                                  "stop":  "2026-09-13T23:40:33.0000000Z",
-                                                  "itemId":  "e2340e07092b6de7376760916297a934",
-                                                  "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
-                                                  "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
-                                                  "year":  2003
+                                                  "title":  "The Patriot",
+                                                  "start":  "2026-09-13T23:40:21.0000000Z",
+                                                  "stop":  "2026-09-14T02:25:19.0000000Z",
+                                                  "itemId":  "17b673273650da7e33ae51350e123fb0",
+                                                  "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
+                                                  "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+                                                  "year":  2000
                                               },
                                "upNext":  {
-                                              "title":  "The Patriot",
-                                              "start":  "2026-09-13T23:40:21.0000000Z",
-                                              "stop":  "2026-09-14T02:25:19.0000000Z",
-                                              "itemId":  "17b673273650da7e33ae51350e123fb0",
-                                              "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
-                                              "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
-                                              "year":  2000
+                                              "title":  "Dusk Till Dawn",
+                                              "start":  "2026-09-14T02:25:19.0000000Z",
+                                              "stop":  "2026-09-14T04:13:31.0000000Z",
+                                              "itemId":  "648811d2182191a63ce32eb861ad9020",
+                                              "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
+                                              "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
+                                              "year":  1996
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "The Patriot",
-                                                    "start":  "2026-09-13T23:40:21.0000000Z",
-                                                    "stop":  "2026-09-14T02:25:19.0000000Z",
-                                                    "itemId":  "17b673273650da7e33ae51350e123fb0",
-                                                    "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
-                                                    "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
-                                                    "year":  2000
-                                                },
                                                 {
                                                     "title":  "Dusk Till Dawn",
                                                     "start":  "2026-09-14T02:25:19.0000000Z",
@@ -90,6 +81,15 @@
                                                     "title":  "Underworld Evolution",
                                                     "start":  "2026-09-14T11:54:22.0000000Z",
                                                     "stop":  "2026-09-14T13:41:10.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "A Beatiful Mind",
+                                                    "start":  "2026-09-14T13:40:58.0000000Z",
+                                                    "stop":  "2026-09-14T15:56:27.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
