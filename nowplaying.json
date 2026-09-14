@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-14T07:27:05.4345901Z",
+    "updated":  "2026-09-14T07:28:05.3437462Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,13 +581,13 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Never 3Nding",
-                                                  "start":  "2026-09-14T07:06:40.0000000Z",
-                                                  "stop":  "2026-09-14T07:27:32.0000000Z",
-                                                  "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
-                                                  "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
+                                                  "title":  "After H0uRs",
+                                                  "start":  "2026-09-14T07:12:39.0000000Z",
+                                                  "stop":  "2026-09-14T07:40:48.0000000Z",
+                                                  "itemId":  "150bbae732cd647eeed3060cd67b032f",
+                                                  "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "COKCE6139",
