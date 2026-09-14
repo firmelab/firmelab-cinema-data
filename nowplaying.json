@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-14T16:48:05.6808848Z",
+    "updated":  "2026-09-14T16:49:05.7371628Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,33 +581,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Mr J-Carry",
-                                                  "start":  "2026-09-14T16:06:46.0000000Z",
-                                                  "stop":  "2026-09-14T16:48:22.0000000Z",
-                                                  "itemId":  "56c94066e018711311e81d6a3f6cc139",
-                                                  "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
+                                                  "title":  "T2",
+                                                  "start":  "2026-09-14T16:07:43.0000000Z",
+                                                  "stop":  "2026-09-14T16:56:56.0000000Z",
+                                                  "itemId":  "1315943017e226076a7899408d36dec5",
+                                                  "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Chingadasos",
-                                              "start":  "2026-09-14T16:48:39.0000000Z",
-                                              "stop":  "2026-09-14T16:49:25.0000000Z",
-                                              "itemId":  "8988d98fd90679aab5aff5b786344b1c",
-                                              "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
+                                              "title":  "Mr J-Carry",
+                                              "start":  "2026-09-14T16:50:31.0000000Z",
+                                              "stop":  "2026-09-14T16:51:03.0000000Z",
+                                              "itemId":  "56c94066e018711311e81d6a3f6cc139",
+                                              "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Chingadasos",
-                                                    "start":  "2026-09-14T16:48:39.0000000Z",
-                                                    "stop":  "2026-09-14T16:49:25.0000000Z",
-                                                    "itemId":  "8988d98fd90679aab5aff5b786344b1c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Mr J-Carry",
                                                     "start":  "2026-09-14T16:50:31.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "BloodJoke",
+                                                    "start":  "2026-09-14T17:01:56.0000000Z",
+                                                    "stop":  "2026-09-14T17:03:32.0000000Z",
+                                                    "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
