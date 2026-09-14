@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-14T07:01:15.9360912Z",
+    "updated":  "2026-09-14T07:02:05.2199250Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "HALF BAKED",
-                                                  "start":  "2026-09-14T05:39:03.0000000Z",
-                                                  "stop":  "2026-09-14T07:01:32.0000000Z",
-                                                  "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
-                                                  "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
-                                                  "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
-                                                  "year":  1998
+                                                  "title":  "AnchorMan",
+                                                  "start":  "2026-09-14T07:01:21.0000000Z",
+                                                  "stop":  "2026-09-14T08:38:55.0000000Z",
+                                                  "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
+                                                  "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
+                                                  "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
+                                                  "year":  2004
                                               },
                                "upNext":  {
-                                              "title":  "AnchorMan",
-                                              "start":  "2026-09-14T07:01:21.0000000Z",
-                                              "stop":  "2026-09-14T08:38:55.0000000Z",
-                                              "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
-                                              "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
-                                              "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
-                                              "year":  2004
+                                              "title":  "UP IN SMOKE",
+                                              "start":  "2026-09-14T08:38:55.0000000Z",
+                                              "stop":  "2026-09-14T10:05:09.0000000Z",
+                                              "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
+                                              "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
+                                              "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
+                                              "year":  1978
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "AnchorMan",
-                                                    "start":  "2026-09-14T07:01:21.0000000Z",
-                                                    "stop":  "2026-09-14T08:38:55.0000000Z",
-                                                    "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
-                                                    "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
-                                                    "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
-                                                    "year":  2004
-                                                },
                                                 {
                                                     "title":  "UP IN SMOKE",
                                                     "start":  "2026-09-14T08:38:55.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "FRIGHT NIGHT",
+                                                    "start":  "2026-09-14T21:30:56.0000000Z",
+                                                    "stop":  "2026-09-14T23:17:27.0000000Z",
+                                                    "itemId":  "8bda9bd3955398694e4a57e90f6c4904",
+                                                    "poster":  "http://127.0.0.1:8096/Items/8bda9bd3955398694e4a57e90f6c4904/Images/Primary",
+                                                    "description":  "Charley Brewster, a high school student, accidentally discovers the true and creepy nature of Jerry Dandrige, his dashing and enigmatic new neighbor; but no one seems willing to believe him.",
+                                                    "year":  1985
                                                 }
                                             ]
                            },
@@ -581,18 +581,18 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Duende",
-                                                  "start":  "2026-09-14T07:01:01.0000000Z",
-                                                  "stop":  "2026-09-14T07:02:11.0000000Z",
-                                                  "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                                  "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                                  "title":  "Dancing Cobra",
+                                                  "start":  "2026-09-14T06:58:58.0000000Z",
+                                                  "stop":  "2026-09-14T07:08:35.0000000Z",
+                                                  "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                                  "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
                                               "title":  "JamminG",
                                               "start":  "2026-09-14T07:02:43.0000000Z",
-                                              "stop":  "2026-09-14T07:06:35.0000000Z",
+                                              "stop":  "2026-09-14T07:06:40.0000000Z",
                                               "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                               "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-09-14T07:02:43.0000000Z",
-                                                    "stop":  "2026-09-14T07:06:35.0000000Z",
+                                                    "stop":  "2026-09-14T07:06:40.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-09-14T07:06:40.0000000Z",
-                                                    "stop":  "2026-09-14T07:08:52.0000000Z",
+                                                    "stop":  "2026-09-14T07:27:32.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-09-14T07:09:34.0000000Z",
-                                                    "stop":  "2026-09-14T07:10:23.0000000Z",
+                                                    "stop":  "2026-09-14T07:18:56.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-09-14T07:10:23.0000000Z",
-                                                    "stop":  "2026-09-14T07:11:51.0000000Z",
+                                                    "stop":  "2026-09-14T07:20:24.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "0Ld Sc00L",
                                                     "start":  "2026-09-14T07:11:51.0000000Z",
-                                                    "stop":  "2026-09-14T07:12:39.0000000Z",
+                                                    "stop":  "2026-09-14T07:21:12.0000000Z",
                                                     "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
                                                     "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "After H0uRs",
                                                     "start":  "2026-09-14T07:12:39.0000000Z",
-                                                    "stop":  "2026-09-14T07:13:28.0000000Z",
+                                                    "stop":  "2026-09-14T07:40:48.0000000Z",
                                                     "itemId":  "150bbae732cd647eeed3060cd67b032f",
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
