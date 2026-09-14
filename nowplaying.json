@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-14T19:14:05.8558472Z",
+    "updated":  "2026-09-14T19:15:05.8719572Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Conan The Destroyer",
-                                                  "start":  "2026-09-14T17:33:36.0000000Z",
-                                                  "stop":  "2026-09-14T19:14:56.0000000Z",
-                                                  "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
-                                                  "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
-                                                  "year":  1984
+                                                  "title":  "Firmelab Cinema",
+                                                  "start":  "2026-09-14T19:14:44.0000000Z",
+                                                  "stop":  "2026-09-14T21:30:44.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Firmelab Cinema",
-                                              "start":  "2026-09-14T19:14:44.0000000Z",
-                                              "stop":  "2026-09-14T21:30:44.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "FRIGHT NIGHT",
+                                              "start":  "2026-09-14T21:30:56.0000000Z",
+                                              "stop":  "2026-09-14T23:17:38.0000000Z",
+                                              "itemId":  "8bda9bd3955398694e4a57e90f6c4904",
+                                              "poster":  "http://127.0.0.1:8096/Items/8bda9bd3955398694e4a57e90f6c4904/Images/Primary",
+                                              "description":  "Charley Brewster, a high school student, accidentally discovers the true and creepy nature of Jerry Dandrige, his dashing and enigmatic new neighbor; but no one seems willing to believe him.",
+                                              "year":  1985
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Firmelab Cinema",
-                                                    "start":  "2026-09-14T19:14:44.0000000Z",
-                                                    "stop":  "2026-09-14T21:30:44.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "FRIGHT NIGHT",
                                                     "start":  "2026-09-14T21:30:56.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
                                                     "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
                                                     "year":  1996
+                                                },
+                                                {
+                                                    "title":  "World War Z",
+                                                    "start":  "2026-09-15T09:40:31.0000000Z",
+                                                    "stop":  "2026-09-15T11:43:46.0000000Z",
+                                                    "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
+                                                    "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+                                                    "year":  2013
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Carrito",
-                                              "start":  "2026-09-14T19:14:50.0000000Z",
-                                              "stop":  "2026-09-14T19:50:05.0000000Z",
-                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                              "title":  "Dancing Cobra",
+                                              "start":  "2026-09-14T19:22:28.0000000Z",
+                                              "stop":  "2026-09-14T19:23:34.0000000Z",
+                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Carrito",
-                                                    "start":  "2026-09-14T19:14:50.0000000Z",
-                                                    "stop":  "2026-09-14T19:50:05.0000000Z",
-                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-09-14T19:22:28.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Arnold Dynamite",
+                                                    "start":  "2026-09-14T19:33:54.0000000Z",
+                                                    "stop":  "2026-09-14T19:35:21.0000000Z",
+                                                    "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
