@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-14T03:37:05.5598928Z",
+    "updated":  "2026-09-14T03:38:05.5698244Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -293,33 +293,24 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "Get Shorty",
-                                                  "start":  "2026-09-14T01:52:55.0000000Z",
-                                                  "stop":  "2026-09-14T03:37:43.0000000Z",
-                                                  "itemId":  "746531a34dc012efd97b57703e1903af",
-                                                  "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
-                                                  "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
-                                                  "year":  1995
+                                                  "title":  "Undercover Brother",
+                                                  "start":  "2026-09-14T03:37:43.0000000Z",
+                                                  "stop":  "2026-09-14T05:03:49.0000000Z",
+                                                  "itemId":  "6317b8f6b30a049091764b8311c08279",
+                                                  "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
+                                                  "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
+                                                  "year":  2002
                                               },
                                "upNext":  {
-                                              "title":  "Undercover Brother",
-                                              "start":  "2026-09-14T03:37:43.0000000Z",
-                                              "stop":  "2026-09-14T05:03:49.0000000Z",
-                                              "itemId":  "6317b8f6b30a049091764b8311c08279",
-                                              "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
-                                              "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
-                                              "year":  2002
+                                              "title":  "AnchorMan",
+                                              "start":  "2026-09-14T05:03:49.0000000Z",
+                                              "stop":  "2026-09-14T06:41:12.0000000Z",
+                                              "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
+                                              "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
+                                              "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
+                                              "year":  2004
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Undercover Brother",
-                                                    "start":  "2026-09-14T03:37:43.0000000Z",
-                                                    "stop":  "2026-09-14T05:03:49.0000000Z",
-                                                    "itemId":  "6317b8f6b30a049091764b8311c08279",
-                                                    "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
-                                                    "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
-                                                    "year":  2002
-                                                },
                                                 {
                                                     "title":  "AnchorMan",
                                                     "start":  "2026-09-14T05:03:49.0000000Z",
@@ -382,6 +373,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
                                                     "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
                                                     "year":  2004
+                                                },
+                                                {
+                                                    "title":  "Duplex",
+                                                    "start":  "2026-09-14T15:46:39.0000000Z",
+                                                    "stop":  "2026-09-14T17:15:52.0000000Z",
+                                                    "itemId":  "e2340e07092b6de7376760916297a934",
+                                                    "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
+                                                    "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
+                                                    "year":  2003
                                                 }
                                             ]
                            },
@@ -677,33 +677,24 @@
                                "number":  8,
                                "name":  "FIRMELAB FRONTIER",
                                "nowPlaying":  {
-                                                  "title":  "Brave Heart",
-                                                  "start":  "2026-09-14T00:39:50.0000000Z",
-                                                  "stop":  "2026-09-14T03:37:30.0000000Z",
+                                                  "title":  "The Count Monte Cristos",
+                                                  "start":  "2026-09-14T03:37:30.0000000Z",
+                                                  "stop":  "2026-09-14T05:48:44.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "The Count Monte Cristos",
-                                              "start":  "2026-09-14T03:37:30.0000000Z",
-                                              "stop":  "2026-09-14T05:48:44.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Young Guns",
+                                              "start":  "2026-09-14T05:48:44.0000000Z",
+                                              "stop":  "2026-09-14T07:35:30.0000000Z",
+                                              "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
+                                              "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
+                                              "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
+                                              "year":  1988
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "The Count Monte Cristos",
-                                                    "start":  "2026-09-14T03:37:30.0000000Z",
-                                                    "stop":  "2026-09-14T05:48:44.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Young Guns",
                                                     "start":  "2026-09-14T05:48:44.0000000Z",
@@ -766,6 +757,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
                                                     "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
                                                     "year":  2000
+                                                },
+                                                {
+                                                    "title":  "Master and Commander",
+                                                    "start":  "2026-09-14T22:19:06.0000000Z",
+                                                    "stop":  "2026-09-15T00:37:27.0000000Z",
+                                                    "itemId":  "5fcc6b3e811cdcaf000036c06aef62b9",
+                                                    "poster":  "http://127.0.0.1:8096/Items/5fcc6b3e811cdcaf000036c06aef62b9/Images/Primary",
+                                                    "description":  "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship\u0027s thoughtful surgeon, his best friend.",
+                                                    "year":  2003
                                                 }
                                             ]
                            }
