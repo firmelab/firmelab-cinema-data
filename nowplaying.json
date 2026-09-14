@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-14T19:34:05.3030029Z",
+    "updated":  "2026-09-14T19:36:05.7355095Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -590,24 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "0Ld Sc00L",
-                                              "start":  "2026-09-14T19:35:21.0000000Z",
-                                              "stop":  "2026-09-14T19:36:10.0000000Z",
-                                              "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
-                                              "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                              "title":  "After H0uRs",
+                                              "start":  "2026-09-14T19:36:10.0000000Z",
+                                              "stop":  "2026-09-14T19:36:59.0000000Z",
+                                              "itemId":  "150bbae732cd647eeed3060cd67b032f",
+                                              "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "0Ld Sc00L",
-                                                    "start":  "2026-09-14T19:35:21.0000000Z",
-                                                    "stop":  "2026-09-14T19:36:10.0000000Z",
-                                                    "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
-                                                    "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "After H0uRs",
                                                     "start":  "2026-09-14T19:36:10.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "XocoBruja",
+                                                    "start":  "2026-09-14T19:49:11.0000000Z",
+                                                    "stop":  "2026-09-14T19:51:56.0000000Z",
+                                                    "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
+                                                    "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
@@ -677,33 +677,24 @@
                                "number":  8,
                                "name":  "FIRMELAB FRONTIER",
                                "nowPlaying":  {
-                                                  "title":  "Young Guns",
-                                                  "start":  "2026-09-14T17:47:33.0000000Z",
-                                                  "stop":  "2026-09-14T19:34:19.0000000Z",
-                                                  "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
-                                                  "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
-                                                  "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
-                                                  "year":  1988
+                                                  "title":  "The Patriot",
+                                                  "start":  "2026-09-14T19:34:19.0000000Z",
+                                                  "stop":  "2026-09-14T22:19:06.0000000Z",
+                                                  "itemId":  "17b673273650da7e33ae51350e123fb0",
+                                                  "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
+                                                  "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+                                                  "year":  2000
                                               },
                                "upNext":  {
-                                              "title":  "The Patriot",
-                                              "start":  "2026-09-14T19:34:19.0000000Z",
-                                              "stop":  "2026-09-14T22:19:06.0000000Z",
-                                              "itemId":  "17b673273650da7e33ae51350e123fb0",
-                                              "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
-                                              "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
-                                              "year":  2000
+                                              "title":  "Master and Commander",
+                                              "start":  "2026-09-14T22:19:06.0000000Z",
+                                              "stop":  "2026-09-15T00:37:27.0000000Z",
+                                              "itemId":  "5fcc6b3e811cdcaf000036c06aef62b9",
+                                              "poster":  "http://127.0.0.1:8096/Items/5fcc6b3e811cdcaf000036c06aef62b9/Images/Primary",
+                                              "description":  "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship\u0027s thoughtful surgeon, his best friend.",
+                                              "year":  2003
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "The Patriot",
-                                                    "start":  "2026-09-14T19:34:19.0000000Z",
-                                                    "stop":  "2026-09-14T22:19:06.0000000Z",
-                                                    "itemId":  "17b673273650da7e33ae51350e123fb0",
-                                                    "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
-                                                    "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
-                                                    "year":  2000
-                                                },
                                                 {
                                                     "title":  "Master and Commander",
                                                     "start":  "2026-09-14T22:19:06.0000000Z",
@@ -762,6 +753,15 @@
                                                     "title":  "Brave Heart",
                                                     "start":  "2026-09-15T12:36:15.0000000Z",
                                                     "stop":  "2026-09-15T15:33:55.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "The Count Monte Cristos",
+                                                    "start":  "2026-09-15T15:33:55.0000000Z",
+                                                    "stop":  "2026-09-15T17:45:10.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
