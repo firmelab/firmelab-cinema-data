@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-15T20:50:05.0787293Z",
+    "updated":  "2026-09-15T20:58:32.1757266Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,33 +101,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Wrong Turn",
-                                                  "start":  "2026-09-15T19:22:20.0000000Z",
-                                                  "stop":  "2026-09-15T20:51:46.0000000Z",
-                                                  "itemId":  "58d332deb67464546d571f7fda1cd63c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
-                                                  "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
-                                                  "year":  2003
+                                                  "title":  "Land of the Dead",
+                                                  "start":  "2026-09-15T20:51:46.0000000Z",
+                                                  "stop":  "2026-09-15T22:33:52.0000000Z",
+                                                  "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
+                                                  "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
+                                                  "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
+                                                  "year":  2005
                                               },
                                "upNext":  {
-                                              "title":  "Land of the Dead",
-                                              "start":  "2026-09-15T20:51:46.0000000Z",
-                                              "stop":  "2026-09-15T22:33:52.0000000Z",
-                                              "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
-                                              "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
-                                              "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
+                                              "title":  "Boogeyman",
+                                              "start":  "2026-09-15T22:33:52.0000000Z",
+                                              "stop":  "2026-09-16T00:13:25.0000000Z",
+                                              "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
+                                              "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
+                                              "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
                                               "year":  2005
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Land of the Dead",
-                                                    "start":  "2026-09-15T20:51:46.0000000Z",
-                                                    "stop":  "2026-09-15T22:33:52.0000000Z",
-                                                    "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
-                                                    "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
-                                                    "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
-                                                    "year":  2005
-                                                },
                                                 {
                                                     "title":  "Boogeyman",
                                                     "start":  "2026-09-15T22:33:52.0000000Z",
@@ -190,6 +181,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
                                                     "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
                                                     "year":  2003
+                                                },
+                                                {
+                                                    "title":  "Resident Evil",
+                                                    "start":  "2026-09-16T13:26:43.0000000Z",
+                                                    "stop":  "2026-09-16T15:12:30.0000000Z",
+                                                    "itemId":  "760d913661074a3a3f5a58738842a2f8",
+                                                    "poster":  "http://127.0.0.1:8096/Items/760d913661074a3a3f5a58738842a2f8/Images/Primary",
+                                                    "description":  "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
+                                                    "year":  2002
                                                 }
                                             ]
                            },
@@ -581,60 +581,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Duende",
-                                                  "start":  "2026-09-15T20:11:33.0000000Z",
-                                                  "stop":  "2026-09-15T20:53:20.0000000Z",
-                                                  "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                                  "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                                  "title":  "JamminG",
+                                                  "start":  "2026-09-15T20:13:14.0000000Z",
+                                                  "stop":  "2026-09-15T21:05:17.0000000Z",
+                                                  "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Dancing Cobra",
-                                              "start":  "2026-09-15T20:53:13.0000000Z",
-                                              "stop":  "2026-09-15T20:54:19.0000000Z",
-                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
+                                              "title":  "Never 3Nding",
+                                              "start":  "2026-09-15T21:00:55.0000000Z",
+                                              "stop":  "2026-09-15T21:03:07.0000000Z",
+                                              "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                              "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                               "description":  null,
-                                              "year":  null
+                                              "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Dancing Cobra",
-                                                    "start":  "2026-09-15T20:53:13.0000000Z",
-                                                    "stop":  "2026-09-15T20:54:19.0000000Z",
-                                                    "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
-                                                    "title":  "DnBaPCsht",
-                                                    "start":  "2026-09-15T20:54:19.0000000Z",
-                                                    "stop":  "2026-09-15T20:55:05.0000000Z",
-                                                    "itemId":  "d2296bca99a831548bbada0bb3bac719",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
-                                                    "title":  "Duende",
-                                                    "start":  "2026-09-15T20:55:17.0000000Z",
-                                                    "stop":  "2026-09-15T20:56:26.0000000Z",
-                                                    "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                                    "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
-                                                    "title":  "JamminG",
-                                                    "start":  "2026-09-15T20:56:58.0000000Z",
-                                                    "stop":  "2026-09-15T21:00:50.0000000Z",
-                                                    "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
-                                                    "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-09-15T21:00:55.0000000Z",
@@ -668,6 +632,42 @@
                                                     "stop":  "2026-09-15T21:06:06.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "0Ld Sc00L",
+                                                    "start":  "2026-09-15T21:06:06.0000000Z",
+                                                    "stop":  "2026-09-15T21:06:55.0000000Z",
+                                                    "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "After H0uRs",
+                                                    "start":  "2026-09-15T21:06:55.0000000Z",
+                                                    "stop":  "2026-09-15T21:07:44.0000000Z",
+                                                    "itemId":  "150bbae732cd647eeed3060cd67b032f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Ass Kicker Bruce",
+                                                    "start":  "2026-09-15T21:07:44.0000000Z",
+                                                    "stop":  "2026-09-15T21:13:39.0000000Z",
+                                                    "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Biggie Mobbing",
+                                                    "start":  "2026-09-15T21:13:39.0000000Z",
+                                                    "stop":  "2026-09-15T21:14:20.0000000Z",
+                                                    "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
