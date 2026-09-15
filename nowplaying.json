@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-15T20:10:05.8281040Z",
+    "updated":  "2026-09-15T20:11:06.9561833Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -590,24 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "DnBaPCsht",
-                                              "start":  "2026-09-15T20:10:34.0000000Z",
-                                              "stop":  "2026-09-15T20:34:47.0000000Z",
-                                              "itemId":  "d2296bca99a831548bbada0bb3bac719",
-                                              "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
+                                              "title":  "Duende",
+                                              "start":  "2026-09-15T20:11:33.0000000Z",
+                                              "stop":  "2026-09-15T20:53:20.0000000Z",
+                                              "itemId":  "80d6feb8f0c835e935a80db3275c5412",
+                                              "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "DnBaPCsht",
-                                                    "start":  "2026-09-15T20:10:34.0000000Z",
-                                                    "stop":  "2026-09-15T20:34:47.0000000Z",
-                                                    "itemId":  "d2296bca99a831548bbada0bb3bac719",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-09-15T20:11:33.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-09-15T20:39:19.0000000Z",
                                                     "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
                                                     "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "After H0uRs",
+                                                    "start":  "2026-09-15T20:23:10.0000000Z",
+                                                    "stop":  "2026-09-15T20:23:59.0000000Z",
+                                                    "itemId":  "150bbae732cd647eeed3060cd67b032f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
