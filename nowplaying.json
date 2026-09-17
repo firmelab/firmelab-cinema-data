@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-17T12:34:05.2235361Z",
+    "updated":  "2026-09-17T12:35:05.2339332Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,13 +581,13 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "COKCE6139",
-                                                  "start":  "2026-09-17T12:00:40.0000000Z",
-                                                  "stop":  "2026-09-17T12:34:19.0000000Z",
-                                                  "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
+                                                  "title":  "Carrito",
+                                                  "start":  "2026-09-17T12:07:18.0000000Z",
+                                                  "stop":  "2026-09-17T12:55:35.0000000Z",
+                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Biggie Mobbing",
