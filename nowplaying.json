@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-17T03:01:05.7255532Z",
+    "updated":  "2026-09-17T03:02:05.6498223Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,13 +581,13 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Ass Kicker Bruce",
-                                                  "start":  "2026-09-17T03:00:53.0000000Z",
-                                                  "stop":  "2026-09-17T03:06:49.0000000Z",
-                                                  "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                                  "title":  "0Ld Sc00L",
+                                                  "start":  "2026-09-17T02:59:16.0000000Z",
+                                                  "stop":  "2026-09-17T03:08:41.0000000Z",
+                                                  "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                                  "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Biggie Mobbing",
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "Chingadasos",
                                                     "start":  "2026-09-17T03:07:30.0000000Z",
-                                                    "stop":  "2026-09-17T03:08:16.0000000Z",
+                                                    "stop":  "2026-09-17T03:28:14.0000000Z",
                                                     "itemId":  "8988d98fd90679aab5aff5b786344b1c",
                                                     "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "Mr J-Carry",
                                                     "start":  "2026-09-17T03:09:22.0000000Z",
-                                                    "stop":  "2026-09-17T03:09:54.0000000Z",
+                                                    "stop":  "2026-09-17T03:10:18.0000000Z",
                                                     "itemId":  "56c94066e018711311e81d6a3f6cc139",
                                                     "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "T2",
                                                     "start":  "2026-09-17T03:10:18.0000000Z",
-                                                    "stop":  "2026-09-17T03:10:50.0000000Z",
+                                                    "stop":  "2026-09-17T03:19:28.0000000Z",
                                                     "itemId":  "1315943017e226076a7899408d36dec5",
                                                     "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "Ricardo \u0026 Mocoso",
                                                     "start":  "2026-09-17T03:10:50.0000000Z",
-                                                    "stop":  "2026-09-17T03:13:06.0000000Z",
+                                                    "stop":  "2026-09-17T03:21:44.0000000Z",
                                                     "itemId":  "0e268bdc592953760cc985e16953d93d",
                                                     "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "XocoBruja",
                                                     "start":  "2026-09-17T03:13:06.0000000Z",
-                                                    "stop":  "2026-09-17T03:14:34.0000000Z",
+                                                    "stop":  "2026-09-17T03:24:28.0000000Z",
                                                     "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
                                                     "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "COKCE6139",
                                                     "start":  "2026-09-17T03:15:50.0000000Z",
-                                                    "stop":  "2026-09-17T03:16:51.0000000Z",
+                                                    "stop":  "2026-09-17T03:45:38.0000000Z",
                                                     "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "MrPayo",
                                                     "start":  "2026-09-17T03:18:01.0000000Z",
-                                                    "stop":  "2026-09-17T03:18:44.0000000Z",
+                                                    "stop":  "2026-09-17T03:19:06.0000000Z",
                                                     "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
                                                     "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
                                                     "description":  null,
