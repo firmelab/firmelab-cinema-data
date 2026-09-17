@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-17T20:04:05.6432709Z",
+    "updated":  "2026-09-17T20:05:05.7008567Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "The Count Monte Cristos",
-                                                  "start":  "2026-09-17T17:53:14.0000000Z",
-                                                  "stop":  "2026-09-17T20:04:39.0000000Z",
+                                                  "title":  "Nightmare on Elm Street 4 Dream Master",
+                                                  "start":  "2026-09-17T20:04:39.0000000Z",
+                                                  "stop":  "2026-09-17T21:38:10.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Nightmare on Elm Street 4 Dream Master",
-                                              "start":  "2026-09-17T20:04:39.0000000Z",
-                                              "stop":  "2026-09-17T21:38:10.0000000Z",
+                                              "title":  "Jacky Brown",
+                                              "start":  "2026-09-17T21:38:10.0000000Z",
+                                              "stop":  "2026-09-18T00:12:41.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Nightmare on Elm Street 4 Dream Master",
-                                                    "start":  "2026-09-17T20:04:39.0000000Z",
-                                                    "stop":  "2026-09-17T21:38:10.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Jacky Brown",
                                                     "start":  "2026-09-17T21:38:10.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
                                                     "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
                                                     "year":  1997
+                                                },
+                                                {
+                                                    "title":  "Robocop",
+                                                    "start":  "2026-09-18T09:49:35.0000000Z",
+                                                    "stop":  "2026-09-18T11:33:16.0000000Z",
+                                                    "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
+                                                    "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
+                                                    "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
+                                                    "year":  1987
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Oz",
-                                              "start":  "2026-09-17T20:05:02.0000000Z",
-                                              "stop":  "2026-09-17T20:06:43.0000000Z",
-                                              "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                              "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                              "title":  "BloodJoke",
+                                              "start":  "2026-09-17T20:06:43.0000000Z",
+                                              "stop":  "2026-09-17T20:31:44.0000000Z",
+                                              "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                              "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Oz",
-                                                    "start":  "2026-09-17T20:05:02.0000000Z",
-                                                    "stop":  "2026-09-17T20:06:43.0000000Z",
-                                                    "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "BloodJoke",
                                                     "start":  "2026-09-17T20:06:43.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Ninja Now",
+                                                    "start":  "2026-09-17T20:25:56.0000000Z",
+                                                    "stop":  "2026-09-17T20:42:47.0000000Z",
+                                                    "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
