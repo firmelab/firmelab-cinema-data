@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-17T23:01:05.9515938Z",
+    "updated":  "2026-09-17T23:02:05.9723211Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -583,31 +583,22 @@
                                "nowPlaying":  {
                                                   "title":  "Oz",
                                                   "start":  "2026-09-17T22:59:58.0000000Z",
-                                                  "stop":  "2026-09-17T23:01:11.0000000Z",
+                                                  "stop":  "2026-09-17T23:10:16.0000000Z",
                                                   "itemId":  "f332ba1673f9273e5349cd38b640cf51",
                                                   "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "BloodJoke",
-                                              "start":  "2026-09-17T23:01:39.0000000Z",
-                                              "stop":  "2026-09-17T23:03:15.0000000Z",
-                                              "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                              "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                              "title":  "Carrito",
+                                              "start":  "2026-09-17T23:03:20.0000000Z",
+                                              "stop":  "2026-09-17T23:10:59.0000000Z",
+                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "BloodJoke",
-                                                    "start":  "2026-09-17T23:01:39.0000000Z",
-                                                    "stop":  "2026-09-17T23:03:15.0000000Z",
-                                                    "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-09-17T23:03:20.0000000Z",
@@ -629,7 +620,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-09-17T23:12:04.0000000Z",
-                                                    "stop":  "2026-09-17T23:12:51.0000000Z",
+                                                    "stop":  "2026-09-17T23:31:43.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -638,7 +629,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-09-17T23:13:02.0000000Z",
-                                                    "stop":  "2026-09-17T23:14:12.0000000Z",
+                                                    "stop":  "2026-09-17T23:14:44.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -647,7 +638,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-09-17T23:14:44.0000000Z",
-                                                    "stop":  "2026-09-17T23:18:36.0000000Z",
+                                                    "stop":  "2026-09-17T23:27:14.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -656,7 +647,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-09-17T23:18:41.0000000Z",
-                                                    "stop":  "2026-09-17T23:20:53.0000000Z",
+                                                    "stop":  "2026-09-17T23:29:26.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -665,9 +656,18 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-09-17T23:20:53.0000000Z",
-                                                    "stop":  "2026-09-17T23:21:35.0000000Z",
+                                                    "stop":  "2026-09-17T23:30:08.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "SSBI4649",
+                                                    "start":  "2026-09-17T23:21:35.0000000Z",
+                                                    "stop":  "2026-09-17T23:49:44.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
                                                     "description":  null,
                                                     "year":  null
                                                 }
