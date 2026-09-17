@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-17T20:20:05.7955594Z",
+    "updated":  "2026-09-17T20:21:05.8070016Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,11 +581,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "SSBI4649",
-                                                  "start":  "2026-09-17T19:42:54.0000000Z",
-                                                  "stop":  "2026-09-17T20:20:56.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
+                                                  "title":  "0Ld Sc00L",
+                                                  "start":  "2026-09-17T19:45:11.0000000Z",
+                                                  "stop":  "2026-09-17T20:29:17.0000000Z",
+                                                  "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                                  "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
