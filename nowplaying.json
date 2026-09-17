@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-17T02:48:05.5396997Z",
+    "updated":  "2026-09-17T02:49:05.6408175Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -197,33 +197,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Sherlock Holmes",
-                                                  "start":  "2026-09-17T00:39:47.0000000Z",
-                                                  "stop":  "2026-09-17T02:48:16.0000000Z",
-                                                  "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
-                                                  "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
-                                                  "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
-                                                  "year":  2009
+                                                  "title":  "Fast N Furious",
+                                                  "start":  "2026-09-17T02:48:16.0000000Z",
+                                                  "stop":  "2026-09-17T04:35:12.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Fast N Furious",
-                                              "start":  "2026-09-17T02:48:16.0000000Z",
-                                              "stop":  "2026-09-17T04:35:12.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "John Wick",
+                                              "start":  "2026-09-17T04:35:12.0000000Z",
+                                              "stop":  "2026-09-17T06:16:25.0000000Z",
+                                              "itemId":  "84b70d75a3d957b57b02cf83796504a8",
+                                              "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
+                                              "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+                                              "year":  2014
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Fast N Furious",
-                                                    "start":  "2026-09-17T02:48:16.0000000Z",
-                                                    "stop":  "2026-09-17T04:35:12.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "John Wick",
                                                     "start":  "2026-09-17T04:35:12.0000000Z",
@@ -286,6 +277,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
                                                     "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
                                                     "year":  2005
+                                                },
+                                                {
+                                                    "title":  "Black Hawk Down",
+                                                    "start":  "2026-09-17T17:47:36.0000000Z",
+                                                    "stop":  "2026-09-17T20:11:57.0000000Z",
+                                                    "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
+                                                    "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+                                                    "year":  2001
                                                 }
                                             ]
                            },
@@ -581,33 +581,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "DnBaPCsht",
-                                                  "start":  "2026-09-17T02:47:28.0000000Z",
-                                                  "stop":  "2026-09-17T02:48:15.0000000Z",
-                                                  "itemId":  "d2296bca99a831548bbada0bb3bac719",
-                                                  "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
+                                                  "title":  "Duende",
+                                                  "start":  "2026-09-17T02:48:27.0000000Z",
+                                                  "stop":  "2026-09-17T02:49:36.0000000Z",
+                                                  "itemId":  "80d6feb8f0c835e935a80db3275c5412",
+                                                  "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Duende",
-                                              "start":  "2026-09-17T02:48:27.0000000Z",
-                                              "stop":  "2026-09-17T02:49:36.0000000Z",
-                                              "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                              "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                              "title":  "JamminG",
+                                              "start":  "2026-09-17T02:50:08.0000000Z",
+                                              "stop":  "2026-09-17T02:54:00.0000000Z",
+                                              "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                              "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Duende",
-                                                    "start":  "2026-09-17T02:48:27.0000000Z",
-                                                    "stop":  "2026-09-17T02:49:36.0000000Z",
-                                                    "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                                    "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-09-17T02:50:08.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Ass Kicker Bruce",
+                                                    "start":  "2026-09-17T03:00:53.0000000Z",
+                                                    "stop":  "2026-09-17T03:06:49.0000000Z",
+                                                    "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
