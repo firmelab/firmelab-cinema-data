@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-18T08:19:05.3242188Z",
+    "updated":  "2026-09-18T08:20:05.3283960Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Reservor Dogs",
-                                                  "start":  "2026-09-18T06:40:11.0000000Z",
-                                                  "stop":  "2026-09-18T08:19:27.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "WISHMASTER",
+                                                  "start":  "2026-09-18T08:19:27.0000000Z",
+                                                  "stop":  "2026-09-18T09:49:35.0000000Z",
+                                                  "itemId":  "58d933a690c3d71b883c09370fa30d07",
+                                                  "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
+                                                  "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
+                                                  "year":  1997
                                               },
                                "upNext":  {
-                                              "title":  "WISHMASTER",
-                                              "start":  "2026-09-18T08:19:27.0000000Z",
-                                              "stop":  "2026-09-18T09:49:35.0000000Z",
-                                              "itemId":  "58d933a690c3d71b883c09370fa30d07",
-                                              "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
-                                              "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
-                                              "year":  1997
+                                              "title":  "Robocop",
+                                              "start":  "2026-09-18T09:49:35.0000000Z",
+                                              "stop":  "2026-09-18T11:33:16.0000000Z",
+                                              "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
+                                              "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
+                                              "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
+                                              "year":  1987
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "WISHMASTER",
-                                                    "start":  "2026-09-18T08:19:27.0000000Z",
-                                                    "stop":  "2026-09-18T09:49:35.0000000Z",
-                                                    "itemId":  "58d933a690c3d71b883c09370fa30d07",
-                                                    "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
-                                                    "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
-                                                    "year":  1997
-                                                },
                                                 {
                                                     "title":  "Robocop",
                                                     "start":  "2026-09-18T09:49:35.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
                                                     "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
                                                     "year":  2003
+                                                },
+                                                {
+                                                    "title":  "CHRISTINE",
+                                                    "start":  "2026-09-19T00:04:43.0000000Z",
+                                                    "stop":  "2026-09-19T01:54:55.0000000Z",
+                                                    "itemId":  "91dc7dc3ea26a9c92725048bc480729c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/91dc7dc3ea26a9c92725048bc480729c/Images/Primary",
+                                                    "description":  "Nerdy high schooler Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory. As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty. Arnie\u0027s girlfriend Leigh and best friend Dennis reach out to him, only to be met by a Fury like no other.",
+                                                    "year":  1983
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "T2",
-                                              "start":  "2026-09-18T08:19:44.0000000Z",
-                                              "stop":  "2026-09-18T08:20:16.0000000Z",
-                                              "itemId":  "1315943017e226076a7899408d36dec5",
-                                              "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
+                                              "title":  "Ricardo \u0026 Mocoso",
+                                              "start":  "2026-09-18T08:20:16.0000000Z",
+                                              "stop":  "2026-09-18T08:51:49.0000000Z",
+                                              "itemId":  "0e268bdc592953760cc985e16953d93d",
+                                              "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "T2",
-                                                    "start":  "2026-09-18T08:19:44.0000000Z",
-                                                    "stop":  "2026-09-18T08:20:16.0000000Z",
-                                                    "itemId":  "1315943017e226076a7899408d36dec5",
-                                                    "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Ricardo \u0026 Mocoso",
                                                     "start":  "2026-09-18T08:20:16.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-09-18T08:39:32.0000000Z",
                                                     "itemId":  "ed83754111f4ed370a338cab8345534d",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Dancing Cobra",
+                                                    "start":  "2026-09-18T08:39:32.0000000Z",
+                                                    "stop":  "2026-09-18T08:40:38.0000000Z",
+                                                    "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                                    "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
