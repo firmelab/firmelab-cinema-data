@@ -1,17 +1,17 @@
 {
-    "updated":  "2026-09-20T19:14:06.7016609Z",
+    "updated":  "2026-09-20T19:15:06.5826159Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Blade Trinity",
-                                                  "start":  "2026-09-20T17:21:03.0000000Z",
-                                                  "stop":  "2026-09-20T19:14:18.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Critters 4",
+                                                  "start":  "2026-09-20T19:14:06.0000000Z",
+                                                  "stop":  "2026-09-20T20:48:44.0000000Z",
+                                                  "itemId":  "9236028cd5b40f7dab68ae6983570831",
+                                                  "poster":  "http://127.0.0.1:8096/Items/9236028cd5b40f7dab68ae6983570831/Images/Primary",
+                                                  "description":  "A super strain of genetically engineered mutants are designed to take over the universe, hungry to conquer the galaxy, with an appetite for mankind.",
+                                                  "year":  1992
                                               },
                                "upNext":  {
                                               "title":  "Fast N Furious",
