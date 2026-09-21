@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-21T01:52:06.1978539Z",
+    "updated":  "2026-09-21T01:53:06.1781494Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -197,33 +197,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Conan The Destroyer",
-                                                  "start":  "2026-09-21T00:11:42.0000000Z",
-                                                  "stop":  "2026-09-21T01:52:51.0000000Z",
-                                                  "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
-                                                  "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
-                                                  "year":  1984
+                                                  "title":  "Predator",
+                                                  "start":  "2026-09-21T01:52:51.0000000Z",
+                                                  "stop":  "2026-09-21T03:39:25.0000000Z",
+                                                  "itemId":  "9745bbd80aedfd3750130547f37af704",
+                                                  "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
+                                                  "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+                                                  "year":  1987
                                               },
                                "upNext":  {
-                                              "title":  "Predator",
-                                              "start":  "2026-09-21T01:52:51.0000000Z",
-                                              "stop":  "2026-09-21T03:39:25.0000000Z",
-                                              "itemId":  "9745bbd80aedfd3750130547f37af704",
-                                              "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
-                                              "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
-                                              "year":  1987
+                                              "title":  "Rambo First Blood",
+                                              "start":  "2026-09-21T03:39:25.0000000Z",
+                                              "stop":  "2026-09-21T05:12:34.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Predator",
-                                                    "start":  "2026-09-21T01:52:51.0000000Z",
-                                                    "stop":  "2026-09-21T03:39:25.0000000Z",
-                                                    "itemId":  "9745bbd80aedfd3750130547f37af704",
-                                                    "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
-                                                    "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
-                                                    "year":  1987
-                                                },
                                                 {
                                                     "title":  "Rambo First Blood",
                                                     "start":  "2026-09-21T03:39:25.0000000Z",
@@ -286,6 +277,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
                                                     "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
                                                     "year":  1990
+                                                },
+                                                {
+                                                    "title":  "ROBOCOP 3",
+                                                    "start":  "2026-09-21T16:22:11.0000000Z",
+                                                    "stop":  "2026-09-21T18:07:02.0000000Z",
+                                                    "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
+                                                    "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
+                                                    "year":  1993
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Biggie Mobbing",
-                                              "start":  "2026-09-21T01:52:27.0000000Z",
-                                              "stop":  "2026-09-21T01:53:08.0000000Z",
-                                              "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
-                                              "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
+                                              "title":  "Chingadasos",
+                                              "start":  "2026-09-21T01:53:08.0000000Z",
+                                              "stop":  "2026-09-21T01:53:55.0000000Z",
+                                              "itemId":  "8988d98fd90679aab5aff5b786344b1c",
+                                              "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Biggie Mobbing",
-                                                    "start":  "2026-09-21T01:52:27.0000000Z",
-                                                    "stop":  "2026-09-21T01:53:08.0000000Z",
-                                                    "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Chingadasos",
                                                     "start":  "2026-09-21T01:53:08.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Oz",
+                                                    "start":  "2026-09-21T02:04:45.0000000Z",
+                                                    "stop":  "2026-09-21T02:06:26.0000000Z",
+                                                    "itemId":  "f332ba1673f9273e5349cd38b640cf51",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
