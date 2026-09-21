@@ -1,17 +1,17 @@
 {
-    "updated":  "2026-09-21T01:48:06.2472742Z",
+    "updated":  "2026-09-21T01:49:06.2090693Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Brightburn",
-                                                  "start":  "2026-09-21T00:17:15.0000000Z",
-                                                  "stop":  "2026-09-21T01:48:07.0000000Z",
-                                                  "itemId":  "a562e465a7ff31b0113aee613a779bf2",
-                                                  "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
-                                                  "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
-                                                  "year":  2019
+                                                  "title":  "Commando",
+                                                  "start":  "2026-09-21T01:47:55.0000000Z",
+                                                  "stop":  "2026-09-21T03:18:19.0000000Z",
+                                                  "itemId":  "4d57925cf6d4f5a046509bad0a68d29f",
+                                                  "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
+                                                  "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
+                                                  "year":  1985
                                               },
                                "upNext":  {
                                               "title":  "Critters",
