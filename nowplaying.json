@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-21T04:45:09.2574337Z",
+    "updated":  "2026-09-21T04:46:15.0214846Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,13 +581,13 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Oz",
-                                                  "start":  "2026-09-21T04:15:57.0000000Z",
-                                                  "stop":  "2026-09-21T04:45:15.0000000Z",
-                                                  "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                                  "title":  "After H0uRs",
+                                                  "start":  "2026-09-21T04:40:39.0000000Z",
+                                                  "stop":  "2026-09-21T05:18:41.0000000Z",
+                                                  "itemId":  "150bbae732cd647eeed3060cd67b032f",
+                                                  "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Biggie Mobbing",
