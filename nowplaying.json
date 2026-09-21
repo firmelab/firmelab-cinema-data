@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-21T08:46:07.6423175Z",
+    "updated":  "2026-09-21T08:47:06.7737469Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,18 +581,18 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Never 3Nding",
-                                                  "start":  "2026-09-21T08:13:20.0000000Z",
-                                                  "stop":  "2026-09-21T08:56:11.0000000Z",
-                                                  "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
-                                                  "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
+                                                  "title":  "BloodJoke",
+                                                  "start":  "2026-09-21T08:40:03.0000000Z",
+                                                  "stop":  "2026-09-21T09:18:51.0000000Z",
+                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Dancing Cobra",
                                               "start":  "2026-09-21T08:49:22.0000000Z",
-                                              "stop":  "2026-09-21T08:50:28.0000000Z",
+                                              "stop":  "2026-09-21T09:33:46.0000000Z",
                                               "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                               "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-09-21T08:49:22.0000000Z",
-                                                    "stop":  "2026-09-21T08:50:28.0000000Z",
+                                                    "stop":  "2026-09-21T09:33:46.0000000Z",
                                                     "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                                     "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-09-21T08:51:26.0000000Z",
-                                                    "stop":  "2026-09-21T08:52:35.0000000Z",
+                                                    "stop":  "2026-09-21T09:32:15.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-09-21T08:59:59.0000000Z",
-                                                    "stop":  "2026-09-21T09:00:48.0000000Z",
+                                                    "stop":  "2026-09-21T09:37:24.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-09-21T09:00:48.0000000Z",
-                                                    "stop":  "2026-09-21T09:02:16.0000000Z",
+                                                    "stop":  "2026-09-21T09:18:24.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
