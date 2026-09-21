@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-21T13:06:05.9911040Z",
+    "updated":  "2026-09-21T13:07:07.4860667Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,33 +101,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Underworld Evolution",
-                                                  "start":  "2026-09-21T11:11:44.0000000Z",
-                                                  "stop":  "2026-09-21T13:06:27.0000000Z",
+                                                  "title":  "Resident Evil- Apocalypse",
+                                                  "start":  "2026-09-21T13:06:27.0000000Z",
+                                                  "stop":  "2026-09-21T14:44:19.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Resident Evil- Apocalypse",
-                                              "start":  "2026-09-21T13:06:27.0000000Z",
-                                              "stop":  "2026-09-21T14:44:19.0000000Z",
+                                              "title":  "D1_t00",
+                                              "start":  "2026-09-21T14:44:19.0000000Z",
+                                              "stop":  "2026-09-21T17:00:00.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Resident Evil- Apocalypse",
-                                                    "start":  "2026-09-21T13:06:27.0000000Z",
-                                                    "stop":  "2026-09-21T14:44:19.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "D1_t00",
                                                     "start":  "2026-09-21T14:44:19.0000000Z",
@@ -190,6 +181,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
                                                     "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
                                                     "year":  2004
+                                                },
+                                                {
+                                                    "title":  "Underworld Evolution",
+                                                    "start":  "2026-09-22T03:52:22.0000000Z",
+                                                    "stop":  "2026-09-22T05:42:56.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
