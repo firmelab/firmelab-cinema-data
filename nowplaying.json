@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-21T10:53:07.1244572Z",
+    "updated":  "2026-09-21T10:54:08.3148036Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,13 +581,13 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Carrito",
-                                                  "start":  "2026-09-21T10:09:12.0000000Z",
-                                                  "stop":  "2026-09-21T11:05:02.0000000Z",
-                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                                  "title":  "Ricardo \u0026 Mocoso",
+                                                  "start":  "2026-09-21T10:41:18.0000000Z",
+                                                  "stop":  "2026-09-21T11:20:24.0000000Z",
+                                                  "itemId":  "0e268bdc592953760cc985e16953d93d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
                                               "title":  "Dancing Cobra",
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-09-21T11:01:40.0000000Z",
-                                                    "stop":  "2026-09-21T11:02:27.0000000Z",
+                                                    "stop":  "2026-09-21T11:38:41.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-09-21T11:02:39.0000000Z",
-                                                    "stop":  "2026-09-21T11:03:48.0000000Z",
+                                                    "stop":  "2026-09-21T11:19:56.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-09-21T11:04:20.0000000Z",
-                                                    "stop":  "2026-09-21T11:08:12.0000000Z",
+                                                    "stop":  "2026-09-21T11:24:22.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-09-21T11:08:17.0000000Z",
-                                                    "stop":  "2026-09-21T11:10:29.0000000Z",
+                                                    "stop":  "2026-09-21T11:41:57.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-09-21T11:10:29.0000000Z",
-                                                    "stop":  "2026-09-21T11:11:11.0000000Z",
+                                                    "stop":  "2026-09-21T11:34:53.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-09-21T11:12:00.0000000Z",
-                                                    "stop":  "2026-09-21T11:13:28.0000000Z",
+                                                    "stop":  "2026-09-21T11:36:54.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
