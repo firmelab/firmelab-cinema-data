@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-21T18:59:07.0300429Z",
+    "updated":  "2026-09-21T19:01:48.0509687Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -7,7 +7,7 @@
                                "nowPlaying":  {
                                                   "title":  "HEAVY METAL",
                                                   "start":  "2026-09-21T18:47:01.0000000Z",
-                                                  "stop":  "2026-09-21T20:17:55.0000000Z",
+                                                  "stop":  "2026-09-21T20:18:07.0000000Z",
                                                   "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
                                                   "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
                                                   "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
@@ -16,7 +16,7 @@
                                "upNext":  {
                                               "title":  "Brave Heart",
                                               "start":  "2026-09-21T20:17:55.0000000Z",
-                                              "stop":  "2026-09-21T23:15:56.0000000Z",
+                                              "stop":  "2026-09-21T23:15:45.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
@@ -26,7 +26,7 @@
                                                 {
                                                     "title":  "Brave Heart",
                                                     "start":  "2026-09-21T20:17:55.0000000Z",
-                                                    "stop":  "2026-09-21T23:15:56.0000000Z",
+                                                    "stop":  "2026-09-21T23:15:45.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -35,7 +35,7 @@
                                                 {
                                                     "title":  "Critters 2",
                                                     "start":  "2026-09-21T23:15:45.0000000Z",
-                                                    "stop":  "2026-09-22T00:41:43.0000000Z",
+                                                    "stop":  "2026-09-22T00:41:54.0000000Z",
                                                     "itemId":  "54493e812aba3ee1edef65108ed95c05",
                                                     "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
                                                     "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
@@ -44,7 +44,7 @@
                                                 {
                                                     "title":  "Duplex",
                                                     "start":  "2026-09-22T00:41:43.0000000Z",
-                                                    "stop":  "2026-09-22T02:11:17.0000000Z",
+                                                    "stop":  "2026-09-22T02:11:06.0000000Z",
                                                     "itemId":  "e2340e07092b6de7376760916297a934",
                                                     "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
                                                     "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
@@ -53,7 +53,7 @@
                                                 {
                                                     "title":  "The Patriot",
                                                     "start":  "2026-09-22T02:11:06.0000000Z",
-                                                    "stop":  "2026-09-22T04:56:04.0000000Z",
+                                                    "stop":  "2026-09-22T04:56:15.0000000Z",
                                                     "itemId":  "17b673273650da7e33ae51350e123fb0",
                                                     "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
                                                     "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
@@ -62,7 +62,7 @@
                                                 {
                                                     "title":  "Dusk Till Dawn",
                                                     "start":  "2026-09-22T04:56:04.0000000Z",
-                                                    "stop":  "2026-09-22T06:44:16.0000000Z",
+                                                    "stop":  "2026-09-22T06:44:05.0000000Z",
                                                     "itemId":  "648811d2182191a63ce32eb861ad9020",
                                                     "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
                                                     "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
@@ -71,7 +71,7 @@
                                                 {
                                                     "title":  "A Nightmare on Elm Street 2 Freddy\u0027s Revenge",
                                                     "start":  "2026-09-22T06:44:05.0000000Z",
-                                                    "stop":  "2026-09-22T08:09:48.0000000Z",
+                                                    "stop":  "2026-09-22T08:10:00.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -80,7 +80,7 @@
                                                 {
                                                     "title":  "HALF BAKED",
                                                     "start":  "2026-09-22T08:09:48.0000000Z",
-                                                    "stop":  "2026-09-22T09:32:17.0000000Z",
+                                                    "stop":  "2026-09-22T09:32:05.0000000Z",
                                                     "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
                                                     "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
                                                     "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
@@ -89,7 +89,7 @@
                                                 {
                                                     "title":  "AnchorMan",
                                                     "start":  "2026-09-22T09:32:05.0000000Z",
-                                                    "stop":  "2026-09-22T11:09:40.0000000Z",
+                                                    "stop":  "2026-09-22T11:09:52.0000000Z",
                                                     "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
                                                     "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
                                                     "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
@@ -581,37 +581,28 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "T2",
-                                                  "start":  "2026-09-21T18:41:51.0000000Z",
-                                                  "stop":  "2026-09-21T19:19:14.0000000Z",
-                                                  "itemId":  "1315943017e226076a7899408d36dec5",
-                                                  "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
+                                                  "title":  "Carrito",
+                                                  "start":  "2026-09-21T18:54:02.0000000Z",
+                                                  "stop":  "2026-09-21T19:10:12.0000000Z",
+                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Dancing Cobra",
-                                              "start":  "2026-09-21T19:01:40.0000000Z",
-                                              "stop":  "2026-09-21T19:39:00.0000000Z",
-                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
+                                              "title":  "DnBaPCsht",
+                                              "start":  "2026-09-21T19:02:46.0000000Z",
+                                              "stop":  "2026-09-21T19:03:44.0000000Z",
+                                              "itemId":  "d2296bca99a831548bbada0bb3bac719",
+                                              "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
                                                 {
-                                                    "title":  "Dancing Cobra",
-                                                    "start":  "2026-09-21T19:01:40.0000000Z",
-                                                    "stop":  "2026-09-21T19:39:00.0000000Z",
-                                                    "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-09-21T19:02:46.0000000Z",
-                                                    "stop":  "2026-09-21T19:19:41.0000000Z",
+                                                    "stop":  "2026-09-21T19:03:44.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -620,7 +611,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-09-21T19:03:44.0000000Z",
-                                                    "stop":  "2026-09-21T19:21:04.0000000Z",
+                                                    "stop":  "2026-09-21T19:05:26.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -629,7 +620,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-09-21T19:05:26.0000000Z",
-                                                    "stop":  "2026-09-21T19:40:46.0000000Z",
+                                                    "stop":  "2026-09-21T19:28:03.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -638,7 +629,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-09-21T19:09:23.0000000Z",
-                                                    "stop":  "2026-09-21T19:35:16.0000000Z",
+                                                    "stop":  "2026-09-21T19:11:35.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -647,7 +638,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-09-21T19:11:35.0000000Z",
-                                                    "stop":  "2026-09-21T19:12:17.0000000Z",
+                                                    "stop":  "2026-09-21T19:20:50.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +647,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-09-21T19:12:17.0000000Z",
-                                                    "stop":  "2026-09-21T19:36:31.0000000Z",
+                                                    "stop":  "2026-09-21T19:21:39.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -665,11 +656,20 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-09-21T19:13:06.0000000Z",
-                                                    "stop":  "2026-09-21T19:55:12.0000000Z",
+                                                    "stop":  "2026-09-21T19:23:06.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "0Ld Sc00L",
+                                                    "start":  "2026-09-21T19:14:34.0000000Z",
+                                                    "stop":  "2026-09-21T19:42:42.0000000Z",
+                                                    "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
