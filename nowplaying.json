@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-21T18:46:05.3684042Z",
+    "updated":  "2026-09-21T18:47:05.7766660Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -14,24 +14,15 @@
                                                   "year":  2013
                                               },
                                "upNext":  {
-                                              "title":  "HEAVY METAL",
-                                              "start":  "2026-09-21T18:47:01.0000000Z",
-                                              "stop":  "2026-09-21T20:17:55.0000000Z",
-                                              "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
-                                              "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
-                                              "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
-                                              "year":  1981
+                                              "title":  "Brave Heart",
+                                              "start":  "2026-09-21T20:17:55.0000000Z",
+                                              "stop":  "2026-09-21T23:15:56.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "HEAVY METAL",
-                                                    "start":  "2026-09-21T18:47:01.0000000Z",
-                                                    "stop":  "2026-09-21T20:17:55.0000000Z",
-                                                    "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
-                                                    "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
-                                                    "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
-                                                    "year":  1981
-                                                },
                                                 {
                                                     "title":  "Brave Heart",
                                                     "start":  "2026-09-21T20:17:55.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
                                                     "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
                                                     "year":  1998
+                                                },
+                                                {
+                                                    "title":  "AnchorMan",
+                                                    "start":  "2026-09-22T09:32:05.0000000Z",
+                                                    "stop":  "2026-09-22T11:09:40.0000000Z",
+                                                    "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
+                                                    "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
+                                                    "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
+                                                    "year":  2004
                                                 }
                                             ]
                            },
