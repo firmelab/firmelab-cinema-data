@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-21T13:50:07.1309916Z",
+    "updated":  "2026-09-21T13:51:06.0630009Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -7,7 +7,7 @@
                                "nowPlaying":  {
                                                   "title":  "BATMAN BEGINS",
                                                   "start":  "2026-09-21T12:30:01.0000000Z",
-                                                  "stop":  "2026-09-21T14:50:15.0000000Z",
+                                                  "stop":  "2026-09-21T14:50:27.0000000Z",
                                                   "itemId":  "40cf44019306b29674462340007b5e1a",
                                                   "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
                                                   "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
@@ -16,7 +16,7 @@
                                "upNext":  {
                                               "title":  "Total Recall",
                                               "start":  "2026-09-21T14:50:15.0000000Z",
-                                              "stop":  "2026-09-21T16:43:57.0000000Z",
+                                              "stop":  "2026-09-21T16:43:46.0000000Z",
                                               "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
                                               "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
                                               "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
@@ -26,7 +26,7 @@
                                                 {
                                                     "title":  "Total Recall",
                                                     "start":  "2026-09-21T14:50:15.0000000Z",
-                                                    "stop":  "2026-09-21T16:43:57.0000000Z",
+                                                    "stop":  "2026-09-21T16:43:46.0000000Z",
                                                     "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
                                                     "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
                                                     "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
@@ -35,7 +35,7 @@
                                                 {
                                                     "title":  "World War Z",
                                                     "start":  "2026-09-21T16:43:46.0000000Z",
-                                                    "stop":  "2026-09-21T18:47:01.0000000Z",
+                                                    "stop":  "2026-09-21T18:47:12.0000000Z",
                                                     "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
                                                     "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
                                                     "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
@@ -44,7 +44,7 @@
                                                 {
                                                     "title":  "HEAVY METAL",
                                                     "start":  "2026-09-21T18:47:01.0000000Z",
-                                                    "stop":  "2026-09-21T20:18:06.0000000Z",
+                                                    "stop":  "2026-09-21T20:17:55.0000000Z",
                                                     "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
                                                     "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
                                                     "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
@@ -53,7 +53,7 @@
                                                 {
                                                     "title":  "Brave Heart",
                                                     "start":  "2026-09-21T20:17:55.0000000Z",
-                                                    "stop":  "2026-09-21T23:15:45.0000000Z",
+                                                    "stop":  "2026-09-21T23:15:56.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -62,7 +62,7 @@
                                                 {
                                                     "title":  "Critters 2",
                                                     "start":  "2026-09-21T23:15:45.0000000Z",
-                                                    "stop":  "2026-09-22T00:41:54.0000000Z",
+                                                    "stop":  "2026-09-22T00:41:43.0000000Z",
                                                     "itemId":  "54493e812aba3ee1edef65108ed95c05",
                                                     "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
                                                     "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
@@ -71,7 +71,7 @@
                                                 {
                                                     "title":  "Duplex",
                                                     "start":  "2026-09-22T00:41:43.0000000Z",
-                                                    "stop":  "2026-09-22T02:11:06.0000000Z",
+                                                    "stop":  "2026-09-22T02:11:17.0000000Z",
                                                     "itemId":  "e2340e07092b6de7376760916297a934",
                                                     "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
                                                     "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
@@ -80,7 +80,7 @@
                                                 {
                                                     "title":  "The Patriot",
                                                     "start":  "2026-09-22T02:11:06.0000000Z",
-                                                    "stop":  "2026-09-22T04:56:16.0000000Z",
+                                                    "stop":  "2026-09-22T04:56:04.0000000Z",
                                                     "itemId":  "17b673273650da7e33ae51350e123fb0",
                                                     "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
                                                     "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
@@ -89,7 +89,7 @@
                                                 {
                                                     "title":  "Dusk Till Dawn",
                                                     "start":  "2026-09-22T04:56:04.0000000Z",
-                                                    "stop":  "2026-09-22T06:44:05.0000000Z",
+                                                    "stop":  "2026-09-22T06:44:17.0000000Z",
                                                     "itemId":  "648811d2182191a63ce32eb861ad9020",
                                                     "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
                                                     "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
@@ -581,13 +581,13 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Duende",
-                                                  "start":  "2026-09-21T13:13:51.0000000Z",
-                                                  "stop":  "2026-09-21T13:55:38.0000000Z",
-                                                  "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                                  "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                                  "title":  "COKCE6139",
+                                                  "start":  "2026-09-21T13:41:15.0000000Z",
+                                                  "stop":  "2026-09-21T14:20:38.0000000Z",
+                                                  "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
+                                                  "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
                                               "title":  "Dancing Cobra",
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-09-21T13:59:17.0000000Z",
-                                                    "stop":  "2026-09-21T14:03:08.0000000Z",
+                                                    "stop":  "2026-09-21T14:39:22.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-09-21T14:03:14.0000000Z",
-                                                    "stop":  "2026-09-21T14:05:26.0000000Z",
+                                                    "stop":  "2026-09-21T14:21:34.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-09-21T14:05:26.0000000Z",
-                                                    "stop":  "2026-09-21T14:06:08.0000000Z",
+                                                    "stop":  "2026-09-21T14:22:18.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-09-21T14:06:08.0000000Z",
-                                                    "stop":  "2026-09-21T14:06:57.0000000Z",
+                                                    "stop":  "2026-09-21T14:38:25.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-09-21T14:06:57.0000000Z",
-                                                    "stop":  "2026-09-21T14:08:25.0000000Z",
+                                                    "stop":  "2026-09-21T14:32:06.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
