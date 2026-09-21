@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-21T20:00:05.8482173Z",
+    "updated":  "2026-09-21T20:01:05.9810786Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -197,33 +197,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Total Recall",
-                                                  "start":  "2026-09-21T18:07:02.0000000Z",
-                                                  "stop":  "2026-09-21T20:00:22.0000000Z",
-                                                  "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
-                                                  "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
-                                                  "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
-                                                  "year":  1990
+                                                  "title":  "BATMAN BEGINS",
+                                                  "start":  "2026-09-21T20:00:22.0000000Z",
+                                                  "stop":  "2026-09-21T22:20:23.0000000Z",
+                                                  "itemId":  "40cf44019306b29674462340007b5e1a",
+                                                  "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
+                                                  "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+                                                  "year":  2005
                                               },
                                "upNext":  {
-                                              "title":  "BATMAN BEGINS",
-                                              "start":  "2026-09-21T20:00:22.0000000Z",
-                                              "stop":  "2026-09-21T22:20:23.0000000Z",
-                                              "itemId":  "40cf44019306b29674462340007b5e1a",
-                                              "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
-                                              "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
-                                              "year":  2005
+                                              "title":  "Black Hawk Down",
+                                              "start":  "2026-09-21T22:20:23.0000000Z",
+                                              "stop":  "2026-09-22T00:44:44.0000000Z",
+                                              "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
+                                              "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
+                                              "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+                                              "year":  2001
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "BATMAN BEGINS",
-                                                    "start":  "2026-09-21T20:00:22.0000000Z",
-                                                    "stop":  "2026-09-21T22:20:23.0000000Z",
-                                                    "itemId":  "40cf44019306b29674462340007b5e1a",
-                                                    "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
-                                                    "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
-                                                    "year":  2005
-                                                },
                                                 {
                                                     "title":  "Black Hawk Down",
                                                     "start":  "2026-09-21T22:20:23.0000000Z",
@@ -286,6 +277,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
                                                     "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
                                                     "year":  1984
+                                                },
+                                                {
+                                                    "title":  "Predator",
+                                                    "start":  "2026-09-22T11:23:46.0000000Z",
+                                                    "stop":  "2026-09-22T13:10:20.0000000Z",
+                                                    "itemId":  "9745bbd80aedfd3750130547f37af704",
+                                                    "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
+                                                    "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+                                                    "year":  1987
                                                 }
                                             ]
                            },
@@ -581,13 +581,13 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "BloodJoke",
-                                                  "start":  "2026-09-21T19:36:05.0000000Z",
-                                                  "stop":  "2026-09-21T20:14:54.0000000Z",
-                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                  "title":  "Ass Kicker Bruce",
+                                                  "start":  "2026-09-21T19:59:55.0000000Z",
+                                                  "stop":  "2026-09-21T20:14:28.0000000Z",
+                                                  "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
+                                                  "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
                                               "title":  "Biggie Mobbing",
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "Chingadasos",
                                                     "start":  "2026-09-21T20:06:32.0000000Z",
-                                                    "stop":  "2026-09-21T20:30:58.0000000Z",
+                                                    "stop":  "2026-09-21T20:08:23.0000000Z",
                                                     "itemId":  "8988d98fd90679aab5aff5b786344b1c",
                                                     "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "Mr J-Carry",
                                                     "start":  "2026-09-21T20:08:23.0000000Z",
-                                                    "stop":  "2026-09-21T20:49:59.0000000Z",
+                                                    "stop":  "2026-09-21T20:09:20.0000000Z",
                                                     "itemId":  "56c94066e018711311e81d6a3f6cc139",
                                                     "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "T2",
                                                     "start":  "2026-09-21T20:09:20.0000000Z",
-                                                    "stop":  "2026-09-21T20:58:33.0000000Z",
+                                                    "stop":  "2026-09-21T20:28:44.0000000Z",
                                                     "itemId":  "1315943017e226076a7899408d36dec5",
                                                     "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "XocoBruja",
                                                     "start":  "2026-09-21T20:12:07.0000000Z",
-                                                    "stop":  "2026-09-21T20:50:27.0000000Z",
+                                                    "stop":  "2026-09-21T20:23:30.0000000Z",
                                                     "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
                                                     "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "COKCE6139",
                                                     "start":  "2026-09-21T20:14:52.0000000Z",
-                                                    "stop":  "2026-09-21T20:15:53.0000000Z",
+                                                    "stop":  "2026-09-21T20:25:41.0000000Z",
                                                     "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "MrPayo",
                                                     "start":  "2026-09-21T20:17:03.0000000Z",
-                                                    "stop":  "2026-09-21T20:47:03.0000000Z",
+                                                    "stop":  "2026-09-21T20:26:46.0000000Z",
                                                     "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
                                                     "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
                                                     "description":  null,
