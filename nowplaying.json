@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-22T15:25:05.6616507Z",
+    "updated":  "2026-09-22T15:26:05.6797852Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,11 +581,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "T2",
-                                                  "start":  "2026-09-22T15:06:27.0000000Z",
-                                                  "stop":  "2026-09-22T15:25:51.0000000Z",
-                                                  "itemId":  "1315943017e226076a7899408d36dec5",
-                                                  "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
+                                                  "title":  "Oz",
+                                                  "start":  "2026-09-22T15:15:16.0000000Z",
+                                                  "stop":  "2026-09-22T15:44:34.0000000Z",
+                                                  "itemId":  "f332ba1673f9273e5349cd38b640cf51",
+                                                  "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
