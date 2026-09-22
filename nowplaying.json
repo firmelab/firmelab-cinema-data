@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-22T12:09:05.1065321Z",
+    "updated":  "2026-09-22T12:10:05.1269228Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,11 +581,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Arnold Dynamite",
-                                                  "start":  "2026-09-22T11:59:01.0000000Z",
-                                                  "stop":  "2026-09-22T12:09:06.0000000Z",
-                                                  "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
+                                                  "title":  "Biggie Mobbing",
+                                                  "start":  "2026-09-22T12:08:02.0000000Z",
+                                                  "stop":  "2026-09-22T12:27:35.0000000Z",
+                                                  "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
