@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-22T18:59:06.0186055Z",
+    "updated":  "2026-09-22T19:02:04.4397191Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -7,7 +7,7 @@
                                "nowPlaying":  {
                                                   "title":  "Seventh Sign",
                                                   "start":  "2026-09-22T18:27:12.0000000Z",
-                                                  "stop":  "2026-09-22T20:04:21.0000000Z",
+                                                  "stop":  "2026-09-22T20:04:33.0000000Z",
                                                   "itemId":  "ee279419a64df59247370e38f4f0deea",
                                                   "poster":  "http://127.0.0.1:8096/Items/ee279419a64df59247370e38f4f0deea/Images/Primary",
                                                   "description":  "Abby is a pregnant woman with a curious new boarder in the apartment over her garage. Turns out he\u0027s heaven-sent and is speeding along the Apocalypse by bloodying rivers, egging on plagues and following scripture word for word.",
@@ -16,7 +16,7 @@
                                "upNext":  {
                                               "title":  "Conan The Destroyer",
                                               "start":  "2026-09-22T20:04:21.0000000Z",
-                                              "stop":  "2026-09-22T21:45:41.0000000Z",
+                                              "stop":  "2026-09-22T21:45:29.0000000Z",
                                               "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
                                               "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
                                               "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
@@ -26,7 +26,7 @@
                                                 {
                                                     "title":  "Conan The Destroyer",
                                                     "start":  "2026-09-22T20:04:21.0000000Z",
-                                                    "stop":  "2026-09-22T21:45:41.0000000Z",
+                                                    "stop":  "2026-09-22T21:45:29.0000000Z",
                                                     "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
                                                     "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
                                                     "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
@@ -35,7 +35,7 @@
                                                 {
                                                     "title":  "Firmelab Cinema",
                                                     "start":  "2026-09-22T21:45:29.0000000Z",
-                                                    "stop":  "2026-09-23T00:01:29.0000000Z",
+                                                    "stop":  "2026-09-23T00:01:41.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -44,7 +44,7 @@
                                                 {
                                                     "title":  "FRIGHT NIGHT",
                                                     "start":  "2026-09-23T00:01:41.0000000Z",
-                                                    "stop":  "2026-09-23T01:48:23.0000000Z",
+                                                    "stop":  "2026-09-23T01:48:12.0000000Z",
                                                     "itemId":  "8bda9bd3955398694e4a57e90f6c4904",
                                                     "poster":  "http://127.0.0.1:8096/Items/8bda9bd3955398694e4a57e90f6c4904/Images/Primary",
                                                     "description":  "Charley Brewster, a high school student, accidentally discovers the true and creepy nature of Jerry Dandrige, his dashing and enigmatic new neighbor; but no one seems willing to believe him.",
@@ -53,7 +53,7 @@
                                                 {
                                                     "title":  "D1_t00",
                                                     "start":  "2026-09-23T01:48:23.0000000Z",
-                                                    "stop":  "2026-09-23T04:00:01.0000000Z",
+                                                    "stop":  "2026-09-23T04:00:12.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -581,18 +581,18 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Biggie Mobbing",
-                                                  "start":  "2026-09-22T18:41:39.0000000Z",
-                                                  "stop":  "2026-09-22T19:19:33.0000000Z",
-                                                  "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
+                                                  "title":  "Carrito",
+                                                  "start":  "2026-09-22T18:57:18.0000000Z",
+                                                  "stop":  "2026-09-22T19:13:29.0000000Z",
+                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Dancing Cobra",
                                               "start":  "2026-09-22T19:04:57.0000000Z",
-                                              "stop":  "2026-09-22T19:37:31.0000000Z",
+                                              "stop":  "2026-09-22T19:06:02.0000000Z",
                                               "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                               "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-09-22T19:04:57.0000000Z",
-                                                    "stop":  "2026-09-22T19:37:31.0000000Z",
+                                                    "stop":  "2026-09-22T19:06:02.0000000Z",
                                                     "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                                     "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                     "description":  null,
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-09-22T19:06:02.0000000Z",
-                                                    "stop":  "2026-09-22T19:30:30.0000000Z",
+                                                    "stop":  "2026-09-22T19:07:01.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-09-22T19:07:01.0000000Z",
-                                                    "stop":  "2026-09-22T19:08:10.0000000Z",
+                                                    "stop":  "2026-09-22T19:08:42.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-09-22T19:08:42.0000000Z",
-                                                    "stop":  "2026-09-22T19:35:59.0000000Z",
+                                                    "stop":  "2026-09-22T19:31:20.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-09-22T19:12:39.0000000Z",
-                                                    "stop":  "2026-09-22T19:55:30.0000000Z",
+                                                    "stop":  "2026-09-22T19:14:51.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-09-22T19:14:51.0000000Z",
-                                                    "stop":  "2026-09-22T20:03:45.0000000Z",
+                                                    "stop":  "2026-09-22T19:24:06.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-09-22T19:15:33.0000000Z",
-                                                    "stop":  "2026-09-22T19:16:22.0000000Z",
+                                                    "stop":  "2026-09-22T19:24:55.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-09-22T19:16:22.0000000Z",
-                                                    "stop":  "2026-09-22T19:54:42.0000000Z",
+                                                    "stop":  "2026-09-22T19:26:23.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
