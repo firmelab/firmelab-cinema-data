@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-22T04:55:06.3650791Z",
+    "updated":  "2026-09-22T04:56:06.2079085Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -14,24 +14,15 @@
                                                   "year":  2000
                                               },
                                "upNext":  {
-                                              "title":  "Dusk Till Dawn",
-                                              "start":  "2026-09-22T04:56:04.0000000Z",
-                                              "stop":  "2026-09-22T06:44:05.0000000Z",
-                                              "itemId":  "648811d2182191a63ce32eb861ad9020",
-                                              "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
-                                              "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
-                                              "year":  1996
+                                              "title":  "A Nightmare on Elm Street 2 Freddy\u0027s Revenge",
+                                              "start":  "2026-09-22T06:44:05.0000000Z",
+                                              "stop":  "2026-09-22T08:10:00.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Dusk Till Dawn",
-                                                    "start":  "2026-09-22T04:56:04.0000000Z",
-                                                    "stop":  "2026-09-22T06:44:05.0000000Z",
-                                                    "itemId":  "648811d2182191a63ce32eb861ad9020",
-                                                    "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
-                                                    "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
-                                                    "year":  1996
-                                                },
                                                 {
                                                     "title":  "A Nightmare on Elm Street 2 Freddy\u0027s Revenge",
                                                     "start":  "2026-09-22T06:44:05.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Seventh Sign",
+                                                    "start":  "2026-09-22T18:27:12.0000000Z",
+                                                    "stop":  "2026-09-22T20:04:21.0000000Z",
+                                                    "itemId":  "ee279419a64df59247370e38f4f0deea",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ee279419a64df59247370e38f4f0deea/Images/Primary",
+                                                    "description":  "Abby is a pregnant woman with a curious new boarder in the apartment over her garage. Turns out he\u0027s heaven-sent and is speeding along the Apocalypse by bloodying rivers, egging on plagues and following scripture word for word.",
+                                                    "year":  1988
                                                 }
                                             ]
                            },
