@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-22T20:27:05.2357941Z",
+    "updated":  "2026-09-22T20:28:05.0795126Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,11 +581,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Ass Kicker Bruce",
-                                                  "start":  "2026-09-22T20:03:12.0000000Z",
-                                                  "stop":  "2026-09-22T20:27:48.0000000Z",
-                                                  "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                                  "title":  "Ricardo \u0026 Mocoso",
+                                                  "start":  "2026-09-22T20:13:08.0000000Z",
+                                                  "stop":  "2026-09-22T20:42:44.0000000Z",
+                                                  "itemId":  "0e268bdc592953760cc985e16953d93d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
