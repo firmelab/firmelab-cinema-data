@@ -1,17 +1,17 @@
 {
-    "updated":  "2026-09-22T04:56:06.2079085Z",
+    "updated":  "2026-09-22T04:57:06.4621634Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "The Patriot",
-                                                  "start":  "2026-09-22T02:11:06.0000000Z",
-                                                  "stop":  "2026-09-22T04:56:16.0000000Z",
-                                                  "itemId":  "17b673273650da7e33ae51350e123fb0",
-                                                  "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
-                                                  "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
-                                                  "year":  2000
+                                                  "title":  "Dusk Till Dawn",
+                                                  "start":  "2026-09-22T04:56:04.0000000Z",
+                                                  "stop":  "2026-09-22T06:44:05.0000000Z",
+                                                  "itemId":  "648811d2182191a63ce32eb861ad9020",
+                                                  "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
+                                                  "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
+                                                  "year":  1996
                                               },
                                "upNext":  {
                                               "title":  "A Nightmare on Elm Street 2 Freddy\u0027s Revenge",
@@ -590,24 +590,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "XocoBruja",
-                                              "start":  "2026-09-22T04:56:57.0000000Z",
-                                              "stop":  "2026-09-22T05:15:28.0000000Z",
-                                              "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
-                                              "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
+                                              "title":  "COKCE6139",
+                                              "start":  "2026-09-22T04:59:42.0000000Z",
+                                              "stop":  "2026-09-22T05:18:03.0000000Z",
+                                              "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
+                                              "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "XocoBruja",
-                                                    "start":  "2026-09-22T04:56:57.0000000Z",
-                                                    "stop":  "2026-09-22T05:15:28.0000000Z",
-                                                    "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
-                                                    "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "COKCE6139",
                                                     "start":  "2026-09-22T04:59:42.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-09-22T06:04:02.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Duende",
+                                                    "start":  "2026-09-22T05:16:02.0000000Z",
+                                                    "stop":  "2026-09-22T05:17:11.0000000Z",
+                                                    "itemId":  "80d6feb8f0c835e935a80db3275c5412",
+                                                    "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
