@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-23T06:06:06.3872194Z",
+    "updated":  "2026-09-23T06:07:06.2174826Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,33 +101,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Boogeyman",
-                                                  "start":  "2026-09-23T04:31:38.0000000Z",
-                                                  "stop":  "2026-09-23T06:06:12.0000000Z",
-                                                  "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
-                                                  "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
-                                                  "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
-                                                  "year":  2005
+                                                  "title":  "Dawn of the Dead",
+                                                  "start":  "2026-09-23T06:06:12.0000000Z",
+                                                  "stop":  "2026-09-23T08:01:09.0000000Z",
+                                                  "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
+                                                  "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
+                                                  "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
+                                                  "year":  2004
                                               },
                                "upNext":  {
-                                              "title":  "Dawn of the Dead",
-                                              "start":  "2026-09-23T06:06:12.0000000Z",
-                                              "stop":  "2026-09-23T08:01:09.0000000Z",
-                                              "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
-                                              "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
-                                              "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
-                                              "year":  2004
+                                              "title":  "Resident Evil- Apocalypse",
+                                              "start":  "2026-09-23T08:01:09.0000000Z",
+                                              "stop":  "2026-09-23T09:40:41.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Dawn of the Dead",
-                                                    "start":  "2026-09-23T06:06:12.0000000Z",
-                                                    "stop":  "2026-09-23T08:01:09.0000000Z",
-                                                    "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
-                                                    "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
-                                                    "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
-                                                    "year":  2004
-                                                },
                                                 {
                                                     "title":  "Resident Evil- Apocalypse",
                                                     "start":  "2026-09-23T08:01:09.0000000Z",
@@ -190,6 +181,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
                                                     "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
                                                     "year":  2005
+                                                },
+                                                {
+                                                    "title":  "Underworld Evolution",
+                                                    "start":  "2026-09-23T20:55:47.0000000Z",
+                                                    "stop":  "2026-09-23T22:45:54.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
