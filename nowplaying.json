@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-23T19:08:07.7398500Z",
+    "updated":  "2026-09-23T19:09:07.0269847Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,33 +581,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "BloodJoke",
-                                                  "start":  "2026-09-23T18:58:54.0000000Z",
-                                                  "stop":  "2026-09-23T19:09:07.0000000Z",
-                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                  "title":  "Dancing Cobra",
+                                                  "start":  "2026-09-23T19:08:13.0000000Z",
+                                                  "stop":  "2026-09-23T19:09:19.0000000Z",
+                                                  "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                                  "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Dancing Cobra",
-                                              "start":  "2026-09-23T19:08:13.0000000Z",
-                                              "stop":  "2026-09-23T19:09:19.0000000Z",
-                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
+                                              "title":  "DnBaPCsht",
+                                              "start":  "2026-09-23T19:09:19.0000000Z",
+                                              "stop":  "2026-09-23T19:10:17.0000000Z",
+                                              "itemId":  "d2296bca99a831548bbada0bb3bac719",
+                                              "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Dancing Cobra",
-                                                    "start":  "2026-09-23T19:08:13.0000000Z",
-                                                    "stop":  "2026-09-23T19:09:19.0000000Z",
-                                                    "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-09-23T19:09:19.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "0Ld Sc00L",
+                                                    "start":  "2026-09-23T19:21:07.0000000Z",
+                                                    "stop":  "2026-09-23T19:21:55.0000000Z",
+                                                    "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
