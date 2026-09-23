@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-23T04:22:06.5474689Z",
+    "updated":  "2026-09-23T04:23:06.5490205Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -389,33 +389,24 @@
                                "number":  5,
                                "name":  "FIRMELAB TOONS",
                                "nowPlaying":  {
-                                                  "title":  "Who Framed Roger Rabbit",
-                                                  "start":  "2026-09-23T02:38:50.0000000Z",
-                                                  "stop":  "2026-09-23T04:22:36.0000000Z",
-                                                  "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
-                                                  "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
-                                                  "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
-                                                  "year":  1988
+                                                  "title":  "HEAVY METAL",
+                                                  "start":  "2026-09-23T04:22:36.0000000Z",
+                                                  "stop":  "2026-09-23T05:52:57.0000000Z",
+                                                  "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                                  "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                                  "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                                  "year":  1981
                                               },
                                "upNext":  {
-                                              "title":  "HEAVY METAL",
-                                              "start":  "2026-09-23T04:22:36.0000000Z",
-                                              "stop":  "2026-09-23T05:52:57.0000000Z",
-                                              "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
-                                              "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
-                                              "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
-                                              "year":  1981
+                                              "title":  "Who Framed Roger Rabbit",
+                                              "start":  "2026-09-23T05:52:57.0000000Z",
+                                              "stop":  "2026-09-23T07:36:43.0000000Z",
+                                              "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
+                                              "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
+                                              "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+                                              "year":  1988
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "HEAVY METAL",
-                                                    "start":  "2026-09-23T04:22:36.0000000Z",
-                                                    "stop":  "2026-09-23T05:52:57.0000000Z",
-                                                    "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
-                                                    "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
-                                                    "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
-                                                    "year":  1981
-                                                },
                                                 {
                                                     "title":  "Who Framed Roger Rabbit",
                                                     "start":  "2026-09-23T05:52:57.0000000Z",
@@ -478,6 +469,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
                                                     "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
                                                     "year":  1988
+                                                },
+                                                {
+                                                    "title":  "HEAVY METAL",
+                                                    "start":  "2026-09-23T17:19:04.0000000Z",
+                                                    "stop":  "2026-09-23T18:49:26.0000000Z",
+                                                    "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                                    "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                                    "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                                    "year":  1981
                                                 }
                                             ]
                            },
@@ -581,33 +581,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "After H0uRs",
-                                                  "start":  "2026-09-23T04:03:28.0000000Z",
-                                                  "stop":  "2026-09-23T04:22:58.0000000Z",
-                                                  "itemId":  "150bbae732cd647eeed3060cd67b032f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
+                                                  "title":  "T2",
+                                                  "start":  "2026-09-23T04:13:42.0000000Z",
+                                                  "stop":  "2026-09-23T04:41:34.0000000Z",
+                                                  "itemId":  "1315943017e226076a7899408d36dec5",
+                                                  "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Oz",
-                                              "start":  "2026-09-23T04:22:30.0000000Z",
-                                              "stop":  "2026-09-23T04:24:11.0000000Z",
-                                              "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                              "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                              "title":  "BloodJoke",
+                                              "start":  "2026-09-23T04:24:11.0000000Z",
+                                              "stop":  "2026-09-23T04:25:47.0000000Z",
+                                              "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                              "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Oz",
-                                                    "start":  "2026-09-23T04:22:30.0000000Z",
-                                                    "stop":  "2026-09-23T04:24:11.0000000Z",
-                                                    "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "BloodJoke",
                                                     "start":  "2026-09-23T04:24:11.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Ninja Now",
+                                                    "start":  "2026-09-23T04:43:25.0000000Z",
+                                                    "stop":  "2026-09-23T05:10:19.0000000Z",
+                                                    "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
