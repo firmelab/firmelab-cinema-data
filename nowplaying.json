@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-23T05:01:05.5977624Z",
+    "updated":  "2026-09-23T05:02:05.7125553Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,11 +581,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Never 3Nding",
-                                                  "start":  "2026-09-23T04:41:13.0000000Z",
-                                                  "stop":  "2026-09-23T05:20:38.0000000Z",
-                                                  "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
-                                                  "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
+                                                  "title":  "Ricardo \u0026 Mocoso",
+                                                  "start":  "2026-09-23T04:57:58.0000000Z",
+                                                  "stop":  "2026-09-23T05:08:51.0000000Z",
+                                                  "itemId":  "0e268bdc592953760cc985e16953d93d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "MrPayo",
                                                     "start":  "2026-09-23T05:05:09.0000000Z",
-                                                    "stop":  "2026-09-23T05:29:40.0000000Z",
+                                                    "stop":  "2026-09-23T05:06:14.0000000Z",
                                                     "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
                                                     "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "Oz",
                                                     "start":  "2026-09-23T05:06:14.0000000Z",
-                                                    "stop":  "2026-09-23T05:48:34.0000000Z",
+                                                    "stop":  "2026-09-23T05:26:48.0000000Z",
                                                     "itemId":  "f332ba1673f9273e5349cd38b640cf51",
                                                     "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "BloodJoke",
                                                     "start":  "2026-09-23T05:07:56.0000000Z",
-                                                    "stop":  "2026-09-23T05:57:43.0000000Z",
+                                                    "stop":  "2026-09-23T05:09:31.0000000Z",
                                                     "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
                                                     "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-09-23T05:09:36.0000000Z",
-                                                    "stop":  "2026-09-23T05:17:15.0000000Z",
+                                                    "stop":  "2026-09-23T05:25:53.0000000Z",
                                                     "itemId":  "ed83754111f4ed370a338cab8345534d",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-09-23T05:17:15.0000000Z",
-                                                    "stop":  "2026-09-23T05:55:12.0000000Z",
+                                                    "stop":  "2026-09-23T05:26:59.0000000Z",
                                                     "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                                     "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-09-23T05:18:20.0000000Z",
-                                                    "stop":  "2026-09-23T05:19:07.0000000Z",
+                                                    "stop":  "2026-09-23T05:27:45.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-09-23T05:19:19.0000000Z",
-                                                    "stop":  "2026-09-23T05:49:46.0000000Z",
+                                                    "stop":  "2026-09-23T05:48:04.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
