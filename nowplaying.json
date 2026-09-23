@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-23T08:54:06.3149831Z",
+    "updated":  "2026-09-23T08:55:06.5675155Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Undercover Brother",
-                                                  "start":  "2026-09-23T07:28:30.0000000Z",
-                                                  "stop":  "2026-09-23T08:54:47.0000000Z",
-                                                  "itemId":  "6317b8f6b30a049091764b8311c08279",
-                                                  "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
-                                                  "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
-                                                  "year":  2002
+                                                  "title":  "CB4",
+                                                  "start":  "2026-09-23T08:54:47.0000000Z",
+                                                  "stop":  "2026-09-23T10:23:16.0000000Z",
+                                                  "itemId":  "aaf87b319e700aef20429fed5429cdee",
+                                                  "poster":  "http://127.0.0.1:8096/Items/aaf87b319e700aef20429fed5429cdee/Images/Primary",
+                                                  "description":  "A \"rockumentary\", covering the rise to fame of MC Gusto, Stab Master Arson, and Dead Mike: members of the rap group \"CB4\". We soon learn that these three are not what they seem and don\u0027t appear to know as much about rap music as they claim... but a lack of musical ability in an artist never hurts sales, does it? You\u0027ve just got to play the part of a rap star...",
+                                                  "year":  1993
                                               },
                                "upNext":  {
-                                              "title":  "CB4",
-                                              "start":  "2026-09-23T08:54:47.0000000Z",
-                                              "stop":  "2026-09-23T10:23:16.0000000Z",
-                                              "itemId":  "aaf87b319e700aef20429fed5429cdee",
-                                              "poster":  "http://127.0.0.1:8096/Items/aaf87b319e700aef20429fed5429cdee/Images/Primary",
-                                              "description":  "A \"rockumentary\", covering the rise to fame of MC Gusto, Stab Master Arson, and Dead Mike: members of the rap group \"CB4\". We soon learn that these three are not what they seem and don\u0027t appear to know as much about rap music as they claim... but a lack of musical ability in an artist never hurts sales, does it? You\u0027ve just got to play the part of a rap star...",
-                                              "year":  1993
+                                              "title":  "Dusk Till Dawn",
+                                              "start":  "2026-09-23T10:23:16.0000000Z",
+                                              "stop":  "2026-09-23T12:11:16.0000000Z",
+                                              "itemId":  "648811d2182191a63ce32eb861ad9020",
+                                              "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
+                                              "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
+                                              "year":  1996
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "CB4",
-                                                    "start":  "2026-09-23T08:54:47.0000000Z",
-                                                    "stop":  "2026-09-23T10:23:16.0000000Z",
-                                                    "itemId":  "aaf87b319e700aef20429fed5429cdee",
-                                                    "poster":  "http://127.0.0.1:8096/Items/aaf87b319e700aef20429fed5429cdee/Images/Primary",
-                                                    "description":  "A \"rockumentary\", covering the rise to fame of MC Gusto, Stab Master Arson, and Dead Mike: members of the rap group \"CB4\". We soon learn that these three are not what they seem and don\u0027t appear to know as much about rap music as they claim... but a lack of musical ability in an artist never hurts sales, does it? You\u0027ve just got to play the part of a rap star...",
-                                                    "year":  1993
-                                                },
                                                 {
                                                     "title":  "Dusk Till Dawn",
                                                     "start":  "2026-09-23T10:23:16.0000000Z",
@@ -93,6 +84,15 @@
                                                     "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
                                                     "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
                                                     "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
+                                                    "year":  2004
+                                                },
+                                                {
+                                                    "title":  "Dawn of the Dead",
+                                                    "start":  "2026-09-23T23:37:37.0000000Z",
+                                                    "stop":  "2026-09-24T01:27:01.0000000Z",
+                                                    "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
+                                                    "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
+                                                    "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
                                                     "year":  2004
                                                 }
                                             ]
