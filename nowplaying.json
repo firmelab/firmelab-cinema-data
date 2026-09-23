@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-23T14:01:06.4172253Z",
+    "updated":  "2026-09-23T14:02:31.1455447Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -197,33 +197,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Bourne Supremacy",
-                                                  "start":  "2026-09-23T12:13:57.0000000Z",
-                                                  "stop":  "2026-09-23T14:02:29.0000000Z",
-                                                  "itemId":  "031faf0da71af121647ff2d37294b07a",
-                                                  "poster":  "http://127.0.0.1:8096/Items/031faf0da71af121647ff2d37294b07a/Images/Primary",
-                                                  "description":  "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
-                                                  "year":  2004
+                                                  "title":  "Brightburn",
+                                                  "start":  "2026-09-23T14:02:29.0000000Z",
+                                                  "stop":  "2026-09-23T15:32:59.0000000Z",
+                                                  "itemId":  "a562e465a7ff31b0113aee613a779bf2",
+                                                  "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
+                                                  "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
+                                                  "year":  2019
                                               },
                                "upNext":  {
-                                              "title":  "Brightburn",
-                                              "start":  "2026-09-23T14:02:29.0000000Z",
-                                              "stop":  "2026-09-23T15:32:59.0000000Z",
-                                              "itemId":  "a562e465a7ff31b0113aee613a779bf2",
-                                              "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
-                                              "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
-                                              "year":  2019
+                                              "title":  "Commando",
+                                              "start":  "2026-09-23T15:32:59.0000000Z",
+                                              "stop":  "2026-09-23T17:03:12.0000000Z",
+                                              "itemId":  "4d57925cf6d4f5a046509bad0a68d29f",
+                                              "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
+                                              "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
+                                              "year":  1985
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Brightburn",
-                                                    "start":  "2026-09-23T14:02:29.0000000Z",
-                                                    "stop":  "2026-09-23T15:32:59.0000000Z",
-                                                    "itemId":  "a562e465a7ff31b0113aee613a779bf2",
-                                                    "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
-                                                    "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
-                                                    "year":  2019
-                                                },
                                                 {
                                                     "title":  "Commando",
                                                     "start":  "2026-09-23T15:32:59.0000000Z",
@@ -286,6 +277,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "John Wick",
+                                                    "start":  "2026-09-24T04:09:50.0000000Z",
+                                                    "stop":  "2026-09-24T05:51:04.0000000Z",
+                                                    "itemId":  "84b70d75a3d957b57b02cf83796504a8",
+                                                    "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
+                                                    "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+                                                    "year":  2014
                                                 }
                                             ]
                            },
@@ -581,37 +581,28 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "T2",
-                                                  "start":  "2026-09-23T13:42:16.0000000Z",
-                                                  "stop":  "2026-09-23T14:19:38.0000000Z",
-                                                  "itemId":  "1315943017e226076a7899408d36dec5",
-                                                  "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
+                                                  "title":  "Carrito",
+                                                  "start":  "2026-09-23T13:54:26.0000000Z",
+                                                  "stop":  "2026-09-23T14:10:36.0000000Z",
+                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Dancing Cobra",
-                                              "start":  "2026-09-23T14:02:04.0000000Z",
-                                              "stop":  "2026-09-23T14:39:24.0000000Z",
-                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
+                                              "title":  "DnBaPCsht",
+                                              "start":  "2026-09-23T14:03:10.0000000Z",
+                                              "stop":  "2026-09-23T14:04:08.0000000Z",
+                                              "itemId":  "d2296bca99a831548bbada0bb3bac719",
+                                              "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
                                                 {
-                                                    "title":  "Dancing Cobra",
-                                                    "start":  "2026-09-23T14:02:04.0000000Z",
-                                                    "stop":  "2026-09-23T14:39:24.0000000Z",
-                                                    "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-09-23T14:03:10.0000000Z",
-                                                    "stop":  "2026-09-23T14:20:06.0000000Z",
+                                                    "stop":  "2026-09-23T14:04:08.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -620,7 +611,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-09-23T14:04:08.0000000Z",
-                                                    "stop":  "2026-09-23T14:21:28.0000000Z",
+                                                    "stop":  "2026-09-23T14:05:50.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -629,7 +620,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-09-23T14:05:50.0000000Z",
-                                                    "stop":  "2026-09-23T14:41:10.0000000Z",
+                                                    "stop":  "2026-09-23T14:28:27.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -638,7 +629,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-09-23T14:09:47.0000000Z",
-                                                    "stop":  "2026-09-23T14:35:40.0000000Z",
+                                                    "stop":  "2026-09-23T14:11:59.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -647,7 +638,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-09-23T14:11:59.0000000Z",
-                                                    "stop":  "2026-09-23T14:12:41.0000000Z",
+                                                    "stop":  "2026-09-23T14:21:14.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +647,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-09-23T14:12:41.0000000Z",
-                                                    "stop":  "2026-09-23T14:36:56.0000000Z",
+                                                    "stop":  "2026-09-23T14:22:03.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -665,11 +656,20 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-09-23T14:13:30.0000000Z",
-                                                    "stop":  "2026-09-23T14:55:36.0000000Z",
+                                                    "stop":  "2026-09-23T14:23:31.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "0Ld Sc00L",
+                                                    "start":  "2026-09-23T14:14:58.0000000Z",
+                                                    "stop":  "2026-09-23T14:43:06.0000000Z",
+                                                    "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
