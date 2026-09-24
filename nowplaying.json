@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-24T15:12:06.3072526Z",
+    "updated":  "2026-09-24T15:13:05.7222990Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -590,24 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "T2",
-                                              "start":  "2026-09-24T15:13:01.0000000Z",
-                                              "stop":  "2026-09-24T16:01:44.0000000Z",
-                                              "itemId":  "1315943017e226076a7899408d36dec5",
-                                              "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
+                                              "title":  "Ricardo \u0026 Mocoso",
+                                              "start":  "2026-09-24T15:13:33.0000000Z",
+                                              "stop":  "2026-09-24T15:15:48.0000000Z",
+                                              "itemId":  "0e268bdc592953760cc985e16953d93d",
+                                              "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "T2",
-                                                    "start":  "2026-09-24T15:13:01.0000000Z",
-                                                    "stop":  "2026-09-24T16:01:44.0000000Z",
-                                                    "itemId":  "1315943017e226076a7899408d36dec5",
-                                                    "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Ricardo \u0026 Mocoso",
                                                     "start":  "2026-09-24T15:13:33.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Dancing Cobra",
+                                                    "start":  "2026-09-24T15:32:49.0000000Z",
+                                                    "stop":  "2026-09-24T15:33:55.0000000Z",
+                                                    "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                                    "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
@@ -677,33 +677,24 @@
                                "number":  8,
                                "name":  "FIRMELAB FRONTIER",
                                "nowPlaying":  {
-                                                  "title":  "Brave Heart",
-                                                  "start":  "2026-09-24T12:14:47.0000000Z",
-                                                  "stop":  "2026-09-24T15:12:27.0000000Z",
+                                                  "title":  "The Count Monte Cristos",
+                                                  "start":  "2026-09-24T15:12:27.0000000Z",
+                                                  "stop":  "2026-09-24T17:23:41.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "The Count Monte Cristos",
-                                              "start":  "2026-09-24T15:12:27.0000000Z",
-                                              "stop":  "2026-09-24T17:23:41.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Young Guns",
+                                              "start":  "2026-09-24T17:23:41.0000000Z",
+                                              "stop":  "2026-09-24T19:10:27.0000000Z",
+                                              "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
+                                              "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
+                                              "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
+                                              "year":  1988
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "The Count Monte Cristos",
-                                                    "start":  "2026-09-24T15:12:27.0000000Z",
-                                                    "stop":  "2026-09-24T17:23:41.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Young Guns",
                                                     "start":  "2026-09-24T17:23:41.0000000Z",
@@ -766,6 +757,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
                                                     "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
                                                     "year":  2000
+                                                },
+                                                {
+                                                    "title":  "Master and Commander",
+                                                    "start":  "2026-09-25T09:54:03.0000000Z",
+                                                    "stop":  "2026-09-25T12:12:24.0000000Z",
+                                                    "itemId":  "5fcc6b3e811cdcaf000036c06aef62b9",
+                                                    "poster":  "http://127.0.0.1:8096/Items/5fcc6b3e811cdcaf000036c06aef62b9/Images/Primary",
+                                                    "description":  "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship\u0027s thoughtful surgeon, his best friend.",
+                                                    "year":  2003
                                                 }
                                             ]
                            }
