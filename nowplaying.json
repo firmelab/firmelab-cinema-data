@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-24T06:02:07.1936057Z",
+    "updated":  "2026-09-24T06:03:07.0454970Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,18 +581,18 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Chingadasos",
-                                                  "start":  "2026-09-24T05:41:39.0000000Z",
-                                                  "stop":  "2026-09-24T06:20:21.0000000Z",
-                                                  "itemId":  "8988d98fd90679aab5aff5b786344b1c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
+                                                  "title":  "Carrito",
+                                                  "start":  "2026-09-24T05:56:37.0000000Z",
+                                                  "stop":  "2026-09-24T06:12:47.0000000Z",
+                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Dancing Cobra",
                                               "start":  "2026-09-24T06:04:16.0000000Z",
-                                              "stop":  "2026-09-24T06:21:32.0000000Z",
+                                              "stop":  "2026-09-24T06:05:21.0000000Z",
                                               "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                               "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-09-24T06:04:16.0000000Z",
-                                                    "stop":  "2026-09-24T06:21:32.0000000Z",
+                                                    "stop":  "2026-09-24T06:05:21.0000000Z",
                                                     "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                                     "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                     "description":  null,
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-09-24T06:05:21.0000000Z",
-                                                    "stop":  "2026-09-24T06:37:36.0000000Z",
+                                                    "stop":  "2026-09-24T06:06:19.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-09-24T06:06:19.0000000Z",
-                                                    "stop":  "2026-09-24T06:31:10.0000000Z",
+                                                    "stop":  "2026-09-24T06:08:01.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-09-24T06:08:01.0000000Z",
-                                                    "stop":  "2026-09-24T06:11:53.0000000Z",
+                                                    "stop":  "2026-09-24T06:30:38.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-09-24T06:11:58.0000000Z",
-                                                    "stop":  "2026-09-24T06:37:35.0000000Z",
+                                                    "stop":  "2026-09-24T06:14:10.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-09-24T06:14:10.0000000Z",
-                                                    "stop":  "2026-09-24T06:55:31.0000000Z",
+                                                    "stop":  "2026-09-24T06:23:25.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-09-24T06:14:52.0000000Z",
-                                                    "stop":  "2026-09-24T07:03:53.0000000Z",
+                                                    "stop":  "2026-09-24T06:24:14.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-09-24T06:15:41.0000000Z",
-                                                    "stop":  "2026-09-24T06:17:09.0000000Z",
+                                                    "stop":  "2026-09-24T06:25:42.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
