@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-24T17:50:08.0907500Z",
+    "updated":  "2026-09-24T17:51:07.4823786Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,11 +581,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "0Ld Sc00L",
-                                                  "start":  "2026-09-24T17:13:11.0000000Z",
-                                                  "stop":  "2026-09-24T17:54:38.0000000Z",
-                                                  "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
-                                                  "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                  "title":  "BloodJoke",
+                                                  "start":  "2026-09-24T17:34:43.0000000Z",
+                                                  "stop":  "2026-09-24T18:13:31.0000000Z",
+                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-09-24T17:54:38.0000000Z",
-                                                    "stop":  "2026-09-24T17:55:27.0000000Z",
+                                                    "stop":  "2026-09-24T18:32:04.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-09-24T17:55:27.0000000Z",
-                                                    "stop":  "2026-09-24T17:56:55.0000000Z",
+                                                    "stop":  "2026-09-24T18:13:14.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "0Ld Sc00L",
                                                     "start":  "2026-09-24T17:56:55.0000000Z",
-                                                    "stop":  "2026-09-24T17:57:43.0000000Z",
+                                                    "stop":  "2026-09-24T18:14:04.0000000Z",
                                                     "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
                                                     "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "After H0uRs",
                                                     "start":  "2026-09-24T17:57:43.0000000Z",
-                                                    "stop":  "2026-09-24T17:58:32.0000000Z",
+                                                    "stop":  "2026-09-24T18:30:20.0000000Z",
                                                     "itemId":  "150bbae732cd647eeed3060cd67b032f",
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-09-24T17:58:32.0000000Z",
-                                                    "stop":  "2026-09-24T18:04:28.0000000Z",
+                                                    "stop":  "2026-09-24T18:28:24.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                     "description":  null,
