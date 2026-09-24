@@ -1,5 +1,17 @@
 {
-    "updated":  "2026-09-24T10:42:09.9800221Z",
+    "updated":  "2026-09-24T10:44:56.2447153Z",
+    "channels":  {
+                     "1":  {
+                               "number":  1,
+                               "name":  "FIRMELAB CINEMA",
+                               "nowPlaying":  {
+                                                  "title":  "Black Hawk Down",
+                                                  "start":  "2026-09-24T09:54:25.0000000Z",
+                                                  "stop":  "2026-09-24T12:18:58.0000000Z",
+                                                  "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
+                                                  "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
+                                                  "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing {
+    "updated":  "2026-09-24T10:44:42.6383880Z",
     "channels":  {
                      "1":  {
                                "number":  1,
