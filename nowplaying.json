@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-25T00:48:10.1357714Z",
+    "updated":  "2026-09-25T00:49:09.4724930Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,13 +581,13 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Duende",
-                                                  "start":  "2026-09-25T00:19:43.0000000Z",
-                                                  "stop":  "2026-09-25T00:48:29.0000000Z",
-                                                  "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                                  "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                                  "title":  "T2",
+                                                  "start":  "2026-09-25T00:41:34.0000000Z",
+                                                  "stop":  "2026-09-25T01:18:57.0000000Z",
+                                                  "itemId":  "1315943017e226076a7899408d36dec5",
+                                                  "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
                                               "title":  "MrPayo",
