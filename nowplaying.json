@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-25T02:14:07.9874393Z",
+    "updated":  "2026-09-25T02:15:06.8851655Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,33 +581,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "BloodJoke",
-                                                  "start":  "2026-09-25T01:35:48.0000000Z",
-                                                  "stop":  "2026-09-25T02:14:37.0000000Z",
-                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                  "title":  "Dancing Cobra",
+                                                  "start":  "2026-09-25T01:45:07.0000000Z",
+                                                  "stop":  "2026-09-25T02:29:31.0000000Z",
+                                                  "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                                  "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "COKCE6139",
-                                              "start":  "2026-09-25T02:14:35.0000000Z",
-                                              "stop":  "2026-09-25T02:15:36.0000000Z",
-                                              "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
-                                              "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
+                                              "title":  "MrPayo",
+                                              "start":  "2026-09-25T02:16:46.0000000Z",
+                                              "stop":  "2026-09-25T02:46:46.0000000Z",
+                                              "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
+                                              "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "COKCE6139",
-                                                    "start":  "2026-09-25T02:14:35.0000000Z",
-                                                    "stop":  "2026-09-25T02:15:36.0000000Z",
-                                                    "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "MrPayo",
                                                     "start":  "2026-09-25T02:16:46.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-09-25T02:32:04.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "JamminG",
+                                                    "start":  "2026-09-25T02:32:37.0000000Z",
+                                                    "stop":  "2026-09-25T02:36:29.0000000Z",
+                                                    "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                                    "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
