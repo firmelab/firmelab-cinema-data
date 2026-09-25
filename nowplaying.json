@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-25T07:57:06.6697707Z",
+    "updated":  "2026-09-25T07:58:06.7537092Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,37 +581,28 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "T2",
-                                                  "start":  "2026-09-25T07:15:12.0000000Z",
-                                                  "stop":  "2026-09-25T08:03:55.0000000Z",
-                                                  "itemId":  "1315943017e226076a7899408d36dec5",
-                                                  "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
+                                                  "title":  "JamminG",
+                                                  "start":  "2026-09-25T07:38:46.0000000Z",
+                                                  "stop":  "2026-09-25T08:19:51.0000000Z",
+                                                  "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Mr J-Carry",
-                                              "start":  "2026-09-25T07:58:00.0000000Z",
-                                              "stop":  "2026-09-25T07:58:32.0000000Z",
-                                              "itemId":  "56c94066e018711311e81d6a3f6cc139",
-                                              "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
+                                              "title":  "T2",
+                                              "start":  "2026-09-25T07:58:56.0000000Z",
+                                              "stop":  "2026-09-25T08:31:16.0000000Z",
+                                              "itemId":  "1315943017e226076a7899408d36dec5",
+                                              "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
                                                 {
-                                                    "title":  "Mr J-Carry",
-                                                    "start":  "2026-09-25T07:58:00.0000000Z",
-                                                    "stop":  "2026-09-25T07:58:32.0000000Z",
-                                                    "itemId":  "56c94066e018711311e81d6a3f6cc139",
-                                                    "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
-                                                {
                                                     "title":  "T2",
                                                     "start":  "2026-09-25T07:58:56.0000000Z",
-                                                    "stop":  "2026-09-25T07:59:28.0000000Z",
+                                                    "stop":  "2026-09-25T08:31:16.0000000Z",
                                                     "itemId":  "1315943017e226076a7899408d36dec5",
                                                     "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                                     "description":  null,
@@ -620,7 +611,7 @@
                                                 {
                                                     "title":  "Ricardo \u0026 Mocoso",
                                                     "start":  "2026-09-25T07:59:28.0000000Z",
-                                                    "stop":  "2026-09-25T08:01:43.0000000Z",
+                                                    "stop":  "2026-09-25T08:25:39.0000000Z",
                                                     "itemId":  "0e268bdc592953760cc985e16953d93d",
                                                     "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
                                                     "description":  null,
@@ -638,7 +629,7 @@
                                                 {
                                                     "title":  "COKCE6139",
                                                     "start":  "2026-09-25T08:04:28.0000000Z",
-                                                    "stop":  "2026-09-25T08:05:29.0000000Z",
+                                                    "stop":  "2026-09-25T08:30:04.0000000Z",
                                                     "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
                                                     "description":  null,
@@ -647,7 +638,7 @@
                                                 {
                                                     "title":  "MrPayo",
                                                     "start":  "2026-09-25T08:06:39.0000000Z",
-                                                    "stop":  "2026-09-25T08:07:21.0000000Z",
+                                                    "stop":  "2026-09-25T08:48:23.0000000Z",
                                                     "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
                                                     "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
                                                     "description":  null,
@@ -656,7 +647,7 @@
                                                 {
                                                     "title":  "Oz",
                                                     "start":  "2026-09-25T08:07:44.0000000Z",
-                                                    "stop":  "2026-09-25T08:08:57.0000000Z",
+                                                    "stop":  "2026-09-25T08:57:37.0000000Z",
                                                     "itemId":  "f332ba1673f9273e5349cd38b640cf51",
                                                     "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                                     "description":  null,
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-09-25T08:11:01.0000000Z",
                                                     "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
                                                     "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Carrito",
+                                                    "start":  "2026-09-25T08:11:06.0000000Z",
+                                                    "stop":  "2026-09-25T08:55:36.0000000Z",
+                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
