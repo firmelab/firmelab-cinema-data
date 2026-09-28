@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-28T02:01:05.8389526Z",
+    "updated":  "2026-09-28T02:02:05.8311686Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,13 +101,13 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Wrong Turn",
-                                                  "start":  "2026-09-28T00:35:39.0000000Z",
+                                                  "title":  "Hella Horror",
+                                                  "start":  "2026-09-28T02:00:00.0000000Z",
                                                   "stop":  "2026-09-28T02:09:33.0000000Z",
-                                                  "itemId":  "58d332deb67464546d571f7fda1cd63c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
-                                                  "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
-                                                  "year":  2003
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Resident Evil- Apocalypse",
@@ -581,18 +581,18 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "COKCE6139",
-                                                  "start":  "2026-09-28T01:40:41.0000000Z",
-                                                  "stop":  "2026-09-28T02:20:04.0000000Z",
-                                                  "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
+                                                  "title":  "JamminG",
+                                                  "start":  "2026-09-28T01:58:43.0000000Z",
+                                                  "stop":  "2026-09-28T02:11:17.0000000Z",
+                                                  "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Never 3Nding",
                                               "start":  "2026-09-28T02:02:40.0000000Z",
-                                              "stop":  "2026-09-28T02:21:00.0000000Z",
+                                              "stop":  "2026-09-28T02:04:52.0000000Z",
                                               "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                               "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-09-28T02:02:40.0000000Z",
-                                                    "stop":  "2026-09-28T02:21:00.0000000Z",
+                                                    "stop":  "2026-09-28T02:04:52.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-09-28T02:04:52.0000000Z",
-                                                    "stop":  "2026-09-28T02:21:44.0000000Z",
+                                                    "stop":  "2026-09-28T02:05:34.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-09-28T02:05:34.0000000Z",
-                                                    "stop":  "2026-09-28T02:37:51.0000000Z",
+                                                    "stop":  "2026-09-28T02:06:23.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-09-28T02:06:23.0000000Z",
-                                                    "stop":  "2026-09-28T02:31:32.0000000Z",
+                                                    "stop":  "2026-09-28T02:26:31.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "After H0uRs",
                                                     "start":  "2026-09-28T02:08:39.0000000Z",
-                                                    "stop":  "2026-09-28T02:32:53.0000000Z",
+                                                    "stop":  "2026-09-28T02:18:01.0000000Z",
                                                     "itemId":  "150bbae732cd647eeed3060cd67b032f",
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-09-28T02:09:28.0000000Z",
-                                                    "stop":  "2026-09-28T02:56:02.0000000Z",
+                                                    "stop":  "2026-09-28T02:23:56.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-09-28T02:15:24.0000000Z",
-                                                    "stop":  "2026-09-28T03:04:16.0000000Z",
+                                                    "stop":  "2026-09-28T02:24:38.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
