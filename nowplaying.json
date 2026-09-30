@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-30T19:27:05.4656290Z",
+    "updated":  "2026-09-30T19:28:05.4944617Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,11 +581,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Biggie Mobbing",
-                                                  "start":  "2026-09-30T19:07:52.0000000Z",
-                                                  "stop":  "2026-09-30T19:27:25.0000000Z",
-                                                  "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
+                                                  "title":  "XocoBruja",
+                                                  "start":  "2026-09-30T19:14:09.0000000Z",
+                                                  "stop":  "2026-09-30T19:44:13.0000000Z",
+                                                  "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
+                                                  "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
