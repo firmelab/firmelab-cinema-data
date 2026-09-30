@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-09-30T07:26:05.8936834Z",
+    "updated":  "2026-09-30T07:27:05.9078967Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "The Patriot",
-                                                  "start":  "2026-09-30T04:41:50.0000000Z",
-                                                  "stop":  "2026-09-30T07:27:01.0000000Z",
-                                                  "itemId":  "17b673273650da7e33ae51350e123fb0",
-                                                  "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
-                                                  "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
-                                                  "year":  2000
+                                                  "title":  "Dusk Till Dawn",
+                                                  "start":  "2026-09-30T07:26:49.0000000Z",
+                                                  "stop":  "2026-09-30T09:14:50.0000000Z",
+                                                  "itemId":  "648811d2182191a63ce32eb861ad9020",
+                                                  "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
+                                                  "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
+                                                  "year":  1996
                                               },
                                "upNext":  {
-                                              "title":  "Dusk Till Dawn",
-                                              "start":  "2026-09-30T07:26:49.0000000Z",
-                                              "stop":  "2026-09-30T09:14:50.0000000Z",
-                                              "itemId":  "648811d2182191a63ce32eb861ad9020",
-                                              "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
-                                              "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
-                                              "year":  1996
+                                              "title":  "A Nightmare on Elm Street 2 Freddy\u0027s Revenge",
+                                              "start":  "2026-09-30T09:14:50.0000000Z",
+                                              "stop":  "2026-09-30T10:40:44.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Dusk Till Dawn",
-                                                    "start":  "2026-09-30T07:26:49.0000000Z",
-                                                    "stop":  "2026-09-30T09:14:50.0000000Z",
-                                                    "itemId":  "648811d2182191a63ce32eb861ad9020",
-                                                    "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
-                                                    "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
-                                                    "year":  1996
-                                                },
                                                 {
                                                     "title":  "A Nightmare on Elm Street 2 Freddy\u0027s Revenge",
                                                     "start":  "2026-09-30T09:14:50.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Seventh Sign",
+                                                    "start":  "2026-09-30T20:57:57.0000000Z",
+                                                    "stop":  "2026-09-30T22:35:06.0000000Z",
+                                                    "itemId":  "ee279419a64df59247370e38f4f0deea",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ee279419a64df59247370e38f4f0deea/Images/Primary",
+                                                    "description":  "Abby is a pregnant woman with a curious new boarder in the apartment over her garage. Turns out he\u0027s heaven-sent and is speeding along the Apocalypse by bloodying rivers, egging on plagues and following scripture word for word.",
+                                                    "year":  1988
                                                 }
                                             ]
                            },
