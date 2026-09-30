@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-09-30T23:01:11.9156872Z",
+    "updated":  "2026-09-30T23:02:07.4034093Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -7,7 +7,7 @@
                                "nowPlaying":  {
                                                   "title":  "Conan The Destroyer",
                                                   "start":  "2026-09-30T22:35:06.0000000Z",
-                                                  "stop":  "2026-10-01T00:16:14.0000000Z",
+                                                  "stop":  "2026-10-01T00:16:26.0000000Z",
                                                   "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
                                                   "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
                                                   "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
@@ -16,7 +16,7 @@
                                "upNext":  {
                                               "title":  "Firmelab Cinema",
                                               "start":  "2026-10-01T00:16:14.0000000Z",
-                                              "stop":  "2026-10-01T02:32:25.0000000Z",
+                                              "stop":  "2026-10-01T02:32:14.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
@@ -26,7 +26,7 @@
                                                 {
                                                     "title":  "Firmelab Cinema",
                                                     "start":  "2026-10-01T00:16:14.0000000Z",
-                                                    "stop":  "2026-10-01T02:32:25.0000000Z",
+                                                    "stop":  "2026-10-01T02:32:14.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -35,7 +35,7 @@
                                                 {
                                                     "title":  "FRIGHT NIGHT",
                                                     "start":  "2026-10-01T02:32:26.0000000Z",
-                                                    "stop":  "2026-10-01T04:18:56.0000000Z",
+                                                    "stop":  "2026-10-01T04:19:08.0000000Z",
                                                     "itemId":  "8bda9bd3955398694e4a57e90f6c4904",
                                                     "poster":  "http://127.0.0.1:8096/Items/8bda9bd3955398694e4a57e90f6c4904/Images/Primary",
                                                     "description":  "Charley Brewster, a high school student, accidentally discovers the true and creepy nature of Jerry Dandrige, his dashing and enigmatic new neighbor; but no one seems willing to believe him.",
@@ -581,18 +581,18 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "After H0uRs",
-                                                  "start":  "2026-09-30T22:39:48.0000000Z",
-                                                  "stop":  "2026-09-30T23:17:50.0000000Z",
-                                                  "itemId":  "150bbae732cd647eeed3060cd67b032f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
+                                                  "title":  "Oz",
+                                                  "start":  "2026-09-30T22:58:50.0000000Z",
+                                                  "stop":  "2026-09-30T23:09:08.0000000Z",
+                                                  "itemId":  "f332ba1673f9273e5349cd38b640cf51",
+                                                  "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
                                               "title":  "Carrito",
                                               "start":  "2026-09-30T23:02:12.0000000Z",
-                                              "stop":  "2026-09-30T23:33:32.0000000Z",
+                                              "stop":  "2026-09-30T23:09:51.0000000Z",
                                               "itemId":  "ed83754111f4ed370a338cab8345534d",
                                               "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-09-30T23:02:12.0000000Z",
-                                                    "stop":  "2026-09-30T23:33:32.0000000Z",
+                                                    "stop":  "2026-09-30T23:09:51.0000000Z",
                                                     "itemId":  "ed83754111f4ed370a338cab8345534d",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-09-30T23:10:56.0000000Z",
-                                                    "stop":  "2026-09-30T23:35:08.0000000Z",
+                                                    "stop":  "2026-09-30T23:30:35.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-09-30T23:11:54.0000000Z",
-                                                    "stop":  "2026-09-30T23:53:42.0000000Z",
+                                                    "stop":  "2026-09-30T23:13:36.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-09-30T23:13:36.0000000Z",
-                                                    "stop":  "2026-10-01T00:05:39.0000000Z",
+                                                    "stop":  "2026-09-30T23:26:06.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-09-30T23:17:33.0000000Z",
-                                                    "stop":  "2026-09-30T23:19:45.0000000Z",
+                                                    "stop":  "2026-09-30T23:28:18.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-09-30T23:19:45.0000000Z",
-                                                    "stop":  "2026-09-30T23:57:19.0000000Z",
+                                                    "stop":  "2026-09-30T23:29:00.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-09-30T23:20:27.0000000Z",
-                                                    "stop":  "2026-09-30T23:21:16.0000000Z",
+                                                    "stop":  "2026-09-30T23:48:36.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
