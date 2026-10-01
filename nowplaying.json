@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-01T00:43:05.9052562Z",
+    "updated":  "2026-10-01T00:44:05.9208606Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,13 +581,13 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Chingadasos",
-                                                  "start":  "2026-10-01T00:14:42.0000000Z",
-                                                  "stop":  "2026-10-01T00:43:54.0000000Z",
-                                                  "itemId":  "8988d98fd90679aab5aff5b786344b1c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
+                                                  "title":  "Duende",
+                                                  "start":  "2026-10-01T00:39:23.0000000Z",
+                                                  "stop":  "2026-10-01T01:17:45.0000000Z",
+                                                  "itemId":  "80d6feb8f0c835e935a80db3275c5412",
+                                                  "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Never 3Nding",
