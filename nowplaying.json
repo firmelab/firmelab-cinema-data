@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-02T19:46:08.8784419Z",
+    "updated":  "2026-10-02T19:47:09.9638019Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,95 +101,95 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "D1_t00",
-                                                  "start":  "2026-10-02T18:45:30.0000000Z",
-                                                  "stop":  "2026-10-02T21:01:23.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Dusk Till Dawn",
+                                                  "start":  "2026-10-02T18:58:07.0000000Z",
+                                                  "stop":  "2026-10-02T20:45:57.0000000Z",
+                                                  "itemId":  "648811d2182191a63ce32eb861ad9020",
+                                                  "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
+                                                  "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
+                                                  "year":  1996
                                               },
                                "upNext":  {
-                                              "title":  "World War Z",
-                                              "start":  "2026-10-02T21:01:23.0000000Z",
-                                              "stop":  "2026-10-02T23:08:42.0000000Z",
-                                              "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
-                                              "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
-                                              "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                              "year":  2013
+                                              "title":  "Critters",
+                                              "start":  "2026-10-02T20:45:57.0000000Z",
+                                              "stop":  "2026-10-02T22:11:48.0000000Z",
+                                              "itemId":  "54493e812aba3ee1edef65108ed95c05",
+                                              "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
+                                              "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
+                                              "year":  1988
                                           },
                                "upcoming":  [
                                                 {
-                                                    "title":  "World War Z",
-                                                    "start":  "2026-10-02T21:01:23.0000000Z",
-                                                    "stop":  "2026-10-02T23:08:42.0000000Z",
-                                                    "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
-                                                    "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                                    "year":  2013
+                                                    "title":  "Critters",
+                                                    "start":  "2026-10-02T20:45:57.0000000Z",
+                                                    "stop":  "2026-10-02T22:11:48.0000000Z",
+                                                    "itemId":  "54493e812aba3ee1edef65108ed95c05",
+                                                    "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
+                                                    "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
+                                                    "year":  1988
                                                 },
                                                 {
-                                                    "title":  "Boogeyman",
-                                                    "start":  "2026-10-02T23:08:42.0000000Z",
-                                                    "stop":  "2026-10-03T00:46:12.0000000Z",
-                                                    "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
-                                                    "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
-                                                    "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
-                                                    "year":  2005
-                                                },
-                                                {
-                                                    "title":  "Resident Evil- Apocalypse",
-                                                    "start":  "2026-10-03T00:46:12.0000000Z",
-                                                    "stop":  "2026-10-03T02:24:16.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
-                                                    "title":  "Underworld Evolution",
-                                                    "start":  "2026-10-03T02:24:16.0000000Z",
-                                                    "stop":  "2026-10-03T04:14:54.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
-                                                    "title":  "Land of the Dead",
-                                                    "start":  "2026-10-03T04:14:54.0000000Z",
-                                                    "stop":  "2026-10-03T05:55:58.0000000Z",
-                                                    "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
-                                                    "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
-                                                    "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
-                                                    "year":  2005
-                                                },
-                                                {
-                                                    "title":  "Dawn of the Dead",
-                                                    "start":  "2026-10-03T05:55:58.0000000Z",
-                                                    "stop":  "2026-10-03T07:53:51.0000000Z",
-                                                    "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
-                                                    "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
-                                                    "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
-                                                    "year":  2004
+                                                    "title":  "Critters 4",
+                                                    "start":  "2026-10-02T22:11:48.0000000Z",
+                                                    "stop":  "2026-10-02T23:46:35.0000000Z",
+                                                    "itemId":  "9236028cd5b40f7dab68ae6983570831",
+                                                    "poster":  "http://127.0.0.1:8096/Items/9236028cd5b40f7dab68ae6983570831/Images/Primary",
+                                                    "description":  "A super strain of genetically engineered mutants are designed to take over the universe, hungry to conquer the galaxy, with an appetite for mankind.",
+                                                    "year":  1992
                                                 },
                                                 {
                                                     "title":  "Wrong Turn",
-                                                    "start":  "2026-10-03T07:53:51.0000000Z",
-                                                    "stop":  "2026-10-03T09:26:44.0000000Z",
+                                                    "start":  "2026-10-02T23:46:25.0000000Z",
+                                                    "stop":  "2026-10-03T01:10:37.0000000Z",
                                                     "itemId":  "58d332deb67464546d571f7fda1cd63c",
                                                     "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
                                                     "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
                                                     "year":  2003
                                                 },
                                                 {
-                                                    "title":  "Resident Evil",
-                                                    "start":  "2026-10-03T09:26:44.0000000Z",
-                                                    "stop":  "2026-10-03T11:11:30.0000000Z",
-                                                    "itemId":  "760d913661074a3a3f5a58738842a2f8",
-                                                    "poster":  "http://127.0.0.1:8096/Items/760d913661074a3a3f5a58738842a2f8/Images/Primary",
-                                                    "description":  "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
-                                                    "year":  2002
+                                                    "title":  "FRIGHT NIGHT",
+                                                    "start":  "2026-10-03T01:10:37.0000000Z",
+                                                    "stop":  "2026-10-03T02:57:17.0000000Z",
+                                                    "itemId":  "8bda9bd3955398694e4a57e90f6c4904",
+                                                    "poster":  "http://127.0.0.1:8096/Items/8bda9bd3955398694e4a57e90f6c4904/Images/Primary",
+                                                    "description":  "Charley Brewster, a high school student, accidentally discovers the true and creepy nature of Jerry Dandrige, his dashing and enigmatic new neighbor; but no one seems willing to believe him.",
+                                                    "year":  1985
+                                                },
+                                                {
+                                                    "title":  "WISHMASTER part 2",
+                                                    "start":  "2026-10-03T02:57:17.0000000Z",
+                                                    "stop":  "2026-10-03T04:33:27.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Boogeyman",
+                                                    "start":  "2026-10-03T04:33:17.0000000Z",
+                                                    "stop":  "2026-10-03T06:02:07.0000000Z",
+                                                    "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
+                                                    "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
+                                                    "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
+                                                    "year":  2005
+                                                },
+                                                {
+                                                    "title":  "WISHMASTER",
+                                                    "start":  "2026-10-03T06:02:07.0000000Z",
+                                                    "stop":  "2026-10-03T07:32:03.0000000Z",
+                                                    "itemId":  "58d933a690c3d71b883c09370fa30d07",
+                                                    "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
+                                                    "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
+                                                    "year":  1997
+                                                },
+                                                {
+                                                    "title":  "A Nightmare on Elm Street",
+                                                    "start":  "2026-10-03T07:32:03.0000000Z",
+                                                    "stop":  "2026-10-03T09:03:36.0000000Z",
+                                                    "itemId":  "c79ef56b1b57aea8237d2575aba106ee",
+                                                    "poster":  "http://127.0.0.1:8096/Items/c79ef56b1b57aea8237d2575aba106ee/Images/Primary",
+                                                    "description":  "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop\u0027s daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers\u0027 children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
+                                                    "year":  1984
                                                 }
                                             ]
                            },
@@ -583,7 +583,7 @@
                                "nowPlaying":  {
                                                   "title":  "Duende",
                                                   "start":  "2026-10-02T19:39:47.0000000Z",
-                                                  "stop":  "2026-10-02T20:18:09.0000000Z",
+                                                  "stop":  "2026-10-02T20:18:32.0000000Z",
                                                   "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                   "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                   "description":  null,
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-10-02T19:48:20.0000000Z",
-                                                    "stop":  "2026-10-02T20:28:49.0000000Z",
+                                                    "stop":  "2026-10-02T20:29:13.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-10-02T19:52:14.0000000Z",
-                                                    "stop":  "2026-10-02T20:34:46.0000000Z",
+                                                    "stop":  "2026-10-02T20:35:08.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-10-02T19:58:09.0000000Z",
-                                                    "stop":  "2026-10-02T20:15:09.0000000Z",
+                                                    "stop":  "2026-10-02T20:15:19.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Chingadasos",
                                                     "start":  "2026-10-02T19:58:51.0000000Z",
-                                                    "stop":  "2026-10-02T20:15:57.0000000Z",
+                                                    "stop":  "2026-10-02T20:16:07.0000000Z",
                                                     "itemId":  "8988d98fd90679aab5aff5b786344b1c",
                                                     "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
                                                     "description":  null,
