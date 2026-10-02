@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-02T07:46:05.3756449Z",
+    "updated":  "2026-10-02T07:47:05.3555273Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -197,33 +197,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Predator",
-                                                  "start":  "2026-10-02T06:00:17.0000000Z",
-                                                  "stop":  "2026-10-02T07:46:51.0000000Z",
-                                                  "itemId":  "9745bbd80aedfd3750130547f37af704",
-                                                  "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
-                                                  "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
-                                                  "year":  1987
+                                                  "title":  "Rambo First Blood",
+                                                  "start":  "2026-10-02T07:46:51.0000000Z",
+                                                  "stop":  "2026-10-02T09:20:00.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Rambo First Blood",
-                                              "start":  "2026-10-02T07:46:51.0000000Z",
-                                              "stop":  "2026-10-02T09:20:00.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Sherlock Holmes",
+                                              "start":  "2026-10-02T09:20:00.0000000Z",
+                                              "stop":  "2026-10-02T11:28:29.0000000Z",
+                                              "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
+                                              "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
+                                              "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
+                                              "year":  2009
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Rambo First Blood",
-                                                    "start":  "2026-10-02T07:46:51.0000000Z",
-                                                    "stop":  "2026-10-02T09:20:00.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Sherlock Holmes",
                                                     "start":  "2026-10-02T09:20:00.0000000Z",
@@ -286,6 +277,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
                                                     "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
                                                     "year":  1993
+                                                },
+                                                {
+                                                    "title":  "Total Recall",
+                                                    "start":  "2026-10-02T22:14:28.0000000Z",
+                                                    "stop":  "2026-10-03T00:07:48.0000000Z",
+                                                    "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
+                                                    "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
+                                                    "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
+                                                    "year":  1990
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Oz",
-                                              "start":  "2026-10-02T07:46:56.0000000Z",
-                                              "stop":  "2026-10-02T07:48:38.0000000Z",
-                                              "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                              "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                              "title":  "BloodJoke",
+                                              "start":  "2026-10-02T07:48:38.0000000Z",
+                                              "stop":  "2026-10-02T08:29:29.0000000Z",
+                                              "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                              "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Oz",
-                                                    "start":  "2026-10-02T07:46:56.0000000Z",
-                                                    "stop":  "2026-10-02T07:48:38.0000000Z",
-                                                    "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "BloodJoke",
                                                     "start":  "2026-10-02T07:48:38.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Ninja Now",
+                                                    "start":  "2026-10-02T08:07:51.0000000Z",
+                                                    "stop":  "2026-10-02T08:40:02.0000000Z",
+                                                    "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
