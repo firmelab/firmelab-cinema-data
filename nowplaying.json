@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-03T05:47:10.9360495Z",
+    "updated":  "2026-10-03T05:48:05.9901809Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,11 +581,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "0Ld Sc00L",
-                                                  "start":  "2026-10-03T05:19:10.0000000Z",
-                                                  "stop":  "2026-10-03T05:47:18.0000000Z",
-                                                  "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
-                                                  "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                  "title":  "BloodJoke",
+                                                  "start":  "2026-10-03T05:40:42.0000000Z",
+                                                  "stop":  "2026-10-03T06:19:30.0000000Z",
+                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
