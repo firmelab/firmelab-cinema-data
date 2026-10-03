@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-03T07:01:17.1134895Z",
+    "updated":  "2026-10-03T07:02:14.4405588Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -112,7 +112,7 @@
                                "upNext":  {
                                               "title":  "A Nightmare on Elm Street",
                                               "start":  "2026-10-03T07:32:03.0000000Z",
-                                              "stop":  "2026-10-03T09:03:46.0000000Z",
+                                              "stop":  "2026-10-03T09:03:36.0000000Z",
                                               "itemId":  "c79ef56b1b57aea8237d2575aba106ee",
                                               "poster":  "http://127.0.0.1:8096/Items/c79ef56b1b57aea8237d2575aba106ee/Images/Primary",
                                               "description":  "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop\u0027s daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers\u0027 children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
@@ -122,7 +122,7 @@
                                                 {
                                                     "title":  "A Nightmare on Elm Street",
                                                     "start":  "2026-10-03T07:32:03.0000000Z",
-                                                    "stop":  "2026-10-03T09:03:46.0000000Z",
+                                                    "stop":  "2026-10-03T09:03:36.0000000Z",
                                                     "itemId":  "c79ef56b1b57aea8237d2575aba106ee",
                                                     "poster":  "http://127.0.0.1:8096/Items/c79ef56b1b57aea8237d2575aba106ee/Images/Primary",
                                                     "description":  "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop\u0027s daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers\u0027 children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
@@ -131,7 +131,7 @@
                                                 {
                                                     "title":  "BORDELLO OF BLOOD",
                                                     "start":  "2026-10-03T09:03:36.0000000Z",
-                                                    "stop":  "2026-10-03T10:30:07.0000000Z",
+                                                    "stop":  "2026-10-03T10:30:17.0000000Z",
                                                     "itemId":  "b03986ae5fac22e258cf02b8c89bc7a4",
                                                     "poster":  "http://127.0.0.1:8096/Items/b03986ae5fac22e258cf02b8c89bc7a4/Images/Primary",
                                                     "description":  "Private eye Rafe Guttman is hired by repressed, born-again Katherine to find her missing bad-boy brother. The trail leads him to a whorehouse run by a thousand-year-old vampire and secretly backed by Katherine\u0027s boss, televangelist Jimmy Current.",
@@ -149,7 +149,7 @@
                                                 {
                                                     "title":  "Resident Evil- Apocalypse",
                                                     "start":  "2026-10-03T12:06:57.0000000Z",
-                                                    "stop":  "2026-10-03T13:40:56.0000000Z",
+                                                    "stop":  "2026-10-03T13:40:46.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -158,7 +158,7 @@
                                                 {
                                                     "title":  "Critters 2",
                                                     "start":  "2026-10-03T13:40:46.0000000Z",
-                                                    "stop":  "2026-10-03T15:06:41.0000000Z",
+                                                    "stop":  "2026-10-03T15:06:51.0000000Z",
                                                     "itemId":  "54493e812aba3ee1edef65108ed95c05",
                                                     "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
                                                     "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
@@ -185,7 +185,7 @@
                                                 {
                                                     "title":  "Underworld Evolution",
                                                     "start":  "2026-10-03T18:40:16.0000000Z",
-                                                    "stop":  "2026-10-03T20:26:50.0000000Z",
+                                                    "stop":  "2026-10-03T20:26:40.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "DEATH PROOF",
                                                     "start":  "2026-10-03T10:11:57.0000000Z",
-                                                    "stop":  "2026-10-03T12:05:50.0000000Z",
+                                                    "stop":  "2026-10-03T12:05:30.0000000Z",
                                                     "itemId":  "5220d04d46ddf5fa55aacae5d4916919",
                                                     "poster":  "http://127.0.0.1:8096/Items/5220d04d46ddf5fa55aacae5d4916919/Images/Primary",
                                                     "description":  "Austin\u0027s hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "Conan The Barbarian",
                                                     "start":  "2026-10-03T12:05:30.0000000Z",
-                                                    "stop":  "2026-10-03T14:15:52.0000000Z",
+                                                    "stop":  "2026-10-03T14:16:12.0000000Z",
                                                     "itemId":  "d0a933c7f9688726a8f9a30f309399ad",
                                                     "poster":  "http://127.0.0.1:8096/Items/d0a933c7f9688726a8f9a30f309399ad/Images/Primary",
                                                     "description":  "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "Rambo First Blood",
                                                     "start":  "2026-10-03T19:55:48.0000000Z",
-                                                    "stop":  "2026-10-03T21:29:08.0000000Z",
+                                                    "stop":  "2026-10-03T21:28:58.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "Commando",
                                                     "start":  "2026-10-03T21:28:58.0000000Z",
-                                                    "stop":  "2026-10-03T22:59:11.0000000Z",
+                                                    "stop":  "2026-10-03T22:59:21.0000000Z",
                                                     "itemId":  "4d57925cf6d4f5a046509bad0a68d29f",
                                                     "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
                                                     "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
@@ -389,33 +389,24 @@
                                "number":  5,
                                "name":  "FIRMELAB TOONS",
                                "nowPlaying":  {
-                                                  "title":  "Who Framed Roger Rabbit",
-                                                  "start":  "2026-10-03T05:17:42.0000000Z",
-                                                  "stop":  "2026-10-03T07:01:28.0000000Z",
-                                                  "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
-                                                  "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
-                                                  "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
-                                                  "year":  1988
+                                                  "title":  "HEAVY METAL",
+                                                  "start":  "2026-10-03T07:01:28.0000000Z",
+                                                  "stop":  "2026-10-03T08:31:50.0000000Z",
+                                                  "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                                  "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                                  "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                                  "year":  1981
                                               },
                                "upNext":  {
-                                              "title":  "HEAVY METAL",
-                                              "start":  "2026-10-03T07:01:28.0000000Z",
-                                              "stop":  "2026-10-03T08:31:50.0000000Z",
-                                              "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
-                                              "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
-                                              "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
-                                              "year":  1981
+                                              "title":  "Who Framed Roger Rabbit",
+                                              "start":  "2026-10-03T08:31:50.0000000Z",
+                                              "stop":  "2026-10-03T10:15:35.0000000Z",
+                                              "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
+                                              "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
+                                              "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+                                              "year":  1988
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "HEAVY METAL",
-                                                    "start":  "2026-10-03T07:01:28.0000000Z",
-                                                    "stop":  "2026-10-03T08:31:50.0000000Z",
-                                                    "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
-                                                    "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
-                                                    "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
-                                                    "year":  1981
-                                                },
                                                 {
                                                     "title":  "Who Framed Roger Rabbit",
                                                     "start":  "2026-10-03T08:31:50.0000000Z",
@@ -478,6 +469,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
                                                     "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
                                                     "year":  1988
+                                                },
+                                                {
+                                                    "title":  "HEAVY METAL",
+                                                    "start":  "2026-10-03T19:57:56.0000000Z",
+                                                    "stop":  "2026-10-03T21:28:18.0000000Z",
+                                                    "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                                    "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                                    "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                                    "year":  1981
                                                 }
                                             ]
                            },
@@ -581,11 +581,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Never 3Nding",
-                                                  "start":  "2026-10-03T06:41:28.0000000Z",
-                                                  "stop":  "2026-10-03T07:20:52.0000000Z",
-                                                  "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
-                                                  "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
+                                                  "title":  "Ricardo \u0026 Mocoso",
+                                                  "start":  "2026-10-03T06:58:13.0000000Z",
+                                                  "stop":  "2026-10-03T07:09:05.0000000Z",
+                                                  "itemId":  "0e268bdc592953760cc985e16953d93d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "MrPayo",
                                                     "start":  "2026-10-03T07:05:23.0000000Z",
-                                                    "stop":  "2026-10-03T07:29:54.0000000Z",
+                                                    "stop":  "2026-10-03T07:06:29.0000000Z",
                                                     "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
                                                     "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "Oz",
                                                     "start":  "2026-10-03T07:06:29.0000000Z",
-                                                    "stop":  "2026-10-03T07:48:49.0000000Z",
+                                                    "stop":  "2026-10-03T07:27:02.0000000Z",
                                                     "itemId":  "f332ba1673f9273e5349cd38b640cf51",
                                                     "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "BloodJoke",
                                                     "start":  "2026-10-03T07:08:10.0000000Z",
-                                                    "stop":  "2026-10-03T07:57:57.0000000Z",
+                                                    "stop":  "2026-10-03T07:09:46.0000000Z",
                                                     "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
                                                     "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-10-03T07:09:51.0000000Z",
-                                                    "stop":  "2026-10-03T07:17:29.0000000Z",
+                                                    "stop":  "2026-10-03T07:26:07.0000000Z",
                                                     "itemId":  "ed83754111f4ed370a338cab8345534d",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-10-03T07:17:29.0000000Z",
-                                                    "stop":  "2026-10-03T07:55:27.0000000Z",
+                                                    "stop":  "2026-10-03T07:27:13.0000000Z",
                                                     "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                                     "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-10-03T07:18:35.0000000Z",
-                                                    "stop":  "2026-10-03T07:19:22.0000000Z",
+                                                    "stop":  "2026-10-03T07:28:00.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-10-03T07:19:33.0000000Z",
-                                                    "stop":  "2026-10-03T07:50:00.0000000Z",
+                                                    "stop":  "2026-10-03T07:48:19.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
