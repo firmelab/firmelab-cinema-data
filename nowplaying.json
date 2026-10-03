@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-03T03:01:06.6307264Z",
+    "updated":  "2026-10-03T03:02:06.3392695Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -112,7 +112,7 @@
                                "upNext":  {
                                               "title":  "Boogeyman",
                                               "start":  "2026-10-03T04:33:17.0000000Z",
-                                              "stop":  "2026-10-03T06:02:17.0000000Z",
+                                              "stop":  "2026-10-03T06:02:07.0000000Z",
                                               "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
                                               "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
                                               "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
@@ -122,7 +122,7 @@
                                                 {
                                                     "title":  "Boogeyman",
                                                     "start":  "2026-10-03T04:33:17.0000000Z",
-                                                    "stop":  "2026-10-03T06:02:17.0000000Z",
+                                                    "stop":  "2026-10-03T06:02:07.0000000Z",
                                                     "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
                                                     "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
                                                     "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
@@ -131,7 +131,7 @@
                                                 {
                                                     "title":  "WISHMASTER",
                                                     "start":  "2026-10-03T06:02:07.0000000Z",
-                                                    "stop":  "2026-10-03T07:32:03.0000000Z",
+                                                    "stop":  "2026-10-03T07:32:13.0000000Z",
                                                     "itemId":  "58d933a690c3d71b883c09370fa30d07",
                                                     "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
                                                     "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
@@ -149,7 +149,7 @@
                                                 {
                                                     "title":  "BORDELLO OF BLOOD",
                                                     "start":  "2026-10-03T09:03:36.0000000Z",
-                                                    "stop":  "2026-10-03T10:30:17.0000000Z",
+                                                    "stop":  "2026-10-03T10:30:07.0000000Z",
                                                     "itemId":  "b03986ae5fac22e258cf02b8c89bc7a4",
                                                     "poster":  "http://127.0.0.1:8096/Items/b03986ae5fac22e258cf02b8c89bc7a4/Images/Primary",
                                                     "description":  "Private eye Rafe Guttman is hired by repressed, born-again Katherine to find her missing bad-boy brother. The trail leads him to a whorehouse run by a thousand-year-old vampire and secretly backed by Katherine\u0027s boss, televangelist Jimmy Current.",
@@ -158,7 +158,7 @@
                                                 {
                                                     "title":  "Land of the Dead",
                                                     "start":  "2026-10-03T10:30:07.0000000Z",
-                                                    "stop":  "2026-10-03T12:06:57.0000000Z",
+                                                    "stop":  "2026-10-03T12:07:07.0000000Z",
                                                     "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
                                                     "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
                                                     "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
@@ -185,7 +185,7 @@
                                                 {
                                                     "title":  "Blade",
                                                     "start":  "2026-10-03T15:06:41.0000000Z",
-                                                    "stop":  "2026-10-03T17:07:05.0000000Z",
+                                                    "stop":  "2026-10-03T17:06:55.0000000Z",
                                                     "itemId":  "b15fb14f946bc7e00478a81aa4943fdf",
                                                     "poster":  "http://127.0.0.1:8096/Items/b15fb14f946bc7e00478a81aa4943fdf/Images/Primary",
                                                     "description":  "The Daywalker known as \"Blade\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "Conan The Destroyer",
                                                     "start":  "2026-10-03T06:22:10.0000000Z",
-                                                    "stop":  "2026-10-03T08:03:38.0000000Z",
+                                                    "stop":  "2026-10-03T08:03:28.0000000Z",
                                                     "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
                                                     "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
                                                     "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "Sherlock Holmes",
                                                     "start":  "2026-10-03T08:03:28.0000000Z",
-                                                    "stop":  "2026-10-03T10:11:57.0000000Z",
+                                                    "stop":  "2026-10-03T10:12:07.0000000Z",
                                                     "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
                                                     "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
                                                     "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "ROBOCOP 3",
                                                     "start":  "2026-10-03T16:12:41.0000000Z",
-                                                    "stop":  "2026-10-03T17:57:42.0000000Z",
+                                                    "stop":  "2026-10-03T17:57:32.0000000Z",
                                                     "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
                                                     "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
                                                     "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "Bourne Identity",
                                                     "start":  "2026-10-03T17:57:32.0000000Z",
-                                                    "stop":  "2026-10-03T19:55:48.0000000Z",
+                                                    "stop":  "2026-10-03T19:55:58.0000000Z",
                                                     "itemId":  "ad22fba25f4ceaee407d76b5620443de",
                                                     "poster":  "http://127.0.0.1:8096/Items/ad22fba25f4ceaee407d76b5620443de/Images/Primary",
                                                     "description":  "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
@@ -581,18 +581,18 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "COKCE6139",
-                                                  "start":  "2026-10-03T02:40:48.0000000Z",
-                                                  "stop":  "2026-10-03T03:20:12.0000000Z",
-                                                  "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
+                                                  "title":  "JamminG",
+                                                  "start":  "2026-10-03T02:58:50.0000000Z",
+                                                  "stop":  "2026-10-03T03:11:24.0000000Z",
+                                                  "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Never 3Nding",
                                               "start":  "2026-10-03T03:02:47.0000000Z",
-                                              "stop":  "2026-10-03T03:21:08.0000000Z",
+                                              "stop":  "2026-10-03T03:04:59.0000000Z",
                                               "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                               "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-10-03T03:02:47.0000000Z",
-                                                    "stop":  "2026-10-03T03:21:08.0000000Z",
+                                                    "stop":  "2026-10-03T03:04:59.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-10-03T03:04:59.0000000Z",
-                                                    "stop":  "2026-10-03T03:21:51.0000000Z",
+                                                    "stop":  "2026-10-03T03:05:41.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-10-03T03:05:41.0000000Z",
-                                                    "stop":  "2026-10-03T03:37:58.0000000Z",
+                                                    "stop":  "2026-10-03T03:06:30.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-10-03T03:06:30.0000000Z",
-                                                    "stop":  "2026-10-03T03:31:39.0000000Z",
+                                                    "stop":  "2026-10-03T03:26:38.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "After H0uRs",
                                                     "start":  "2026-10-03T03:08:46.0000000Z",
-                                                    "stop":  "2026-10-03T03:33:01.0000000Z",
+                                                    "stop":  "2026-10-03T03:18:08.0000000Z",
                                                     "itemId":  "150bbae732cd647eeed3060cd67b032f",
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-10-03T03:09:35.0000000Z",
-                                                    "stop":  "2026-10-03T03:56:09.0000000Z",
+                                                    "stop":  "2026-10-03T03:24:04.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-10-03T03:15:31.0000000Z",
-                                                    "stop":  "2026-10-03T04:04:24.0000000Z",
+                                                    "stop":  "2026-10-03T03:24:45.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
