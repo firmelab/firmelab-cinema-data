@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-03T02:01:06.8080293Z",
+    "updated":  "2026-10-03T02:02:06.1846139Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -112,7 +112,7 @@
                                "upNext":  {
                                               "title":  "WISHMASTER part 2",
                                               "start":  "2026-10-03T02:57:17.0000000Z",
-                                              "stop":  "2026-10-03T04:33:27.0000000Z",
+                                              "stop":  "2026-10-03T04:33:17.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
@@ -122,7 +122,7 @@
                                                 {
                                                     "title":  "WISHMASTER part 2",
                                                     "start":  "2026-10-03T02:57:17.0000000Z",
-                                                    "stop":  "2026-10-03T04:33:27.0000000Z",
+                                                    "stop":  "2026-10-03T04:33:17.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -131,7 +131,7 @@
                                                 {
                                                     "title":  "Boogeyman",
                                                     "start":  "2026-10-03T04:33:17.0000000Z",
-                                                    "stop":  "2026-10-03T06:02:07.0000000Z",
+                                                    "stop":  "2026-10-03T06:02:17.0000000Z",
                                                     "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
                                                     "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
                                                     "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
@@ -149,7 +149,7 @@
                                                 {
                                                     "title":  "A Nightmare on Elm Street",
                                                     "start":  "2026-10-03T07:32:03.0000000Z",
-                                                    "stop":  "2026-10-03T09:03:46.0000000Z",
+                                                    "stop":  "2026-10-03T09:03:36.0000000Z",
                                                     "itemId":  "c79ef56b1b57aea8237d2575aba106ee",
                                                     "poster":  "http://127.0.0.1:8096/Items/c79ef56b1b57aea8237d2575aba106ee/Images/Primary",
                                                     "description":  "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop\u0027s daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers\u0027 children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
@@ -158,7 +158,7 @@
                                                 {
                                                     "title":  "BORDELLO OF BLOOD",
                                                     "start":  "2026-10-03T09:03:36.0000000Z",
-                                                    "stop":  "2026-10-03T10:30:07.0000000Z",
+                                                    "stop":  "2026-10-03T10:30:17.0000000Z",
                                                     "itemId":  "b03986ae5fac22e258cf02b8c89bc7a4",
                                                     "poster":  "http://127.0.0.1:8096/Items/b03986ae5fac22e258cf02b8c89bc7a4/Images/Primary",
                                                     "description":  "Private eye Rafe Guttman is hired by repressed, born-again Katherine to find her missing bad-boy brother. The trail leads him to a whorehouse run by a thousand-year-old vampire and secretly backed by Katherine\u0027s boss, televangelist Jimmy Current.",
@@ -185,7 +185,7 @@
                                                 {
                                                     "title":  "Critters 2",
                                                     "start":  "2026-10-03T13:40:46.0000000Z",
-                                                    "stop":  "2026-10-03T15:06:51.0000000Z",
+                                                    "stop":  "2026-10-03T15:06:41.0000000Z",
                                                     "itemId":  "54493e812aba3ee1edef65108ed95c05",
                                                     "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
                                                     "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
@@ -581,37 +581,28 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "After H0uRs",
-                                                  "start":  "2026-10-03T01:41:18.0000000Z",
-                                                  "stop":  "2026-10-03T02:19:20.0000000Z",
-                                                  "itemId":  "150bbae732cd647eeed3060cd67b032f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
+                                                  "title":  "FL MIXTAPE",
+                                                  "start":  "2026-10-03T02:00:00.0000000Z",
+                                                  "stop":  "2026-10-03T02:08:57.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "BloodJoke",
-                                              "start":  "2026-10-03T02:02:01.0000000Z",
-                                              "stop":  "2026-10-03T02:35:05.0000000Z",
-                                              "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                              "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                              "title":  "Carrito",
+                                              "start":  "2026-10-03T02:03:42.0000000Z",
+                                              "stop":  "2026-10-03T02:11:20.0000000Z",
+                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
                                                 {
-                                                    "title":  "BloodJoke",
-                                                    "start":  "2026-10-03T02:02:01.0000000Z",
-                                                    "stop":  "2026-10-03T02:35:05.0000000Z",
-                                                    "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
                                                     "title":  "Carrito",
                                                     "start":  "2026-10-03T02:03:42.0000000Z",
-                                                    "stop":  "2026-10-03T02:35:02.0000000Z",
+                                                    "stop":  "2026-10-03T02:11:20.0000000Z",
                                                     "itemId":  "ed83754111f4ed370a338cab8345534d",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                     "description":  null,
@@ -620,7 +611,7 @@
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-10-03T02:11:20.0000000Z",
-                                                    "stop":  "2026-10-03T02:12:26.0000000Z",
+                                                    "stop":  "2026-10-03T02:31:18.0000000Z",
                                                     "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                                     "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                     "description":  null,
@@ -629,7 +620,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-10-03T02:12:26.0000000Z",
-                                                    "stop":  "2026-10-03T02:36:38.0000000Z",
+                                                    "stop":  "2026-10-03T02:13:13.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -638,7 +629,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-10-03T02:13:24.0000000Z",
-                                                    "stop":  "2026-10-03T02:55:12.0000000Z",
+                                                    "stop":  "2026-10-03T02:23:39.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -647,7 +638,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-10-03T02:15:06.0000000Z",
-                                                    "stop":  "2026-10-03T03:07:09.0000000Z",
+                                                    "stop":  "2026-10-03T02:27:36.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -656,7 +647,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-10-03T02:19:03.0000000Z",
-                                                    "stop":  "2026-10-03T02:21:15.0000000Z",
+                                                    "stop":  "2026-10-03T02:29:48.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -665,9 +656,18 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-10-03T02:21:15.0000000Z",
-                                                    "stop":  "2026-10-03T02:58:49.0000000Z",
+                                                    "stop":  "2026-10-03T02:49:17.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "SSBI4649",
+                                                    "start":  "2026-10-03T02:21:57.0000000Z",
+                                                    "stop":  "2026-10-03T02:22:46.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
                                                     "description":  null,
                                                     "year":  null
                                                 }
