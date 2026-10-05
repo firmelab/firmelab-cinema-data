@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-05T21:01:08.0646753Z",
+    "updated":  "2026-10-05T21:02:06.4894290Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -112,7 +112,7 @@
                                "upNext":  {
                                               "title":  "Critters 3",
                                               "start":  "2026-10-05T22:48:47.0000000Z",
-                                              "stop":  "2026-10-06T00:13:52.0000000Z",
+                                              "stop":  "2026-10-06T00:13:32.0000000Z",
                                               "itemId":  "f9168c1a730f0cc71fd31a7f22c4663f",
                                               "poster":  "http://127.0.0.1:8096/Items/f9168c1a730f0cc71fd31a7f22c4663f/Images/Primary",
                                               "description":  "As fanged, furious furballs viciously invade an L.A. apartment building and sink their teeth into the low-rent tenants, Josh leads the battle to beat back the conniving critters and save the planet.",
@@ -122,7 +122,7 @@
                                                 {
                                                     "title":  "Critters 3",
                                                     "start":  "2026-10-05T22:48:47.0000000Z",
-                                                    "stop":  "2026-10-06T00:13:52.0000000Z",
+                                                    "stop":  "2026-10-06T00:13:32.0000000Z",
                                                     "itemId":  "f9168c1a730f0cc71fd31a7f22c4663f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f9168c1a730f0cc71fd31a7f22c4663f/Images/Primary",
                                                     "description":  "As fanged, furious furballs viciously invade an L.A. apartment building and sink their teeth into the low-rent tenants, Josh leads the battle to beat back the conniving critters and save the planet.",
@@ -131,7 +131,7 @@
                                                 {
                                                     "title":  "CANDYMAN",
                                                     "start":  "2026-10-06T00:13:32.0000000Z",
-                                                    "stop":  "2026-10-06T01:52:29.0000000Z",
+                                                    "stop":  "2026-10-06T01:52:49.0000000Z",
                                                     "itemId":  "75bc45c9af5e154aea4dd68eb38e0354",
                                                     "poster":  "http://127.0.0.1:8096/Items/75bc45c9af5e154aea4dd68eb38e0354/Images/Primary",
                                                     "description":  "A Chicago artist\u0027s sanity starts to unravel, unleashing a terrifying wave of violence when he begins to explore the macabre history of the Candyman.",
@@ -149,7 +149,7 @@
                                                 {
                                                     "title":  "The Blob",
                                                     "start":  "2026-10-06T03:18:02.0000000Z",
-                                                    "stop":  "2026-10-06T04:53:22.0000000Z",
+                                                    "stop":  "2026-10-06T04:53:02.0000000Z",
                                                     "itemId":  "5dc1ff349ca7c8caaf1ecfe4f830a683",
                                                     "poster":  "http://127.0.0.1:8096/Items/5dc1ff349ca7c8caaf1ecfe4f830a683/Images/Primary",
                                                     "description":  "In Arborville, California, three high school students try to protect their hometown from a gelatinous alien life form that engulfs everything it touches.",
@@ -158,7 +158,7 @@
                                                 {
                                                     "title":  "Blade II",
                                                     "start":  "2026-10-06T04:53:02.0000000Z",
-                                                    "stop":  "2026-10-06T06:49:52.0000000Z",
+                                                    "stop":  "2026-10-06T06:50:12.0000000Z",
                                                     "itemId":  "74e7a571bdb0578b253598a3f8b45f12",
                                                     "poster":  "http://127.0.0.1:8096/Items/74e7a571bdb0578b253598a3f8b45f12/Images/Primary",
                                                     "description":  "Blade forms an uneasy alliance with the vampire council in order to combat the Reapers, who are feeding on vampires.",
@@ -185,7 +185,7 @@
                                                 {
                                                     "title":  "Blade Trinity",
                                                     "start":  "2026-10-06T10:33:37.0000000Z",
-                                                    "stop":  "2026-10-06T12:26:40.0000000Z",
+                                                    "stop":  "2026-10-06T12:26:30.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -581,9 +581,9 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "SSBI4649",
-                                                  "start":  "2026-10-05T20:41:54.0000000Z",
-                                                  "stop":  "2026-10-05T21:19:56.0000000Z",
+                                                  "title":  "FL MIXTAPE",
+                                                  "start":  "2026-10-05T21:00:00.0000000Z",
+                                                  "stop":  "2026-10-05T21:09:22.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
@@ -592,7 +592,7 @@
                                "upNext":  {
                                               "title":  "MrPayo",
                                               "start":  "2026-10-05T21:02:55.0000000Z",
-                                              "stop":  "2026-10-05T21:27:42.0000000Z",
+                                              "stop":  "2026-10-05T21:04:01.0000000Z",
                                               "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
                                               "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "MrPayo",
                                                     "start":  "2026-10-05T21:02:55.0000000Z",
-                                                    "stop":  "2026-10-05T21:27:42.0000000Z",
+                                                    "stop":  "2026-10-05T21:04:01.0000000Z",
                                                     "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
                                                     "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "BloodJoke",
                                                     "start":  "2026-10-05T21:05:42.0000000Z",
-                                                    "stop":  "2026-10-05T21:30:43.0000000Z",
+                                                    "stop":  "2026-10-05T21:26:09.0000000Z",
                                                     "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
                                                     "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-10-05T21:07:23.0000000Z",
-                                                    "stop":  "2026-10-05T21:55:40.0000000Z",
+                                                    "stop":  "2026-10-05T21:15:01.0000000Z",
                                                     "itemId":  "ed83754111f4ed370a338cab8345534d",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-10-05T21:15:01.0000000Z",
-                                                    "stop":  "2026-10-05T22:04:18.0000000Z",
+                                                    "stop":  "2026-10-05T21:24:45.0000000Z",
                                                     "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                                     "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-10-05T21:16:07.0000000Z",
-                                                    "stop":  "2026-10-05T21:16:54.0000000Z",
+                                                    "stop":  "2026-10-05T21:25:32.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-10-05T21:17:05.0000000Z",
-                                                    "stop":  "2026-10-05T21:55:06.0000000Z",
+                                                    "stop":  "2026-10-05T21:27:09.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-10-05T21:18:47.0000000Z",
-                                                    "stop":  "2026-10-05T21:22:38.0000000Z",
+                                                    "stop":  "2026-10-05T21:50:03.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
