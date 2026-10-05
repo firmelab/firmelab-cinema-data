@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-05T08:01:05.4132573Z",
+    "updated":  "2026-10-05T08:02:06.0001685Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "Brightburn",
                                                     "start":  "2026-10-05T10:17:53.0000000Z",
-                                                    "stop":  "2026-10-05T11:48:43.0000000Z",
+                                                    "stop":  "2026-10-05T11:48:23.0000000Z",
                                                     "itemId":  "a562e465a7ff31b0113aee613a779bf2",
                                                     "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
                                                     "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "John Wick",
                                                     "start":  "2026-10-05T11:48:23.0000000Z",
-                                                    "stop":  "2026-10-05T13:29:36.0000000Z",
+                                                    "stop":  "2026-10-05T13:29:56.0000000Z",
                                                     "itemId":  "84b70d75a3d957b57b02cf83796504a8",
                                                     "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
                                                     "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "Robocop",
                                                     "start":  "2026-10-05T19:31:40.0000000Z",
-                                                    "stop":  "2026-10-05T21:14:47.0000000Z",
+                                                    "stop":  "2026-10-05T21:14:27.0000000Z",
                                                     "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
                                                     "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
                                                     "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "Black Hawk Down",
                                                     "start":  "2026-10-05T21:14:27.0000000Z",
-                                                    "stop":  "2026-10-05T23:38:48.0000000Z",
+                                                    "stop":  "2026-10-05T23:39:08.0000000Z",
                                                     "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
                                                     "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
                                                     "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
@@ -581,11 +581,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "After H0uRs",
-                                                  "start":  "2026-10-05T07:37:44.0000000Z",
-                                                  "stop":  "2026-10-05T08:15:46.0000000Z",
-                                                  "itemId":  "150bbae732cd647eeed3060cd67b032f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
+                                                  "title":  "BloodJoke",
+                                                  "start":  "2026-10-05T07:58:28.0000000Z",
+                                                  "stop":  "2026-10-05T08:08:40.0000000Z",
+                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-10-05T08:08:52.0000000Z",
-                                                    "stop":  "2026-10-05T08:33:05.0000000Z",
+                                                    "stop":  "2026-10-05T08:09:51.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-10-05T08:09:51.0000000Z",
-                                                    "stop":  "2026-10-05T08:51:38.0000000Z",
+                                                    "stop":  "2026-10-05T08:30:13.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-10-05T08:11:32.0000000Z",
-                                                    "stop":  "2026-10-05T09:03:35.0000000Z",
+                                                    "stop":  "2026-10-05T08:15:29.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-10-05T08:15:29.0000000Z",
-                                                    "stop":  "2026-10-05T08:17:41.0000000Z",
+                                                    "stop":  "2026-10-05T08:26:14.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-10-05T08:17:41.0000000Z",
-                                                    "stop":  "2026-10-05T08:55:15.0000000Z",
+                                                    "stop":  "2026-10-05T08:26:56.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-10-05T08:18:23.0000000Z",
-                                                    "stop":  "2026-10-05T08:19:12.0000000Z",
+                                                    "stop":  "2026-10-05T08:27:45.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-10-05T08:19:12.0000000Z",
-                                                    "stop":  "2026-10-05T08:49:58.0000000Z",
+                                                    "stop":  "2026-10-05T08:48:00.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
