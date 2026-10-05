@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-05T01:01:05.0579900Z",
+    "updated":  "2026-10-05T01:02:05.0280093Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -112,7 +112,7 @@
                                "upNext":  {
                                               "title":  "FRIGHT NIGHT",
                                               "start":  "2026-10-05T01:42:42.0000000Z",
-                                              "stop":  "2026-10-05T03:29:32.0000000Z",
+                                              "stop":  "2026-10-05T03:29:22.0000000Z",
                                               "itemId":  "8bda9bd3955398694e4a57e90f6c4904",
                                               "poster":  "http://127.0.0.1:8096/Items/8bda9bd3955398694e4a57e90f6c4904/Images/Primary",
                                               "description":  "Charley Brewster, a high school student, accidentally discovers the true and creepy nature of Jerry Dandrige, his dashing and enigmatic new neighbor; but no one seems willing to believe him.",
@@ -122,7 +122,7 @@
                                                 {
                                                     "title":  "FRIGHT NIGHT",
                                                     "start":  "2026-10-05T01:42:42.0000000Z",
-                                                    "stop":  "2026-10-05T03:29:32.0000000Z",
+                                                    "stop":  "2026-10-05T03:29:22.0000000Z",
                                                     "itemId":  "8bda9bd3955398694e4a57e90f6c4904",
                                                     "poster":  "http://127.0.0.1:8096/Items/8bda9bd3955398694e4a57e90f6c4904/Images/Primary",
                                                     "description":  "Charley Brewster, a high school student, accidentally discovers the true and creepy nature of Jerry Dandrige, his dashing and enigmatic new neighbor; but no one seems willing to believe him.",
@@ -131,7 +131,7 @@
                                                 {
                                                     "title":  "WISHMASTER part 2",
                                                     "start":  "2026-10-05T03:29:22.0000000Z",
-                                                    "stop":  "2026-10-05T05:05:23.0000000Z",
+                                                    "stop":  "2026-10-05T05:05:33.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -149,7 +149,7 @@
                                                 {
                                                     "title":  "WISHMASTER",
                                                     "start":  "2026-10-05T06:34:13.0000000Z",
-                                                    "stop":  "2026-10-05T08:04:18.0000000Z",
+                                                    "stop":  "2026-10-05T08:04:08.0000000Z",
                                                     "itemId":  "58d933a690c3d71b883c09370fa30d07",
                                                     "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
                                                     "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
@@ -158,7 +158,7 @@
                                                 {
                                                     "title":  "A Nightmare on Elm Street",
                                                     "start":  "2026-10-05T08:04:08.0000000Z",
-                                                    "stop":  "2026-10-05T09:35:42.0000000Z",
+                                                    "stop":  "2026-10-05T09:35:52.0000000Z",
                                                     "itemId":  "c79ef56b1b57aea8237d2575aba106ee",
                                                     "poster":  "http://127.0.0.1:8096/Items/c79ef56b1b57aea8237d2575aba106ee/Images/Primary",
                                                     "description":  "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop\u0027s daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers\u0027 children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
@@ -185,7 +185,7 @@
                                                 {
                                                     "title":  "Resident Evil- Apocalypse",
                                                     "start":  "2026-10-05T12:39:03.0000000Z",
-                                                    "stop":  "2026-10-05T14:13:01.0000000Z",
+                                                    "stop":  "2026-10-05T14:12:51.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -581,37 +581,28 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "BloodJoke",
-                                                  "start":  "2026-10-05T00:41:06.0000000Z",
-                                                  "stop":  "2026-10-05T01:19:55.0000000Z",
-                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                  "title":  "Never 3Nding",
+                                                  "start":  "2026-10-05T00:58:08.0000000Z",
+                                                  "stop":  "2026-10-05T01:08:57.0000000Z",
+                                                  "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                                  "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Arnold Dynamite",
-                                              "start":  "2026-10-05T01:01:51.0000000Z",
-                                              "stop":  "2026-10-05T01:19:27.0000000Z",
-                                              "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
-                                              "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
+                                              "title":  "0Ld Sc00L",
+                                              "start":  "2026-10-05T01:03:19.0000000Z",
+                                              "stop":  "2026-10-05T01:22:47.0000000Z",
+                                              "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                              "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
                                                 {
-                                                    "title":  "Arnold Dynamite",
-                                                    "start":  "2026-10-05T01:01:51.0000000Z",
-                                                    "stop":  "2026-10-05T01:19:27.0000000Z",
-                                                    "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
-                                                {
                                                     "title":  "0Ld Sc00L",
                                                     "start":  "2026-10-05T01:03:19.0000000Z",
-                                                    "stop":  "2026-10-05T01:20:17.0000000Z",
+                                                    "stop":  "2026-10-05T01:22:47.0000000Z",
                                                     "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
                                                     "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                                     "description":  null,
@@ -620,7 +611,7 @@
                                                 {
                                                     "title":  "After H0uRs",
                                                     "start":  "2026-10-05T01:04:07.0000000Z",
-                                                    "stop":  "2026-10-05T01:36:24.0000000Z",
+                                                    "stop":  "2026-10-05T01:04:56.0000000Z",
                                                     "itemId":  "150bbae732cd647eeed3060cd67b032f",
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
@@ -629,7 +620,7 @@
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-10-05T01:04:56.0000000Z",
-                                                    "stop":  "2026-10-05T01:34:33.0000000Z",
+                                                    "stop":  "2026-10-05T01:19:25.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                     "description":  null,
@@ -638,7 +629,7 @@
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-10-05T01:10:52.0000000Z",
-                                                    "stop":  "2026-10-05T01:11:33.0000000Z",
+                                                    "stop":  "2026-10-05T01:20:06.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
@@ -647,7 +638,7 @@
                                                 {
                                                     "title":  "Chingadasos",
                                                     "start":  "2026-10-05T01:11:33.0000000Z",
-                                                    "stop":  "2026-10-05T01:35:45.0000000Z",
+                                                    "stop":  "2026-10-05T01:21:57.0000000Z",
                                                     "itemId":  "8988d98fd90679aab5aff5b786344b1c",
                                                     "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
                                                     "description":  null,
@@ -656,7 +647,7 @@
                                                 {
                                                     "title":  "Mr J-Carry",
                                                     "start":  "2026-10-05T01:13:24.0000000Z",
-                                                    "stop":  "2026-10-05T01:54:35.0000000Z",
+                                                    "stop":  "2026-10-05T01:41:41.0000000Z",
                                                     "itemId":  "56c94066e018711311e81d6a3f6cc139",
                                                     "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
                                                     "description":  null,
@@ -665,9 +656,18 @@
                                                 {
                                                     "title":  "T2",
                                                     "start":  "2026-10-05T01:14:21.0000000Z",
-                                                    "stop":  "2026-10-05T02:03:04.0000000Z",
+                                                    "stop":  "2026-10-05T01:14:53.0000000Z",
                                                     "itemId":  "1315943017e226076a7899408d36dec5",
                                                     "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Ricardo \u0026 Mocoso",
+                                                    "start":  "2026-10-05T01:14:53.0000000Z",
+                                                    "stop":  "2026-10-05T01:25:40.0000000Z",
+                                                    "itemId":  "0e268bdc592953760cc985e16953d93d",
+                                                    "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
