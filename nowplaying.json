@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-05T20:01:06.0297478Z",
+    "updated":  "2026-10-05T20:04:24.2802055Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -112,7 +112,7 @@
                                "upNext":  {
                                               "title":  "CHRISTINE",
                                               "start":  "2026-10-05T20:58:45.0000000Z",
-                                              "stop":  "2026-10-05T22:49:07.0000000Z",
+                                              "stop":  "2026-10-05T22:48:47.0000000Z",
                                               "itemId":  "91dc7dc3ea26a9c92725048bc480729c",
                                               "poster":  "http://127.0.0.1:8096/Items/91dc7dc3ea26a9c92725048bc480729c/Images/Primary",
                                               "description":  "Nerdy high schooler Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory. As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty. Arnie\u0027s girlfriend Leigh and best friend Dennis reach out to him, only to be met by a Fury like no other.",
@@ -122,7 +122,7 @@
                                                 {
                                                     "title":  "CHRISTINE",
                                                     "start":  "2026-10-05T20:58:45.0000000Z",
-                                                    "stop":  "2026-10-05T22:49:07.0000000Z",
+                                                    "stop":  "2026-10-05T22:48:47.0000000Z",
                                                     "itemId":  "91dc7dc3ea26a9c92725048bc480729c",
                                                     "poster":  "http://127.0.0.1:8096/Items/91dc7dc3ea26a9c92725048bc480729c/Images/Primary",
                                                     "description":  "Nerdy high schooler Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory. As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty. Arnie\u0027s girlfriend Leigh and best friend Dennis reach out to him, only to be met by a Fury like no other.",
@@ -131,7 +131,7 @@
                                                 {
                                                     "title":  "Critters 3",
                                                     "start":  "2026-10-05T22:48:47.0000000Z",
-                                                    "stop":  "2026-10-06T00:13:32.0000000Z",
+                                                    "stop":  "2026-10-06T00:13:52.0000000Z",
                                                     "itemId":  "f9168c1a730f0cc71fd31a7f22c4663f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f9168c1a730f0cc71fd31a7f22c4663f/Images/Primary",
                                                     "description":  "As fanged, furious furballs viciously invade an L.A. apartment building and sink their teeth into the low-rent tenants, Josh leads the battle to beat back the conniving critters and save the planet.",
@@ -149,7 +149,7 @@
                                                 {
                                                     "title":  "A Nightmare on Elm Street 2 Freddy\u0027s Revenge",
                                                     "start":  "2026-10-06T01:52:29.0000000Z",
-                                                    "stop":  "2026-10-06T03:18:22.0000000Z",
+                                                    "stop":  "2026-10-06T03:18:02.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -158,7 +158,7 @@
                                                 {
                                                     "title":  "The Blob",
                                                     "start":  "2026-10-06T03:18:02.0000000Z",
-                                                    "stop":  "2026-10-06T04:53:02.0000000Z",
+                                                    "stop":  "2026-10-06T04:53:22.0000000Z",
                                                     "itemId":  "5dc1ff349ca7c8caaf1ecfe4f830a683",
                                                     "poster":  "http://127.0.0.1:8096/Items/5dc1ff349ca7c8caaf1ecfe4f830a683/Images/Primary",
                                                     "description":  "In Arborville, California, three high school students try to protect their hometown from a gelatinous alien life form that engulfs everything it touches.",
@@ -185,7 +185,7 @@
                                                 {
                                                     "title":  "Resident Evil",
                                                     "start":  "2026-10-06T08:52:56.0000000Z",
-                                                    "stop":  "2026-10-06T10:33:37.0000000Z",
+                                                    "stop":  "2026-10-06T10:33:27.0000000Z",
                                                     "itemId":  "760d913661074a3a3f5a58738842a2f8",
                                                     "poster":  "http://127.0.0.1:8096/Items/760d913661074a3a3f5a58738842a2f8/Images/Primary",
                                                     "description":  "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "Predator",
                                                     "start":  "2026-10-05T23:38:48.0000000Z",
-                                                    "stop":  "2026-10-06T01:25:42.0000000Z",
+                                                    "stop":  "2026-10-06T01:25:22.0000000Z",
                                                     "itemId":  "9745bbd80aedfd3750130547f37af704",
                                                     "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
                                                     "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "Conan The Destroyer",
                                                     "start":  "2026-10-06T01:25:22.0000000Z",
-                                                    "stop":  "2026-10-06T03:06:30.0000000Z",
+                                                    "stop":  "2026-10-06T03:06:50.0000000Z",
                                                     "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
                                                     "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
                                                     "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "ROBOCOP 2",
                                                     "start":  "2026-10-06T09:19:03.0000000Z",
-                                                    "stop":  "2026-10-06T11:16:03.0000000Z",
+                                                    "stop":  "2026-10-06T11:15:53.0000000Z",
                                                     "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
                                                     "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "ROBOCOP 3",
                                                     "start":  "2026-10-06T11:15:53.0000000Z",
-                                                    "stop":  "2026-10-06T13:00:44.0000000Z",
+                                                    "stop":  "2026-10-06T13:00:54.0000000Z",
                                                     "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
                                                     "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
                                                     "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
@@ -581,46 +581,28 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "BloodJoke",
-                                                  "start":  "2026-10-05T19:38:14.0000000Z",
-                                                  "stop":  "2026-10-05T20:17:02.0000000Z",
-                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                  "title":  "Arnold Dynamite",
+                                                  "start":  "2026-10-05T19:58:59.0000000Z",
+                                                  "stop":  "2026-10-05T20:09:03.0000000Z",
+                                                  "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
+                                                  "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "After H0uRs",
-                                              "start":  "2026-10-05T20:01:15.0000000Z",
-                                              "stop":  "2026-10-05T20:33:51.0000000Z",
-                                              "itemId":  "150bbae732cd647eeed3060cd67b032f",
-                                              "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
+                                              "title":  "Biggie Mobbing",
+                                              "start":  "2026-10-05T20:07:59.0000000Z",
+                                              "stop":  "2026-10-05T20:27:32.0000000Z",
+                                              "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
+                                              "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                               "description":  null,
-                                              "year":  null
+                                              "year":  2026
                                           },
                                "upcoming":  [
                                                 {
-                                                    "title":  "After H0uRs",
-                                                    "start":  "2026-10-05T20:01:15.0000000Z",
-                                                    "stop":  "2026-10-05T20:33:51.0000000Z",
-                                                    "itemId":  "150bbae732cd647eeed3060cd67b032f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
-                                                    "title":  "Ass Kicker Bruce",
-                                                    "start":  "2026-10-05T20:02:04.0000000Z",
-                                                    "stop":  "2026-10-05T20:31:55.0000000Z",
-                                                    "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
-                                                {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-10-05T20:07:59.0000000Z",
-                                                    "stop":  "2026-10-05T20:08:40.0000000Z",
+                                                    "stop":  "2026-10-05T20:27:32.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
@@ -629,7 +611,7 @@
                                                 {
                                                     "title":  "Chingadasos",
                                                     "start":  "2026-10-05T20:08:40.0000000Z",
-                                                    "stop":  "2026-10-05T20:32:52.0000000Z",
+                                                    "stop":  "2026-10-05T20:10:32.0000000Z",
                                                     "itemId":  "8988d98fd90679aab5aff5b786344b1c",
                                                     "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
                                                     "description":  null,
@@ -638,7 +620,7 @@
                                                 {
                                                     "title":  "Mr J-Carry",
                                                     "start":  "2026-10-05T20:10:32.0000000Z",
-                                                    "stop":  "2026-10-05T20:51:42.0000000Z",
+                                                    "stop":  "2026-10-05T20:20:01.0000000Z",
                                                     "itemId":  "56c94066e018711311e81d6a3f6cc139",
                                                     "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
                                                     "description":  null,
@@ -647,7 +629,7 @@
                                                 {
                                                     "title":  "T2",
                                                     "start":  "2026-10-05T20:11:28.0000000Z",
-                                                    "stop":  "2026-10-05T21:00:12.0000000Z",
+                                                    "stop":  "2026-10-05T20:20:33.0000000Z",
                                                     "itemId":  "1315943017e226076a7899408d36dec5",
                                                     "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                                     "description":  null,
@@ -656,7 +638,7 @@
                                                 {
                                                     "title":  "Ricardo \u0026 Mocoso",
                                                     "start":  "2026-10-05T20:12:00.0000000Z",
-                                                    "stop":  "2026-10-05T20:14:16.0000000Z",
+                                                    "stop":  "2026-10-05T20:22:49.0000000Z",
                                                     "itemId":  "0e268bdc592953760cc985e16953d93d",
                                                     "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
                                                     "description":  null,
@@ -665,11 +647,29 @@
                                                 {
                                                     "title":  "XocoBruja",
                                                     "start":  "2026-10-05T20:14:16.0000000Z",
-                                                    "stop":  "2026-10-05T20:52:36.0000000Z",
+                                                    "stop":  "2026-10-05T20:44:20.0000000Z",
                                                     "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
                                                     "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "COKCE6139",
+                                                    "start":  "2026-10-05T20:17:01.0000000Z",
+                                                    "stop":  "2026-10-05T20:19:11.0000000Z",
+                                                    "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "MrPayo",
+                                                    "start":  "2026-10-05T20:19:11.0000000Z",
+                                                    "stop":  "2026-10-05T20:28:49.0000000Z",
+                                                    "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
+                                                    "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
