@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-05T11:48:05.0795935Z",
+    "updated":  "2026-10-05T11:49:05.0743616Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -197,33 +197,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Brightburn",
-                                                  "start":  "2026-10-05T10:17:53.0000000Z",
-                                                  "stop":  "2026-10-05T11:48:23.0000000Z",
-                                                  "itemId":  "a562e465a7ff31b0113aee613a779bf2",
-                                                  "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
-                                                  "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
-                                                  "year":  2019
+                                                  "title":  "John Wick",
+                                                  "start":  "2026-10-05T11:48:23.0000000Z",
+                                                  "stop":  "2026-10-05T13:29:36.0000000Z",
+                                                  "itemId":  "84b70d75a3d957b57b02cf83796504a8",
+                                                  "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
+                                                  "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+                                                  "year":  2014
                                               },
                                "upNext":  {
-                                              "title":  "John Wick",
-                                              "start":  "2026-10-05T11:48:23.0000000Z",
-                                              "stop":  "2026-10-05T13:29:36.0000000Z",
-                                              "itemId":  "84b70d75a3d957b57b02cf83796504a8",
-                                              "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
-                                              "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
-                                              "year":  2014
+                                              "title":  "Bourne Supremacy",
+                                              "start":  "2026-10-05T13:29:36.0000000Z",
+                                              "stop":  "2026-10-05T15:18:09.0000000Z",
+                                              "itemId":  "031faf0da71af121647ff2d37294b07a",
+                                              "poster":  "http://127.0.0.1:8096/Items/031faf0da71af121647ff2d37294b07a/Images/Primary",
+                                              "description":  "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
+                                              "year":  2004
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "John Wick",
-                                                    "start":  "2026-10-05T11:48:23.0000000Z",
-                                                    "stop":  "2026-10-05T13:29:36.0000000Z",
-                                                    "itemId":  "84b70d75a3d957b57b02cf83796504a8",
-                                                    "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
-                                                    "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
-                                                    "year":  2014
-                                                },
                                                 {
                                                     "title":  "Bourne Supremacy",
                                                     "start":  "2026-10-05T13:29:36.0000000Z",
@@ -286,6 +277,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
                                                     "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
                                                     "year":  1984
+                                                },
+                                                {
+                                                    "title":  "Sherlock Holmes",
+                                                    "start":  "2026-10-06T03:06:40.0000000Z",
+                                                    "stop":  "2026-10-06T05:15:09.0000000Z",
+                                                    "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
+                                                    "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
+                                                    "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
+                                                    "year":  2009
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Duende",
-                                              "start":  "2026-10-05T11:48:31.0000000Z",
-                                              "stop":  "2026-10-05T12:29:21.0000000Z",
-                                              "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                              "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                              "title":  "JamminG",
+                                              "start":  "2026-10-05T11:50:13.0000000Z",
+                                              "stop":  "2026-10-05T11:54:05.0000000Z",
+                                              "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                              "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Duende",
-                                                    "start":  "2026-10-05T11:48:31.0000000Z",
-                                                    "stop":  "2026-10-05T12:29:21.0000000Z",
-                                                    "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                                    "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-10-05T11:50:13.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Ass Kicker Bruce",
+                                                    "start":  "2026-10-05T12:00:58.0000000Z",
+                                                    "stop":  "2026-10-05T12:30:50.0000000Z",
+                                                    "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
@@ -677,33 +677,24 @@
                                "number":  8,
                                "name":  "FIRMELAB FRONTIER",
                                "nowPlaying":  {
-                                                  "title":  "Master and Commander",
-                                                  "start":  "2026-10-05T09:30:11.0000000Z",
-                                                  "stop":  "2026-10-05T11:48:32.0000000Z",
-                                                  "itemId":  "5fcc6b3e811cdcaf000036c06aef62b9",
-                                                  "poster":  "http://127.0.0.1:8096/Items/5fcc6b3e811cdcaf000036c06aef62b9/Images/Primary",
-                                                  "description":  "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship\u0027s thoughtful surgeon, his best friend.",
-                                                  "year":  2003
+                                                  "title":  "Brave Heart",
+                                                  "start":  "2026-10-05T11:48:32.0000000Z",
+                                                  "stop":  "2026-10-05T14:46:13.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Brave Heart",
-                                              "start":  "2026-10-05T11:48:32.0000000Z",
-                                              "stop":  "2026-10-05T14:46:13.0000000Z",
+                                              "title":  "The Count Monte Cristos",
+                                              "start":  "2026-10-05T14:46:13.0000000Z",
+                                              "stop":  "2026-10-05T16:57:27.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Brave Heart",
-                                                    "start":  "2026-10-05T11:48:32.0000000Z",
-                                                    "stop":  "2026-10-05T14:46:13.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "The Count Monte Cristos",
                                                     "start":  "2026-10-05T14:46:13.0000000Z",
@@ -766,6 +757,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
                                                     "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
                                                     "year":  1988
+                                                },
+                                                {
+                                                    "title":  "The Patriot",
+                                                    "start":  "2026-10-06T06:43:01.0000000Z",
+                                                    "stop":  "2026-10-06T09:27:48.0000000Z",
+                                                    "itemId":  "17b673273650da7e33ae51350e123fb0",
+                                                    "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
+                                                    "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+                                                    "year":  2000
                                                 }
                                             ]
                            }
