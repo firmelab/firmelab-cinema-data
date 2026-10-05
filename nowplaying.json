@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-05T09:01:05.8740392Z",
+    "updated":  "2026-10-05T09:02:05.9895265Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -112,7 +112,7 @@
                                "upNext":  {
                                               "title":  "BORDELLO OF BLOOD",
                                               "start":  "2026-10-05T09:35:42.0000000Z",
-                                              "stop":  "2026-10-05T11:02:23.0000000Z",
+                                              "stop":  "2026-10-05T11:02:13.0000000Z",
                                               "itemId":  "b03986ae5fac22e258cf02b8c89bc7a4",
                                               "poster":  "http://127.0.0.1:8096/Items/b03986ae5fac22e258cf02b8c89bc7a4/Images/Primary",
                                               "description":  "Private eye Rafe Guttman is hired by repressed, born-again Katherine to find her missing bad-boy brother. The trail leads him to a whorehouse run by a thousand-year-old vampire and secretly backed by Katherine\u0027s boss, televangelist Jimmy Current.",
@@ -122,7 +122,7 @@
                                                 {
                                                     "title":  "BORDELLO OF BLOOD",
                                                     "start":  "2026-10-05T09:35:42.0000000Z",
-                                                    "stop":  "2026-10-05T11:02:23.0000000Z",
+                                                    "stop":  "2026-10-05T11:02:13.0000000Z",
                                                     "itemId":  "b03986ae5fac22e258cf02b8c89bc7a4",
                                                     "poster":  "http://127.0.0.1:8096/Items/b03986ae5fac22e258cf02b8c89bc7a4/Images/Primary",
                                                     "description":  "Private eye Rafe Guttman is hired by repressed, born-again Katherine to find her missing bad-boy brother. The trail leads him to a whorehouse run by a thousand-year-old vampire and secretly backed by Katherine\u0027s boss, televangelist Jimmy Current.",
@@ -131,7 +131,7 @@
                                                 {
                                                     "title":  "Land of the Dead",
                                                     "start":  "2026-10-05T11:02:13.0000000Z",
-                                                    "stop":  "2026-10-05T12:39:03.0000000Z",
+                                                    "stop":  "2026-10-05T12:39:13.0000000Z",
                                                     "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
                                                     "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
                                                     "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
@@ -149,7 +149,7 @@
                                                 {
                                                     "title":  "Critters 2",
                                                     "start":  "2026-10-05T14:12:51.0000000Z",
-                                                    "stop":  "2026-10-05T15:38:57.0000000Z",
+                                                    "stop":  "2026-10-05T15:38:47.0000000Z",
                                                     "itemId":  "54493e812aba3ee1edef65108ed95c05",
                                                     "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
                                                     "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
@@ -158,7 +158,7 @@
                                                 {
                                                     "title":  "Blade",
                                                     "start":  "2026-10-05T15:38:47.0000000Z",
-                                                    "stop":  "2026-10-05T17:39:01.0000000Z",
+                                                    "stop":  "2026-10-05T17:39:11.0000000Z",
                                                     "itemId":  "b15fb14f946bc7e00478a81aa4943fdf",
                                                     "poster":  "http://127.0.0.1:8096/Items/b15fb14f946bc7e00478a81aa4943fdf/Images/Primary",
                                                     "description":  "The Daywalker known as \"Blade\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",
@@ -185,7 +185,7 @@
                                                 {
                                                     "title":  "CHRISTINE",
                                                     "start":  "2026-10-05T20:58:45.0000000Z",
-                                                    "stop":  "2026-10-05T22:48:57.0000000Z",
+                                                    "stop":  "2026-10-05T22:48:47.0000000Z",
                                                     "itemId":  "91dc7dc3ea26a9c92725048bc480729c",
                                                     "poster":  "http://127.0.0.1:8096/Items/91dc7dc3ea26a9c92725048bc480729c/Images/Primary",
                                                     "description":  "Nerdy high schooler Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory. As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty. Arnie\u0027s girlfriend Leigh and best friend Dennis reach out to him, only to be met by a Fury like no other.",
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "John Wick",
                                                     "start":  "2026-10-05T11:48:23.0000000Z",
-                                                    "stop":  "2026-10-05T13:29:56.0000000Z",
+                                                    "stop":  "2026-10-05T13:29:36.0000000Z",
                                                     "itemId":  "84b70d75a3d957b57b02cf83796504a8",
                                                     "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
                                                     "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "Bourne Supremacy",
                                                     "start":  "2026-10-05T13:29:36.0000000Z",
-                                                    "stop":  "2026-10-05T15:18:09.0000000Z",
+                                                    "stop":  "2026-10-05T15:18:29.0000000Z",
                                                     "itemId":  "031faf0da71af121647ff2d37294b07a",
                                                     "poster":  "http://127.0.0.1:8096/Items/031faf0da71af121647ff2d37294b07a/Images/Primary",
                                                     "description":  "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "Black Hawk Down",
                                                     "start":  "2026-10-05T21:14:27.0000000Z",
-                                                    "stop":  "2026-10-05T23:39:08.0000000Z",
+                                                    "stop":  "2026-10-05T23:38:48.0000000Z",
                                                     "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
                                                     "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
                                                     "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "Predator",
                                                     "start":  "2026-10-05T23:38:48.0000000Z",
-                                                    "stop":  "2026-10-06T01:25:22.0000000Z",
+                                                    "stop":  "2026-10-06T01:25:42.0000000Z",
                                                     "itemId":  "9745bbd80aedfd3750130547f37af704",
                                                     "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
                                                     "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
@@ -581,37 +581,28 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Oz",
-                                                  "start":  "2026-10-05T08:40:30.0000000Z",
-                                                  "stop":  "2026-10-05T09:19:25.0000000Z",
-                                                  "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                                  "title":  "Never 3Nding",
+                                                  "start":  "2026-10-05T08:59:13.0000000Z",
+                                                  "stop":  "2026-10-05T09:10:02.0000000Z",
+                                                  "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                                  "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Ninja Now",
-                                              "start":  "2026-10-05T09:01:25.0000000Z",
-                                              "stop":  "2026-10-05T09:38:21.0000000Z",
-                                              "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                              "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                              "title":  "SSBI4649",
+                                              "start":  "2026-10-05T09:02:07.0000000Z",
+                                              "stop":  "2026-10-05T09:02:56.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
                                                 {
-                                                    "title":  "Ninja Now",
-                                                    "start":  "2026-10-05T09:01:25.0000000Z",
-                                                    "stop":  "2026-10-05T09:38:21.0000000Z",
-                                                    "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-10-05T09:02:07.0000000Z",
-                                                    "stop":  "2026-10-05T09:19:05.0000000Z",
+                                                    "stop":  "2026-10-05T09:02:56.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -620,7 +611,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-10-05T09:02:56.0000000Z",
-                                                    "stop":  "2026-10-05T09:20:34.0000000Z",
+                                                    "stop":  "2026-10-05T09:04:24.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
@@ -629,7 +620,7 @@
                                                 {
                                                     "title":  "0Ld Sc00L",
                                                     "start":  "2026-10-05T09:04:24.0000000Z",
-                                                    "stop":  "2026-10-05T09:36:41.0000000Z",
+                                                    "stop":  "2026-10-05T09:23:53.0000000Z",
                                                     "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
                                                     "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                                     "description":  null,
@@ -638,7 +629,7 @@
                                                 {
                                                     "title":  "After H0uRs",
                                                     "start":  "2026-10-05T09:05:12.0000000Z",
-                                                    "stop":  "2026-10-05T09:29:43.0000000Z",
+                                                    "stop":  "2026-10-05T09:06:01.0000000Z",
                                                     "itemId":  "150bbae732cd647eeed3060cd67b032f",
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
@@ -647,7 +638,7 @@
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-10-05T09:06:01.0000000Z",
-                                                    "stop":  "2026-10-05T09:11:57.0000000Z",
+                                                    "stop":  "2026-10-05T09:20:30.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                     "description":  null,
@@ -656,7 +647,7 @@
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-10-05T09:11:57.0000000Z",
-                                                    "stop":  "2026-10-05T09:36:04.0000000Z",
+                                                    "stop":  "2026-10-05T09:21:11.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
@@ -665,9 +656,18 @@
                                                 {
                                                     "title":  "Chingadasos",
                                                     "start":  "2026-10-05T09:12:38.0000000Z",
-                                                    "stop":  "2026-10-05T09:54:03.0000000Z",
+                                                    "stop":  "2026-10-05T09:23:03.0000000Z",
                                                     "itemId":  "8988d98fd90679aab5aff5b786344b1c",
                                                     "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Mr J-Carry",
+                                                    "start":  "2026-10-05T09:14:30.0000000Z",
+                                                    "stop":  "2026-10-05T09:42:46.0000000Z",
+                                                    "itemId":  "56c94066e018711311e81d6a3f6cc139",
+                                                    "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
