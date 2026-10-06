@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-06T11:01:07.9208664Z",
+    "updated":  "2026-10-06T11:02:06.4602994Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -71,7 +71,7 @@
                                                 {
                                                     "title":  "Get Shorty",
                                                     "start":  "2026-10-06T19:08:32.0000000Z",
-                                                    "stop":  "2026-10-06T20:53:32.0000000Z",
+                                                    "stop":  "2026-10-06T20:53:43.0000000Z",
                                                     "itemId":  "746531a34dc012efd97b57703e1903af",
                                                     "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
                                                     "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
@@ -112,7 +112,7 @@
                                "upNext":  {
                                               "title":  "Dawn of the Dead",
                                               "start":  "2026-10-06T12:26:30.0000000Z",
-                                              "stop":  "2026-10-06T14:16:02.0000000Z",
+                                              "stop":  "2026-10-06T14:15:52.0000000Z",
                                               "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
                                               "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
                                               "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
@@ -122,7 +122,7 @@
                                                 {
                                                     "title":  "Dawn of the Dead",
                                                     "start":  "2026-10-06T12:26:30.0000000Z",
-                                                    "stop":  "2026-10-06T14:16:02.0000000Z",
+                                                    "stop":  "2026-10-06T14:15:52.0000000Z",
                                                     "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
                                                     "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
                                                     "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
@@ -131,7 +131,7 @@
                                                 {
                                                     "title":  "End of Days",
                                                     "start":  "2026-10-06T14:15:52.0000000Z",
-                                                    "stop":  "2026-10-06T16:18:07.0000000Z",
+                                                    "stop":  "2026-10-06T16:18:17.0000000Z",
                                                     "itemId":  "6e5ccc599868e8e4908111e8e00356ea",
                                                     "poster":  "http://127.0.0.1:8096/Items/6e5ccc599868e8e4908111e8e00356ea/Images/Primary",
                                                     "description":  "Cynical bodyguard Jericho is hired by a man possessed by Satan, who is in search of his bride. When Jericho realizes what is happening, he must do everything he can to save the woman and the world.",
@@ -149,7 +149,7 @@
                                                 {
                                                     "title":  "DEMON KNIGHT",
                                                     "start":  "2026-10-06T18:29:45.0000000Z",
-                                                    "stop":  "2026-10-06T20:02:27.0000000Z",
+                                                    "stop":  "2026-10-06T20:02:17.0000000Z",
                                                     "itemId":  "a5a1f15c45eb562ac5f7621a94c12742",
                                                     "poster":  "http://127.0.0.1:8096/Items/a5a1f15c45eb562ac5f7621a94c12742/Images/Primary",
                                                     "description":  "Ex-soldier Frank Brayker is the guardian of an ancient key that can unlock tremendous evil; the sinister Collector is a demon who wants the key so he can initiate the apocalypse. On the run from wicked mercenaries for almost 90 years, Brayker finally stops in at a boarding house in New Mexico where — with the help of its residents — he plans to face off against the Collector and his band of ghouls, preventing them from ever seizing the key.",
@@ -158,7 +158,7 @@
                                                 {
                                                     "title":  "Dusk Till Dawn",
                                                     "start":  "2026-10-06T20:02:17.0000000Z",
-                                                    "stop":  "2026-10-06T21:50:07.0000000Z",
+                                                    "stop":  "2026-10-06T21:50:17.0000000Z",
                                                     "itemId":  "648811d2182191a63ce32eb861ad9020",
                                                     "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
                                                     "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
@@ -185,7 +185,7 @@
                                                 {
                                                     "title":  "Wrong Turn",
                                                     "start":  "2026-10-07T00:50:35.0000000Z",
-                                                    "stop":  "2026-10-07T02:14:57.0000000Z",
+                                                    "stop":  "2026-10-07T02:14:47.0000000Z",
                                                     "itemId":  "58d332deb67464546d571f7fda1cd63c",
                                                     "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
                                                     "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
@@ -581,18 +581,18 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Biggie Mobbing",
-                                                  "start":  "2026-10-06T10:42:42.0000000Z",
-                                                  "stop":  "2026-10-06T11:20:36.0000000Z",
-                                                  "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
+                                                  "title":  "Carrito",
+                                                  "start":  "2026-10-06T10:58:21.0000000Z",
+                                                  "stop":  "2026-10-06T11:14:32.0000000Z",
+                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Dancing Cobra",
                                               "start":  "2026-10-06T11:06:00.0000000Z",
-                                              "stop":  "2026-10-06T11:38:34.0000000Z",
+                                              "stop":  "2026-10-06T11:07:06.0000000Z",
                                               "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                               "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-10-06T11:06:00.0000000Z",
-                                                    "stop":  "2026-10-06T11:38:34.0000000Z",
+                                                    "stop":  "2026-10-06T11:07:06.0000000Z",
                                                     "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                                     "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                     "description":  null,
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-10-06T11:07:06.0000000Z",
-                                                    "stop":  "2026-10-06T11:31:34.0000000Z",
+                                                    "stop":  "2026-10-06T11:08:04.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-10-06T11:08:04.0000000Z",
-                                                    "stop":  "2026-10-06T11:09:13.0000000Z",
+                                                    "stop":  "2026-10-06T11:09:45.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-10-06T11:09:45.0000000Z",
-                                                    "stop":  "2026-10-06T11:37:03.0000000Z",
+                                                    "stop":  "2026-10-06T11:32:23.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-10-06T11:13:42.0000000Z",
-                                                    "stop":  "2026-10-06T11:56:33.0000000Z",
+                                                    "stop":  "2026-10-06T11:15:54.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-10-06T11:15:54.0000000Z",
-                                                    "stop":  "2026-10-06T12:04:48.0000000Z",
+                                                    "stop":  "2026-10-06T11:25:09.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-10-06T11:16:36.0000000Z",
-                                                    "stop":  "2026-10-06T11:17:26.0000000Z",
+                                                    "stop":  "2026-10-06T11:25:58.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-10-06T11:17:26.0000000Z",
-                                                    "stop":  "2026-10-06T11:55:45.0000000Z",
+                                                    "stop":  "2026-10-06T11:27:26.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
