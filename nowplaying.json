@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-06T14:00:07.5055862Z",
+    "updated":  "2026-10-06T14:01:55.8857951Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -7,7 +7,7 @@
                                "nowPlaying":  {
                                                   "title":  "Boogeyman",
                                                   "start":  "2026-10-06T13:03:25.0000000Z",
-                                                  "stop":  "2026-10-06T14:32:27.0000000Z",
+                                                  "stop":  "2026-10-06T14:32:39.0000000Z",
                                                   "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
                                                   "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
                                                   "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
@@ -16,7 +16,7 @@
                                "upNext":  {
                                               "title":  "ROBOCOP 3",
                                               "start":  "2026-10-06T14:32:27.0000000Z",
-                                              "stop":  "2026-10-06T16:17:41.0000000Z",
+                                              "stop":  "2026-10-06T16:17:30.0000000Z",
                                               "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
                                               "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
                                               "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
@@ -26,7 +26,7 @@
                                                 {
                                                     "title":  "ROBOCOP 3",
                                                     "start":  "2026-10-06T14:32:27.0000000Z",
-                                                    "stop":  "2026-10-06T16:17:41.0000000Z",
+                                                    "stop":  "2026-10-06T16:17:30.0000000Z",
                                                     "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
                                                     "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
                                                     "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
@@ -35,7 +35,7 @@
                                                 {
                                                     "title":  "Wrong Turn",
                                                     "start":  "2026-10-06T16:17:30.0000000Z",
-                                                    "stop":  "2026-10-06T17:41:52.0000000Z",
+                                                    "stop":  "2026-10-06T17:42:03.0000000Z",
                                                     "itemId":  "58d332deb67464546d571f7fda1cd63c",
                                                     "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
                                                     "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
@@ -44,7 +44,7 @@
                                                 {
                                                     "title":  "BORDELLO OF BLOOD",
                                                     "start":  "2026-10-06T17:41:52.0000000Z",
-                                                    "stop":  "2026-10-06T19:08:44.0000000Z",
+                                                    "stop":  "2026-10-06T19:08:32.0000000Z",
                                                     "itemId":  "b03986ae5fac22e258cf02b8c89bc7a4",
                                                     "poster":  "http://127.0.0.1:8096/Items/b03986ae5fac22e258cf02b8c89bc7a4/Images/Primary",
                                                     "description":  "Private eye Rafe Guttman is hired by repressed, born-again Katherine to find her missing bad-boy brother. The trail leads him to a whorehouse run by a thousand-year-old vampire and secretly backed by Katherine\u0027s boss, televangelist Jimmy Current.",
@@ -53,7 +53,7 @@
                                                 {
                                                     "title":  "Get Shorty",
                                                     "start":  "2026-10-06T19:08:32.0000000Z",
-                                                    "stop":  "2026-10-06T20:53:32.0000000Z",
+                                                    "stop":  "2026-10-06T20:53:43.0000000Z",
                                                     "itemId":  "746531a34dc012efd97b57703e1903af",
                                                     "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
                                                     "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
@@ -62,7 +62,7 @@
                                                 {
                                                     "title":  "Boogeyman",
                                                     "start":  "2026-10-06T20:53:32.0000000Z",
-                                                    "stop":  "2026-10-06T22:22:44.0000000Z",
+                                                    "stop":  "2026-10-06T22:22:33.0000000Z",
                                                     "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
                                                     "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
                                                     "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
@@ -71,7 +71,7 @@
                                                 {
                                                     "title":  "Blade Trinity",
                                                     "start":  "2026-10-06T22:22:33.0000000Z",
-                                                    "stop":  "2026-10-07T00:15:36.0000000Z",
+                                                    "stop":  "2026-10-07T00:15:47.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -80,7 +80,7 @@
                                                 {
                                                     "title":  "Critters 4",
                                                     "start":  "2026-10-07T00:15:36.0000000Z",
-                                                    "stop":  "2026-10-07T01:50:26.0000000Z",
+                                                    "stop":  "2026-10-07T01:50:14.0000000Z",
                                                     "itemId":  "9236028cd5b40f7dab68ae6983570831",
                                                     "poster":  "http://127.0.0.1:8096/Items/9236028cd5b40f7dab68ae6983570831/Images/Primary",
                                                     "description":  "A super strain of genetically engineered mutants are designed to take over the universe, hungry to conquer the galaxy, with an appetite for mankind.",
@@ -89,7 +89,7 @@
                                                 {
                                                     "title":  "Fast N Furious",
                                                     "start":  "2026-10-07T01:50:14.0000000Z",
-                                                    "stop":  "2026-10-07T03:37:20.0000000Z",
+                                                    "stop":  "2026-10-07T03:37:32.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "Commando",
                                                     "start":  "2026-10-06T16:32:10.0000000Z",
-                                                    "stop":  "2026-10-06T18:02:43.0000000Z",
+                                                    "stop":  "2026-10-06T18:02:23.0000000Z",
                                                     "itemId":  "4d57925cf6d4f5a046509bad0a68d29f",
                                                     "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
                                                     "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "Fast N Furious",
                                                     "start":  "2026-10-06T18:02:23.0000000Z",
-                                                    "stop":  "2026-10-06T19:49:29.0000000Z",
+                                                    "stop":  "2026-10-06T19:49:49.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "BATMAN BEGINS",
                                                     "start":  "2026-10-07T00:49:44.0000000Z",
-                                                    "stop":  "2026-10-07T03:10:06.0000000Z",
+                                                    "stop":  "2026-10-07T03:09:46.0000000Z",
                                                     "itemId":  "40cf44019306b29674462340007b5e1a",
                                                     "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
                                                     "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "Total Recall",
                                                     "start":  "2026-10-07T03:09:46.0000000Z",
-                                                    "stop":  "2026-10-07T05:03:16.0000000Z",
+                                                    "stop":  "2026-10-07T05:03:36.0000000Z",
                                                     "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
                                                     "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
                                                     "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
@@ -581,37 +581,28 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "T2",
-                                                  "start":  "2026-10-06T13:41:08.0000000Z",
-                                                  "stop":  "2026-10-06T14:18:30.0000000Z",
-                                                  "itemId":  "1315943017e226076a7899408d36dec5",
-                                                  "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
+                                                  "title":  "Carrito",
+                                                  "start":  "2026-10-06T13:53:18.0000000Z",
+                                                  "stop":  "2026-10-06T14:09:28.0000000Z",
+                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Dancing Cobra",
-                                              "start":  "2026-10-06T14:00:56.0000000Z",
-                                              "stop":  "2026-10-06T14:38:16.0000000Z",
-                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
+                                              "title":  "DnBaPCsht",
+                                              "start":  "2026-10-06T14:02:02.0000000Z",
+                                              "stop":  "2026-10-06T14:03:00.0000000Z",
+                                              "itemId":  "d2296bca99a831548bbada0bb3bac719",
+                                              "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
                                                 {
-                                                    "title":  "Dancing Cobra",
-                                                    "start":  "2026-10-06T14:00:56.0000000Z",
-                                                    "stop":  "2026-10-06T14:38:16.0000000Z",
-                                                    "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-10-06T14:02:02.0000000Z",
-                                                    "stop":  "2026-10-06T14:18:58.0000000Z",
+                                                    "stop":  "2026-10-06T14:03:00.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -620,7 +611,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-10-06T14:03:00.0000000Z",
-                                                    "stop":  "2026-10-06T14:20:20.0000000Z",
+                                                    "stop":  "2026-10-06T14:04:42.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -629,7 +620,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-10-06T14:04:42.0000000Z",
-                                                    "stop":  "2026-10-06T14:40:02.0000000Z",
+                                                    "stop":  "2026-10-06T14:27:19.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -638,7 +629,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-10-06T14:08:39.0000000Z",
-                                                    "stop":  "2026-10-06T14:34:32.0000000Z",
+                                                    "stop":  "2026-10-06T14:10:51.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -647,7 +638,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-10-06T14:10:51.0000000Z",
-                                                    "stop":  "2026-10-06T14:11:33.0000000Z",
+                                                    "stop":  "2026-10-06T14:20:06.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +647,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-10-06T14:11:33.0000000Z",
-                                                    "stop":  "2026-10-06T14:35:48.0000000Z",
+                                                    "stop":  "2026-10-06T14:20:55.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -665,11 +656,20 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-10-06T14:12:22.0000000Z",
-                                                    "stop":  "2026-10-06T14:54:28.0000000Z",
+                                                    "stop":  "2026-10-06T14:22:23.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "0Ld Sc00L",
+                                                    "start":  "2026-10-06T14:13:50.0000000Z",
+                                                    "stop":  "2026-10-06T14:41:58.0000000Z",
+                                                    "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
