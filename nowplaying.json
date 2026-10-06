@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-06T21:50:06.5691265Z",
+    "updated":  "2026-10-06T21:51:06.4637119Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,33 +101,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Dusk Till Dawn",
-                                                  "start":  "2026-10-06T20:02:17.0000000Z",
-                                                  "stop":  "2026-10-06T21:50:07.0000000Z",
-                                                  "itemId":  "648811d2182191a63ce32eb861ad9020",
-                                                  "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
-                                                  "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
-                                                  "year":  1996
+                                                  "title":  "Critters",
+                                                  "start":  "2026-10-06T21:50:07.0000000Z",
+                                                  "stop":  "2026-10-06T23:15:59.0000000Z",
+                                                  "itemId":  "54493e812aba3ee1edef65108ed95c05",
+                                                  "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
+                                                  "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
+                                                  "year":  1988
                                               },
                                "upNext":  {
-                                              "title":  "Critters",
-                                              "start":  "2026-10-06T21:50:07.0000000Z",
-                                              "stop":  "2026-10-06T23:15:59.0000000Z",
-                                              "itemId":  "54493e812aba3ee1edef65108ed95c05",
-                                              "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
-                                              "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
-                                              "year":  1988
+                                              "title":  "Critters 4",
+                                              "start":  "2026-10-06T23:15:59.0000000Z",
+                                              "stop":  "2026-10-07T00:50:45.0000000Z",
+                                              "itemId":  "9236028cd5b40f7dab68ae6983570831",
+                                              "poster":  "http://127.0.0.1:8096/Items/9236028cd5b40f7dab68ae6983570831/Images/Primary",
+                                              "description":  "A super strain of genetically engineered mutants are designed to take over the universe, hungry to conquer the galaxy, with an appetite for mankind.",
+                                              "year":  1992
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Critters",
-                                                    "start":  "2026-10-06T21:50:07.0000000Z",
-                                                    "stop":  "2026-10-06T23:15:59.0000000Z",
-                                                    "itemId":  "54493e812aba3ee1edef65108ed95c05",
-                                                    "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
-                                                    "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
-                                                    "year":  1988
-                                                },
                                                 {
                                                     "title":  "Critters 4",
                                                     "start":  "2026-10-06T23:15:59.0000000Z",
@@ -190,6 +181,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/c79ef56b1b57aea8237d2575aba106ee/Images/Primary",
                                                     "description":  "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop\u0027s daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers\u0027 children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
                                                     "year":  1984
+                                                },
+                                                {
+                                                    "title":  "BORDELLO OF BLOOD",
+                                                    "start":  "2026-10-07T10:07:47.0000000Z",
+                                                    "stop":  "2026-10-07T11:34:28.0000000Z",
+                                                    "itemId":  "b03986ae5fac22e258cf02b8c89bc7a4",
+                                                    "poster":  "http://127.0.0.1:8096/Items/b03986ae5fac22e258cf02b8c89bc7a4/Images/Primary",
+                                                    "description":  "Private eye Rafe Guttman is hired by repressed, born-again Katherine to find her missing bad-boy brother. The trail leads him to a whorehouse run by a thousand-year-old vampire and secretly backed by Katherine\u0027s boss, televangelist Jimmy Current.",
+                                                    "year":  1996
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Oz",
-                                              "start":  "2026-10-06T21:51:02.0000000Z",
-                                              "stop":  "2026-10-06T21:52:43.0000000Z",
-                                              "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                              "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                              "title":  "BloodJoke",
+                                              "start":  "2026-10-06T21:52:43.0000000Z",
+                                              "stop":  "2026-10-06T21:54:18.0000000Z",
+                                              "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                              "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Oz",
-                                                    "start":  "2026-10-06T21:51:02.0000000Z",
-                                                    "stop":  "2026-10-06T21:52:43.0000000Z",
-                                                    "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "BloodJoke",
                                                     "start":  "2026-10-06T21:52:43.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Ninja Now",
+                                                    "start":  "2026-10-06T22:11:56.0000000Z",
+                                                    "stop":  "2026-10-06T22:12:39.0000000Z",
+                                                    "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
