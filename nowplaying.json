@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-10-06T00:04:06.4264382Z",
+    "updated":  "2026-10-06T00:05:06.7026524Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Uncut Gems",
-                                                  "start":  "2026-10-05T21:49:24.0000000Z",
-                                                  "stop":  "2026-10-06T00:04:44.0000000Z",
-                                                  "itemId":  "45595e0d5e2d1d1e536514ebf9b1deaf",
-                                                  "poster":  "http://127.0.0.1:8096/Items/45595e0d5e2d1d1e536514ebf9b1deaf/Images/Primary",
-                                                  "description":  "A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.",
-                                                  "year":  2019
+                                                  "title":  "Seventh Sign",
+                                                  "start":  "2026-10-06T00:04:44.0000000Z",
+                                                  "stop":  "2026-10-06T01:41:52.0000000Z",
+                                                  "itemId":  "ee279419a64df59247370e38f4f0deea",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ee279419a64df59247370e38f4f0deea/Images/Primary",
+                                                  "description":  "Abby is a pregnant woman with a curious new boarder in the apartment over her garage. Turns out he\u0027s heaven-sent and is speeding along the Apocalypse by bloodying rivers, egging on plagues and following scripture word for word.",
+                                                  "year":  1988
                                               },
                                "upNext":  {
-                                              "title":  "Seventh Sign",
-                                              "start":  "2026-10-06T00:04:44.0000000Z",
-                                              "stop":  "2026-10-06T01:41:52.0000000Z",
-                                              "itemId":  "ee279419a64df59247370e38f4f0deea",
-                                              "poster":  "http://127.0.0.1:8096/Items/ee279419a64df59247370e38f4f0deea/Images/Primary",
-                                              "description":  "Abby is a pregnant woman with a curious new boarder in the apartment over her garage. Turns out he\u0027s heaven-sent and is speeding along the Apocalypse by bloodying rivers, egging on plagues and following scripture word for word.",
-                                              "year":  1988
+                                              "title":  "HEAVY METAL",
+                                              "start":  "2026-10-06T01:41:52.0000000Z",
+                                              "stop":  "2026-10-06T03:12:25.0000000Z",
+                                              "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                              "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                              "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                              "year":  1981
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Seventh Sign",
-                                                    "start":  "2026-10-06T00:04:44.0000000Z",
-                                                    "stop":  "2026-10-06T01:41:52.0000000Z",
-                                                    "itemId":  "ee279419a64df59247370e38f4f0deea",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ee279419a64df59247370e38f4f0deea/Images/Primary",
-                                                    "description":  "Abby is a pregnant woman with a curious new boarder in the apartment over her garage. Turns out he\u0027s heaven-sent and is speeding along the Apocalypse by bloodying rivers, egging on plagues and following scripture word for word.",
-                                                    "year":  1988
-                                                },
                                                 {
                                                     "title":  "HEAVY METAL",
                                                     "start":  "2026-10-06T01:41:52.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/75bc45c9af5e154aea4dd68eb38e0354/Images/Primary",
                                                     "description":  "A Chicago artist\u0027s sanity starts to unravel, unleashing a terrifying wave of violence when he begins to explore the macabre history of the Candyman.",
                                                     "year":  2021
+                                                },
+                                                {
+                                                    "title":  "Boogeyman",
+                                                    "start":  "2026-10-06T13:03:25.0000000Z",
+                                                    "stop":  "2026-10-06T14:32:27.0000000Z",
+                                                    "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
+                                                    "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
+                                                    "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
+                                                    "year":  2005
                                                 }
                                             ]
                            },
