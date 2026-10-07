@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-07T06:01:05.3644603Z",
+    "updated":  "2026-10-07T06:02:05.3778504Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -7,7 +7,7 @@
                                "nowPlaying":  {
                                                   "title":  "Brightburn",
                                                   "start":  "2026-10-07T05:18:44.0000000Z",
-                                                  "stop":  "2026-10-07T06:49:24.0000000Z",
+                                                  "stop":  "2026-10-07T06:49:36.0000000Z",
                                                   "itemId":  "a562e465a7ff31b0113aee613a779bf2",
                                                   "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
                                                   "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
@@ -16,7 +16,7 @@
                                "upNext":  {
                                               "title":  "Commando",
                                               "start":  "2026-10-07T06:49:24.0000000Z",
-                                              "stop":  "2026-10-07T08:20:00.0000000Z",
+                                              "stop":  "2026-10-07T08:19:49.0000000Z",
                                               "itemId":  "4d57925cf6d4f5a046509bad0a68d29f",
                                               "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
                                               "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
@@ -26,7 +26,7 @@
                                                 {
                                                     "title":  "Commando",
                                                     "start":  "2026-10-07T06:49:24.0000000Z",
-                                                    "stop":  "2026-10-07T08:20:00.0000000Z",
+                                                    "stop":  "2026-10-07T08:19:49.0000000Z",
                                                     "itemId":  "4d57925cf6d4f5a046509bad0a68d29f",
                                                     "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
                                                     "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
@@ -35,7 +35,7 @@
                                                 {
                                                     "title":  "Critters",
                                                     "start":  "2026-10-07T08:19:49.0000000Z",
-                                                    "stop":  "2026-10-07T09:45:53.0000000Z",
+                                                    "stop":  "2026-10-07T09:46:04.0000000Z",
                                                     "itemId":  "54493e812aba3ee1edef65108ed95c05",
                                                     "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
                                                     "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
@@ -44,7 +44,7 @@
                                                 {
                                                     "title":  "FightPlan",
                                                     "start":  "2026-10-07T09:45:53.0000000Z",
-                                                    "stop":  "2026-10-07T11:24:17.0000000Z",
+                                                    "stop":  "2026-10-07T11:24:06.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -53,7 +53,7 @@
                                                 {
                                                     "title":  "Young Guns",
                                                     "start":  "2026-10-07T11:24:06.0000000Z",
-                                                    "stop":  "2026-10-07T13:11:02.0000000Z",
+                                                    "stop":  "2026-10-07T13:11:13.0000000Z",
                                                     "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
                                                     "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
                                                     "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
@@ -62,7 +62,7 @@
                                                 {
                                                     "title":  "Sherlock Holmes",
                                                     "start":  "2026-10-07T13:11:02.0000000Z",
-                                                    "stop":  "2026-10-07T15:19:53.0000000Z",
+                                                    "stop":  "2026-10-07T15:19:41.0000000Z",
                                                     "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
                                                     "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
                                                     "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
@@ -71,7 +71,7 @@
                                                 {
                                                     "title":  "D1_t00",
                                                     "start":  "2026-10-07T15:19:41.0000000Z",
-                                                    "stop":  "2026-10-07T17:31:31.0000000Z",
+                                                    "stop":  "2026-10-07T17:31:42.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -80,7 +80,7 @@
                                                 {
                                                     "title":  "BATMAN BEGINS",
                                                     "start":  "2026-10-07T17:31:31.0000000Z",
-                                                    "stop":  "2026-10-07T19:51:56.0000000Z",
+                                                    "stop":  "2026-10-07T19:51:44.0000000Z",
                                                     "itemId":  "40cf44019306b29674462340007b5e1a",
                                                     "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
                                                     "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
@@ -89,7 +89,7 @@
                                                 {
                                                     "title":  "Total Recall",
                                                     "start":  "2026-10-07T19:51:44.0000000Z",
-                                                    "stop":  "2026-10-07T21:45:16.0000000Z",
+                                                    "stop":  "2026-10-07T21:45:28.0000000Z",
                                                     "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
                                                     "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
                                                     "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
@@ -112,7 +112,7 @@
                                "upNext":  {
                                               "title":  "WISHMASTER",
                                               "start":  "2026-10-07T07:06:18.0000000Z",
-                                              "stop":  "2026-10-07T08:36:24.0000000Z",
+                                              "stop":  "2026-10-07T08:36:14.0000000Z",
                                               "itemId":  "58d933a690c3d71b883c09370fa30d07",
                                               "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
                                               "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
@@ -122,7 +122,7 @@
                                                 {
                                                     "title":  "WISHMASTER",
                                                     "start":  "2026-10-07T07:06:18.0000000Z",
-                                                    "stop":  "2026-10-07T08:36:24.0000000Z",
+                                                    "stop":  "2026-10-07T08:36:14.0000000Z",
                                                     "itemId":  "58d933a690c3d71b883c09370fa30d07",
                                                     "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
                                                     "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
@@ -131,7 +131,7 @@
                                                 {
                                                     "title":  "A Nightmare on Elm Street",
                                                     "start":  "2026-10-07T08:36:14.0000000Z",
-                                                    "stop":  "2026-10-07T10:07:47.0000000Z",
+                                                    "stop":  "2026-10-07T10:07:57.0000000Z",
                                                     "itemId":  "c79ef56b1b57aea8237d2575aba106ee",
                                                     "poster":  "http://127.0.0.1:8096/Items/c79ef56b1b57aea8237d2575aba106ee/Images/Primary",
                                                     "description":  "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop\u0027s daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers\u0027 children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
@@ -149,7 +149,7 @@
                                                 {
                                                     "title":  "Land of the Dead",
                                                     "start":  "2026-10-07T11:34:18.0000000Z",
-                                                    "stop":  "2026-10-07T13:11:18.0000000Z",
+                                                    "stop":  "2026-10-07T13:11:08.0000000Z",
                                                     "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
                                                     "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
                                                     "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
@@ -158,7 +158,7 @@
                                                 {
                                                     "title":  "Resident Evil- Apocalypse",
                                                     "start":  "2026-10-07T13:11:08.0000000Z",
-                                                    "stop":  "2026-10-07T14:44:56.0000000Z",
+                                                    "stop":  "2026-10-07T14:45:06.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -185,7 +185,7 @@
                                                 {
                                                     "title":  "Nightmare on Elm Street 4 Dream Master",
                                                     "start":  "2026-10-07T18:11:06.0000000Z",
-                                                    "stop":  "2026-10-07T19:44:37.0000000Z",
+                                                    "stop":  "2026-10-07T19:44:27.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "Predator",
                                                     "start":  "2026-10-07T09:10:23.0000000Z",
-                                                    "stop":  "2026-10-07T10:57:17.0000000Z",
+                                                    "stop":  "2026-10-07T10:56:57.0000000Z",
                                                     "itemId":  "9745bbd80aedfd3750130547f37af704",
                                                     "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
                                                     "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "Conan The Destroyer",
                                                     "start":  "2026-10-07T10:56:57.0000000Z",
-                                                    "stop":  "2026-10-07T12:38:06.0000000Z",
+                                                    "stop":  "2026-10-07T12:38:26.0000000Z",
                                                     "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
                                                     "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
                                                     "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "ROBOCOP 2",
                                                     "start":  "2026-10-07T18:50:39.0000000Z",
-                                                    "stop":  "2026-10-07T20:47:38.0000000Z",
+                                                    "stop":  "2026-10-07T20:47:28.0000000Z",
                                                     "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
                                                     "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "ROBOCOP 3",
                                                     "start":  "2026-10-07T20:47:28.0000000Z",
-                                                    "stop":  "2026-10-07T22:32:19.0000000Z",
+                                                    "stop":  "2026-10-07T22:32:29.0000000Z",
                                                     "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
                                                     "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
                                                     "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
@@ -581,18 +581,18 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Mr J-Carry",
-                                                  "start":  "2026-10-07T05:42:22.0000000Z",
-                                                  "stop":  "2026-10-07T06:20:09.0000000Z",
-                                                  "itemId":  "56c94066e018711311e81d6a3f6cc139",
-                                                  "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
+                                                  "title":  "Carrito",
+                                                  "start":  "2026-10-07T05:55:29.0000000Z",
+                                                  "stop":  "2026-10-07T06:11:39.0000000Z",
+                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Dancing Cobra",
                                               "start":  "2026-10-07T06:03:08.0000000Z",
-                                              "stop":  "2026-10-07T06:20:22.0000000Z",
+                                              "stop":  "2026-10-07T06:04:13.0000000Z",
                                               "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                               "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-10-07T06:03:08.0000000Z",
-                                                    "stop":  "2026-10-07T06:20:22.0000000Z",
+                                                    "stop":  "2026-10-07T06:04:13.0000000Z",
                                                     "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                                     "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                     "description":  null,
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-10-07T06:04:13.0000000Z",
-                                                    "stop":  "2026-10-07T06:21:10.0000000Z",
+                                                    "stop":  "2026-10-07T06:05:11.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-10-07T06:05:11.0000000Z",
-                                                    "stop":  "2026-10-07T06:37:49.0000000Z",
+                                                    "stop":  "2026-10-07T06:06:53.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-10-07T06:06:53.0000000Z",
-                                                    "stop":  "2026-10-07T06:34:26.0000000Z",
+                                                    "stop":  "2026-10-07T06:29:30.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-10-07T06:13:02.0000000Z",
-                                                    "stop":  "2026-10-07T06:37:10.0000000Z",
+                                                    "stop":  "2026-10-07T06:22:17.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-10-07T06:13:44.0000000Z",
-                                                    "stop":  "2026-10-07T06:55:12.0000000Z",
+                                                    "stop":  "2026-10-07T06:23:06.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-10-07T06:14:33.0000000Z",
-                                                    "stop":  "2026-10-07T07:04:12.0000000Z",
+                                                    "stop":  "2026-10-07T06:24:34.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
