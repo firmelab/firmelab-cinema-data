@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-10-07T17:31:05.7502276Z",
+    "updated":  "2026-10-07T17:32:05.7407872Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "D1_t00",
-                                                  "start":  "2026-10-07T15:19:41.0000000Z",
-                                                  "stop":  "2026-10-07T17:31:43.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "BATMAN BEGINS",
+                                                  "start":  "2026-10-07T17:31:31.0000000Z",
+                                                  "stop":  "2026-10-07T19:51:44.0000000Z",
+                                                  "itemId":  "40cf44019306b29674462340007b5e1a",
+                                                  "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
+                                                  "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+                                                  "year":  2005
                                               },
                                "upNext":  {
-                                              "title":  "BATMAN BEGINS",
-                                              "start":  "2026-10-07T17:31:31.0000000Z",
-                                              "stop":  "2026-10-07T19:51:44.0000000Z",
-                                              "itemId":  "40cf44019306b29674462340007b5e1a",
-                                              "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
-                                              "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
-                                              "year":  2005
+                                              "title":  "Total Recall",
+                                              "start":  "2026-10-07T19:51:44.0000000Z",
+                                              "stop":  "2026-10-07T21:45:27.0000000Z",
+                                              "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
+                                              "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
+                                              "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
+                                              "year":  1990
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "BATMAN BEGINS",
-                                                    "start":  "2026-10-07T17:31:31.0000000Z",
-                                                    "stop":  "2026-10-07T19:51:44.0000000Z",
-                                                    "itemId":  "40cf44019306b29674462340007b5e1a",
-                                                    "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
-                                                    "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
-                                                    "year":  2005
-                                                },
                                                 {
                                                     "title":  "Total Recall",
                                                     "start":  "2026-10-07T19:51:44.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
                                                     "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
                                                     "year":  2000
+                                                },
+                                                {
+                                                    "title":  "Dusk Till Dawn",
+                                                    "start":  "2026-10-08T09:57:33.0000000Z",
+                                                    "stop":  "2026-10-08T11:45:35.0000000Z",
+                                                    "itemId":  "648811d2182191a63ce32eb861ad9020",
+                                                    "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
+                                                    "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
+                                                    "year":  1996
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Oz",
-                                              "start":  "2026-10-07T17:31:53.0000000Z",
-                                              "stop":  "2026-10-07T17:33:35.0000000Z",
-                                              "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                              "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                              "title":  "BloodJoke",
+                                              "start":  "2026-10-07T17:33:35.0000000Z",
+                                              "stop":  "2026-10-07T17:35:10.0000000Z",
+                                              "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                              "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Oz",
-                                                    "start":  "2026-10-07T17:31:53.0000000Z",
-                                                    "stop":  "2026-10-07T17:33:35.0000000Z",
-                                                    "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "BloodJoke",
                                                     "start":  "2026-10-07T17:33:35.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Ninja Now",
+                                                    "start":  "2026-10-07T17:52:48.0000000Z",
+                                                    "stop":  "2026-10-07T17:53:30.0000000Z",
+                                                    "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
