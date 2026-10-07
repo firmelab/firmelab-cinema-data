@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-07T21:01:06.0903156Z",
+    "updated":  "2026-10-07T21:02:05.9383088Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "Rambo First Blood",
                                                     "start":  "2026-10-08T00:30:36.0000000Z",
-                                                    "stop":  "2026-10-08T02:04:05.0000000Z",
+                                                    "stop":  "2026-10-08T02:03:45.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "Commando",
                                                     "start":  "2026-10-08T02:03:45.0000000Z",
-                                                    "stop":  "2026-10-08T03:33:59.0000000Z",
+                                                    "stop":  "2026-10-08T03:34:19.0000000Z",
                                                     "itemId":  "4d57925cf6d4f5a046509bad0a68d29f",
                                                     "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
                                                     "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "Bourne Supremacy",
                                                     "start":  "2026-10-08T08:32:48.0000000Z",
-                                                    "stop":  "2026-10-08T10:21:40.0000000Z",
+                                                    "stop":  "2026-10-08T10:21:20.0000000Z",
                                                     "itemId":  "031faf0da71af121647ff2d37294b07a",
                                                     "poster":  "http://127.0.0.1:8096/Items/031faf0da71af121647ff2d37294b07a/Images/Primary",
                                                     "description":  "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "BATMAN BEGINS",
                                                     "start":  "2026-10-08T10:21:20.0000000Z",
-                                                    "stop":  "2026-10-08T12:41:21.0000000Z",
+                                                    "stop":  "2026-10-08T12:41:41.0000000Z",
                                                     "itemId":  "40cf44019306b29674462340007b5e1a",
                                                     "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
                                                     "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
@@ -389,33 +389,24 @@
                                "number":  5,
                                "name":  "FIRMELAB TOONS",
                                "nowPlaying":  {
-                                                  "title":  "Who Framed Roger Rabbit",
-                                                  "start":  "2026-10-07T19:17:44.0000000Z",
-                                                  "stop":  "2026-10-07T21:01:29.0000000Z",
-                                                  "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
-                                                  "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
-                                                  "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
-                                                  "year":  1988
+                                                  "title":  "HEAVY METAL",
+                                                  "start":  "2026-10-07T21:01:29.0000000Z",
+                                                  "stop":  "2026-10-07T22:31:51.0000000Z",
+                                                  "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                                  "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                                  "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                                  "year":  1981
                                               },
                                "upNext":  {
-                                              "title":  "HEAVY METAL",
-                                              "start":  "2026-10-07T21:01:29.0000000Z",
-                                              "stop":  "2026-10-07T22:31:51.0000000Z",
-                                              "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
-                                              "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
-                                              "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
-                                              "year":  1981
+                                              "title":  "Who Framed Roger Rabbit",
+                                              "start":  "2026-10-07T22:31:51.0000000Z",
+                                              "stop":  "2026-10-08T00:15:36.0000000Z",
+                                              "itemId":  "7b541f531a1a00cc5f92ccb915dea861",
+                                              "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
+                                              "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+                                              "year":  1988
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "HEAVY METAL",
-                                                    "start":  "2026-10-07T21:01:29.0000000Z",
-                                                    "stop":  "2026-10-07T22:31:51.0000000Z",
-                                                    "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
-                                                    "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
-                                                    "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
-                                                    "year":  1981
-                                                },
                                                 {
                                                     "title":  "Who Framed Roger Rabbit",
                                                     "start":  "2026-10-07T22:31:51.0000000Z",
@@ -478,6 +469,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/7b541f531a1a00cc5f92ccb915dea861/Images/Primary",
                                                     "description":  "Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
                                                     "year":  1988
+                                                },
+                                                {
+                                                    "title":  "HEAVY METAL",
+                                                    "start":  "2026-10-08T09:57:58.0000000Z",
+                                                    "stop":  "2026-10-08T11:28:19.0000000Z",
+                                                    "itemId":  "cb02b8f1e8f5522fb0e6ae6875d2bd90",
+                                                    "poster":  "http://127.0.0.1:8096/Items/cb02b8f1e8f5522fb0e6ae6875d2bd90/Images/Primary",
+                                                    "description":  "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+                                                    "year":  1981
                                                 }
                                             ]
                            },
@@ -581,33 +581,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Duende",
-                                                  "start":  "2026-10-07T20:39:54.0000000Z",
-                                                  "stop":  "2026-10-07T21:18:16.0000000Z",
-                                                  "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                                  "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                                  "title":  "FL MIXTAPE",
+                                                  "start":  "2026-10-07T21:00:00.0000000Z",
+                                                  "stop":  "2026-10-07T21:09:26.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "T2",
-                                              "start":  "2026-10-07T21:01:46.0000000Z",
-                                              "stop":  "2026-10-07T21:26:14.0000000Z",
-                                              "itemId":  "1315943017e226076a7899408d36dec5",
-                                              "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
+                                              "title":  "Ricardo \u0026 Mocoso",
+                                              "start":  "2026-10-07T21:02:18.0000000Z",
+                                              "stop":  "2026-10-07T21:04:33.0000000Z",
+                                              "itemId":  "0e268bdc592953760cc985e16953d93d",
+                                              "poster":  "http://127.0.0.1:8096/Items/0e268bdc592953760cc985e16953d93d/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "T2",
-                                                    "start":  "2026-10-07T21:01:46.0000000Z",
-                                                    "stop":  "2026-10-07T21:26:14.0000000Z",
-                                                    "itemId":  "1315943017e226076a7899408d36dec5",
-                                                    "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Ricardo \u0026 Mocoso",
                                                     "start":  "2026-10-07T21:02:18.0000000Z",
@@ -620,7 +611,7 @@
                                                 {
                                                     "title":  "XocoBruja",
                                                     "start":  "2026-10-07T21:04:33.0000000Z",
-                                                    "stop":  "2026-10-07T21:29:41.0000000Z",
+                                                    "stop":  "2026-10-07T21:26:10.0000000Z",
                                                     "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
                                                     "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
                                                     "description":  null,
@@ -629,7 +620,7 @@
                                                 {
                                                     "title":  "COKCE6139",
                                                     "start":  "2026-10-07T21:07:18.0000000Z",
-                                                    "stop":  "2026-10-07T21:49:53.0000000Z",
+                                                    "stop":  "2026-10-07T21:09:29.0000000Z",
                                                     "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
                                                     "description":  null,
@@ -638,7 +629,7 @@
                                                 {
                                                     "title":  "MrPayo",
                                                     "start":  "2026-10-07T21:09:29.0000000Z",
-                                                    "stop":  "2026-10-07T21:58:46.0000000Z",
+                                                    "stop":  "2026-10-07T21:19:12.0000000Z",
                                                     "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
                                                     "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
                                                     "description":  null,
@@ -647,7 +638,7 @@
                                                 {
                                                     "title":  "Oz",
                                                     "start":  "2026-10-07T21:10:34.0000000Z",
-                                                    "stop":  "2026-10-07T21:12:15.0000000Z",
+                                                    "stop":  "2026-10-07T21:20:53.0000000Z",
                                                     "itemId":  "f332ba1673f9273e5349cd38b640cf51",
                                                     "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                                     "description":  null,
@@ -656,7 +647,7 @@
                                                 {
                                                     "title":  "BloodJoke",
                                                     "start":  "2026-10-07T21:12:15.0000000Z",
-                                                    "stop":  "2026-10-07T21:50:42.0000000Z",
+                                                    "stop":  "2026-10-07T21:22:29.0000000Z",
                                                     "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
                                                     "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                                     "description":  null,
@@ -665,9 +656,18 @@
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-10-07T21:13:56.0000000Z",
-                                                    "stop":  "2026-10-07T21:21:34.0000000Z",
+                                                    "stop":  "2026-10-07T21:49:11.0000000Z",
                                                     "itemId":  "ed83754111f4ed370a338cab8345534d",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Dancing Cobra",
+                                                    "start":  "2026-10-07T21:21:34.0000000Z",
+                                                    "stop":  "2026-10-07T21:22:40.0000000Z",
+                                                    "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                                    "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
