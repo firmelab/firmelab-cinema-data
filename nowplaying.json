@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-07T16:10:05.1442374Z",
+    "updated":  "2026-10-07T16:11:05.1616670Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,33 +101,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Critters 2",
-                                                  "start":  "2026-10-07T14:44:56.0000000Z",
-                                                  "stop":  "2026-10-07T16:10:52.0000000Z",
-                                                  "itemId":  "54493e812aba3ee1edef65108ed95c05",
-                                                  "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
-                                                  "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
-                                                  "year":  1988
+                                                  "title":  "Blade",
+                                                  "start":  "2026-10-07T16:10:52.0000000Z",
+                                                  "stop":  "2026-10-07T18:11:06.0000000Z",
+                                                  "itemId":  "b15fb14f946bc7e00478a81aa4943fdf",
+                                                  "poster":  "http://127.0.0.1:8096/Items/b15fb14f946bc7e00478a81aa4943fdf/Images/Primary",
+                                                  "description":  "The Daywalker known as \"Blade\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",
+                                                  "year":  1998
                                               },
                                "upNext":  {
-                                              "title":  "Blade",
-                                              "start":  "2026-10-07T16:10:52.0000000Z",
-                                              "stop":  "2026-10-07T18:11:06.0000000Z",
-                                              "itemId":  "b15fb14f946bc7e00478a81aa4943fdf",
-                                              "poster":  "http://127.0.0.1:8096/Items/b15fb14f946bc7e00478a81aa4943fdf/Images/Primary",
-                                              "description":  "The Daywalker known as \"Blade\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",
-                                              "year":  1998
+                                              "title":  "Nightmare on Elm Street 4 Dream Master",
+                                              "start":  "2026-10-07T18:11:06.0000000Z",
+                                              "stop":  "2026-10-07T19:44:47.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Blade",
-                                                    "start":  "2026-10-07T16:10:52.0000000Z",
-                                                    "stop":  "2026-10-07T18:11:06.0000000Z",
-                                                    "itemId":  "b15fb14f946bc7e00478a81aa4943fdf",
-                                                    "poster":  "http://127.0.0.1:8096/Items/b15fb14f946bc7e00478a81aa4943fdf/Images/Primary",
-                                                    "description":  "The Daywalker known as \"Blade\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",
-                                                    "year":  1998
-                                                },
                                                 {
                                                     "title":  "Nightmare on Elm Street 4 Dream Master",
                                                     "start":  "2026-10-07T18:11:06.0000000Z",
@@ -190,6 +181,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/5dc1ff349ca7c8caaf1ecfe4f830a683/Images/Primary",
                                                     "description":  "In Arborville, California, three high school students try to protect their hometown from a gelatinous alien life form that engulfs everything it touches.",
                                                     "year":  1988
+                                                },
+                                                {
+                                                    "title":  "Blade II",
+                                                    "start":  "2026-10-08T05:25:08.0000000Z",
+                                                    "stop":  "2026-10-08T07:22:08.0000000Z",
+                                                    "itemId":  "74e7a571bdb0578b253598a3f8b45f12",
+                                                    "poster":  "http://127.0.0.1:8096/Items/74e7a571bdb0578b253598a3f8b45f12/Images/Primary",
+                                                    "description":  "Blade forms an uneasy alliance with the vampire council in order to combat the Reapers, who are feeding on vampires.",
+                                                    "year":  2002
                                                 }
                                             ]
                            },
