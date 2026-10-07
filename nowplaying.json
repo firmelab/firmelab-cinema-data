@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-07T19:01:16.7315407Z",
+    "updated":  "2026-10-07T19:02:06.0143868Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -112,7 +112,7 @@
                                "upNext":  {
                                               "title":  "Underworld Evolution",
                                               "start":  "2026-10-07T19:44:27.0000000Z",
-                                              "stop":  "2026-10-07T21:31:11.0000000Z",
+                                              "stop":  "2026-10-07T21:30:51.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
@@ -122,7 +122,7 @@
                                                 {
                                                     "title":  "Underworld Evolution",
                                                     "start":  "2026-10-07T19:44:27.0000000Z",
-                                                    "stop":  "2026-10-07T21:31:11.0000000Z",
+                                                    "stop":  "2026-10-07T21:30:51.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -131,7 +131,7 @@
                                                 {
                                                     "title":  "CHRISTINE",
                                                     "start":  "2026-10-07T21:30:51.0000000Z",
-                                                    "stop":  "2026-10-07T23:20:52.0000000Z",
+                                                    "stop":  "2026-10-07T23:21:12.0000000Z",
                                                     "itemId":  "91dc7dc3ea26a9c92725048bc480729c",
                                                     "poster":  "http://127.0.0.1:8096/Items/91dc7dc3ea26a9c92725048bc480729c/Images/Primary",
                                                     "description":  "Nerdy high schooler Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory. As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty. Arnie\u0027s girlfriend Leigh and best friend Dennis reach out to him, only to be met by a Fury like no other.",
@@ -149,7 +149,7 @@
                                                 {
                                                     "title":  "CANDYMAN",
                                                     "start":  "2026-10-08T00:45:37.0000000Z",
-                                                    "stop":  "2026-10-08T02:24:54.0000000Z",
+                                                    "stop":  "2026-10-08T02:24:34.0000000Z",
                                                     "itemId":  "75bc45c9af5e154aea4dd68eb38e0354",
                                                     "poster":  "http://127.0.0.1:8096/Items/75bc45c9af5e154aea4dd68eb38e0354/Images/Primary",
                                                     "description":  "A Chicago artist\u0027s sanity starts to unravel, unleashing a terrifying wave of violence when he begins to explore the macabre history of the Candyman.",
@@ -158,7 +158,7 @@
                                                 {
                                                     "title":  "A Nightmare on Elm Street 2 Freddy\u0027s Revenge",
                                                     "start":  "2026-10-08T02:24:34.0000000Z",
-                                                    "stop":  "2026-10-08T03:50:07.0000000Z",
+                                                    "stop":  "2026-10-08T03:50:27.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -185,7 +185,7 @@
                                                 {
                                                     "title":  "World War Z",
                                                     "start":  "2026-10-08T07:21:58.0000000Z",
-                                                    "stop":  "2026-10-08T09:25:11.0000000Z",
+                                                    "stop":  "2026-10-08T09:25:01.0000000Z",
                                                     "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
                                                     "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
                                                     "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "Bourne Identity",
                                                     "start":  "2026-10-07T22:32:19.0000000Z",
-                                                    "stop":  "2026-10-08T00:30:56.0000000Z",
+                                                    "stop":  "2026-10-08T00:30:36.0000000Z",
                                                     "itemId":  "ad22fba25f4ceaee407d76b5620443de",
                                                     "poster":  "http://127.0.0.1:8096/Items/ad22fba25f4ceaee407d76b5620443de/Images/Primary",
                                                     "description":  "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "Rambo First Blood",
                                                     "start":  "2026-10-08T00:30:36.0000000Z",
-                                                    "stop":  "2026-10-08T02:03:45.0000000Z",
+                                                    "stop":  "2026-10-08T02:04:05.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "John Wick",
                                                     "start":  "2026-10-08T06:51:34.0000000Z",
-                                                    "stop":  "2026-10-08T08:33:08.0000000Z",
+                                                    "stop":  "2026-10-08T08:32:48.0000000Z",
                                                     "itemId":  "84b70d75a3d957b57b02cf83796504a8",
                                                     "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
                                                     "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "Bourne Supremacy",
                                                     "start":  "2026-10-08T08:32:48.0000000Z",
-                                                    "stop":  "2026-10-08T10:21:20.0000000Z",
+                                                    "stop":  "2026-10-08T10:21:40.0000000Z",
                                                     "itemId":  "031faf0da71af121647ff2d37294b07a",
                                                     "poster":  "http://127.0.0.1:8096/Items/031faf0da71af121647ff2d37294b07a/Images/Primary",
                                                     "description":  "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
@@ -581,18 +581,18 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "After H0uRs",
-                                                  "start":  "2026-10-07T18:40:20.0000000Z",
-                                                  "stop":  "2026-10-07T19:18:21.0000000Z",
-                                                  "itemId":  "150bbae732cd647eeed3060cd67b032f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
+                                                  "title":  "Oz",
+                                                  "start":  "2026-10-07T18:59:22.0000000Z",
+                                                  "stop":  "2026-10-07T19:09:40.0000000Z",
+                                                  "itemId":  "f332ba1673f9273e5349cd38b640cf51",
+                                                  "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
                                               "title":  "Carrito",
                                               "start":  "2026-10-07T19:02:44.0000000Z",
-                                              "stop":  "2026-10-07T19:34:03.0000000Z",
+                                              "stop":  "2026-10-07T19:10:22.0000000Z",
                                               "itemId":  "ed83754111f4ed370a338cab8345534d",
                                               "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-10-07T19:02:44.0000000Z",
-                                                    "stop":  "2026-10-07T19:34:03.0000000Z",
+                                                    "stop":  "2026-10-07T19:10:22.0000000Z",
                                                     "itemId":  "ed83754111f4ed370a338cab8345534d",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-10-07T19:11:28.0000000Z",
-                                                    "stop":  "2026-10-07T19:35:40.0000000Z",
+                                                    "stop":  "2026-10-07T19:31:06.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-10-07T19:12:26.0000000Z",
-                                                    "stop":  "2026-10-07T19:54:13.0000000Z",
+                                                    "stop":  "2026-10-07T19:14:07.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-10-07T19:14:07.0000000Z",
-                                                    "stop":  "2026-10-07T20:06:11.0000000Z",
+                                                    "stop":  "2026-10-07T19:26:37.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-10-07T19:18:04.0000000Z",
-                                                    "stop":  "2026-10-07T19:20:16.0000000Z",
+                                                    "stop":  "2026-10-07T19:28:49.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-10-07T19:20:16.0000000Z",
-                                                    "stop":  "2026-10-07T19:57:50.0000000Z",
+                                                    "stop":  "2026-10-07T19:29:32.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-10-07T19:20:59.0000000Z",
-                                                    "stop":  "2026-10-07T19:21:48.0000000Z",
+                                                    "stop":  "2026-10-07T19:49:08.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
