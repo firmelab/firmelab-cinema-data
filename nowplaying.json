@@ -1,5 +1,19 @@
 {
-    "updated":  "2026-10-07T04:08:08.4065570Z",
+    "updated":  "2026-10-07T04:14:20.0682310Z",
+    "channels":  {
+                     "1":  {
+                               "number":  1,
+                               "name":  "FIRMELAB CINEMA",
+                               "nowPlaying":  {
+                                                  "title":  "John Wick",
+                                                  "start":  "2026-10-07T03:37:20.0000000Z",
+                                                  "stop":  "2026-10-07T05:18:56.0000000Z",
+                                                  "itemId":  "84b70d75a3d957b57b02cf83796504a8",
+                                                  "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
+                                                  "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+                                                  "year":  2014
+                               {
+    "updated":  "2026-10-07T04:11:59.2970315Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,13 +595,13 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Never 3Nding",
-                                                  "start":  "2026-10-07T03:59:37.0000000Z",
-                                                  "stop":  "2026-10-07T04:10:27.0000000Z",
-                                                  "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
-                                                  "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
+                                                  "title":  "0Ld Sc00L",
+                                                  "start":  "2026-10-07T04:04:48.0000000Z",
+                                                  "stop":  "2026-10-07T04:24:17.0000000Z",
+                                                  "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                                  "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Biggie Mobbing",
