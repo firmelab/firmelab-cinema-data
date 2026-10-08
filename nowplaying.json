@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-08T05:25:05.5891799Z",
+    "updated":  "2026-10-08T05:26:05.5938938Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,33 +101,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "The Blob",
-                                                  "start":  "2026-10-08T03:50:07.0000000Z",
-                                                  "stop":  "2026-10-08T05:25:08.0000000Z",
-                                                  "itemId":  "5dc1ff349ca7c8caaf1ecfe4f830a683",
-                                                  "poster":  "http://127.0.0.1:8096/Items/5dc1ff349ca7c8caaf1ecfe4f830a683/Images/Primary",
-                                                  "description":  "In Arborville, California, three high school students try to protect their hometown from a gelatinous alien life form that engulfs everything it touches.",
-                                                  "year":  1988
+                                                  "title":  "Blade II",
+                                                  "start":  "2026-10-08T05:25:08.0000000Z",
+                                                  "stop":  "2026-10-08T07:21:58.0000000Z",
+                                                  "itemId":  "74e7a571bdb0578b253598a3f8b45f12",
+                                                  "poster":  "http://127.0.0.1:8096/Items/74e7a571bdb0578b253598a3f8b45f12/Images/Primary",
+                                                  "description":  "Blade forms an uneasy alliance with the vampire council in order to combat the Reapers, who are feeding on vampires.",
+                                                  "year":  2002
                                               },
                                "upNext":  {
-                                              "title":  "Blade II",
-                                              "start":  "2026-10-08T05:25:08.0000000Z",
-                                              "stop":  "2026-10-08T07:21:58.0000000Z",
-                                              "itemId":  "74e7a571bdb0578b253598a3f8b45f12",
-                                              "poster":  "http://127.0.0.1:8096/Items/74e7a571bdb0578b253598a3f8b45f12/Images/Primary",
-                                              "description":  "Blade forms an uneasy alliance with the vampire council in order to combat the Reapers, who are feeding on vampires.",
-                                              "year":  2002
+                                              "title":  "World War Z",
+                                              "start":  "2026-10-08T07:21:58.0000000Z",
+                                              "stop":  "2026-10-08T09:25:21.0000000Z",
+                                              "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
+                                              "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
+                                              "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+                                              "year":  2013
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Blade II",
-                                                    "start":  "2026-10-08T05:25:08.0000000Z",
-                                                    "stop":  "2026-10-08T07:21:58.0000000Z",
-                                                    "itemId":  "74e7a571bdb0578b253598a3f8b45f12",
-                                                    "poster":  "http://127.0.0.1:8096/Items/74e7a571bdb0578b253598a3f8b45f12/Images/Primary",
-                                                    "description":  "Blade forms an uneasy alliance with the vampire council in order to combat the Reapers, who are feeding on vampires.",
-                                                    "year":  2002
-                                                },
                                                 {
                                                     "title":  "World War Z",
                                                     "start":  "2026-10-08T07:21:58.0000000Z",
@@ -190,6 +181,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/a5a1f15c45eb562ac5f7621a94c12742/Images/Primary",
                                                     "description":  "Ex-soldier Frank Brayker is the guardian of an ancient key that can unlock tremendous evil; the sinister Collector is a demon who wants the key so he can initiate the apocalypse. On the run from wicked mercenaries for almost 90 years, Brayker finally stops in at a boarding house in New Mexico where — with the help of its residents — he plans to face off against the Collector and his band of ghouls, preventing them from ever seizing the key.",
                                                     "year":  1995
+                                                },
+                                                {
+                                                    "title":  "Dusk Till Dawn",
+                                                    "start":  "2026-10-08T20:34:23.0000000Z",
+                                                    "stop":  "2026-10-08T22:22:23.0000000Z",
+                                                    "itemId":  "648811d2182191a63ce32eb861ad9020",
+                                                    "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
+                                                    "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
+                                                    "year":  1996
                                                 }
                                             ]
                            },
