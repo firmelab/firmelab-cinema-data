@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-10-08T11:45:05.6642953Z",
+    "updated":  "2026-10-08T11:46:05.8497440Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Dusk Till Dawn",
-                                                  "start":  "2026-10-08T09:57:33.0000000Z",
-                                                  "stop":  "2026-10-08T11:45:47.0000000Z",
-                                                  "itemId":  "648811d2182191a63ce32eb861ad9020",
-                                                  "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
-                                                  "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
-                                                  "year":  1996
+                                                  "title":  "A Nightmare on Elm Street 2 Freddy\u0027s Revenge",
+                                                  "start":  "2026-10-08T11:45:35.0000000Z",
+                                                  "stop":  "2026-10-08T13:11:18.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "A Nightmare on Elm Street 2 Freddy\u0027s Revenge",
-                                              "start":  "2026-10-08T11:45:35.0000000Z",
-                                              "stop":  "2026-10-08T13:11:18.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "HALF BAKED",
+                                              "start":  "2026-10-08T13:11:18.0000000Z",
+                                              "stop":  "2026-10-08T14:33:46.0000000Z",
+                                              "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
+                                              "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
+                                              "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
+                                              "year":  1998
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "A Nightmare on Elm Street 2 Freddy\u0027s Revenge",
-                                                    "start":  "2026-10-08T11:45:35.0000000Z",
-                                                    "stop":  "2026-10-08T13:11:18.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "HALF BAKED",
                                                     "start":  "2026-10-08T13:11:18.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/ee279419a64df59247370e38f4f0deea/Images/Primary",
                                                     "description":  "Abby is a pregnant woman with a curious new boarder in the apartment over her garage. Turns out he\u0027s heaven-sent and is speeding along the Apocalypse by bloodying rivers, egging on plagues and following scripture word for word.",
                                                     "year":  1988
+                                                },
+                                                {
+                                                    "title":  "Conan The Destroyer",
+                                                    "start":  "2026-10-09T01:05:51.0000000Z",
+                                                    "stop":  "2026-10-09T02:46:59.0000000Z",
+                                                    "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
+                                                    "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
+                                                    "year":  1984
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Oz",
-                                              "start":  "2026-10-08T11:45:17.0000000Z",
-                                              "stop":  "2026-10-08T11:46:58.0000000Z",
-                                              "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                              "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                              "title":  "BloodJoke",
+                                              "start":  "2026-10-08T11:46:58.0000000Z",
+                                              "stop":  "2026-10-08T12:27:49.0000000Z",
+                                              "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                              "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Oz",
-                                                    "start":  "2026-10-08T11:45:17.0000000Z",
-                                                    "stop":  "2026-10-08T11:46:58.0000000Z",
-                                                    "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "BloodJoke",
                                                     "start":  "2026-10-08T11:46:58.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Ninja Now",
+                                                    "start":  "2026-10-08T12:06:12.0000000Z",
+                                                    "stop":  "2026-10-08T12:38:22.0000000Z",
+                                                    "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
