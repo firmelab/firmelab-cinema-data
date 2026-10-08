@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-08T04:53:05.3091899Z",
+    "updated":  "2026-10-08T04:54:05.3263647Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -293,33 +293,24 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "Duplex",
-                                                  "start":  "2026-10-08T03:24:07.0000000Z",
-                                                  "stop":  "2026-10-08T04:53:20.0000000Z",
-                                                  "itemId":  "e2340e07092b6de7376760916297a934",
-                                                  "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
-                                                  "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
-                                                  "year":  2003
+                                                  "title":  "UP IN SMOKE",
+                                                  "start":  "2026-10-08T04:53:20.0000000Z",
+                                                  "stop":  "2026-10-08T06:19:11.0000000Z",
+                                                  "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
+                                                  "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
+                                                  "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
+                                                  "year":  1978
                                               },
                                "upNext":  {
-                                              "title":  "UP IN SMOKE",
-                                              "start":  "2026-10-08T04:53:20.0000000Z",
-                                              "stop":  "2026-10-08T06:19:11.0000000Z",
-                                              "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
-                                              "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
-                                              "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
-                                              "year":  1978
+                                              "title":  "HALF BAKED",
+                                              "start":  "2026-10-08T06:19:11.0000000Z",
+                                              "stop":  "2026-10-08T07:41:17.0000000Z",
+                                              "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
+                                              "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
+                                              "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
+                                              "year":  1998
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "UP IN SMOKE",
-                                                    "start":  "2026-10-08T04:53:20.0000000Z",
-                                                    "stop":  "2026-10-08T06:19:11.0000000Z",
-                                                    "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
-                                                    "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
-                                                    "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
-                                                    "year":  1978
-                                                },
                                                 {
                                                     "title":  "HALF BAKED",
                                                     "start":  "2026-10-08T06:19:11.0000000Z",
@@ -382,6 +373,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
                                                     "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
                                                     "year":  1998
+                                                },
+                                                {
+                                                    "title":  "Get Shorty",
+                                                    "start":  "2026-10-08T16:46:43.0000000Z",
+                                                    "stop":  "2026-10-08T18:31:31.0000000Z",
+                                                    "itemId":  "746531a34dc012efd97b57703e1903af",
+                                                    "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
+                                                    "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
+                                                    "year":  1995
                                                 }
                                             ]
                            },
@@ -485,33 +485,24 @@
                                "number":  6,
                                "name":  "FIRMELAB CRIME",
                                "nowPlaying":  {
-                                                  "title":  "Jacky Brown",
-                                                  "start":  "2026-10-08T02:19:10.0000000Z",
-                                                  "stop":  "2026-10-08T04:53:31.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Inside Man",
+                                                  "start":  "2026-10-08T04:53:31.0000000Z",
+                                                  "stop":  "2026-10-08T07:02:18.0000000Z",
+                                                  "itemId":  "5f439285fe3ef8976153452a9fee8cbc",
+                                                  "poster":  "http://127.0.0.1:8096/Items/5f439285fe3ef8976153452a9fee8cbc/Images/Primary",
+                                                  "description":  "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
+                                                  "year":  2006
                                               },
                                "upNext":  {
-                                              "title":  "Inside Man",
-                                              "start":  "2026-10-08T04:53:31.0000000Z",
-                                              "stop":  "2026-10-08T07:02:18.0000000Z",
-                                              "itemId":  "5f439285fe3ef8976153452a9fee8cbc",
-                                              "poster":  "http://127.0.0.1:8096/Items/5f439285fe3ef8976153452a9fee8cbc/Images/Primary",
-                                              "description":  "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
-                                              "year":  2006
+                                              "title":  "Reservor Dogs",
+                                              "start":  "2026-10-08T07:02:18.0000000Z",
+                                              "stop":  "2026-10-08T08:41:23.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Inside Man",
-                                                    "start":  "2026-10-08T04:53:31.0000000Z",
-                                                    "stop":  "2026-10-08T07:02:18.0000000Z",
-                                                    "itemId":  "5f439285fe3ef8976153452a9fee8cbc",
-                                                    "poster":  "http://127.0.0.1:8096/Items/5f439285fe3ef8976153452a9fee8cbc/Images/Primary",
-                                                    "description":  "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
-                                                    "year":  2006
-                                                },
                                                 {
                                                     "title":  "Reservor Dogs",
                                                     "start":  "2026-10-08T07:02:18.0000000Z",
@@ -574,6 +565,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
                                                     "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
                                                     "year":  1983
+                                                },
+                                                {
+                                                    "title":  "Carlitos Way",
+                                                    "start":  "2026-10-08T23:07:40.0000000Z",
+                                                    "stop":  "2026-10-09T01:31:49.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Ass Kicker Bruce",
-                                              "start":  "2026-10-08T04:53:27.0000000Z",
-                                              "stop":  "2026-10-08T05:35:59.0000000Z",
-                                              "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
-                                              "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                              "title":  "Biggie Mobbing",
+                                              "start":  "2026-10-08T04:59:22.0000000Z",
+                                              "stop":  "2026-10-08T05:16:22.0000000Z",
+                                              "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
+                                              "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Ass Kicker Bruce",
-                                                    "start":  "2026-10-08T04:53:27.0000000Z",
-                                                    "stop":  "2026-10-08T05:35:59.0000000Z",
-                                                    "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-10-08T04:59:22.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "MrPayo",
+                                                    "start":  "2026-10-08T05:10:34.0000000Z",
+                                                    "stop":  "2026-10-08T05:59:51.0000000Z",
+                                                    "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
+                                                    "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
