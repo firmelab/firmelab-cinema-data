@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-08T12:41:05.0990976Z",
+    "updated":  "2026-10-08T12:42:05.1945657Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -197,33 +197,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "BATMAN BEGINS",
-                                                  "start":  "2026-10-08T10:21:20.0000000Z",
-                                                  "stop":  "2026-10-08T12:41:21.0000000Z",
-                                                  "itemId":  "40cf44019306b29674462340007b5e1a",
-                                                  "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
-                                                  "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
-                                                  "year":  2005
+                                                  "title":  "Total Recall",
+                                                  "start":  "2026-10-08T12:41:21.0000000Z",
+                                                  "stop":  "2026-10-08T14:34:52.0000000Z",
+                                                  "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
+                                                  "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
+                                                  "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
+                                                  "year":  1990
                                               },
                                "upNext":  {
-                                              "title":  "Total Recall",
-                                              "start":  "2026-10-08T12:41:21.0000000Z",
-                                              "stop":  "2026-10-08T14:34:52.0000000Z",
-                                              "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
-                                              "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
-                                              "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
-                                              "year":  1990
+                                              "title":  "Robocop",
+                                              "start":  "2026-10-08T14:34:52.0000000Z",
+                                              "stop":  "2026-10-08T16:17:38.0000000Z",
+                                              "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
+                                              "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
+                                              "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
+                                              "year":  1987
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Total Recall",
-                                                    "start":  "2026-10-08T12:41:21.0000000Z",
-                                                    "stop":  "2026-10-08T14:34:52.0000000Z",
-                                                    "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
-                                                    "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
-                                                    "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
-                                                    "year":  1990
-                                                },
                                                 {
                                                     "title":  "Robocop",
                                                     "start":  "2026-10-08T14:34:52.0000000Z",
@@ -286,6 +277,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/d0a933c7f9688726a8f9a30f309399ad/Images/Primary",
                                                     "description":  "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
                                                     "year":  1982
+                                                },
+                                                {
+                                                    "title":  "ROBOCOP 2",
+                                                    "start":  "2026-10-09T04:22:15.0000000Z",
+                                                    "stop":  "2026-10-09T06:18:54.0000000Z",
+                                                    "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
+                                                    "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
+                                                    "year":  1990
                                                 }
                                             ]
                            },
@@ -590,33 +590,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "DnBaPCsht",
-                                              "start":  "2026-10-08T12:41:07.0000000Z",
-                                              "stop":  "2026-10-08T13:19:07.0000000Z",
-                                              "itemId":  "d2296bca99a831548bbada0bb3bac719",
-                                              "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
+                                              "title":  "JamminG",
+                                              "start":  "2026-10-08T12:43:47.0000000Z",
+                                              "stop":  "2026-10-08T13:30:56.0000000Z",
+                                              "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                              "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "DnBaPCsht",
-                                                    "start":  "2026-10-08T12:41:07.0000000Z",
-                                                    "stop":  "2026-10-08T13:19:07.0000000Z",
-                                                    "itemId":  "d2296bca99a831548bbada0bb3bac719",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
-                                                    "title":  "Duende",
-                                                    "start":  "2026-10-08T12:42:05.0000000Z",
-                                                    "stop":  "2026-10-08T13:09:26.0000000Z",
-                                                    "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                                    "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-10-08T12:43:47.0000000Z",
@@ -670,6 +652,24 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "After H0uRs",
+                                                    "start":  "2026-10-08T12:53:43.0000000Z",
+                                                    "stop":  "2026-10-08T13:31:08.0000000Z",
+                                                    "itemId":  "150bbae732cd647eeed3060cd67b032f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Ass Kicker Bruce",
+                                                    "start":  "2026-10-08T12:54:32.0000000Z",
+                                                    "stop":  "2026-10-08T13:16:46.0000000Z",
+                                                    "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
