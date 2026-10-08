@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-08T20:27:10.8180297Z",
+    "updated":  "2026-10-08T20:28:12.4965594Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,13 +581,13 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "SSBI4649",
-                                                  "start":  "2026-10-08T20:07:59.0000000Z",
-                                                  "stop":  "2026-10-08T20:27:29.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
+                                                  "title":  "Biggie Mobbing",
+                                                  "start":  "2026-10-08T20:17:49.0000000Z",
+                                                  "stop":  "2026-10-08T20:45:50.0000000Z",
+                                                  "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
                                               "title":  "MrPayo",
