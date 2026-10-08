@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-08T17:01:05.1047052Z",
+    "updated":  "2026-10-08T17:02:05.1972187Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -7,7 +7,7 @@
                                "nowPlaying":  {
                                                   "title":  "UP IN SMOKE",
                                                   "start":  "2026-10-08T16:11:10.0000000Z",
-                                                  "stop":  "2026-10-08T17:37:12.0000000Z",
+                                                  "stop":  "2026-10-08T17:37:24.0000000Z",
                                                   "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
                                                   "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
                                                   "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
@@ -16,7 +16,7 @@
                                "upNext":  {
                                               "title":  "Dawn of the Dead",
                                               "start":  "2026-10-08T17:37:12.0000000Z",
-                                              "stop":  "2026-10-08T19:26:48.0000000Z",
+                                              "stop":  "2026-10-08T19:26:36.0000000Z",
                                               "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
                                               "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
                                               "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
@@ -26,7 +26,7 @@
                                                 {
                                                     "title":  "Dawn of the Dead",
                                                     "start":  "2026-10-08T17:37:12.0000000Z",
-                                                    "stop":  "2026-10-08T19:26:48.0000000Z",
+                                                    "stop":  "2026-10-08T19:26:36.0000000Z",
                                                     "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
                                                     "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
                                                     "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
@@ -35,7 +35,7 @@
                                                 {
                                                     "title":  "Underworld Evolution",
                                                     "start":  "2026-10-08T19:26:36.0000000Z",
-                                                    "stop":  "2026-10-08T21:13:12.0000000Z",
+                                                    "stop":  "2026-10-08T21:13:24.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -44,7 +44,7 @@
                                                 {
                                                     "title":  "A Beatiful Mind",
                                                     "start":  "2026-10-08T21:13:12.0000000Z",
-                                                    "stop":  "2026-10-08T23:28:53.0000000Z",
+                                                    "stop":  "2026-10-08T23:28:42.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -53,7 +53,7 @@
                                                 {
                                                     "title":  "Seventh Sign",
                                                     "start":  "2026-10-08T23:28:42.0000000Z",
-                                                    "stop":  "2026-10-09T01:05:51.0000000Z",
+                                                    "stop":  "2026-10-09T01:06:02.0000000Z",
                                                     "itemId":  "ee279419a64df59247370e38f4f0deea",
                                                     "poster":  "http://127.0.0.1:8096/Items/ee279419a64df59247370e38f4f0deea/Images/Primary",
                                                     "description":  "Abby is a pregnant woman with a curious new boarder in the apartment over her garage. Turns out he\u0027s heaven-sent and is speeding along the Apocalypse by bloodying rivers, egging on plagues and following scripture word for word.",
@@ -62,7 +62,7 @@
                                                 {
                                                     "title":  "Conan The Destroyer",
                                                     "start":  "2026-10-09T01:05:51.0000000Z",
-                                                    "stop":  "2026-10-09T02:47:10.0000000Z",
+                                                    "stop":  "2026-10-09T02:46:59.0000000Z",
                                                     "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
                                                     "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
                                                     "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
@@ -71,7 +71,7 @@
                                                 {
                                                     "title":  "Firmelab Cinema",
                                                     "start":  "2026-10-09T02:46:59.0000000Z",
-                                                    "stop":  "2026-10-09T05:02:59.0000000Z",
+                                                    "stop":  "2026-10-09T05:03:10.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -80,7 +80,7 @@
                                                 {
                                                     "title":  "FRIGHT NIGHT",
                                                     "start":  "2026-10-09T05:03:11.0000000Z",
-                                                    "stop":  "2026-10-09T06:49:53.0000000Z",
+                                                    "stop":  "2026-10-09T06:49:41.0000000Z",
                                                     "itemId":  "8bda9bd3955398694e4a57e90f6c4904",
                                                     "poster":  "http://127.0.0.1:8096/Items/8bda9bd3955398694e4a57e90f6c4904/Images/Primary",
                                                     "description":  "Charley Brewster, a high school student, accidentally discovers the true and creepy nature of Jerry Dandrige, his dashing and enigmatic new neighbor; but no one seems willing to believe him.",
@@ -89,7 +89,7 @@
                                                 {
                                                     "title":  "D1_t00",
                                                     "start":  "2026-10-09T06:49:53.0000000Z",
-                                                    "stop":  "2026-10-09T09:01:31.0000000Z",
+                                                    "stop":  "2026-10-09T09:01:43.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -112,7 +112,7 @@
                                "upNext":  {
                                               "title":  "DEMON KNIGHT",
                                               "start":  "2026-10-08T19:01:50.0000000Z",
-                                              "stop":  "2026-10-08T20:34:33.0000000Z",
+                                              "stop":  "2026-10-08T20:34:23.0000000Z",
                                               "itemId":  "a5a1f15c45eb562ac5f7621a94c12742",
                                               "poster":  "http://127.0.0.1:8096/Items/a5a1f15c45eb562ac5f7621a94c12742/Images/Primary",
                                               "description":  "Ex-soldier Frank Brayker is the guardian of an ancient key that can unlock tremendous evil; the sinister Collector is a demon who wants the key so he can initiate the apocalypse. On the run from wicked mercenaries for almost 90 years, Brayker finally stops in at a boarding house in New Mexico where — with the help of its residents — he plans to face off against the Collector and his band of ghouls, preventing them from ever seizing the key.",
@@ -122,7 +122,7 @@
                                                 {
                                                     "title":  "DEMON KNIGHT",
                                                     "start":  "2026-10-08T19:01:50.0000000Z",
-                                                    "stop":  "2026-10-08T20:34:33.0000000Z",
+                                                    "stop":  "2026-10-08T20:34:23.0000000Z",
                                                     "itemId":  "a5a1f15c45eb562ac5f7621a94c12742",
                                                     "poster":  "http://127.0.0.1:8096/Items/a5a1f15c45eb562ac5f7621a94c12742/Images/Primary",
                                                     "description":  "Ex-soldier Frank Brayker is the guardian of an ancient key that can unlock tremendous evil; the sinister Collector is a demon who wants the key so he can initiate the apocalypse. On the run from wicked mercenaries for almost 90 years, Brayker finally stops in at a boarding house in New Mexico where — with the help of its residents — he plans to face off against the Collector and his band of ghouls, preventing them from ever seizing the key.",
@@ -131,7 +131,7 @@
                                                 {
                                                     "title":  "Dusk Till Dawn",
                                                     "start":  "2026-10-08T20:34:23.0000000Z",
-                                                    "stop":  "2026-10-08T22:22:13.0000000Z",
+                                                    "stop":  "2026-10-08T22:22:23.0000000Z",
                                                     "itemId":  "648811d2182191a63ce32eb861ad9020",
                                                     "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
                                                     "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
@@ -149,7 +149,7 @@
                                                 {
                                                     "title":  "Critters 4",
                                                     "start":  "2026-10-08T23:48:04.0000000Z",
-                                                    "stop":  "2026-10-09T01:22:51.0000000Z",
+                                                    "stop":  "2026-10-09T01:22:41.0000000Z",
                                                     "itemId":  "9236028cd5b40f7dab68ae6983570831",
                                                     "poster":  "http://127.0.0.1:8096/Items/9236028cd5b40f7dab68ae6983570831/Images/Primary",
                                                     "description":  "A super strain of genetically engineered mutants are designed to take over the universe, hungry to conquer the galaxy, with an appetite for mankind.",
@@ -158,7 +158,7 @@
                                                 {
                                                     "title":  "Wrong Turn",
                                                     "start":  "2026-10-09T01:22:41.0000000Z",
-                                                    "stop":  "2026-10-09T02:46:53.0000000Z",
+                                                    "stop":  "2026-10-09T02:47:03.0000000Z",
                                                     "itemId":  "58d332deb67464546d571f7fda1cd63c",
                                                     "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
                                                     "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
@@ -185,7 +185,7 @@
                                                 {
                                                     "title":  "Boogeyman",
                                                     "start":  "2026-10-09T06:09:33.0000000Z",
-                                                    "stop":  "2026-10-09T07:38:33.0000000Z",
+                                                    "stop":  "2026-10-09T07:38:23.0000000Z",
                                                     "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
                                                     "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
                                                     "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "Conan The Destroyer",
                                                     "start":  "2026-10-08T20:28:33.0000000Z",
-                                                    "stop":  "2026-10-08T22:10:01.0000000Z",
+                                                    "stop":  "2026-10-08T22:09:51.0000000Z",
                                                     "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
                                                     "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
                                                     "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "Sherlock Holmes",
                                                     "start":  "2026-10-08T22:09:51.0000000Z",
-                                                    "stop":  "2026-10-09T00:18:20.0000000Z",
+                                                    "stop":  "2026-10-09T00:18:30.0000000Z",
                                                     "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
                                                     "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
                                                     "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "ROBOCOP 3",
                                                     "start":  "2026-10-09T06:19:04.0000000Z",
-                                                    "stop":  "2026-10-09T08:04:05.0000000Z",
+                                                    "stop":  "2026-10-09T08:03:55.0000000Z",
                                                     "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
                                                     "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
                                                     "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "Bourne Identity",
                                                     "start":  "2026-10-09T08:03:55.0000000Z",
-                                                    "stop":  "2026-10-09T10:02:12.0000000Z",
+                                                    "stop":  "2026-10-09T10:02:22.0000000Z",
                                                     "itemId":  "ad22fba25f4ceaee407d76b5620443de",
                                                     "poster":  "http://127.0.0.1:8096/Items/ad22fba25f4ceaee407d76b5620443de/Images/Primary",
                                                     "description":  "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
@@ -581,18 +581,18 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "T2",
-                                                  "start":  "2026-10-08T16:42:37.0000000Z",
-                                                  "stop":  "2026-10-08T17:20:00.0000000Z",
-                                                  "itemId":  "1315943017e226076a7899408d36dec5",
-                                                  "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
+                                                  "title":  "Carrito",
+                                                  "start":  "2026-10-08T16:54:48.0000000Z",
+                                                  "stop":  "2026-10-08T17:10:58.0000000Z",
+                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Dancing Cobra",
                                               "start":  "2026-10-08T17:02:26.0000000Z",
-                                              "stop":  "2026-10-08T17:39:46.0000000Z",
+                                              "stop":  "2026-10-08T17:03:32.0000000Z",
                                               "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                               "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-10-08T17:02:26.0000000Z",
-                                                    "stop":  "2026-10-08T17:39:46.0000000Z",
+                                                    "stop":  "2026-10-08T17:03:32.0000000Z",
                                                     "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                                     "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                     "description":  null,
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-10-08T17:03:32.0000000Z",
-                                                    "stop":  "2026-10-08T17:20:27.0000000Z",
+                                                    "stop":  "2026-10-08T17:04:30.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-10-08T17:04:30.0000000Z",
-                                                    "stop":  "2026-10-08T17:21:50.0000000Z",
+                                                    "stop":  "2026-10-08T17:06:12.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-10-08T17:06:12.0000000Z",
-                                                    "stop":  "2026-10-08T17:41:32.0000000Z",
+                                                    "stop":  "2026-10-08T17:28:49.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-10-08T17:10:09.0000000Z",
-                                                    "stop":  "2026-10-08T17:36:02.0000000Z",
+                                                    "stop":  "2026-10-08T17:12:21.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-10-08T17:12:21.0000000Z",
-                                                    "stop":  "2026-10-08T17:13:03.0000000Z",
+                                                    "stop":  "2026-10-08T17:21:36.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-10-08T17:13:03.0000000Z",
-                                                    "stop":  "2026-10-08T17:37:17.0000000Z",
+                                                    "stop":  "2026-10-08T17:22:25.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-10-08T17:13:52.0000000Z",
-                                                    "stop":  "2026-10-08T17:55:58.0000000Z",
+                                                    "stop":  "2026-10-08T17:23:52.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
