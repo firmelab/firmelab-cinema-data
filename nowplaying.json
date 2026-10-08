@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-08T14:47:05.2977615Z",
+    "updated":  "2026-10-08T14:48:05.5184709Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,33 +101,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Dawn of the Dead",
-                                                  "start":  "2026-10-08T12:58:35.0000000Z",
-                                                  "stop":  "2026-10-08T14:47:57.0000000Z",
-                                                  "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
-                                                  "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
-                                                  "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
-                                                  "year":  2004
+                                                  "title":  "End of Days",
+                                                  "start":  "2026-10-08T14:47:57.0000000Z",
+                                                  "stop":  "2026-10-08T16:50:12.0000000Z",
+                                                  "itemId":  "6e5ccc599868e8e4908111e8e00356ea",
+                                                  "poster":  "http://127.0.0.1:8096/Items/6e5ccc599868e8e4908111e8e00356ea/Images/Primary",
+                                                  "description":  "Cynical bodyguard Jericho is hired by a man possessed by Satan, who is in search of his bride. When Jericho realizes what is happening, he must do everything he can to save the woman and the world.",
+                                                  "year":  1999
                                               },
                                "upNext":  {
-                                              "title":  "End of Days",
-                                              "start":  "2026-10-08T14:47:57.0000000Z",
-                                              "stop":  "2026-10-08T16:50:12.0000000Z",
-                                              "itemId":  "6e5ccc599868e8e4908111e8e00356ea",
-                                              "poster":  "http://127.0.0.1:8096/Items/6e5ccc599868e8e4908111e8e00356ea/Images/Primary",
-                                              "description":  "Cynical bodyguard Jericho is hired by a man possessed by Satan, who is in search of his bride. When Jericho realizes what is happening, he must do everything he can to save the woman and the world.",
-                                              "year":  1999
+                                              "title":  "D1_t00",
+                                              "start":  "2026-10-08T16:50:12.0000000Z",
+                                              "stop":  "2026-10-08T19:02:00.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "End of Days",
-                                                    "start":  "2026-10-08T14:47:57.0000000Z",
-                                                    "stop":  "2026-10-08T16:50:12.0000000Z",
-                                                    "itemId":  "6e5ccc599868e8e4908111e8e00356ea",
-                                                    "poster":  "http://127.0.0.1:8096/Items/6e5ccc599868e8e4908111e8e00356ea/Images/Primary",
-                                                    "description":  "Cynical bodyguard Jericho is hired by a man possessed by Satan, who is in search of his bride. When Jericho realizes what is happening, he must do everything he can to save the woman and the world.",
-                                                    "year":  1999
-                                                },
                                                 {
                                                     "title":  "D1_t00",
                                                     "start":  "2026-10-08T16:50:12.0000000Z",
@@ -190,6 +181,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/8bda9bd3955398694e4a57e90f6c4904/Images/Primary",
                                                     "description":  "Charley Brewster, a high school student, accidentally discovers the true and creepy nature of Jerry Dandrige, his dashing and enigmatic new neighbor; but no one seems willing to believe him.",
                                                     "year":  1985
+                                                },
+                                                {
+                                                    "title":  "WISHMASTER part 2",
+                                                    "start":  "2026-10-09T04:33:33.0000000Z",
+                                                    "stop":  "2026-10-09T06:09:43.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
