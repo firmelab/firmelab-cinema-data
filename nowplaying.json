@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-08T15:01:05.1478075Z",
+    "updated":  "2026-10-08T15:02:05.1732254Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -7,7 +7,7 @@
                                "nowPlaying":  {
                                                   "title":  "AnchorMan",
                                                   "start":  "2026-10-08T14:33:35.0000000Z",
-                                                  "stop":  "2026-10-08T16:11:10.0000000Z",
+                                                  "stop":  "2026-10-08T16:11:22.0000000Z",
                                                   "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
                                                   "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
                                                   "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
@@ -16,7 +16,7 @@
                                "upNext":  {
                                               "title":  "UP IN SMOKE",
                                               "start":  "2026-10-08T16:11:10.0000000Z",
-                                              "stop":  "2026-10-08T17:37:24.0000000Z",
+                                              "stop":  "2026-10-08T17:37:12.0000000Z",
                                               "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
                                               "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
                                               "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
@@ -26,7 +26,7 @@
                                                 {
                                                     "title":  "UP IN SMOKE",
                                                     "start":  "2026-10-08T16:11:10.0000000Z",
-                                                    "stop":  "2026-10-08T17:37:24.0000000Z",
+                                                    "stop":  "2026-10-08T17:37:12.0000000Z",
                                                     "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
                                                     "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
                                                     "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
@@ -35,7 +35,7 @@
                                                 {
                                                     "title":  "Dawn of the Dead",
                                                     "start":  "2026-10-08T17:37:12.0000000Z",
-                                                    "stop":  "2026-10-08T19:26:36.0000000Z",
+                                                    "stop":  "2026-10-08T19:26:48.0000000Z",
                                                     "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
                                                     "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
                                                     "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
@@ -44,7 +44,7 @@
                                                 {
                                                     "title":  "Underworld Evolution",
                                                     "start":  "2026-10-08T19:26:36.0000000Z",
-                                                    "stop":  "2026-10-08T21:13:24.0000000Z",
+                                                    "stop":  "2026-10-08T21:13:12.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -53,7 +53,7 @@
                                                 {
                                                     "title":  "A Beatiful Mind",
                                                     "start":  "2026-10-08T21:13:12.0000000Z",
-                                                    "stop":  "2026-10-08T23:28:42.0000000Z",
+                                                    "stop":  "2026-10-08T23:28:53.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -62,7 +62,7 @@
                                                 {
                                                     "title":  "Seventh Sign",
                                                     "start":  "2026-10-08T23:28:42.0000000Z",
-                                                    "stop":  "2026-10-09T01:06:02.0000000Z",
+                                                    "stop":  "2026-10-09T01:05:51.0000000Z",
                                                     "itemId":  "ee279419a64df59247370e38f4f0deea",
                                                     "poster":  "http://127.0.0.1:8096/Items/ee279419a64df59247370e38f4f0deea/Images/Primary",
                                                     "description":  "Abby is a pregnant woman with a curious new boarder in the apartment over her garage. Turns out he\u0027s heaven-sent and is speeding along the Apocalypse by bloodying rivers, egging on plagues and following scripture word for word.",
@@ -71,7 +71,7 @@
                                                 {
                                                     "title":  "Conan The Destroyer",
                                                     "start":  "2026-10-09T01:05:51.0000000Z",
-                                                    "stop":  "2026-10-09T02:46:59.0000000Z",
+                                                    "stop":  "2026-10-09T02:47:10.0000000Z",
                                                     "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
                                                     "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
                                                     "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
@@ -80,7 +80,7 @@
                                                 {
                                                     "title":  "Firmelab Cinema",
                                                     "start":  "2026-10-09T02:46:59.0000000Z",
-                                                    "stop":  "2026-10-09T05:03:11.0000000Z",
+                                                    "stop":  "2026-10-09T05:02:59.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -89,7 +89,7 @@
                                                 {
                                                     "title":  "FRIGHT NIGHT",
                                                     "start":  "2026-10-09T05:03:11.0000000Z",
-                                                    "stop":  "2026-10-09T06:49:41.0000000Z",
+                                                    "stop":  "2026-10-09T06:49:53.0000000Z",
                                                     "itemId":  "8bda9bd3955398694e4a57e90f6c4904",
                                                     "poster":  "http://127.0.0.1:8096/Items/8bda9bd3955398694e4a57e90f6c4904/Images/Primary",
                                                     "description":  "Charley Brewster, a high school student, accidentally discovers the true and creepy nature of Jerry Dandrige, his dashing and enigmatic new neighbor; but no one seems willing to believe him.",
@@ -112,7 +112,7 @@
                                "upNext":  {
                                               "title":  "D1_t00",
                                               "start":  "2026-10-08T16:50:12.0000000Z",
-                                              "stop":  "2026-10-08T19:02:00.0000000Z",
+                                              "stop":  "2026-10-08T19:01:50.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
@@ -122,7 +122,7 @@
                                                 {
                                                     "title":  "D1_t00",
                                                     "start":  "2026-10-08T16:50:12.0000000Z",
-                                                    "stop":  "2026-10-08T19:02:00.0000000Z",
+                                                    "stop":  "2026-10-08T19:01:50.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -131,7 +131,7 @@
                                                 {
                                                     "title":  "DEMON KNIGHT",
                                                     "start":  "2026-10-08T19:01:50.0000000Z",
-                                                    "stop":  "2026-10-08T20:34:23.0000000Z",
+                                                    "stop":  "2026-10-08T20:34:33.0000000Z",
                                                     "itemId":  "a5a1f15c45eb562ac5f7621a94c12742",
                                                     "poster":  "http://127.0.0.1:8096/Items/a5a1f15c45eb562ac5f7621a94c12742/Images/Primary",
                                                     "description":  "Ex-soldier Frank Brayker is the guardian of an ancient key that can unlock tremendous evil; the sinister Collector is a demon who wants the key so he can initiate the apocalypse. On the run from wicked mercenaries for almost 90 years, Brayker finally stops in at a boarding house in New Mexico where — with the help of its residents — he plans to face off against the Collector and his band of ghouls, preventing them from ever seizing the key.",
@@ -149,7 +149,7 @@
                                                 {
                                                     "title":  "Critters",
                                                     "start":  "2026-10-08T22:22:13.0000000Z",
-                                                    "stop":  "2026-10-08T23:48:14.0000000Z",
+                                                    "stop":  "2026-10-08T23:48:04.0000000Z",
                                                     "itemId":  "54493e812aba3ee1edef65108ed95c05",
                                                     "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
                                                     "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
@@ -158,7 +158,7 @@
                                                 {
                                                     "title":  "Critters 4",
                                                     "start":  "2026-10-08T23:48:04.0000000Z",
-                                                    "stop":  "2026-10-09T01:22:41.0000000Z",
+                                                    "stop":  "2026-10-09T01:22:51.0000000Z",
                                                     "itemId":  "9236028cd5b40f7dab68ae6983570831",
                                                     "poster":  "http://127.0.0.1:8096/Items/9236028cd5b40f7dab68ae6983570831/Images/Primary",
                                                     "description":  "A super strain of genetically engineered mutants are designed to take over the universe, hungry to conquer the galaxy, with an appetite for mankind.",
@@ -185,7 +185,7 @@
                                                 {
                                                     "title":  "WISHMASTER part 2",
                                                     "start":  "2026-10-09T04:33:33.0000000Z",
-                                                    "stop":  "2026-10-09T06:09:43.0000000Z",
+                                                    "stop":  "2026-10-09T06:09:33.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "Predator",
                                                     "start":  "2026-10-08T18:41:59.0000000Z",
-                                                    "stop":  "2026-10-08T20:28:53.0000000Z",
+                                                    "stop":  "2026-10-08T20:28:33.0000000Z",
                                                     "itemId":  "9745bbd80aedfd3750130547f37af704",
                                                     "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
                                                     "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "Conan The Destroyer",
                                                     "start":  "2026-10-08T20:28:33.0000000Z",
-                                                    "stop":  "2026-10-08T22:09:41.0000000Z",
+                                                    "stop":  "2026-10-08T22:10:01.0000000Z",
                                                     "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
                                                     "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
                                                     "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "ROBOCOP 2",
                                                     "start":  "2026-10-09T04:22:15.0000000Z",
-                                                    "stop":  "2026-10-09T06:19:14.0000000Z",
+                                                    "stop":  "2026-10-09T06:19:04.0000000Z",
                                                     "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
                                                     "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "ROBOCOP 3",
                                                     "start":  "2026-10-09T06:19:04.0000000Z",
-                                                    "stop":  "2026-10-09T08:03:55.0000000Z",
+                                                    "stop":  "2026-10-09T08:04:05.0000000Z",
                                                     "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
                                                     "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
                                                     "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
@@ -581,46 +581,28 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "BloodJoke",
-                                                  "start":  "2026-10-08T14:41:55.0000000Z",
-                                                  "stop":  "2026-10-08T15:20:43.0000000Z",
-                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                  "title":  "Never 3Nding",
+                                                  "start":  "2026-10-08T14:58:56.0000000Z",
+                                                  "stop":  "2026-10-08T15:09:45.0000000Z",
+                                                  "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                                  "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Ninja Now",
-                                              "start":  "2026-10-08T15:01:08.0000000Z",
-                                              "stop":  "2026-10-08T15:01:50.0000000Z",
-                                              "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                              "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                              "title":  "Arnold Dynamite",
+                                              "start":  "2026-10-08T15:02:39.0000000Z",
+                                              "stop":  "2026-10-08T15:04:07.0000000Z",
+                                              "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
+                                              "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                               "description":  null,
-                                              "year":  null
+                                              "year":  2026
                                           },
                                "upcoming":  [
                                                 {
-                                                    "title":  "Ninja Now",
-                                                    "start":  "2026-10-08T15:01:08.0000000Z",
-                                                    "stop":  "2026-10-08T15:01:50.0000000Z",
-                                                    "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
-                                                    "title":  "SSBI4649",
-                                                    "start":  "2026-10-08T15:01:50.0000000Z",
-                                                    "stop":  "2026-10-08T15:38:53.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-10-08T15:02:39.0000000Z",
-                                                    "stop":  "2026-10-08T15:20:16.0000000Z",
+                                                    "stop":  "2026-10-08T15:04:07.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
@@ -629,7 +611,7 @@
                                                 {
                                                     "title":  "0Ld Sc00L",
                                                     "start":  "2026-10-08T15:04:07.0000000Z",
-                                                    "stop":  "2026-10-08T15:21:06.0000000Z",
+                                                    "stop":  "2026-10-08T15:23:36.0000000Z",
                                                     "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
                                                     "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                                     "description":  null,
@@ -638,7 +620,7 @@
                                                 {
                                                     "title":  "After H0uRs",
                                                     "start":  "2026-10-08T15:04:55.0000000Z",
-                                                    "stop":  "2026-10-08T15:37:13.0000000Z",
+                                                    "stop":  "2026-10-08T15:05:44.0000000Z",
                                                     "itemId":  "150bbae732cd647eeed3060cd67b032f",
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
@@ -647,7 +629,7 @@
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-10-08T15:05:44.0000000Z",
-                                                    "stop":  "2026-10-08T15:35:21.0000000Z",
+                                                    "stop":  "2026-10-08T15:20:13.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                     "description":  null,
@@ -656,7 +638,7 @@
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-10-08T15:11:40.0000000Z",
-                                                    "stop":  "2026-10-08T15:12:21.0000000Z",
+                                                    "stop":  "2026-10-08T15:20:54.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
@@ -665,9 +647,27 @@
                                                 {
                                                     "title":  "Chingadasos",
                                                     "start":  "2026-10-08T15:12:21.0000000Z",
-                                                    "stop":  "2026-10-08T15:36:33.0000000Z",
+                                                    "stop":  "2026-10-08T15:22:46.0000000Z",
                                                     "itemId":  "8988d98fd90679aab5aff5b786344b1c",
                                                     "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Mr J-Carry",
+                                                    "start":  "2026-10-08T15:14:13.0000000Z",
+                                                    "stop":  "2026-10-08T15:42:29.0000000Z",
+                                                    "itemId":  "56c94066e018711311e81d6a3f6cc139",
+                                                    "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "T2",
+                                                    "start":  "2026-10-08T15:15:09.0000000Z",
+                                                    "stop":  "2026-10-08T15:15:41.0000000Z",
+                                                    "itemId":  "1315943017e226076a7899408d36dec5",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
