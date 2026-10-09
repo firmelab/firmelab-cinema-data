@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-09T23:01:05.3296550Z",
+    "updated":  "2026-10-09T23:02:05.3369380Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -112,7 +112,7 @@
                                "upNext":  {
                                               "title":  "Critters 3",
                                               "start":  "2026-10-09T23:52:57.0000000Z",
-                                              "stop":  "2026-10-10T01:18:03.0000000Z",
+                                              "stop":  "2026-10-10T01:17:43.0000000Z",
                                               "itemId":  "f9168c1a730f0cc71fd31a7f22c4663f",
                                               "poster":  "http://127.0.0.1:8096/Items/f9168c1a730f0cc71fd31a7f22c4663f/Images/Primary",
                                               "description":  "As fanged, furious furballs viciously invade an L.A. apartment building and sink their teeth into the low-rent tenants, Josh leads the battle to beat back the conniving critters and save the planet.",
@@ -122,7 +122,7 @@
                                                 {
                                                     "title":  "Critters 3",
                                                     "start":  "2026-10-09T23:52:57.0000000Z",
-                                                    "stop":  "2026-10-10T01:18:03.0000000Z",
+                                                    "stop":  "2026-10-10T01:17:43.0000000Z",
                                                     "itemId":  "f9168c1a730f0cc71fd31a7f22c4663f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f9168c1a730f0cc71fd31a7f22c4663f/Images/Primary",
                                                     "description":  "As fanged, furious furballs viciously invade an L.A. apartment building and sink their teeth into the low-rent tenants, Josh leads the battle to beat back the conniving critters and save the planet.",
@@ -131,7 +131,7 @@
                                                 {
                                                     "title":  "CANDYMAN",
                                                     "start":  "2026-10-10T01:17:43.0000000Z",
-                                                    "stop":  "2026-10-10T02:56:39.0000000Z",
+                                                    "stop":  "2026-10-10T02:56:59.0000000Z",
                                                     "itemId":  "75bc45c9af5e154aea4dd68eb38e0354",
                                                     "poster":  "http://127.0.0.1:8096/Items/75bc45c9af5e154aea4dd68eb38e0354/Images/Primary",
                                                     "description":  "A Chicago artist\u0027s sanity starts to unravel, unleashing a terrifying wave of violence when he begins to explore the macabre history of the Candyman.",
@@ -149,7 +149,7 @@
                                                 {
                                                     "title":  "The Blob",
                                                     "start":  "2026-10-10T04:22:13.0000000Z",
-                                                    "stop":  "2026-10-10T05:57:33.0000000Z",
+                                                    "stop":  "2026-10-10T05:57:13.0000000Z",
                                                     "itemId":  "5dc1ff349ca7c8caaf1ecfe4f830a683",
                                                     "poster":  "http://127.0.0.1:8096/Items/5dc1ff349ca7c8caaf1ecfe4f830a683/Images/Primary",
                                                     "description":  "In Arborville, California, three high school students try to protect their hometown from a gelatinous alien life form that engulfs everything it touches.",
@@ -158,7 +158,7 @@
                                                 {
                                                     "title":  "Blade II",
                                                     "start":  "2026-10-10T05:57:13.0000000Z",
-                                                    "stop":  "2026-10-10T07:54:03.0000000Z",
+                                                    "stop":  "2026-10-10T07:54:23.0000000Z",
                                                     "itemId":  "74e7a571bdb0578b253598a3f8b45f12",
                                                     "poster":  "http://127.0.0.1:8096/Items/74e7a571bdb0578b253598a3f8b45f12/Images/Primary",
                                                     "description":  "Blade forms an uneasy alliance with the vampire council in order to combat the Reapers, who are feeding on vampires.",
@@ -185,7 +185,7 @@
                                                 {
                                                     "title":  "Blade Trinity",
                                                     "start":  "2026-10-10T11:37:48.0000000Z",
-                                                    "stop":  "2026-10-10T13:31:00.0000000Z",
+                                                    "stop":  "2026-10-10T13:30:40.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "Black Hawk Down",
                                                     "start":  "2026-10-10T01:49:14.0000000Z",
-                                                    "stop":  "2026-10-10T04:13:55.0000000Z",
+                                                    "stop":  "2026-10-10T04:13:35.0000000Z",
                                                     "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
                                                     "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
                                                     "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "Predator",
                                                     "start":  "2026-10-10T04:13:35.0000000Z",
-                                                    "stop":  "2026-10-10T06:00:09.0000000Z",
+                                                    "stop":  "2026-10-10T06:00:29.0000000Z",
                                                     "itemId":  "9745bbd80aedfd3750130547f37af704",
                                                     "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
                                                     "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "Conan The Barbarian",
                                                     "start":  "2026-10-10T11:43:29.0000000Z",
-                                                    "stop":  "2026-10-10T13:54:11.0000000Z",
+                                                    "stop":  "2026-10-10T13:53:51.0000000Z",
                                                     "itemId":  "d0a933c7f9688726a8f9a30f309399ad",
                                                     "poster":  "http://127.0.0.1:8096/Items/d0a933c7f9688726a8f9a30f309399ad/Images/Primary",
                                                     "description":  "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "ROBOCOP 2",
                                                     "start":  "2026-10-10T13:53:51.0000000Z",
-                                                    "stop":  "2026-10-10T15:50:30.0000000Z",
+                                                    "stop":  "2026-10-10T15:50:50.0000000Z",
                                                     "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
                                                     "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
@@ -581,18 +581,18 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "COKCE6139",
-                                                  "start":  "2026-10-09T22:41:19.0000000Z",
-                                                  "stop":  "2026-10-09T23:20:43.0000000Z",
-                                                  "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
+                                                  "title":  "JamminG",
+                                                  "start":  "2026-10-09T22:59:21.0000000Z",
+                                                  "stop":  "2026-10-09T23:11:55.0000000Z",
+                                                  "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Never 3Nding",
                                               "start":  "2026-10-09T23:03:18.0000000Z",
-                                              "stop":  "2026-10-09T23:21:39.0000000Z",
+                                              "stop":  "2026-10-09T23:05:30.0000000Z",
                                               "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                               "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-10-09T23:03:18.0000000Z",
-                                                    "stop":  "2026-10-09T23:21:39.0000000Z",
+                                                    "stop":  "2026-10-09T23:05:30.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-10-09T23:05:30.0000000Z",
-                                                    "stop":  "2026-10-09T23:22:23.0000000Z",
+                                                    "stop":  "2026-10-09T23:06:13.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-10-09T23:06:13.0000000Z",
-                                                    "stop":  "2026-10-09T23:38:30.0000000Z",
+                                                    "stop":  "2026-10-09T23:07:02.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-10-09T23:07:02.0000000Z",
-                                                    "stop":  "2026-10-09T23:32:11.0000000Z",
+                                                    "stop":  "2026-10-09T23:27:10.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "After H0uRs",
                                                     "start":  "2026-10-09T23:09:18.0000000Z",
-                                                    "stop":  "2026-10-09T23:33:32.0000000Z",
+                                                    "stop":  "2026-10-09T23:18:40.0000000Z",
                                                     "itemId":  "150bbae732cd647eeed3060cd67b032f",
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-10-09T23:10:07.0000000Z",
-                                                    "stop":  "2026-10-09T23:56:41.0000000Z",
+                                                    "stop":  "2026-10-09T23:24:35.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-10-09T23:16:02.0000000Z",
-                                                    "stop":  "2026-10-10T00:04:55.0000000Z",
+                                                    "stop":  "2026-10-09T23:25:16.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
