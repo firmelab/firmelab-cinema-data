@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-09T18:43:05.2564720Z",
+    "updated":  "2026-10-09T18:44:05.2727536Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,33 +101,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Blade",
-                                                  "start":  "2026-10-09T16:42:57.0000000Z",
-                                                  "stop":  "2026-10-09T18:43:11.0000000Z",
-                                                  "itemId":  "b15fb14f946bc7e00478a81aa4943fdf",
-                                                  "poster":  "http://127.0.0.1:8096/Items/b15fb14f946bc7e00478a81aa4943fdf/Images/Primary",
-                                                  "description":  "The Daywalker known as \"Blade\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",
-                                                  "year":  1998
+                                                  "title":  "Nightmare on Elm Street 4 Dream Master",
+                                                  "start":  "2026-10-09T18:43:11.0000000Z",
+                                                  "stop":  "2026-10-09T20:16:32.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Nightmare on Elm Street 4 Dream Master",
-                                              "start":  "2026-10-09T18:43:11.0000000Z",
-                                              "stop":  "2026-10-09T20:16:32.0000000Z",
+                                              "title":  "Underworld Evolution",
+                                              "start":  "2026-10-09T20:16:32.0000000Z",
+                                              "stop":  "2026-10-09T22:03:16.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Nightmare on Elm Street 4 Dream Master",
-                                                    "start":  "2026-10-09T18:43:11.0000000Z",
-                                                    "stop":  "2026-10-09T20:16:32.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Underworld Evolution",
                                                     "start":  "2026-10-09T20:16:32.0000000Z",
@@ -190,6 +181,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/74e7a571bdb0578b253598a3f8b45f12/Images/Primary",
                                                     "description":  "Blade forms an uneasy alliance with the vampire council in order to combat the Reapers, who are feeding on vampires.",
                                                     "year":  2002
+                                                },
+                                                {
+                                                    "title":  "World War Z",
+                                                    "start":  "2026-10-10T07:54:03.0000000Z",
+                                                    "stop":  "2026-10-10T09:57:17.0000000Z",
+                                                    "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
+                                                    "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+                                                    "year":  2013
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "SSBI4649",
-                                              "start":  "2026-10-09T18:43:48.0000000Z",
-                                              "stop":  "2026-10-09T19:27:54.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
+                                              "title":  "Arnold Dynamite",
+                                              "start":  "2026-10-09T18:44:37.0000000Z",
+                                              "stop":  "2026-10-09T18:46:04.0000000Z",
+                                              "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
+                                              "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                               "description":  null,
-                                              "year":  null
+                                              "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "SSBI4649",
-                                                    "start":  "2026-10-09T18:43:48.0000000Z",
-                                                    "stop":  "2026-10-09T19:27:54.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-10-09T18:44:37.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-10-09T19:13:01.0000000Z",
                                                     "itemId":  "56c94066e018711311e81d6a3f6cc139",
                                                     "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "T2",
+                                                    "start":  "2026-10-09T18:57:06.0000000Z",
+                                                    "stop":  "2026-10-09T19:13:59.0000000Z",
+                                                    "itemId":  "1315943017e226076a7899408d36dec5",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
