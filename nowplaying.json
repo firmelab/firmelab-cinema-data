@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-09T06:09:05.3330832Z",
+    "updated":  "2026-10-09T06:10:05.3306624Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,33 +101,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "WISHMASTER part 2",
-                                                  "start":  "2026-10-09T04:33:33.0000000Z",
-                                                  "stop":  "2026-10-09T06:09:33.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Boogeyman",
+                                                  "start":  "2026-10-09T06:09:33.0000000Z",
+                                                  "stop":  "2026-10-09T07:38:23.0000000Z",
+                                                  "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
+                                                  "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
+                                                  "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
+                                                  "year":  2005
                                               },
                                "upNext":  {
-                                              "title":  "Boogeyman",
-                                              "start":  "2026-10-09T06:09:33.0000000Z",
-                                              "stop":  "2026-10-09T07:38:23.0000000Z",
-                                              "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
-                                              "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
-                                              "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
-                                              "year":  2005
+                                              "title":  "WISHMASTER",
+                                              "start":  "2026-10-09T07:38:23.0000000Z",
+                                              "stop":  "2026-10-09T09:08:29.0000000Z",
+                                              "itemId":  "58d933a690c3d71b883c09370fa30d07",
+                                              "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
+                                              "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
+                                              "year":  1997
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Boogeyman",
-                                                    "start":  "2026-10-09T06:09:33.0000000Z",
-                                                    "stop":  "2026-10-09T07:38:23.0000000Z",
-                                                    "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
-                                                    "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
-                                                    "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
-                                                    "year":  2005
-                                                },
                                                 {
                                                     "title":  "WISHMASTER",
                                                     "start":  "2026-10-09T07:38:23.0000000Z",
@@ -190,6 +181,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/b15fb14f946bc7e00478a81aa4943fdf/Images/Primary",
                                                     "description":  "The Daywalker known as \"Blade\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",
                                                     "year":  1998
+                                                },
+                                                {
+                                                    "title":  "Nightmare on Elm Street 4 Dream Master",
+                                                    "start":  "2026-10-09T18:43:11.0000000Z",
+                                                    "stop":  "2026-10-09T20:16:42.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
@@ -581,33 +581,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Carrito",
-                                                  "start":  "2026-10-09T06:02:02.0000000Z",
-                                                  "stop":  "2026-10-09T06:09:41.0000000Z",
-                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                                  "title":  "Dancing Cobra",
+                                                  "start":  "2026-10-09T06:09:41.0000000Z",
+                                                  "stop":  "2026-10-09T06:10:46.0000000Z",
+                                                  "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                                  "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Dancing Cobra",
-                                              "start":  "2026-10-09T06:09:41.0000000Z",
-                                              "stop":  "2026-10-09T06:10:46.0000000Z",
-                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
+                                              "title":  "DnBaPCsht",
+                                              "start":  "2026-10-09T06:10:46.0000000Z",
+                                              "stop":  "2026-10-09T06:30:25.0000000Z",
+                                              "itemId":  "d2296bca99a831548bbada0bb3bac719",
+                                              "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Dancing Cobra",
-                                                    "start":  "2026-10-09T06:09:41.0000000Z",
-                                                    "stop":  "2026-10-09T06:10:46.0000000Z",
-                                                    "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-10-09T06:10:46.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "0Ld Sc00L",
+                                                    "start":  "2026-10-09T06:22:34.0000000Z",
+                                                    "stop":  "2026-10-09T06:31:54.0000000Z",
+                                                    "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
