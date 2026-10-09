@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-09T13:43:04.9704171Z",
+    "updated":  "2026-10-09T13:44:04.9718886Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,33 +101,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Land of the Dead",
-                                                  "start":  "2026-10-09T12:06:23.0000000Z",
-                                                  "stop":  "2026-10-09T13:43:13.0000000Z",
-                                                  "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
-                                                  "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
-                                                  "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
-                                                  "year":  2005
+                                                  "title":  "Resident Evil- Apocalypse",
+                                                  "start":  "2026-10-09T13:43:13.0000000Z",
+                                                  "stop":  "2026-10-09T15:17:02.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Resident Evil- Apocalypse",
-                                              "start":  "2026-10-09T13:43:13.0000000Z",
-                                              "stop":  "2026-10-09T15:17:02.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Critters 2",
+                                              "start":  "2026-10-09T15:17:02.0000000Z",
+                                              "stop":  "2026-10-09T16:43:17.0000000Z",
+                                              "itemId":  "54493e812aba3ee1edef65108ed95c05",
+                                              "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
+                                              "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
+                                              "year":  1988
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Resident Evil- Apocalypse",
-                                                    "start":  "2026-10-09T13:43:13.0000000Z",
-                                                    "stop":  "2026-10-09T15:17:02.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Critters 2",
                                                     "start":  "2026-10-09T15:17:02.0000000Z",
@@ -190,6 +181,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/75bc45c9af5e154aea4dd68eb38e0354/Images/Primary",
                                                     "description":  "A Chicago artist\u0027s sanity starts to unravel, unleashing a terrifying wave of violence when he begins to explore the macabre history of the Candyman.",
                                                     "year":  2021
+                                                },
+                                                {
+                                                    "title":  "A Nightmare on Elm Street 2 Freddy\u0027s Revenge",
+                                                    "start":  "2026-10-10T02:56:39.0000000Z",
+                                                    "stop":  "2026-10-10T04:22:23.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
