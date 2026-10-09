@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-09T10:02:05.2525745Z",
+    "updated":  "2026-10-09T10:03:05.2123823Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -197,33 +197,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Bourne Identity",
-                                                  "start":  "2026-10-09T08:03:55.0000000Z",
-                                                  "stop":  "2026-10-09T10:02:12.0000000Z",
-                                                  "itemId":  "ad22fba25f4ceaee407d76b5620443de",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ad22fba25f4ceaee407d76b5620443de/Images/Primary",
-                                                  "description":  "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
-                                                  "year":  2002
+                                                  "title":  "Rambo First Blood",
+                                                  "start":  "2026-10-09T10:02:12.0000000Z",
+                                                  "stop":  "2026-10-09T11:35:21.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Rambo First Blood",
-                                              "start":  "2026-10-09T10:02:12.0000000Z",
-                                              "stop":  "2026-10-09T11:35:21.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Commando",
+                                              "start":  "2026-10-09T11:35:21.0000000Z",
+                                              "stop":  "2026-10-09T13:05:34.0000000Z",
+                                              "itemId":  "4d57925cf6d4f5a046509bad0a68d29f",
+                                              "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
+                                              "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
+                                              "year":  1985
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Rambo First Blood",
-                                                    "start":  "2026-10-09T10:02:12.0000000Z",
-                                                    "stop":  "2026-10-09T11:35:21.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Commando",
                                                     "start":  "2026-10-09T11:35:21.0000000Z",
@@ -286,6 +277,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
                                                     "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
                                                     "year":  1990
+                                                },
+                                                {
+                                                    "title":  "Robocop",
+                                                    "start":  "2026-10-10T00:06:27.0000000Z",
+                                                    "stop":  "2026-10-10T01:49:14.0000000Z",
+                                                    "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
+                                                    "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
+                                                    "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
+                                                    "year":  1987
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Ass Kicker Bruce",
-                                              "start":  "2026-10-09T10:02:52.0000000Z",
-                                              "stop":  "2026-10-09T10:08:48.0000000Z",
-                                              "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
-                                              "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                              "title":  "Biggie Mobbing",
+                                              "start":  "2026-10-09T10:08:48.0000000Z",
+                                              "stop":  "2026-10-09T10:28:09.0000000Z",
+                                              "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
+                                              "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                               "description":  null,
                                               "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Ass Kicker Bruce",
-                                                    "start":  "2026-10-09T10:02:52.0000000Z",
-                                                    "stop":  "2026-10-09T10:08:48.0000000Z",
-                                                    "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-10-09T10:08:48.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "MrPayo",
+                                                    "start":  "2026-10-09T10:20:00.0000000Z",
+                                                    "stop":  "2026-10-09T10:29:37.0000000Z",
+                                                    "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
+                                                    "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
