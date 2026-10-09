@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-09T07:38:05.0330300Z",
+    "updated":  "2026-10-09T07:39:05.0297861Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,33 +101,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Boogeyman",
-                                                  "start":  "2026-10-09T06:09:33.0000000Z",
-                                                  "stop":  "2026-10-09T07:38:23.0000000Z",
-                                                  "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
-                                                  "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
-                                                  "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
-                                                  "year":  2005
+                                                  "title":  "WISHMASTER",
+                                                  "start":  "2026-10-09T07:38:23.0000000Z",
+                                                  "stop":  "2026-10-09T09:08:19.0000000Z",
+                                                  "itemId":  "58d933a690c3d71b883c09370fa30d07",
+                                                  "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
+                                                  "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
+                                                  "year":  1997
                                               },
                                "upNext":  {
-                                              "title":  "WISHMASTER",
-                                              "start":  "2026-10-09T07:38:23.0000000Z",
-                                              "stop":  "2026-10-09T09:08:19.0000000Z",
-                                              "itemId":  "58d933a690c3d71b883c09370fa30d07",
-                                              "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
-                                              "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
-                                              "year":  1997
+                                              "title":  "A Nightmare on Elm Street",
+                                              "start":  "2026-10-09T09:08:19.0000000Z",
+                                              "stop":  "2026-10-09T10:40:02.0000000Z",
+                                              "itemId":  "c79ef56b1b57aea8237d2575aba106ee",
+                                              "poster":  "http://127.0.0.1:8096/Items/c79ef56b1b57aea8237d2575aba106ee/Images/Primary",
+                                              "description":  "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop\u0027s daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers\u0027 children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
+                                              "year":  1984
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "WISHMASTER",
-                                                    "start":  "2026-10-09T07:38:23.0000000Z",
-                                                    "stop":  "2026-10-09T09:08:19.0000000Z",
-                                                    "itemId":  "58d933a690c3d71b883c09370fa30d07",
-                                                    "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
-                                                    "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
-                                                    "year":  1997
-                                                },
                                                 {
                                                     "title":  "A Nightmare on Elm Street",
                                                     "start":  "2026-10-09T09:08:19.0000000Z",
@@ -186,6 +177,15 @@
                                                     "title":  "Nightmare on Elm Street 4 Dream Master",
                                                     "start":  "2026-10-09T18:43:11.0000000Z",
                                                     "stop":  "2026-10-09T20:16:32.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Underworld Evolution",
+                                                    "start":  "2026-10-09T20:16:32.0000000Z",
+                                                    "stop":  "2026-10-09T22:03:06.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -590,24 +590,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "DnBaPCsht",
-                                              "start":  "2026-10-09T07:38:15.0000000Z",
-                                              "stop":  "2026-10-09T07:39:01.0000000Z",
-                                              "itemId":  "d2296bca99a831548bbada0bb3bac719",
-                                              "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
+                                              "title":  "Duende",
+                                              "start":  "2026-10-09T07:39:13.0000000Z",
+                                              "stop":  "2026-10-09T08:17:35.0000000Z",
+                                              "itemId":  "80d6feb8f0c835e935a80db3275c5412",
+                                              "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "DnBaPCsht",
-                                                    "start":  "2026-10-09T07:38:15.0000000Z",
-                                                    "stop":  "2026-10-09T07:39:01.0000000Z",
-                                                    "itemId":  "d2296bca99a831548bbada0bb3bac719",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-10-09T07:39:13.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-10-09T07:50:51.0000000Z",
                                                     "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
                                                     "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "After H0uRs",
+                                                    "start":  "2026-10-09T07:50:51.0000000Z",
+                                                    "stop":  "2026-10-09T07:51:40.0000000Z",
+                                                    "itemId":  "150bbae732cd647eeed3060cd67b032f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
