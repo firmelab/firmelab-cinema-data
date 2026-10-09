@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-09T16:23:05.1476124Z",
+    "updated":  "2026-10-09T16:24:05.1800136Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -197,33 +197,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Brightburn",
-                                                  "start":  "2026-10-09T14:52:40.0000000Z",
-                                                  "stop":  "2026-10-09T16:23:10.0000000Z",
-                                                  "itemId":  "a562e465a7ff31b0113aee613a779bf2",
-                                                  "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
-                                                  "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
-                                                  "year":  2019
+                                                  "title":  "John Wick",
+                                                  "start":  "2026-10-09T16:23:10.0000000Z",
+                                                  "stop":  "2026-10-09T18:04:23.0000000Z",
+                                                  "itemId":  "84b70d75a3d957b57b02cf83796504a8",
+                                                  "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
+                                                  "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+                                                  "year":  2014
                                               },
                                "upNext":  {
-                                              "title":  "John Wick",
-                                              "start":  "2026-10-09T16:23:10.0000000Z",
-                                              "stop":  "2026-10-09T18:04:23.0000000Z",
-                                              "itemId":  "84b70d75a3d957b57b02cf83796504a8",
-                                              "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
-                                              "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
-                                              "year":  2014
+                                              "title":  "Bourne Supremacy",
+                                              "start":  "2026-10-09T18:04:23.0000000Z",
+                                              "stop":  "2026-10-09T19:52:56.0000000Z",
+                                              "itemId":  "031faf0da71af121647ff2d37294b07a",
+                                              "poster":  "http://127.0.0.1:8096/Items/031faf0da71af121647ff2d37294b07a/Images/Primary",
+                                              "description":  "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
+                                              "year":  2004
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "John Wick",
-                                                    "start":  "2026-10-09T16:23:10.0000000Z",
-                                                    "stop":  "2026-10-09T18:04:23.0000000Z",
-                                                    "itemId":  "84b70d75a3d957b57b02cf83796504a8",
-                                                    "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
-                                                    "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
-                                                    "year":  2014
-                                                },
                                                 {
                                                     "title":  "Bourne Supremacy",
                                                     "start":  "2026-10-09T18:04:23.0000000Z",
@@ -286,6 +277,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
                                                     "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
                                                     "year":  1984
+                                                },
+                                                {
+                                                    "title":  "Sherlock Holmes",
+                                                    "start":  "2026-10-10T07:41:27.0000000Z",
+                                                    "stop":  "2026-10-10T09:49:56.0000000Z",
+                                                    "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
+                                                    "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
+                                                    "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
+                                                    "year":  2009
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Duende",
-                                              "start":  "2026-10-09T16:24:03.0000000Z",
-                                              "stop":  "2026-10-09T16:25:12.0000000Z",
-                                              "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                              "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                              "title":  "JamminG",
+                                              "start":  "2026-10-09T16:25:44.0000000Z",
+                                              "stop":  "2026-10-09T16:29:36.0000000Z",
+                                              "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                              "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Duende",
-                                                    "start":  "2026-10-09T16:24:03.0000000Z",
-                                                    "stop":  "2026-10-09T16:25:12.0000000Z",
-                                                    "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                                    "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-10-09T16:25:44.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Ass Kicker Bruce",
+                                                    "start":  "2026-10-09T16:36:29.0000000Z",
+                                                    "stop":  "2026-10-09T16:42:25.0000000Z",
+                                                    "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
