@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-09T00:18:07.4139392Z",
+    "updated":  "2026-10-09T00:19:07.4886469Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -197,33 +197,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Sherlock Holmes",
-                                                  "start":  "2026-10-08T22:09:51.0000000Z",
-                                                  "stop":  "2026-10-09T00:18:20.0000000Z",
-                                                  "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
-                                                  "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
-                                                  "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
-                                                  "year":  2009
+                                                  "title":  "DEATH PROOF",
+                                                  "start":  "2026-10-09T00:18:20.0000000Z",
+                                                  "stop":  "2026-10-09T02:11:53.0000000Z",
+                                                  "itemId":  "5220d04d46ddf5fa55aacae5d4916919",
+                                                  "poster":  "http://127.0.0.1:8096/Items/5220d04d46ddf5fa55aacae5d4916919/Images/Primary",
+                                                  "description":  "Austin\u0027s hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
+                                                  "year":  2007
                                               },
                                "upNext":  {
-                                              "title":  "DEATH PROOF",
-                                              "start":  "2026-10-09T00:18:20.0000000Z",
-                                              "stop":  "2026-10-09T02:11:53.0000000Z",
-                                              "itemId":  "5220d04d46ddf5fa55aacae5d4916919",
-                                              "poster":  "http://127.0.0.1:8096/Items/5220d04d46ddf5fa55aacae5d4916919/Images/Primary",
-                                              "description":  "Austin\u0027s hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
-                                              "year":  2007
+                                              "title":  "Conan The Barbarian",
+                                              "start":  "2026-10-09T02:11:53.0000000Z",
+                                              "stop":  "2026-10-09T04:22:15.0000000Z",
+                                              "itemId":  "d0a933c7f9688726a8f9a30f309399ad",
+                                              "poster":  "http://127.0.0.1:8096/Items/d0a933c7f9688726a8f9a30f309399ad/Images/Primary",
+                                              "description":  "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
+                                              "year":  1982
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "DEATH PROOF",
-                                                    "start":  "2026-10-09T00:18:20.0000000Z",
-                                                    "stop":  "2026-10-09T02:11:53.0000000Z",
-                                                    "itemId":  "5220d04d46ddf5fa55aacae5d4916919",
-                                                    "poster":  "http://127.0.0.1:8096/Items/5220d04d46ddf5fa55aacae5d4916919/Images/Primary",
-                                                    "description":  "Austin\u0027s hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
-                                                    "year":  2007
-                                                },
                                                 {
                                                     "title":  "Conan The Barbarian",
                                                     "start":  "2026-10-09T02:11:53.0000000Z",
@@ -286,6 +277,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Brightburn",
+                                                    "start":  "2026-10-09T14:52:40.0000000Z",
+                                                    "stop":  "2026-10-09T16:23:10.0000000Z",
+                                                    "itemId":  "a562e465a7ff31b0113aee613a779bf2",
+                                                    "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
+                                                    "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
+                                                    "year":  2019
                                                 }
                                             ]
                            },
