@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-10T01:01:05.3039476Z",
+    "updated":  "2026-10-10T01:02:05.3214948Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "Predator",
                                                     "start":  "2026-10-10T04:13:35.0000000Z",
-                                                    "stop":  "2026-10-10T06:00:29.0000000Z",
+                                                    "stop":  "2026-10-10T06:00:09.0000000Z",
                                                     "itemId":  "9745bbd80aedfd3750130547f37af704",
                                                     "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
                                                     "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "Conan The Destroyer",
                                                     "start":  "2026-10-10T06:00:09.0000000Z",
-                                                    "stop":  "2026-10-10T07:41:17.0000000Z",
+                                                    "stop":  "2026-10-10T07:41:37.0000000Z",
                                                     "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
                                                     "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
                                                     "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "ROBOCOP 2",
                                                     "start":  "2026-10-10T13:53:51.0000000Z",
-                                                    "stop":  "2026-10-10T15:50:50.0000000Z",
+                                                    "stop":  "2026-10-10T15:50:40.0000000Z",
                                                     "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
                                                     "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "ROBOCOP 3",
                                                     "start":  "2026-10-10T15:50:40.0000000Z",
-                                                    "stop":  "2026-10-10T17:35:31.0000000Z",
+                                                    "stop":  "2026-10-10T17:35:41.0000000Z",
                                                     "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
                                                     "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
                                                     "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
@@ -581,18 +581,18 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Ass Kicker Bruce",
-                                                  "start":  "2026-10-10T00:37:35.0000000Z",
-                                                  "stop":  "2026-10-10T01:20:44.0000000Z",
-                                                  "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                                  "title":  "Carrito",
+                                                  "start":  "2026-10-10T00:59:10.0000000Z",
+                                                  "stop":  "2026-10-10T01:15:20.0000000Z",
+                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Dancing Cobra",
                                               "start":  "2026-10-10T01:06:48.0000000Z",
-                                              "stop":  "2026-10-10T01:31:35.0000000Z",
+                                              "stop":  "2026-10-10T01:07:54.0000000Z",
                                               "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                               "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-10-10T01:06:48.0000000Z",
-                                                    "stop":  "2026-10-10T01:31:35.0000000Z",
+                                                    "stop":  "2026-10-10T01:07:54.0000000Z",
                                                     "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                                     "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                     "description":  null,
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-10-10T01:07:54.0000000Z",
-                                                    "stop":  "2026-10-10T01:08:41.0000000Z",
+                                                    "stop":  "2026-10-10T01:08:52.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-10-10T01:08:52.0000000Z",
-                                                    "stop":  "2026-10-10T01:33:27.0000000Z",
+                                                    "stop":  "2026-10-10T01:10:34.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-10-10T01:10:34.0000000Z",
-                                                    "stop":  "2026-10-10T01:55:04.0000000Z",
+                                                    "stop":  "2026-10-10T01:33:11.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-10-10T01:14:31.0000000Z",
-                                                    "stop":  "2026-10-10T02:04:54.0000000Z",
+                                                    "stop":  "2026-10-10T01:16:43.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-10-10T01:16:43.0000000Z",
-                                                    "stop":  "2026-10-10T01:17:25.0000000Z",
+                                                    "stop":  "2026-10-10T01:25:58.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-10-10T01:17:25.0000000Z",
-                                                    "stop":  "2026-10-10T01:55:06.0000000Z",
+                                                    "stop":  "2026-10-10T01:26:47.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-10-10T01:18:14.0000000Z",
-                                                    "stop":  "2026-10-10T01:19:42.0000000Z",
+                                                    "stop":  "2026-10-10T01:28:15.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
