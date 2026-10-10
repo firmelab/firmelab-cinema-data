@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-10-10T14:55:05.6955625Z",
+    "updated":  "2026-10-10T14:56:05.7228501Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Conan The Barbarian",
-                                                  "start":  "2026-10-10T12:45:21.0000000Z",
-                                                  "stop":  "2026-10-10T14:55:55.0000000Z",
-                                                  "itemId":  "d0a933c7f9688726a8f9a30f309399ad",
-                                                  "poster":  "http://127.0.0.1:8096/Items/d0a933c7f9688726a8f9a30f309399ad/Images/Primary",
-                                                  "description":  "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
-                                                  "year":  1982
+                                                  "title":  "Black Hawk Down",
+                                                  "start":  "2026-10-10T14:55:55.0000000Z",
+                                                  "stop":  "2026-10-10T17:20:28.0000000Z",
+                                                  "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
+                                                  "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
+                                                  "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+                                                  "year":  2001
                                               },
                                "upNext":  {
-                                              "title":  "Black Hawk Down",
-                                              "start":  "2026-10-10T14:55:55.0000000Z",
-                                              "stop":  "2026-10-10T17:20:28.0000000Z",
-                                              "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
-                                              "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
-                                              "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
-                                              "year":  2001
+                                              "title":  "UP IN SMOKE",
+                                              "start":  "2026-10-10T17:20:28.0000000Z",
+                                              "stop":  "2026-10-10T18:46:30.0000000Z",
+                                              "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
+                                              "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
+                                              "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
+                                              "year":  1978
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Black Hawk Down",
-                                                    "start":  "2026-10-10T14:55:55.0000000Z",
-                                                    "stop":  "2026-10-10T17:20:28.0000000Z",
-                                                    "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
-                                                    "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
-                                                    "year":  2001
-                                                },
                                                 {
                                                     "title":  "UP IN SMOKE",
                                                     "start":  "2026-10-10T17:20:28.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
                                                     "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
                                                     "year":  2014
+                                                },
+                                                {
+                                                    "title":  "Blade II",
+                                                    "start":  "2026-10-11T05:58:44.0000000Z",
+                                                    "stop":  "2026-10-11T07:55:45.0000000Z",
+                                                    "itemId":  "74e7a571bdb0578b253598a3f8b45f12",
+                                                    "poster":  "http://127.0.0.1:8096/Items/74e7a571bdb0578b253598a3f8b45f12/Images/Primary",
+                                                    "description":  "Blade forms an uneasy alliance with the vampire council in order to combat the Reapers, who are feeding on vampires.",
+                                                    "year":  2002
                                                 }
                                             ]
                            },
@@ -485,33 +485,24 @@
                                "number":  6,
                                "name":  "FIRMELAB CRIME",
                                "nowPlaying":  {
-                                                  "title":  "Jacky Brown",
-                                                  "start":  "2026-10-10T12:20:48.0000000Z",
-                                                  "stop":  "2026-10-10T14:55:09.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "Inside Man",
+                                                  "start":  "2026-10-10T14:55:09.0000000Z",
+                                                  "stop":  "2026-10-10T17:03:56.0000000Z",
+                                                  "itemId":  "5f439285fe3ef8976153452a9fee8cbc",
+                                                  "poster":  "http://127.0.0.1:8096/Items/5f439285fe3ef8976153452a9fee8cbc/Images/Primary",
+                                                  "description":  "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
+                                                  "year":  2006
                                               },
                                "upNext":  {
-                                              "title":  "Inside Man",
-                                              "start":  "2026-10-10T14:55:09.0000000Z",
-                                              "stop":  "2026-10-10T17:03:56.0000000Z",
-                                              "itemId":  "5f439285fe3ef8976153452a9fee8cbc",
-                                              "poster":  "http://127.0.0.1:8096/Items/5f439285fe3ef8976153452a9fee8cbc/Images/Primary",
-                                              "description":  "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
-                                              "year":  2006
+                                              "title":  "Reservor Dogs",
+                                              "start":  "2026-10-10T17:03:56.0000000Z",
+                                              "stop":  "2026-10-10T18:43:01.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Inside Man",
-                                                    "start":  "2026-10-10T14:55:09.0000000Z",
-                                                    "stop":  "2026-10-10T17:03:56.0000000Z",
-                                                    "itemId":  "5f439285fe3ef8976153452a9fee8cbc",
-                                                    "poster":  "http://127.0.0.1:8096/Items/5f439285fe3ef8976153452a9fee8cbc/Images/Primary",
-                                                    "description":  "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
-                                                    "year":  2006
-                                                },
                                                 {
                                                     "title":  "Reservor Dogs",
                                                     "start":  "2026-10-10T17:03:56.0000000Z",
@@ -574,6 +565,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/1ca5b01d892bb1b5b113e7ccaa4ac889/Images/Primary",
                                                     "description":  "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
                                                     "year":  1983
+                                                },
+                                                {
+                                                    "title":  "Carlitos Way",
+                                                    "start":  "2026-10-11T09:09:17.0000000Z",
+                                                    "stop":  "2026-10-11T11:33:27.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
