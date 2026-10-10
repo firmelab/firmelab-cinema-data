@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-10T23:46:05.8571594Z",
+    "updated":  "2026-10-10T23:47:05.8573720Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,33 +581,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Ass Kicker Bruce",
-                                                  "start":  "2026-10-10T23:13:23.0000000Z",
-                                                  "stop":  "2026-10-10T23:46:39.0000000Z",
-                                                  "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                                  "title":  "Dancing Cobra",
+                                                  "start":  "2026-10-10T23:42:37.0000000Z",
+                                                  "stop":  "2026-10-11T00:20:55.0000000Z",
+                                                  "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                                  "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "JamminG",
-                                              "start":  "2026-10-10T23:46:22.0000000Z",
-                                              "stop":  "2026-10-10T23:50:14.0000000Z",
-                                              "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
-                                              "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
+                                              "title":  "Never 3Nding",
+                                              "start":  "2026-10-10T23:50:19.0000000Z",
+                                              "stop":  "2026-10-11T00:32:11.0000000Z",
+                                              "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                              "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                               "description":  null,
-                                              "year":  null
+                                              "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "JamminG",
-                                                    "start":  "2026-10-10T23:46:22.0000000Z",
-                                                    "stop":  "2026-10-10T23:50:14.0000000Z",
-                                                    "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
-                                                    "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-10-10T23:50:19.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-10-11T00:19:23.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Biggie Mobbing",
+                                                    "start":  "2026-10-11T00:03:03.0000000Z",
+                                                    "stop":  "2026-10-11T00:35:32.0000000Z",
+                                                    "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
