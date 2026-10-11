@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-11T10:01:05.9345726Z",
+    "updated":  "2026-10-11T10:02:05.8205593Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -112,7 +112,7 @@
                                "upNext":  {
                                               "title":  "BORDELLO OF BLOOD",
                                               "start":  "2026-10-11T11:11:58.0000000Z",
-                                              "stop":  "2026-10-11T12:38:39.0000000Z",
+                                              "stop":  "2026-10-11T12:38:29.0000000Z",
                                               "itemId":  "b03986ae5fac22e258cf02b8c89bc7a4",
                                               "poster":  "http://127.0.0.1:8096/Items/b03986ae5fac22e258cf02b8c89bc7a4/Images/Primary",
                                               "description":  "Private eye Rafe Guttman is hired by repressed, born-again Katherine to find her missing bad-boy brother. The trail leads him to a whorehouse run by a thousand-year-old vampire and secretly backed by Katherine\u0027s boss, televangelist Jimmy Current.",
@@ -122,7 +122,7 @@
                                                 {
                                                     "title":  "BORDELLO OF BLOOD",
                                                     "start":  "2026-10-11T11:11:58.0000000Z",
-                                                    "stop":  "2026-10-11T12:38:39.0000000Z",
+                                                    "stop":  "2026-10-11T12:38:29.0000000Z",
                                                     "itemId":  "b03986ae5fac22e258cf02b8c89bc7a4",
                                                     "poster":  "http://127.0.0.1:8096/Items/b03986ae5fac22e258cf02b8c89bc7a4/Images/Primary",
                                                     "description":  "Private eye Rafe Guttman is hired by repressed, born-again Katherine to find her missing bad-boy brother. The trail leads him to a whorehouse run by a thousand-year-old vampire and secretly backed by Katherine\u0027s boss, televangelist Jimmy Current.",
@@ -131,7 +131,7 @@
                                                 {
                                                     "title":  "Land of the Dead",
                                                     "start":  "2026-10-11T12:38:29.0000000Z",
-                                                    "stop":  "2026-10-11T14:15:19.0000000Z",
+                                                    "stop":  "2026-10-11T14:15:29.0000000Z",
                                                     "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
                                                     "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
                                                     "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
@@ -149,7 +149,7 @@
                                                 {
                                                     "title":  "Critters 2",
                                                     "start":  "2026-10-11T15:49:07.0000000Z",
-                                                    "stop":  "2026-10-11T17:15:13.0000000Z",
+                                                    "stop":  "2026-10-11T17:15:03.0000000Z",
                                                     "itemId":  "54493e812aba3ee1edef65108ed95c05",
                                                     "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
                                                     "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
@@ -158,7 +158,7 @@
                                                 {
                                                     "title":  "Blade",
                                                     "start":  "2026-10-11T17:15:03.0000000Z",
-                                                    "stop":  "2026-10-11T19:15:17.0000000Z",
+                                                    "stop":  "2026-10-11T19:15:27.0000000Z",
                                                     "itemId":  "b15fb14f946bc7e00478a81aa4943fdf",
                                                     "poster":  "http://127.0.0.1:8096/Items/b15fb14f946bc7e00478a81aa4943fdf/Images/Primary",
                                                     "description":  "The Daywalker known as \"Blade\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",
@@ -185,7 +185,7 @@
                                                 {
                                                     "title":  "CHRISTINE",
                                                     "start":  "2026-10-11T22:35:01.0000000Z",
-                                                    "stop":  "2026-10-12T00:25:13.0000000Z",
+                                                    "stop":  "2026-10-12T00:25:03.0000000Z",
                                                     "itemId":  "91dc7dc3ea26a9c92725048bc480729c",
                                                     "poster":  "http://127.0.0.1:8096/Items/91dc7dc3ea26a9c92725048bc480729c/Images/Primary",
                                                     "description":  "Nerdy high schooler Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory. As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty. Arnie\u0027s girlfriend Leigh and best friend Dennis reach out to him, only to be met by a Fury like no other.",
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "Predator",
                                                     "start":  "2026-10-11T13:45:11.0000000Z",
-                                                    "stop":  "2026-10-11T15:32:05.0000000Z",
+                                                    "stop":  "2026-10-11T15:31:45.0000000Z",
                                                     "itemId":  "9745bbd80aedfd3750130547f37af704",
                                                     "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
                                                     "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "Conan The Destroyer",
                                                     "start":  "2026-10-11T15:31:45.0000000Z",
-                                                    "stop":  "2026-10-11T17:12:53.0000000Z",
+                                                    "stop":  "2026-10-11T17:13:13.0000000Z",
                                                     "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
                                                     "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
                                                     "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "ROBOCOP 2",
                                                     "start":  "2026-10-11T23:25:26.0000000Z",
-                                                    "stop":  "2026-10-12T01:22:26.0000000Z",
+                                                    "stop":  "2026-10-12T01:22:16.0000000Z",
                                                     "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
                                                     "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "ROBOCOP 3",
                                                     "start":  "2026-10-12T01:22:16.0000000Z",
-                                                    "stop":  "2026-10-12T03:07:07.0000000Z",
+                                                    "stop":  "2026-10-12T03:07:17.0000000Z",
                                                     "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
                                                     "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
                                                     "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
@@ -581,18 +581,18 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "COKCE6139",
-                                                  "start":  "2026-10-11T09:40:38.0000000Z",
-                                                  "stop":  "2026-10-11T10:20:02.0000000Z",
-                                                  "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
+                                                  "title":  "JamminG",
+                                                  "start":  "2026-10-11T09:58:40.0000000Z",
+                                                  "stop":  "2026-10-11T10:11:14.0000000Z",
+                                                  "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Never 3Nding",
                                               "start":  "2026-10-11T10:02:37.0000000Z",
-                                              "stop":  "2026-10-11T10:20:58.0000000Z",
+                                              "stop":  "2026-10-11T10:04:49.0000000Z",
                                               "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                               "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-10-11T10:02:37.0000000Z",
-                                                    "stop":  "2026-10-11T10:20:58.0000000Z",
+                                                    "stop":  "2026-10-11T10:04:49.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-10-11T10:04:49.0000000Z",
-                                                    "stop":  "2026-10-11T10:21:42.0000000Z",
+                                                    "stop":  "2026-10-11T10:05:31.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-10-11T10:05:31.0000000Z",
-                                                    "stop":  "2026-10-11T10:37:49.0000000Z",
+                                                    "stop":  "2026-10-11T10:06:20.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-10-11T10:06:20.0000000Z",
-                                                    "stop":  "2026-10-11T10:31:29.0000000Z",
+                                                    "stop":  "2026-10-11T10:26:29.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "After H0uRs",
                                                     "start":  "2026-10-11T10:08:36.0000000Z",
-                                                    "stop":  "2026-10-11T10:32:51.0000000Z",
+                                                    "stop":  "2026-10-11T10:17:58.0000000Z",
                                                     "itemId":  "150bbae732cd647eeed3060cd67b032f",
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-10-11T10:09:25.0000000Z",
-                                                    "stop":  "2026-10-11T10:55:59.0000000Z",
+                                                    "stop":  "2026-10-11T10:23:54.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-10-11T10:15:21.0000000Z",
-                                                    "stop":  "2026-10-11T11:04:14.0000000Z",
+                                                    "stop":  "2026-10-11T10:24:35.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
