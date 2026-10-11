@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-11T01:01:05.4555808Z",
+    "updated":  "2026-10-11T01:02:05.4546523Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -112,7 +112,7 @@
                                "upNext":  {
                                               "title":  "Wrong Turn",
                                               "start":  "2026-10-11T01:54:46.0000000Z",
-                                              "stop":  "2026-10-11T03:19:08.0000000Z",
+                                              "stop":  "2026-10-11T03:18:58.0000000Z",
                                               "itemId":  "58d332deb67464546d571f7fda1cd63c",
                                               "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
                                               "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
@@ -122,7 +122,7 @@
                                                 {
                                                     "title":  "Wrong Turn",
                                                     "start":  "2026-10-11T01:54:46.0000000Z",
-                                                    "stop":  "2026-10-11T03:19:08.0000000Z",
+                                                    "stop":  "2026-10-11T03:18:58.0000000Z",
                                                     "itemId":  "58d332deb67464546d571f7fda1cd63c",
                                                     "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
                                                     "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
@@ -131,7 +131,7 @@
                                                 {
                                                     "title":  "FRIGHT NIGHT",
                                                     "start":  "2026-10-11T03:18:58.0000000Z",
-                                                    "stop":  "2026-10-11T05:05:38.0000000Z",
+                                                    "stop":  "2026-10-11T05:05:48.0000000Z",
                                                     "itemId":  "8bda9bd3955398694e4a57e90f6c4904",
                                                     "poster":  "http://127.0.0.1:8096/Items/8bda9bd3955398694e4a57e90f6c4904/Images/Primary",
                                                     "description":  "Charley Brewster, a high school student, accidentally discovers the true and creepy nature of Jerry Dandrige, his dashing and enigmatic new neighbor; but no one seems willing to believe him.",
@@ -149,7 +149,7 @@
                                                 {
                                                     "title":  "Boogeyman",
                                                     "start":  "2026-10-11T06:41:39.0000000Z",
-                                                    "stop":  "2026-10-11T08:10:39.0000000Z",
+                                                    "stop":  "2026-10-11T08:10:29.0000000Z",
                                                     "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
                                                     "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
                                                     "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
@@ -158,7 +158,7 @@
                                                 {
                                                     "title":  "WISHMASTER",
                                                     "start":  "2026-10-11T08:10:29.0000000Z",
-                                                    "stop":  "2026-10-11T09:40:24.0000000Z",
+                                                    "stop":  "2026-10-11T09:40:34.0000000Z",
                                                     "itemId":  "58d933a690c3d71b883c09370fa30d07",
                                                     "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
                                                     "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
@@ -185,7 +185,7 @@
                                                 {
                                                     "title":  "Land of the Dead",
                                                     "start":  "2026-10-11T12:38:29.0000000Z",
-                                                    "stop":  "2026-10-11T14:15:29.0000000Z",
+                                                    "stop":  "2026-10-11T14:15:19.0000000Z",
                                                     "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
                                                     "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
                                                     "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "Bourne Supremacy",
                                                     "start":  "2026-10-11T03:35:59.0000000Z",
-                                                    "stop":  "2026-10-11T05:24:52.0000000Z",
+                                                    "stop":  "2026-10-11T05:24:32.0000000Z",
                                                     "itemId":  "031faf0da71af121647ff2d37294b07a",
                                                     "poster":  "http://127.0.0.1:8096/Items/031faf0da71af121647ff2d37294b07a/Images/Primary",
                                                     "description":  "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "BATMAN BEGINS",
                                                     "start":  "2026-10-11T05:24:32.0000000Z",
-                                                    "stop":  "2026-10-11T07:44:33.0000000Z",
+                                                    "stop":  "2026-10-11T07:44:53.0000000Z",
                                                     "itemId":  "40cf44019306b29674462340007b5e1a",
                                                     "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
                                                     "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "Predator",
                                                     "start":  "2026-10-11T13:45:11.0000000Z",
-                                                    "stop":  "2026-10-11T15:32:05.0000000Z",
+                                                    "stop":  "2026-10-11T15:31:45.0000000Z",
                                                     "itemId":  "9745bbd80aedfd3750130547f37af704",
                                                     "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
                                                     "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "Conan The Destroyer",
                                                     "start":  "2026-10-11T15:31:45.0000000Z",
-                                                    "stop":  "2026-10-11T17:12:53.0000000Z",
+                                                    "stop":  "2026-10-11T17:13:13.0000000Z",
                                                     "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
                                                     "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
                                                     "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
@@ -581,18 +581,18 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "After H0uRs",
-                                                  "start":  "2026-10-11T00:40:03.0000000Z",
-                                                  "stop":  "2026-10-11T01:18:04.0000000Z",
-                                                  "itemId":  "150bbae732cd647eeed3060cd67b032f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
+                                                  "title":  "Oz",
+                                                  "start":  "2026-10-11T00:59:05.0000000Z",
+                                                  "stop":  "2026-10-11T01:09:23.0000000Z",
+                                                  "itemId":  "f332ba1673f9273e5349cd38b640cf51",
+                                                  "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
                                               "title":  "Carrito",
                                               "start":  "2026-10-11T01:02:27.0000000Z",
-                                              "stop":  "2026-10-11T01:33:46.0000000Z",
+                                              "stop":  "2026-10-11T01:10:05.0000000Z",
                                               "itemId":  "ed83754111f4ed370a338cab8345534d",
                                               "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-10-11T01:02:27.0000000Z",
-                                                    "stop":  "2026-10-11T01:33:46.0000000Z",
+                                                    "stop":  "2026-10-11T01:10:05.0000000Z",
                                                     "itemId":  "ed83754111f4ed370a338cab8345534d",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-10-11T01:11:11.0000000Z",
-                                                    "stop":  "2026-10-11T01:35:23.0000000Z",
+                                                    "stop":  "2026-10-11T01:30:49.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-10-11T01:12:09.0000000Z",
-                                                    "stop":  "2026-10-11T01:53:56.0000000Z",
+                                                    "stop":  "2026-10-11T01:13:50.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-10-11T01:13:50.0000000Z",
-                                                    "stop":  "2026-10-11T02:05:54.0000000Z",
+                                                    "stop":  "2026-10-11T01:26:20.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-10-11T01:17:47.0000000Z",
-                                                    "stop":  "2026-10-11T01:19:59.0000000Z",
+                                                    "stop":  "2026-10-11T01:28:32.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-10-11T01:19:59.0000000Z",
-                                                    "stop":  "2026-10-11T01:57:33.0000000Z",
+                                                    "stop":  "2026-10-11T01:29:15.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-10-11T01:20:42.0000000Z",
-                                                    "stop":  "2026-10-11T01:21:31.0000000Z",
+                                                    "stop":  "2026-10-11T01:48:51.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
