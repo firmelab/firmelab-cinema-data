@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-11T17:01:05.0710326Z",
+    "updated":  "2026-10-11T17:02:05.0776181Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -158,7 +158,7 @@
                                                 {
                                                     "title":  "Critters 3",
                                                     "start":  "2026-10-12T00:25:03.0000000Z",
-                                                    "stop":  "2026-10-12T01:49:58.0000000Z",
+                                                    "stop":  "2026-10-12T01:50:08.0000000Z",
                                                     "itemId":  "f9168c1a730f0cc71fd31a7f22c4663f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f9168c1a730f0cc71fd31a7f22c4663f/Images/Primary",
                                                     "description":  "As fanged, furious furballs viciously invade an L.A. apartment building and sink their teeth into the low-rent tenants, Josh leads the battle to beat back the conniving critters and save the planet.",
@@ -581,37 +581,28 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "After H0uRs",
-                                                  "start":  "2026-10-11T16:42:14.0000000Z",
-                                                  "stop":  "2026-10-11T17:20:16.0000000Z",
-                                                  "itemId":  "150bbae732cd647eeed3060cd67b032f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
+                                                  "title":  "FL MIXTAPE",
+                                                  "start":  "2026-10-11T17:00:00.0000000Z",
+                                                  "stop":  "2026-10-11T17:08:47.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Oz",
-                                              "start":  "2026-10-11T17:01:16.0000000Z",
-                                              "stop":  "2026-10-11T17:19:07.0000000Z",
-                                              "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                              "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                              "title":  "BloodJoke",
+                                              "start":  "2026-10-11T17:02:57.0000000Z",
+                                              "stop":  "2026-10-11T17:04:32.0000000Z",
+                                              "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                              "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
                                                 {
-                                                    "title":  "Oz",
-                                                    "start":  "2026-10-11T17:01:16.0000000Z",
-                                                    "stop":  "2026-10-11T17:19:07.0000000Z",
-                                                    "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
-                                                {
                                                     "title":  "BloodJoke",
                                                     "start":  "2026-10-11T17:02:57.0000000Z",
-                                                    "stop":  "2026-10-11T17:36:01.0000000Z",
+                                                    "stop":  "2026-10-11T17:04:32.0000000Z",
                                                     "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
                                                     "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                                     "description":  null,
@@ -620,7 +611,7 @@
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-10-11T17:04:38.0000000Z",
-                                                    "stop":  "2026-10-11T17:35:57.0000000Z",
+                                                    "stop":  "2026-10-11T17:31:08.0000000Z",
                                                     "itemId":  "ed83754111f4ed370a338cab8345534d",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                     "description":  null,
@@ -638,7 +629,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-10-11T17:13:22.0000000Z",
-                                                    "stop":  "2026-10-11T17:37:34.0000000Z",
+                                                    "stop":  "2026-10-11T17:22:47.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -647,7 +638,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-10-11T17:14:20.0000000Z",
-                                                    "stop":  "2026-10-11T17:56:08.0000000Z",
+                                                    "stop":  "2026-10-11T17:24:29.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -656,7 +647,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-10-11T17:16:02.0000000Z",
-                                                    "stop":  "2026-10-11T18:08:05.0000000Z",
+                                                    "stop":  "2026-10-11T17:28:31.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -665,11 +656,20 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-10-11T17:19:58.0000000Z",
-                                                    "stop":  "2026-10-11T17:22:10.0000000Z",
+                                                    "stop":  "2026-10-11T17:49:30.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Ninja Now",
+                                                    "start":  "2026-10-11T17:22:10.0000000Z",
+                                                    "stop":  "2026-10-11T17:22:53.0000000Z",
+                                                    "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
