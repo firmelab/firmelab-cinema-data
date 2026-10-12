@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-12T04:01:05.1599590Z",
+    "updated":  "2026-10-12T04:02:05.1659941Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -112,7 +112,7 @@
                                "upNext":  {
                                               "title":  "The Blob",
                                               "start":  "2026-10-12T04:54:18.0000000Z",
-                                              "stop":  "2026-10-12T06:29:38.0000000Z",
+                                              "stop":  "2026-10-12T06:29:18.0000000Z",
                                               "itemId":  "5dc1ff349ca7c8caaf1ecfe4f830a683",
                                               "poster":  "http://127.0.0.1:8096/Items/5dc1ff349ca7c8caaf1ecfe4f830a683/Images/Primary",
                                               "description":  "In Arborville, California, three high school students try to protect their hometown from a gelatinous alien life form that engulfs everything it touches.",
@@ -122,7 +122,7 @@
                                                 {
                                                     "title":  "The Blob",
                                                     "start":  "2026-10-12T04:54:18.0000000Z",
-                                                    "stop":  "2026-10-12T06:29:38.0000000Z",
+                                                    "stop":  "2026-10-12T06:29:18.0000000Z",
                                                     "itemId":  "5dc1ff349ca7c8caaf1ecfe4f830a683",
                                                     "poster":  "http://127.0.0.1:8096/Items/5dc1ff349ca7c8caaf1ecfe4f830a683/Images/Primary",
                                                     "description":  "In Arborville, California, three high school students try to protect their hometown from a gelatinous alien life form that engulfs everything it touches.",
@@ -131,7 +131,7 @@
                                                 {
                                                     "title":  "Blade II",
                                                     "start":  "2026-10-12T06:29:18.0000000Z",
-                                                    "stop":  "2026-10-12T08:26:08.0000000Z",
+                                                    "stop":  "2026-10-12T08:26:28.0000000Z",
                                                     "itemId":  "74e7a571bdb0578b253598a3f8b45f12",
                                                     "poster":  "http://127.0.0.1:8096/Items/74e7a571bdb0578b253598a3f8b45f12/Images/Primary",
                                                     "description":  "Blade forms an uneasy alliance with the vampire council in order to combat the Reapers, who are feeding on vampires.",
@@ -149,7 +149,7 @@
                                                 {
                                                     "title":  "Resident Evil",
                                                     "start":  "2026-10-12T10:29:12.0000000Z",
-                                                    "stop":  "2026-10-12T12:10:03.0000000Z",
+                                                    "stop":  "2026-10-12T12:09:43.0000000Z",
                                                     "itemId":  "760d913661074a3a3f5a58738842a2f8",
                                                     "poster":  "http://127.0.0.1:8096/Items/760d913661074a3a3f5a58738842a2f8/Images/Primary",
                                                     "description":  "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
@@ -158,7 +158,7 @@
                                                 {
                                                     "title":  "Blade Trinity",
                                                     "start":  "2026-10-12T12:09:53.0000000Z",
-                                                    "stop":  "2026-10-12T14:02:46.0000000Z",
+                                                    "stop":  "2026-10-12T14:03:06.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -185,7 +185,7 @@
                                                 {
                                                     "title":  "D1_t00",
                                                     "start":  "2026-10-12T17:54:23.0000000Z",
-                                                    "stop":  "2026-10-12T20:06:21.0000000Z",
+                                                    "stop":  "2026-10-12T20:06:01.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "Commando",
                                                     "start":  "2026-10-12T06:38:33.0000000Z",
-                                                    "stop":  "2026-10-12T08:09:06.0000000Z",
+                                                    "stop":  "2026-10-12T08:08:46.0000000Z",
                                                     "itemId":  "4d57925cf6d4f5a046509bad0a68d29f",
                                                     "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
                                                     "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "Fast N Furious",
                                                     "start":  "2026-10-12T08:08:46.0000000Z",
-                                                    "stop":  "2026-10-12T09:55:52.0000000Z",
+                                                    "stop":  "2026-10-12T09:56:12.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "BATMAN BEGINS",
                                                     "start":  "2026-10-12T14:56:08.0000000Z",
-                                                    "stop":  "2026-10-12T17:16:29.0000000Z",
+                                                    "stop":  "2026-10-12T17:16:09.0000000Z",
                                                     "itemId":  "40cf44019306b29674462340007b5e1a",
                                                     "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
                                                     "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "Total Recall",
                                                     "start":  "2026-10-12T17:16:09.0000000Z",
-                                                    "stop":  "2026-10-12T19:09:39.0000000Z",
+                                                    "stop":  "2026-10-12T19:09:59.0000000Z",
                                                     "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
                                                     "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
                                                     "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
@@ -581,11 +581,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "After H0uRs",
-                                                  "start":  "2026-10-12T03:38:16.0000000Z",
-                                                  "stop":  "2026-10-12T04:16:18.0000000Z",
-                                                  "itemId":  "150bbae732cd647eeed3060cd67b032f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
+                                                  "title":  "BloodJoke",
+                                                  "start":  "2026-10-12T03:58:59.0000000Z",
+                                                  "stop":  "2026-10-12T04:09:12.0000000Z",
+                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-10-12T04:09:24.0000000Z",
-                                                    "stop":  "2026-10-12T04:33:36.0000000Z",
+                                                    "stop":  "2026-10-12T04:10:22.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-10-12T04:10:22.0000000Z",
-                                                    "stop":  "2026-10-12T04:52:10.0000000Z",
+                                                    "stop":  "2026-10-12T04:30:44.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-10-12T04:12:04.0000000Z",
-                                                    "stop":  "2026-10-12T05:04:07.0000000Z",
+                                                    "stop":  "2026-10-12T04:16:01.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-10-12T04:16:01.0000000Z",
-                                                    "stop":  "2026-10-12T04:18:13.0000000Z",
+                                                    "stop":  "2026-10-12T04:26:45.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-10-12T04:18:13.0000000Z",
-                                                    "stop":  "2026-10-12T04:55:47.0000000Z",
+                                                    "stop":  "2026-10-12T04:27:28.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-10-12T04:18:55.0000000Z",
-                                                    "stop":  "2026-10-12T04:19:44.0000000Z",
+                                                    "stop":  "2026-10-12T04:28:17.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-10-12T04:19:44.0000000Z",
-                                                    "stop":  "2026-10-12T04:50:29.0000000Z",
+                                                    "stop":  "2026-10-12T04:48:31.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
