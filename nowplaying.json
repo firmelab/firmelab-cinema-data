@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-10-12T07:44:05.0133968Z",
+    "updated":  "2026-10-12T07:45:07.8389611Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Jacky Brown",
-                                                  "start":  "2026-10-12T05:10:24.0000000Z",
-                                                  "stop":  "2026-10-12T07:44:56.0000000Z",
+                                                  "title":  "Resident Evil- Apocalypse",
+                                                  "start":  "2026-10-12T07:44:56.0000000Z",
+                                                  "stop":  "2026-10-12T09:18:55.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Resident Evil- Apocalypse",
-                                              "start":  "2026-10-12T07:44:56.0000000Z",
-                                              "stop":  "2026-10-12T09:18:55.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Critters 2",
+                                              "start":  "2026-10-12T09:18:55.0000000Z",
+                                              "stop":  "2026-10-12T10:44:53.0000000Z",
+                                              "itemId":  "54493e812aba3ee1edef65108ed95c05",
+                                              "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
+                                              "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
+                                              "year":  1988
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Resident Evil- Apocalypse",
-                                                    "start":  "2026-10-12T07:44:56.0000000Z",
-                                                    "stop":  "2026-10-12T09:18:55.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Critters 2",
                                                     "start":  "2026-10-12T09:18:55.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/b15fb14f946bc7e00478a81aa4943fdf/Images/Primary",
                                                     "description":  "The Daywalker known as \"Blade\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",
                                                     "year":  1998
+                                                },
+                                                {
+                                                    "title":  "Inside Man",
+                                                    "start":  "2026-10-12T21:05:56.0000000Z",
+                                                    "stop":  "2026-10-12T23:14:55.0000000Z",
+                                                    "itemId":  "5f439285fe3ef8976153452a9fee8cbc",
+                                                    "poster":  "http://127.0.0.1:8096/Items/5f439285fe3ef8976153452a9fee8cbc/Images/Primary",
+                                                    "description":  "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
+                                                    "year":  2006
                                                 }
                                             ]
                            },
@@ -581,11 +581,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "0Ld Sc00L",
-                                                  "start":  "2026-10-12T07:16:08.0000000Z",
-                                                  "stop":  "2026-10-12T07:44:16.0000000Z",
-                                                  "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
-                                                  "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                  "title":  "BloodJoke",
+                                                  "start":  "2026-10-12T07:37:40.0000000Z",
+                                                  "stop":  "2026-10-12T08:16:28.0000000Z",
+                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
