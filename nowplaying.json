@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-10-12T14:12:05.9226322Z",
+    "updated":  "2026-10-12T14:13:05.9342595Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Brightburn",
-                                                  "start":  "2026-10-12T12:41:44.0000000Z",
-                                                  "stop":  "2026-10-12T14:12:26.0000000Z",
-                                                  "itemId":  "a562e465a7ff31b0113aee613a779bf2",
-                                                  "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
-                                                  "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
-                                                  "year":  2019
+                                                  "title":  "Reservor Dogs",
+                                                  "start":  "2026-10-12T14:12:26.0000000Z",
+                                                  "stop":  "2026-10-12T15:51:42.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Reservor Dogs",
-                                              "start":  "2026-10-12T14:12:26.0000000Z",
-                                              "stop":  "2026-10-12T15:51:42.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "WISHMASTER",
+                                              "start":  "2026-10-12T15:51:42.0000000Z",
+                                              "stop":  "2026-10-12T17:21:49.0000000Z",
+                                              "itemId":  "58d933a690c3d71b883c09370fa30d07",
+                                              "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
+                                              "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
+                                              "year":  1997
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Reservor Dogs",
-                                                    "start":  "2026-10-12T14:12:26.0000000Z",
-                                                    "stop":  "2026-10-12T15:51:42.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "WISHMASTER",
                                                     "start":  "2026-10-12T15:51:42.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Duplex",
+                                                    "start":  "2026-10-13T06:07:32.0000000Z",
+                                                    "stop":  "2026-10-13T07:36:57.0000000Z",
+                                                    "itemId":  "e2340e07092b6de7376760916297a934",
+                                                    "poster":  "http://127.0.0.1:8096/Items/e2340e07092b6de7376760916297a934/Images/Primary",
+                                                    "description":  "When a young couple buys their dream home, they have no idea what the sweet little old lady upstairs is going to put them through!",
+                                                    "year":  2003
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Carrito",
-                                              "start":  "2026-10-12T14:12:58.0000000Z",
-                                              "stop":  "2026-10-12T14:29:14.0000000Z",
-                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                              "title":  "Dancing Cobra",
+                                              "start":  "2026-10-12T14:20:36.0000000Z",
+                                              "stop":  "2026-10-12T14:49:18.0000000Z",
+                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Carrito",
-                                                    "start":  "2026-10-12T14:12:58.0000000Z",
-                                                    "stop":  "2026-10-12T14:29:14.0000000Z",
-                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-10-12T14:20:36.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Arnold Dynamite",
+                                                    "start":  "2026-10-12T14:32:02.0000000Z",
+                                                    "stop":  "2026-10-12T14:33:29.0000000Z",
+                                                    "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
