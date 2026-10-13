@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-13T01:01:05.1095246Z",
+    "updated":  "2026-10-13T01:02:06.1254445Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -112,7 +112,7 @@
                                "upNext":  {
                                               "title":  "Wrong Turn",
                                               "start":  "2026-10-13T02:26:51.0000000Z",
-                                              "stop":  "2026-10-13T03:51:13.0000000Z",
+                                              "stop":  "2026-10-13T03:51:03.0000000Z",
                                               "itemId":  "58d332deb67464546d571f7fda1cd63c",
                                               "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
                                               "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
@@ -122,7 +122,7 @@
                                                 {
                                                     "title":  "Wrong Turn",
                                                     "start":  "2026-10-13T02:26:51.0000000Z",
-                                                    "stop":  "2026-10-13T03:51:13.0000000Z",
+                                                    "stop":  "2026-10-13T03:51:03.0000000Z",
                                                     "itemId":  "58d332deb67464546d571f7fda1cd63c",
                                                     "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
                                                     "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
@@ -131,7 +131,7 @@
                                                 {
                                                     "title":  "FRIGHT NIGHT",
                                                     "start":  "2026-10-13T03:51:03.0000000Z",
-                                                    "stop":  "2026-10-13T05:37:44.0000000Z",
+                                                    "stop":  "2026-10-13T05:37:54.0000000Z",
                                                     "itemId":  "8bda9bd3955398694e4a57e90f6c4904",
                                                     "poster":  "http://127.0.0.1:8096/Items/8bda9bd3955398694e4a57e90f6c4904/Images/Primary",
                                                     "description":  "Charley Brewster, a high school student, accidentally discovers the true and creepy nature of Jerry Dandrige, his dashing and enigmatic new neighbor; but no one seems willing to believe him.",
@@ -149,7 +149,7 @@
                                                 {
                                                     "title":  "Boogeyman",
                                                     "start":  "2026-10-13T07:13:44.0000000Z",
-                                                    "stop":  "2026-10-13T08:42:44.0000000Z",
+                                                    "stop":  "2026-10-13T08:42:34.0000000Z",
                                                     "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
                                                     "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
                                                     "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
@@ -158,7 +158,7 @@
                                                 {
                                                     "title":  "WISHMASTER",
                                                     "start":  "2026-10-13T08:42:34.0000000Z",
-                                                    "stop":  "2026-10-13T10:12:30.0000000Z",
+                                                    "stop":  "2026-10-13T10:12:40.0000000Z",
                                                     "itemId":  "58d933a690c3d71b883c09370fa30d07",
                                                     "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
                                                     "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
@@ -185,7 +185,7 @@
                                                 {
                                                     "title":  "Land of the Dead",
                                                     "start":  "2026-10-13T13:10:34.0000000Z",
-                                                    "stop":  "2026-10-13T14:47:34.0000000Z",
+                                                    "stop":  "2026-10-13T14:47:24.0000000Z",
                                                     "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
                                                     "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
                                                     "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
@@ -581,18 +581,18 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Ninja Now",
-                                                  "start":  "2026-10-13T00:42:48.0000000Z",
-                                                  "stop":  "2026-10-13T01:20:44.0000000Z",
-                                                  "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                  "title":  "XocoBruja",
+                                                  "start":  "2026-10-13T00:59:37.0000000Z",
+                                                  "stop":  "2026-10-13T01:10:59.0000000Z",
+                                                  "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
+                                                  "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
                                               "title":  "COKCE6139",
                                               "start":  "2026-10-13T01:02:22.0000000Z",
-                                              "stop":  "2026-10-13T01:28:14.0000000Z",
+                                              "stop":  "2026-10-13T01:04:32.0000000Z",
                                               "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
                                               "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "COKCE6139",
                                                     "start":  "2026-10-13T01:02:22.0000000Z",
-                                                    "stop":  "2026-10-13T01:28:14.0000000Z",
+                                                    "stop":  "2026-10-13T01:04:32.0000000Z",
                                                     "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "Oz",
                                                     "start":  "2026-10-13T01:05:38.0000000Z",
-                                                    "stop":  "2026-10-13T01:30:45.0000000Z",
+                                                    "stop":  "2026-10-13T01:07:19.0000000Z",
                                                     "itemId":  "f332ba1673f9273e5349cd38b640cf51",
                                                     "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "BloodJoke",
                                                     "start":  "2026-10-13T01:07:19.0000000Z",
-                                                    "stop":  "2026-10-13T01:49:33.0000000Z",
+                                                    "stop":  "2026-10-13T01:27:46.0000000Z",
                                                     "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
                                                     "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-10-13T01:09:00.0000000Z",
-                                                    "stop":  "2026-10-13T02:04:50.0000000Z",
+                                                    "stop":  "2026-10-13T01:16:38.0000000Z",
                                                     "itemId":  "ed83754111f4ed370a338cab8345534d",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-10-13T01:16:38.0000000Z",
-                                                    "stop":  "2026-10-13T01:17:44.0000000Z",
+                                                    "stop":  "2026-10-13T01:26:22.0000000Z",
                                                     "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                                     "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-10-13T01:17:44.0000000Z",
-                                                    "stop":  "2026-10-13T01:55:22.0000000Z",
+                                                    "stop":  "2026-10-13T01:27:09.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-10-13T01:18:42.0000000Z",
-                                                    "stop":  "2026-10-13T01:19:51.0000000Z",
+                                                    "stop":  "2026-10-13T01:28:46.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
