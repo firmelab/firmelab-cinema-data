@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-13T15:01:05.8532477Z",
+    "updated":  "2026-10-13T15:02:05.8230760Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -112,7 +112,7 @@
                                "upNext":  {
                                               "title":  "Critters 2",
                                               "start":  "2026-10-13T16:21:12.0000000Z",
-                                              "stop":  "2026-10-13T17:47:28.0000000Z",
+                                              "stop":  "2026-10-13T17:47:08.0000000Z",
                                               "itemId":  "54493e812aba3ee1edef65108ed95c05",
                                               "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
                                               "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
@@ -122,7 +122,7 @@
                                                 {
                                                     "title":  "Critters 2",
                                                     "start":  "2026-10-13T16:21:12.0000000Z",
-                                                    "stop":  "2026-10-13T17:47:28.0000000Z",
+                                                    "stop":  "2026-10-13T17:47:08.0000000Z",
                                                     "itemId":  "54493e812aba3ee1edef65108ed95c05",
                                                     "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
                                                     "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
@@ -131,7 +131,7 @@
                                                 {
                                                     "title":  "Blade",
                                                     "start":  "2026-10-13T17:47:08.0000000Z",
-                                                    "stop":  "2026-10-13T19:47:22.0000000Z",
+                                                    "stop":  "2026-10-13T19:47:42.0000000Z",
                                                     "itemId":  "b15fb14f946bc7e00478a81aa4943fdf",
                                                     "poster":  "http://127.0.0.1:8096/Items/b15fb14f946bc7e00478a81aa4943fdf/Images/Primary",
                                                     "description":  "The Daywalker known as \"Blade\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",
@@ -149,7 +149,7 @@
                                                 {
                                                     "title":  "Underworld Evolution",
                                                     "start":  "2026-10-13T21:20:43.0000000Z",
-                                                    "stop":  "2026-10-13T23:07:17.0000000Z",
+                                                    "stop":  "2026-10-13T23:07:07.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -158,7 +158,7 @@
                                                 {
                                                     "title":  "CHRISTINE",
                                                     "start":  "2026-10-13T23:07:07.0000000Z",
-                                                    "stop":  "2026-10-14T00:57:08.0000000Z",
+                                                    "stop":  "2026-10-14T00:57:18.0000000Z",
                                                     "itemId":  "91dc7dc3ea26a9c92725048bc480729c",
                                                     "poster":  "http://127.0.0.1:8096/Items/91dc7dc3ea26a9c92725048bc480729c/Images/Primary",
                                                     "description":  "Nerdy high schooler Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory. As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty. Arnie\u0027s girlfriend Leigh and best friend Dennis reach out to him, only to be met by a Fury like no other.",
@@ -185,7 +185,7 @@
                                                 {
                                                     "title":  "A Nightmare on Elm Street 2 Freddy\u0027s Revenge",
                                                     "start":  "2026-10-14T04:00:50.0000000Z",
-                                                    "stop":  "2026-10-14T05:26:33.0000000Z",
+                                                    "stop":  "2026-10-14T05:26:23.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "Fast N Furious",
                                                     "start":  "2026-10-13T17:40:22.0000000Z",
-                                                    "stop":  "2026-10-13T19:27:47.0000000Z",
+                                                    "stop":  "2026-10-13T19:27:27.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "Brightburn",
                                                     "start":  "2026-10-13T19:27:27.0000000Z",
-                                                    "stop":  "2026-10-13T20:57:57.0000000Z",
+                                                    "stop":  "2026-10-13T20:58:17.0000000Z",
                                                     "itemId":  "a562e465a7ff31b0113aee613a779bf2",
                                                     "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
                                                     "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "Total Recall",
                                                     "start":  "2026-10-14T02:47:45.0000000Z",
-                                                    "stop":  "2026-10-14T04:41:35.0000000Z",
+                                                    "stop":  "2026-10-14T04:41:15.0000000Z",
                                                     "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
                                                     "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
                                                     "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "Robocop",
                                                     "start":  "2026-10-14T04:41:15.0000000Z",
-                                                    "stop":  "2026-10-14T06:24:01.0000000Z",
+                                                    "stop":  "2026-10-14T06:24:21.0000000Z",
                                                     "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
                                                     "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
                                                     "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
@@ -581,11 +581,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "After H0uRs",
-                                                  "start":  "2026-10-13T14:37:34.0000000Z",
-                                                  "stop":  "2026-10-13T15:15:36.0000000Z",
-                                                  "itemId":  "150bbae732cd647eeed3060cd67b032f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
+                                                  "title":  "Carrito",
+                                                  "start":  "2026-10-13T14:59:58.0000000Z",
+                                                  "stop":  "2026-10-13T15:16:09.0000000Z",
+                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-10-13T15:08:43.0000000Z",
-                                                    "stop":  "2026-10-13T15:32:55.0000000Z",
+                                                    "stop":  "2026-10-13T15:09:41.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-10-13T15:09:41.0000000Z",
-                                                    "stop":  "2026-10-13T15:51:28.0000000Z",
+                                                    "stop":  "2026-10-13T15:11:22.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-10-13T15:11:22.0000000Z",
-                                                    "stop":  "2026-10-13T16:03:26.0000000Z",
+                                                    "stop":  "2026-10-13T15:34:00.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-10-13T15:17:31.0000000Z",
-                                                    "stop":  "2026-10-13T15:55:05.0000000Z",
+                                                    "stop":  "2026-10-13T15:26:46.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-10-13T15:18:14.0000000Z",
-                                                    "stop":  "2026-10-13T15:19:03.0000000Z",
+                                                    "stop":  "2026-10-13T15:27:35.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-10-13T15:19:03.0000000Z",
-                                                    "stop":  "2026-10-13T15:49:48.0000000Z",
+                                                    "stop":  "2026-10-13T15:29:03.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
