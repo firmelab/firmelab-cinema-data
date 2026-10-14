@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-14T06:23:05.7842831Z",
+    "updated":  "2026-10-14T06:24:05.8076698Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -197,33 +197,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Robocop",
-                                                  "start":  "2026-10-14T04:41:15.0000000Z",
-                                                  "stop":  "2026-10-14T06:24:01.0000000Z",
-                                                  "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
-                                                  "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
-                                                  "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
-                                                  "year":  1987
+                                                  "title":  "Black Hawk Down",
+                                                  "start":  "2026-10-14T06:24:01.0000000Z",
+                                                  "stop":  "2026-10-14T08:48:22.0000000Z",
+                                                  "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
+                                                  "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
+                                                  "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+                                                  "year":  2001
                                               },
                                "upNext":  {
-                                              "title":  "Black Hawk Down",
-                                              "start":  "2026-10-14T06:24:01.0000000Z",
-                                              "stop":  "2026-10-14T08:48:22.0000000Z",
-                                              "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
-                                              "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
-                                              "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
-                                              "year":  2001
+                                              "title":  "Predator",
+                                              "start":  "2026-10-14T08:48:22.0000000Z",
+                                              "stop":  "2026-10-14T10:34:56.0000000Z",
+                                              "itemId":  "9745bbd80aedfd3750130547f37af704",
+                                              "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
+                                              "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+                                              "year":  1987
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Black Hawk Down",
-                                                    "start":  "2026-10-14T06:24:01.0000000Z",
-                                                    "stop":  "2026-10-14T08:48:22.0000000Z",
-                                                    "itemId":  "13a3adecb7fa0754cb70c70e69d05c3c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/13a3adecb7fa0754cb70c70e69d05c3c/Images/Primary",
-                                                    "description":  "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
-                                                    "year":  2001
-                                                },
                                                 {
                                                     "title":  "Predator",
                                                     "start":  "2026-10-14T08:48:22.0000000Z",
@@ -286,6 +277,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
                                                     "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
                                                     "year":  1993
+                                                },
+                                                {
+                                                    "title":  "Bourne Identity",
+                                                    "start":  "2026-10-14T22:10:18.0000000Z",
+                                                    "stop":  "2026-10-15T00:08:35.0000000Z",
+                                                    "itemId":  "ad22fba25f4ceaee407d76b5620443de",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ad22fba25f4ceaee407d76b5620443de/Images/Primary",
+                                                    "description":  "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
+                                                    "year":  2002
                                                 }
                                             ]
                            },
@@ -677,33 +677,24 @@
                                "number":  8,
                                "name":  "FIRMELAB FRONTIER",
                                "nowPlaying":  {
-                                                  "title":  "Young Guns",
-                                                  "start":  "2026-10-14T04:37:10.0000000Z",
-                                                  "stop":  "2026-10-14T06:23:56.0000000Z",
-                                                  "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
-                                                  "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
-                                                  "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
-                                                  "year":  1988
+                                                  "title":  "The Patriot",
+                                                  "start":  "2026-10-14T06:23:56.0000000Z",
+                                                  "stop":  "2026-10-14T09:08:43.0000000Z",
+                                                  "itemId":  "17b673273650da7e33ae51350e123fb0",
+                                                  "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
+                                                  "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+                                                  "year":  2000
                                               },
                                "upNext":  {
-                                              "title":  "The Patriot",
-                                              "start":  "2026-10-14T06:23:56.0000000Z",
-                                              "stop":  "2026-10-14T09:08:43.0000000Z",
-                                              "itemId":  "17b673273650da7e33ae51350e123fb0",
-                                              "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
-                                              "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
-                                              "year":  2000
+                                              "title":  "Master and Commander",
+                                              "start":  "2026-10-14T09:08:43.0000000Z",
+                                              "stop":  "2026-10-14T11:27:04.0000000Z",
+                                              "itemId":  "5fcc6b3e811cdcaf000036c06aef62b9",
+                                              "poster":  "http://127.0.0.1:8096/Items/5fcc6b3e811cdcaf000036c06aef62b9/Images/Primary",
+                                              "description":  "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship\u0027s thoughtful surgeon, his best friend.",
+                                              "year":  2003
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "The Patriot",
-                                                    "start":  "2026-10-14T06:23:56.0000000Z",
-                                                    "stop":  "2026-10-14T09:08:43.0000000Z",
-                                                    "itemId":  "17b673273650da7e33ae51350e123fb0",
-                                                    "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
-                                                    "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
-                                                    "year":  2000
-                                                },
                                                 {
                                                     "title":  "Master and Commander",
                                                     "start":  "2026-10-14T09:08:43.0000000Z",
@@ -762,6 +753,15 @@
                                                     "title":  "Brave Heart",
                                                     "start":  "2026-10-14T23:25:53.0000000Z",
                                                     "stop":  "2026-10-15T02:23:33.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "The Count Monte Cristos",
+                                                    "start":  "2026-10-15T02:23:33.0000000Z",
+                                                    "stop":  "2026-10-15T04:34:47.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
