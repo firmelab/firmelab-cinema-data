@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-10-14T07:01:05.2474037Z",
+    "updated":  "2026-10-14T07:02:05.1411508Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,33 +101,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "The Blob",
-                                                  "start":  "2026-10-14T05:26:23.0000000Z",
-                                                  "stop":  "2026-10-14T07:01:24.0000000Z",
-                                                  "itemId":  "5dc1ff349ca7c8caaf1ecfe4f830a683",
-                                                  "poster":  "http://127.0.0.1:8096/Items/5dc1ff349ca7c8caaf1ecfe4f830a683/Images/Primary",
-                                                  "description":  "In Arborville, California, three high school students try to protect their hometown from a gelatinous alien life form that engulfs everything it touches.",
-                                                  "year":  1988
+                                                  "title":  "Blade II",
+                                                  "start":  "2026-10-14T07:01:24.0000000Z",
+                                                  "stop":  "2026-10-14T08:58:14.0000000Z",
+                                                  "itemId":  "74e7a571bdb0578b253598a3f8b45f12",
+                                                  "poster":  "http://127.0.0.1:8096/Items/74e7a571bdb0578b253598a3f8b45f12/Images/Primary",
+                                                  "description":  "Blade forms an uneasy alliance with the vampire council in order to combat the Reapers, who are feeding on vampires.",
+                                                  "year":  2002
                                               },
                                "upNext":  {
-                                              "title":  "Blade II",
-                                              "start":  "2026-10-14T07:01:24.0000000Z",
-                                              "stop":  "2026-10-14T08:58:14.0000000Z",
-                                              "itemId":  "74e7a571bdb0578b253598a3f8b45f12",
-                                              "poster":  "http://127.0.0.1:8096/Items/74e7a571bdb0578b253598a3f8b45f12/Images/Primary",
-                                              "description":  "Blade forms an uneasy alliance with the vampire council in order to combat the Reapers, who are feeding on vampires.",
-                                              "year":  2002
+                                              "title":  "World War Z",
+                                              "start":  "2026-10-14T08:58:14.0000000Z",
+                                              "stop":  "2026-10-14T11:01:37.0000000Z",
+                                              "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
+                                              "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
+                                              "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+                                              "year":  2013
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Blade II",
-                                                    "start":  "2026-10-14T07:01:24.0000000Z",
-                                                    "stop":  "2026-10-14T08:58:14.0000000Z",
-                                                    "itemId":  "74e7a571bdb0578b253598a3f8b45f12",
-                                                    "poster":  "http://127.0.0.1:8096/Items/74e7a571bdb0578b253598a3f8b45f12/Images/Primary",
-                                                    "description":  "Blade forms an uneasy alliance with the vampire council in order to combat the Reapers, who are feeding on vampires.",
-                                                    "year":  2002
-                                                },
                                                 {
                                                     "title":  "World War Z",
                                                     "start":  "2026-10-14T08:58:14.0000000Z",
@@ -190,6 +181,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/a5a1f15c45eb562ac5f7621a94c12742/Images/Primary",
                                                     "description":  "Ex-soldier Frank Brayker is the guardian of an ancient key that can unlock tremendous evil; the sinister Collector is a demon who wants the key so he can initiate the apocalypse. On the run from wicked mercenaries for almost 90 years, Brayker finally stops in at a boarding house in New Mexico where — with the help of its residents — he plans to face off against the Collector and his band of ghouls, preventing them from ever seizing the key.",
                                                     "year":  1995
+                                                },
+                                                {
+                                                    "title":  "Dusk Till Dawn",
+                                                    "start":  "2026-10-14T22:10:39.0000000Z",
+                                                    "stop":  "2026-10-14T23:58:39.0000000Z",
+                                                    "itemId":  "648811d2182191a63ce32eb861ad9020",
+                                                    "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
+                                                    "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
+                                                    "year":  1996
                                                 }
                                             ]
                            },
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "Conan The Destroyer",
                                                     "start":  "2026-10-14T10:34:56.0000000Z",
-                                                    "stop":  "2026-10-14T12:16:24.0000000Z",
+                                                    "stop":  "2026-10-14T12:16:14.0000000Z",
                                                     "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
                                                     "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
                                                     "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "Sherlock Holmes",
                                                     "start":  "2026-10-14T12:16:14.0000000Z",
-                                                    "stop":  "2026-10-14T14:24:43.0000000Z",
+                                                    "stop":  "2026-10-14T14:24:53.0000000Z",
                                                     "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
                                                     "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
                                                     "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "ROBOCOP 3",
                                                     "start":  "2026-10-14T20:25:27.0000000Z",
-                                                    "stop":  "2026-10-14T22:10:28.0000000Z",
+                                                    "stop":  "2026-10-14T22:10:18.0000000Z",
                                                     "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
                                                     "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
                                                     "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "Bourne Identity",
                                                     "start":  "2026-10-14T22:10:18.0000000Z",
-                                                    "stop":  "2026-10-15T00:08:35.0000000Z",
+                                                    "stop":  "2026-10-15T00:08:45.0000000Z",
                                                     "itemId":  "ad22fba25f4ceaee407d76b5620443de",
                                                     "poster":  "http://127.0.0.1:8096/Items/ad22fba25f4ceaee407d76b5620443de/Images/Primary",
                                                     "description":  "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
@@ -581,18 +581,18 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "After H0uRs",
-                                                  "start":  "2026-10-14T06:39:46.0000000Z",
-                                                  "stop":  "2026-10-14T07:17:47.0000000Z",
-                                                  "itemId":  "150bbae732cd647eeed3060cd67b032f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
+                                                  "title":  "Oz",
+                                                  "start":  "2026-10-14T06:58:48.0000000Z",
+                                                  "stop":  "2026-10-14T07:09:06.0000000Z",
+                                                  "itemId":  "f332ba1673f9273e5349cd38b640cf51",
+                                                  "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
                                               "title":  "Carrito",
                                               "start":  "2026-10-14T07:02:10.0000000Z",
-                                              "stop":  "2026-10-14T07:33:29.0000000Z",
+                                              "stop":  "2026-10-14T07:09:48.0000000Z",
                                               "itemId":  "ed83754111f4ed370a338cab8345534d",
                                               "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-10-14T07:02:10.0000000Z",
-                                                    "stop":  "2026-10-14T07:33:29.0000000Z",
+                                                    "stop":  "2026-10-14T07:09:48.0000000Z",
                                                     "itemId":  "ed83754111f4ed370a338cab8345534d",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-10-14T07:10:54.0000000Z",
-                                                    "stop":  "2026-10-14T07:35:06.0000000Z",
+                                                    "stop":  "2026-10-14T07:30:32.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-10-14T07:11:52.0000000Z",
-                                                    "stop":  "2026-10-14T07:53:39.0000000Z",
+                                                    "stop":  "2026-10-14T07:13:33.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-10-14T07:13:33.0000000Z",
-                                                    "stop":  "2026-10-14T08:05:37.0000000Z",
+                                                    "stop":  "2026-10-14T07:26:03.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-10-14T07:17:30.0000000Z",
-                                                    "stop":  "2026-10-14T07:19:42.0000000Z",
+                                                    "stop":  "2026-10-14T07:28:15.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-10-14T07:19:42.0000000Z",
-                                                    "stop":  "2026-10-14T07:57:16.0000000Z",
+                                                    "stop":  "2026-10-14T07:28:57.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-10-14T07:20:25.0000000Z",
-                                                    "stop":  "2026-10-14T07:21:14.0000000Z",
+                                                    "stop":  "2026-10-14T07:48:34.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
