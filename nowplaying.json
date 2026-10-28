@@ -1,0 +1,77 @@
+{
+    "updated":  "2026-10-28T10:51:38.8108965Z",
+    "channels":  {
+                     "1":  {
+                               "number":  1,
+                               "name":  "FIRMELAB CINEMA",
+                               "nowPlaying":  null,
+                               "upNext":  null,
+                               "upcoming":  [
+
+                                            ]
+                           },
+                     "2":  {
+                               "number":  2,
+                               "name":  "HELLA HORROR",
+                               "nowPlaying":  null,
+                               "upNext":  null,
+                               "upcoming":  [
+
+                                            ]
+                           },
+                     "3":  {
+                               "number":  3,
+                               "name":  "FIRMELAB ACTION",
+                               "nowPlaying":  null,
+                               "upNext":  null,
+                               "upcoming":  [
+
+                                            ]
+                           },
+                     "4":  {
+                               "number":  4,
+                               "name":  "FIRMELAB COMEDY",
+                               "nowPlaying":  null,
+                               "upNext":  null,
+                               "upcoming":  [
+
+                                            ]
+                           },
+                     "5":  {
+                               "number":  5,
+                               "name":  "FIRMELAB TOONS",
+                               "nowPlaying":  null,
+                               "upNext":  null,
+                               "upcoming":  [
+
+                                            ]
+                           },
+                     "6":  {
+                               "number":  6,
+                               "name":  "FIRMELAB CRIME",
+                               "nowPlaying":  null,
+                               "upNext":  null,
+                               "upcoming":  [
+
+                                            ]
+                           },
+                     "7":  {
+                               "number":  7,
+                               "name":  "FIRMELAB MIXTAPE",
+                               "nowPlaying":  null,
+                               "upNext":  null,
+                               "upcoming":  [
+
+                                            ]
+                           },
+                     "8":  {
+                               "number":  8,
+                               "name":  "FIRMELAB FRONTIER",
+                               "nowPlaying":  null,
+                               "upNext":  null,
+                               "upcoming":  [
+
+                                            ]
+                           }
+                 }
+}
