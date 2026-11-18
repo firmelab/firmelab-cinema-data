@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-18T23:00:05.3935994Z",
+    "updated":  "2026-11-18T23:01:05.4583207Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -112,7 +112,7 @@
                                "upNext":  {
                                               "title":  "Resident Evil- Apocalypse",
                                               "start":  "2026-11-19T00:25:00.0000000Z",
-                                              "stop":  "2026-11-19T01:58:58.0000000Z",
+                                              "stop":  "2026-11-19T01:58:48.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
@@ -122,7 +122,7 @@
                                                 {
                                                     "title":  "Resident Evil- Apocalypse",
                                                     "start":  "2026-11-19T00:25:00.0000000Z",
-                                                    "stop":  "2026-11-19T01:58:58.0000000Z",
+                                                    "stop":  "2026-11-19T01:58:48.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -131,7 +131,7 @@
                                                 {
                                                     "title":  "Critters 2",
                                                     "start":  "2026-11-19T01:58:48.0000000Z",
-                                                    "stop":  "2026-11-19T03:24:44.0000000Z",
+                                                    "stop":  "2026-11-19T03:25:04.0000000Z",
                                                     "itemId":  "54493e812aba3ee1edef65108ed95c05",
                                                     "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
                                                     "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
@@ -149,7 +149,7 @@
                                                 {
                                                     "title":  "Nightmare on Elm Street 4 Dream Master",
                                                     "start":  "2026-11-19T05:24:58.0000000Z",
-                                                    "stop":  "2026-11-19T06:58:29.0000000Z",
+                                                    "stop":  "2026-11-19T06:58:19.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -158,7 +158,7 @@
                                                 {
                                                     "title":  "Underworld Evolution",
                                                     "start":  "2026-11-19T06:58:19.0000000Z",
-                                                    "stop":  "2026-11-19T08:44:43.0000000Z",
+                                                    "stop":  "2026-11-19T08:44:53.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -185,7 +185,7 @@
                                                 {
                                                     "title":  "CANDYMAN",
                                                     "start":  "2026-11-19T11:59:29.0000000Z",
-                                                    "stop":  "2026-11-19T13:38:36.0000000Z",
+                                                    "stop":  "2026-11-19T13:38:26.0000000Z",
                                                     "itemId":  "75bc45c9af5e154aea4dd68eb38e0354",
                                                     "poster":  "http://127.0.0.1:8096/Items/75bc45c9af5e154aea4dd68eb38e0354/Images/Primary",
                                                     "description":  "A Chicago artist\u0027s sanity starts to unravel, unleashing a terrifying wave of violence when he begins to explore the macabre history of the Candyman.",
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "Fast N Furious",
                                                     "start":  "2026-11-19T01:21:52.0000000Z",
-                                                    "stop":  "2026-11-19T03:09:18.0000000Z",
+                                                    "stop":  "2026-11-19T03:08:58.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "Brightburn",
                                                     "start":  "2026-11-19T03:08:58.0000000Z",
-                                                    "stop":  "2026-11-19T04:39:27.0000000Z",
+                                                    "stop":  "2026-11-19T04:39:47.0000000Z",
                                                     "itemId":  "a562e465a7ff31b0113aee613a779bf2",
                                                     "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
                                                     "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "Total Recall",
                                                     "start":  "2026-11-19T10:29:15.0000000Z",
-                                                    "stop":  "2026-11-19T12:23:05.0000000Z",
+                                                    "stop":  "2026-11-19T12:22:45.0000000Z",
                                                     "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
                                                     "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
                                                     "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "Robocop",
                                                     "start":  "2026-11-19T12:22:45.0000000Z",
-                                                    "stop":  "2026-11-19T14:05:31.0000000Z",
+                                                    "stop":  "2026-11-19T14:05:51.0000000Z",
                                                     "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
                                                     "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
                                                     "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
@@ -581,18 +581,18 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "COKCE6139",
-                                                  "start":  "2026-11-18T22:41:12.0000000Z",
-                                                  "stop":  "2026-11-18T23:20:36.0000000Z",
-                                                  "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
+                                                  "title":  "JamminG",
+                                                  "start":  "2026-11-18T22:59:14.0000000Z",
+                                                  "stop":  "2026-11-18T23:11:48.0000000Z",
+                                                  "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Never 3Nding",
                                               "start":  "2026-11-18T23:03:11.0000000Z",
-                                              "stop":  "2026-11-18T23:21:32.0000000Z",
+                                              "stop":  "2026-11-18T23:05:23.0000000Z",
                                               "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                               "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-11-18T23:03:11.0000000Z",
-                                                    "stop":  "2026-11-18T23:21:32.0000000Z",
+                                                    "stop":  "2026-11-18T23:05:23.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-11-18T23:05:23.0000000Z",
-                                                    "stop":  "2026-11-18T23:22:15.0000000Z",
+                                                    "stop":  "2026-11-18T23:06:05.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-11-18T23:06:05.0000000Z",
-                                                    "stop":  "2026-11-18T23:38:22.0000000Z",
+                                                    "stop":  "2026-11-18T23:06:54.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-11-18T23:06:54.0000000Z",
-                                                    "stop":  "2026-11-18T23:32:03.0000000Z",
+                                                    "stop":  "2026-11-18T23:27:02.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "After H0uRs",
                                                     "start":  "2026-11-18T23:09:10.0000000Z",
-                                                    "stop":  "2026-11-18T23:33:25.0000000Z",
+                                                    "stop":  "2026-11-18T23:18:32.0000000Z",
                                                     "itemId":  "150bbae732cd647eeed3060cd67b032f",
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-11-18T23:09:59.0000000Z",
-                                                    "stop":  "2026-11-18T23:56:33.0000000Z",
+                                                    "stop":  "2026-11-18T23:24:28.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-11-18T23:15:55.0000000Z",
-                                                    "stop":  "2026-11-19T00:04:48.0000000Z",
+                                                    "stop":  "2026-11-18T23:25:09.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
