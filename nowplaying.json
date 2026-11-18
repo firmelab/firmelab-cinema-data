@@ -1,17 +1,17 @@
 {
-    "updated":  "2026-11-18T06:11:05.1055457Z",
+    "updated":  "2026-11-18T06:12:05.1795474Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "UP IN SMOKE",
-                                                  "start":  "2026-11-18T04:44:54.0000000Z",
-                                                  "stop":  "2026-11-18T06:11:09.0000000Z",
-                                                  "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
-                                                  "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
-                                                  "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
-                                                  "year":  1978
+                                                  "title":  "Dawn of the Dead",
+                                                  "start":  "2026-11-18T06:10:57.0000000Z",
+                                                  "stop":  "2026-11-18T08:00:21.0000000Z",
+                                                  "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
+                                                  "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
+                                                  "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
+                                                  "year":  2004
                                               },
                                "upNext":  {
                                               "title":  "Underworld Evolution",
@@ -590,24 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Duende",
-                                              "start":  "2026-11-18T06:11:37.0000000Z",
-                                              "stop":  "2026-11-18T06:13:19.0000000Z",
-                                              "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                              "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                              "title":  "JamminG",
+                                              "start":  "2026-11-18T06:13:19.0000000Z",
+                                              "stop":  "2026-11-18T06:25:48.0000000Z",
+                                              "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                              "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Duende",
-                                                    "start":  "2026-11-18T06:11:37.0000000Z",
-                                                    "stop":  "2026-11-18T06:13:19.0000000Z",
-                                                    "itemId":  "80d6feb8f0c835e935a80db3275c5412",
-                                                    "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-11-18T06:13:19.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Ass Kicker Bruce",
+                                                    "start":  "2026-11-18T06:24:04.0000000Z",
+                                                    "stop":  "2026-11-18T06:30:00.0000000Z",
+                                                    "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
+                                                    "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
