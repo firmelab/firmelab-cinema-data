@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-19T17:01:05.1796411Z",
+    "updated":  "2026-11-19T17:02:05.1650013Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -112,7 +112,7 @@
                                "upNext":  {
                                               "title":  "World War Z",
                                               "start":  "2026-11-19T18:35:50.0000000Z",
-                                              "stop":  "2026-11-19T20:39:13.0000000Z",
+                                              "stop":  "2026-11-19T20:38:53.0000000Z",
                                               "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
                                               "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
                                               "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
@@ -122,7 +122,7 @@
                                                 {
                                                     "title":  "World War Z",
                                                     "start":  "2026-11-19T18:35:50.0000000Z",
-                                                    "stop":  "2026-11-19T20:39:13.0000000Z",
+                                                    "stop":  "2026-11-19T20:38:53.0000000Z",
                                                     "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
                                                     "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
                                                     "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
@@ -131,7 +131,7 @@
                                                 {
                                                     "title":  "Resident Evil",
                                                     "start":  "2026-11-19T20:38:53.0000000Z",
-                                                    "stop":  "2026-11-19T22:19:24.0000000Z",
+                                                    "stop":  "2026-11-19T22:19:44.0000000Z",
                                                     "itemId":  "760d913661074a3a3f5a58738842a2f8",
                                                     "poster":  "http://127.0.0.1:8096/Items/760d913661074a3a3f5a58738842a2f8/Images/Primary",
                                                     "description":  "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
@@ -149,7 +149,7 @@
                                                 {
                                                     "title":  "Dawn of the Dead",
                                                     "start":  "2026-11-20T00:12:27.0000000Z",
-                                                    "stop":  "2026-11-20T02:01:59.0000000Z",
+                                                    "stop":  "2026-11-20T02:01:49.0000000Z",
                                                     "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
                                                     "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
                                                     "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
@@ -158,7 +158,7 @@
                                                 {
                                                     "title":  "End of Days",
                                                     "start":  "2026-11-20T02:01:49.0000000Z",
-                                                    "stop":  "2026-11-20T04:04:04.0000000Z",
+                                                    "stop":  "2026-11-20T04:04:14.0000000Z",
                                                     "itemId":  "6e5ccc599868e8e4908111e8e00356ea",
                                                     "poster":  "http://127.0.0.1:8096/Items/6e5ccc599868e8e4908111e8e00356ea/Images/Primary",
                                                     "description":  "Cynical bodyguard Jericho is hired by a man possessed by Satan, who is in search of his bride. When Jericho realizes what is happening, he must do everything he can to save the woman and the world.",
@@ -185,7 +185,7 @@
                                                 {
                                                     "title":  "Dusk Till Dawn",
                                                     "start":  "2026-11-20T07:48:15.0000000Z",
-                                                    "stop":  "2026-11-20T09:36:15.0000000Z",
+                                                    "stop":  "2026-11-20T09:36:05.0000000Z",
                                                     "itemId":  "648811d2182191a63ce32eb861ad9020",
                                                     "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
                                                     "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "Sherlock Holmes",
                                                     "start":  "2026-11-19T19:57:44.0000000Z",
-                                                    "stop":  "2026-11-19T22:06:34.0000000Z",
+                                                    "stop":  "2026-11-19T22:06:14.0000000Z",
                                                     "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
                                                     "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
                                                     "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "DEATH PROOF",
                                                     "start":  "2026-11-19T22:06:14.0000000Z",
-                                                    "stop":  "2026-11-19T23:59:47.0000000Z",
+                                                    "stop":  "2026-11-20T00:00:07.0000000Z",
                                                     "itemId":  "5220d04d46ddf5fa55aacae5d4916919",
                                                     "poster":  "http://127.0.0.1:8096/Items/5220d04d46ddf5fa55aacae5d4916919/Images/Primary",
                                                     "description":  "Austin\u0027s hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "Bourne Identity",
                                                     "start":  "2026-11-20T05:51:48.0000000Z",
-                                                    "stop":  "2026-11-20T07:50:15.0000000Z",
+                                                    "stop":  "2026-11-20T07:50:05.0000000Z",
                                                     "itemId":  "ad22fba25f4ceaee407d76b5620443de",
                                                     "poster":  "http://127.0.0.1:8096/Items/ad22fba25f4ceaee407d76b5620443de/Images/Primary",
                                                     "description":  "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "Rambo First Blood",
                                                     "start":  "2026-11-20T07:50:05.0000000Z",
-                                                    "stop":  "2026-11-20T09:23:14.0000000Z",
+                                                    "stop":  "2026-11-20T09:23:24.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -581,33 +581,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "After H0uRs",
-                                                  "start":  "2026-11-19T16:38:49.0000000Z",
-                                                  "stop":  "2026-11-19T17:16:51.0000000Z",
-                                                  "itemId":  "150bbae732cd647eeed3060cd67b032f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
+                                                  "title":  "BloodJoke",
+                                                  "start":  "2026-11-19T16:59:33.0000000Z",
+                                                  "stop":  "2026-11-19T17:09:45.0000000Z",
+                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Carrito",
-                                              "start":  "2026-11-19T17:01:13.0000000Z",
-                                              "stop":  "2026-11-19T17:32:33.0000000Z",
-                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                              "title":  "Dancing Cobra",
+                                              "start":  "2026-11-19T17:08:52.0000000Z",
+                                              "stop":  "2026-11-19T17:09:58.0000000Z",
+                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Carrito",
-                                                    "start":  "2026-11-19T17:01:13.0000000Z",
-                                                    "stop":  "2026-11-19T17:32:33.0000000Z",
-                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-11-19T17:08:52.0000000Z",
@@ -620,7 +611,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-11-19T17:09:58.0000000Z",
-                                                    "stop":  "2026-11-19T17:34:10.0000000Z",
+                                                    "stop":  "2026-11-19T17:10:56.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -629,7 +620,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-11-19T17:10:56.0000000Z",
-                                                    "stop":  "2026-11-19T17:52:43.0000000Z",
+                                                    "stop":  "2026-11-19T17:31:18.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -638,7 +629,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-11-19T17:12:37.0000000Z",
-                                                    "stop":  "2026-11-19T18:04:41.0000000Z",
+                                                    "stop":  "2026-11-19T17:16:34.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -647,7 +638,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-11-19T17:16:34.0000000Z",
-                                                    "stop":  "2026-11-19T17:18:46.0000000Z",
+                                                    "stop":  "2026-11-19T17:27:19.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -656,7 +647,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-11-19T17:18:46.0000000Z",
-                                                    "stop":  "2026-11-19T17:56:20.0000000Z",
+                                                    "stop":  "2026-11-19T17:28:01.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -665,11 +656,20 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-11-19T17:19:29.0000000Z",
-                                                    "stop":  "2026-11-19T17:20:18.0000000Z",
+                                                    "stop":  "2026-11-19T17:28:50.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Arnold Dynamite",
+                                                    "start":  "2026-11-19T17:20:18.0000000Z",
+                                                    "stop":  "2026-11-19T17:49:05.0000000Z",
+                                                    "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
