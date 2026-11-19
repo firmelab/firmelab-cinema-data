@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-19T15:00:11.5307842Z",
+    "updated":  "2026-11-19T15:01:11.0459471Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "Conan The Destroyer",
                                                     "start":  "2026-11-19T18:16:26.0000000Z",
-                                                    "stop":  "2026-11-19T19:57:54.0000000Z",
+                                                    "stop":  "2026-11-19T19:57:44.0000000Z",
                                                     "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
                                                     "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
                                                     "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "Sherlock Holmes",
                                                     "start":  "2026-11-19T19:57:44.0000000Z",
-                                                    "stop":  "2026-11-19T22:06:14.0000000Z",
+                                                    "stop":  "2026-11-19T22:06:24.0000000Z",
                                                     "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
                                                     "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
                                                     "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "ROBOCOP 3",
                                                     "start":  "2026-11-20T04:06:57.0000000Z",
-                                                    "stop":  "2026-11-20T05:51:58.0000000Z",
+                                                    "stop":  "2026-11-20T05:51:48.0000000Z",
                                                     "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
                                                     "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
                                                     "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "Bourne Identity",
                                                     "start":  "2026-11-20T05:51:48.0000000Z",
-                                                    "stop":  "2026-11-20T07:50:05.0000000Z",
+                                                    "stop":  "2026-11-20T07:50:15.0000000Z",
                                                     "itemId":  "ad22fba25f4ceaee407d76b5620443de",
                                                     "poster":  "http://127.0.0.1:8096/Items/ad22fba25f4ceaee407d76b5620443de/Images/Primary",
                                                     "description":  "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
@@ -581,18 +581,18 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "XocoBruja",
-                                                  "start":  "2026-11-19T14:40:38.0000000Z",
-                                                  "stop":  "2026-11-19T15:20:13.0000000Z",
-                                                  "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
-                                                  "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
+                                                  "title":  "Duende",
+                                                  "start":  "2026-11-19T14:59:43.0000000Z",
+                                                  "stop":  "2026-11-19T15:10:02.0000000Z",
+                                                  "itemId":  "80d6feb8f0c835e935a80db3275c5412",
+                                                  "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "JamminG",
                                               "start":  "2026-11-19T15:01:25.0000000Z",
-                                              "stop":  "2026-11-19T15:21:25.0000000Z",
+                                              "stop":  "2026-11-19T15:05:22.0000000Z",
                                               "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                               "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-11-19T15:01:25.0000000Z",
-                                                    "stop":  "2026-11-19T15:21:25.0000000Z",
+                                                    "stop":  "2026-11-19T15:05:22.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-11-19T15:05:22.0000000Z",
-                                                    "stop":  "2026-11-19T15:23:44.0000000Z",
+                                                    "stop":  "2026-11-19T15:07:34.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-11-19T15:07:34.0000000Z",
-                                                    "stop":  "2026-11-19T15:39:44.0000000Z",
+                                                    "stop":  "2026-11-19T15:08:16.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-11-19T15:08:16.0000000Z",
-                                                    "stop":  "2026-11-19T15:32:46.0000000Z",
+                                                    "stop":  "2026-11-19T15:27:46.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "0Ld Sc00L",
                                                     "start":  "2026-11-19T15:10:33.0000000Z",
-                                                    "stop":  "2026-11-19T15:34:47.0000000Z",
+                                                    "stop":  "2026-11-19T15:19:54.0000000Z",
                                                     "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
                                                     "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "After H0uRs",
                                                     "start":  "2026-11-19T15:11:21.0000000Z",
-                                                    "stop":  "2026-11-19T15:52:49.0000000Z",
+                                                    "stop":  "2026-11-19T15:20:43.0000000Z",
                                                     "itemId":  "150bbae732cd647eeed3060cd67b032f",
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-11-19T15:12:10.0000000Z",
-                                                    "stop":  "2026-11-19T16:06:17.0000000Z",
+                                                    "stop":  "2026-11-19T15:26:39.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                     "description":  null,
