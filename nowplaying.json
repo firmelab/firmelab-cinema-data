@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-20T06:00:05.9775390Z",
+    "updated":  "2026-11-20T06:01:05.9384113Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "Commando",
                                                     "start":  "2026-11-20T09:23:14.0000000Z",
-                                                    "stop":  "2026-11-20T10:53:48.0000000Z",
+                                                    "stop":  "2026-11-20T10:53:28.0000000Z",
                                                     "itemId":  "4d57925cf6d4f5a046509bad0a68d29f",
                                                     "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
                                                     "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "Fast N Furious",
                                                     "start":  "2026-11-20T10:53:28.0000000Z",
-                                                    "stop":  "2026-11-20T12:40:33.0000000Z",
+                                                    "stop":  "2026-11-20T12:40:53.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "BATMAN BEGINS",
                                                     "start":  "2026-11-20T17:40:49.0000000Z",
-                                                    "stop":  "2026-11-20T20:01:10.0000000Z",
+                                                    "stop":  "2026-11-20T20:00:50.0000000Z",
                                                     "itemId":  "40cf44019306b29674462340007b5e1a",
                                                     "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
                                                     "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "Total Recall",
                                                     "start":  "2026-11-20T20:00:50.0000000Z",
-                                                    "stop":  "2026-11-20T21:54:21.0000000Z",
+                                                    "stop":  "2026-11-20T21:54:41.0000000Z",
                                                     "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
                                                     "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
                                                     "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
@@ -581,18 +581,18 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Ninja Now",
-                                                  "start":  "2026-11-20T05:42:17.0000000Z",
-                                                  "stop":  "2026-11-20T06:20:12.0000000Z",
-                                                  "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                  "title":  "XocoBruja",
+                                                  "start":  "2026-11-20T05:59:05.0000000Z",
+                                                  "stop":  "2026-11-20T06:10:27.0000000Z",
+                                                  "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
+                                                  "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
                                               "title":  "COKCE6139",
                                               "start":  "2026-11-20T06:01:50.0000000Z",
-                                              "stop":  "2026-11-20T06:27:42.0000000Z",
+                                              "stop":  "2026-11-20T06:04:01.0000000Z",
                                               "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
                                               "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "COKCE6139",
                                                     "start":  "2026-11-20T06:01:50.0000000Z",
-                                                    "stop":  "2026-11-20T06:27:42.0000000Z",
+                                                    "stop":  "2026-11-20T06:04:01.0000000Z",
                                                     "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "Oz",
                                                     "start":  "2026-11-20T06:05:06.0000000Z",
-                                                    "stop":  "2026-11-20T06:30:13.0000000Z",
+                                                    "stop":  "2026-11-20T06:06:47.0000000Z",
                                                     "itemId":  "f332ba1673f9273e5349cd38b640cf51",
                                                     "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "BloodJoke",
                                                     "start":  "2026-11-20T06:06:47.0000000Z",
-                                                    "stop":  "2026-11-20T06:49:01.0000000Z",
+                                                    "stop":  "2026-11-20T06:27:15.0000000Z",
                                                     "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
                                                     "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-11-20T06:08:28.0000000Z",
-                                                    "stop":  "2026-11-20T07:04:18.0000000Z",
+                                                    "stop":  "2026-11-20T06:16:06.0000000Z",
                                                     "itemId":  "ed83754111f4ed370a338cab8345534d",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-11-20T06:16:06.0000000Z",
-                                                    "stop":  "2026-11-20T06:17:12.0000000Z",
+                                                    "stop":  "2026-11-20T06:25:50.0000000Z",
                                                     "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                                     "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-11-20T06:17:12.0000000Z",
-                                                    "stop":  "2026-11-20T06:54:51.0000000Z",
+                                                    "stop":  "2026-11-20T06:26:37.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-11-20T06:18:10.0000000Z",
-                                                    "stop":  "2026-11-20T06:19:19.0000000Z",
+                                                    "stop":  "2026-11-20T06:28:14.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
