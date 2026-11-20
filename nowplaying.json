@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-20T16:13:05.3961901Z",
+    "updated":  "2026-11-20T16:14:05.4360448Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,11 +581,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Ass Kicker Bruce",
-                                                  "start":  "2026-11-20T15:59:11.0000000Z",
-                                                  "stop":  "2026-11-20T16:13:44.0000000Z",
-                                                  "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                                  "title":  "T2",
+                                                  "start":  "2026-11-20T16:08:36.0000000Z",
+                                                  "stop":  "2026-11-20T16:28:00.0000000Z",
+                                                  "itemId":  "1315943017e226076a7899408d36dec5",
+                                                  "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
