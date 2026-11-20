@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-20T12:01:05.3642234Z",
+    "updated":  "2026-11-20T12:02:05.3324670Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -112,7 +112,7 @@
                                "upNext":  {
                                               "title":  "Wrong Turn",
                                               "start":  "2026-11-20T12:36:33.0000000Z",
-                                              "stop":  "2026-11-20T14:00:55.0000000Z",
+                                              "stop":  "2026-11-20T14:00:45.0000000Z",
                                               "itemId":  "58d332deb67464546d571f7fda1cd63c",
                                               "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
                                               "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
@@ -122,7 +122,7 @@
                                                 {
                                                     "title":  "Wrong Turn",
                                                     "start":  "2026-11-20T12:36:33.0000000Z",
-                                                    "stop":  "2026-11-20T14:00:55.0000000Z",
+                                                    "stop":  "2026-11-20T14:00:45.0000000Z",
                                                     "itemId":  "58d332deb67464546d571f7fda1cd63c",
                                                     "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
                                                     "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
@@ -131,7 +131,7 @@
                                                 {
                                                     "title":  "FRIGHT NIGHT",
                                                     "start":  "2026-11-20T14:00:45.0000000Z",
-                                                    "stop":  "2026-11-20T15:47:25.0000000Z",
+                                                    "stop":  "2026-11-20T15:47:35.0000000Z",
                                                     "itemId":  "8bda9bd3955398694e4a57e90f6c4904",
                                                     "poster":  "http://127.0.0.1:8096/Items/8bda9bd3955398694e4a57e90f6c4904/Images/Primary",
                                                     "description":  "Charley Brewster, a high school student, accidentally discovers the true and creepy nature of Jerry Dandrige, his dashing and enigmatic new neighbor; but no one seems willing to believe him.",
@@ -149,7 +149,7 @@
                                                 {
                                                     "title":  "Boogeyman",
                                                     "start":  "2026-11-20T17:23:25.0000000Z",
-                                                    "stop":  "2026-11-20T18:52:25.0000000Z",
+                                                    "stop":  "2026-11-20T18:52:15.0000000Z",
                                                     "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
                                                     "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
                                                     "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
@@ -158,7 +158,7 @@
                                                 {
                                                     "title":  "WISHMASTER",
                                                     "start":  "2026-11-20T18:52:15.0000000Z",
-                                                    "stop":  "2026-11-20T20:22:11.0000000Z",
+                                                    "stop":  "2026-11-20T20:22:21.0000000Z",
                                                     "itemId":  "58d933a690c3d71b883c09370fa30d07",
                                                     "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
                                                     "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
@@ -185,7 +185,7 @@
                                                 {
                                                     "title":  "Land of the Dead",
                                                     "start":  "2026-11-20T23:20:15.0000000Z",
-                                                    "stop":  "2026-11-21T00:57:15.0000000Z",
+                                                    "stop":  "2026-11-21T00:57:05.0000000Z",
                                                     "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
                                                     "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
                                                     "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
@@ -293,33 +293,24 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "HALF BAKED",
-                                                  "start":  "2026-11-20T10:39:42.0000000Z",
-                                                  "stop":  "2026-11-20T12:01:48.0000000Z",
-                                                  "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
-                                                  "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
-                                                  "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
-                                                  "year":  1998
+                                                  "title":  "Get Shorty",
+                                                  "start":  "2026-11-20T12:01:48.0000000Z",
+                                                  "stop":  "2026-11-20T13:46:36.0000000Z",
+                                                  "itemId":  "746531a34dc012efd97b57703e1903af",
+                                                  "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
+                                                  "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
+                                                  "year":  1995
                                               },
                                "upNext":  {
-                                              "title":  "Get Shorty",
-                                              "start":  "2026-11-20T12:01:48.0000000Z",
-                                              "stop":  "2026-11-20T13:46:36.0000000Z",
-                                              "itemId":  "746531a34dc012efd97b57703e1903af",
-                                              "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
-                                              "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
-                                              "year":  1995
+                                              "title":  "Undercover Brother",
+                                              "start":  "2026-11-20T13:46:36.0000000Z",
+                                              "stop":  "2026-11-20T15:12:42.0000000Z",
+                                              "itemId":  "6317b8f6b30a049091764b8311c08279",
+                                              "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
+                                              "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
+                                              "year":  2002
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Get Shorty",
-                                                    "start":  "2026-11-20T12:01:48.0000000Z",
-                                                    "stop":  "2026-11-20T13:46:36.0000000Z",
-                                                    "itemId":  "746531a34dc012efd97b57703e1903af",
-                                                    "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
-                                                    "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
-                                                    "year":  1995
-                                                },
                                                 {
                                                     "title":  "Undercover Brother",
                                                     "start":  "2026-11-20T13:46:36.0000000Z",
@@ -382,6 +373,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
                                                     "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
                                                     "year":  2002
+                                                },
+                                                {
+                                                    "title":  "AnchorMan",
+                                                    "start":  "2026-11-21T00:18:09.0000000Z",
+                                                    "stop":  "2026-11-21T01:55:32.0000000Z",
+                                                    "itemId":  "6a5aaf3560f6b7eedb9ce6971f7189c8",
+                                                    "poster":  "http://127.0.0.1:8096/Items/6a5aaf3560f6b7eedb9ce6971f7189c8/Images/Primary",
+                                                    "description":  "It\u0027s the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, but that\u0027s all about to change when ambitious reporter Veronica Corningstone arrives as a new employee at his station.",
+                                                    "year":  2004
                                                 }
                                             ]
                            },
@@ -581,18 +581,18 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Biggie Mobbing",
-                                                  "start":  "2026-11-20T11:42:42.0000000Z",
-                                                  "stop":  "2026-11-20T12:20:36.0000000Z",
-                                                  "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
+                                                  "title":  "Carrito",
+                                                  "start":  "2026-11-20T11:58:21.0000000Z",
+                                                  "stop":  "2026-11-20T12:14:31.0000000Z",
+                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Dancing Cobra",
                                               "start":  "2026-11-20T12:06:00.0000000Z",
-                                              "stop":  "2026-11-20T12:38:34.0000000Z",
+                                              "stop":  "2026-11-20T12:07:05.0000000Z",
                                               "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                               "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-11-20T12:06:00.0000000Z",
-                                                    "stop":  "2026-11-20T12:38:34.0000000Z",
+                                                    "stop":  "2026-11-20T12:07:05.0000000Z",
                                                     "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                                     "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                     "description":  null,
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-11-20T12:07:05.0000000Z",
-                                                    "stop":  "2026-11-20T12:31:33.0000000Z",
+                                                    "stop":  "2026-11-20T12:08:03.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-11-20T12:08:03.0000000Z",
-                                                    "stop":  "2026-11-20T12:09:13.0000000Z",
+                                                    "stop":  "2026-11-20T12:09:45.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-11-20T12:09:45.0000000Z",
-                                                    "stop":  "2026-11-20T12:37:02.0000000Z",
+                                                    "stop":  "2026-11-20T12:32:22.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-11-20T12:13:42.0000000Z",
-                                                    "stop":  "2026-11-20T12:56:32.0000000Z",
+                                                    "stop":  "2026-11-20T12:15:54.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-11-20T12:15:54.0000000Z",
-                                                    "stop":  "2026-11-20T13:04:48.0000000Z",
+                                                    "stop":  "2026-11-20T12:25:09.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-11-20T12:16:36.0000000Z",
-                                                    "stop":  "2026-11-20T12:17:25.0000000Z",
+                                                    "stop":  "2026-11-20T12:25:58.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-11-20T12:17:25.0000000Z",
-                                                    "stop":  "2026-11-20T12:55:45.0000000Z",
+                                                    "stop":  "2026-11-20T12:27:26.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
