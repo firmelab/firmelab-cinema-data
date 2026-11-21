@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-21T04:01:05.6190710Z",
+    "updated":  "2026-11-21T04:02:05.6235498Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -112,7 +112,7 @@
                                "upNext":  {
                                               "title":  "Nightmare on Elm Street 4 Dream Master",
                                               "start":  "2026-11-21T05:57:03.0000000Z",
-                                              "stop":  "2026-11-21T07:30:44.0000000Z",
+                                              "stop":  "2026-11-21T07:30:24.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
@@ -122,7 +122,7 @@
                                                 {
                                                     "title":  "Nightmare on Elm Street 4 Dream Master",
                                                     "start":  "2026-11-21T05:57:03.0000000Z",
-                                                    "stop":  "2026-11-21T07:30:44.0000000Z",
+                                                    "stop":  "2026-11-21T07:30:24.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -131,7 +131,7 @@
                                                 {
                                                     "title":  "Underworld Evolution",
                                                     "start":  "2026-11-21T07:30:24.0000000Z",
-                                                    "stop":  "2026-11-21T09:16:48.0000000Z",
+                                                    "stop":  "2026-11-21T09:17:08.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -149,7 +149,7 @@
                                                 {
                                                     "title":  "Critters 3",
                                                     "start":  "2026-11-21T11:06:49.0000000Z",
-                                                    "stop":  "2026-11-21T12:31:45.0000000Z",
+                                                    "stop":  "2026-11-21T12:31:35.0000000Z",
                                                     "itemId":  "f9168c1a730f0cc71fd31a7f22c4663f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f9168c1a730f0cc71fd31a7f22c4663f/Images/Primary",
                                                     "description":  "As fanged, furious furballs viciously invade an L.A. apartment building and sink their teeth into the low-rent tenants, Josh leads the battle to beat back the conniving critters and save the planet.",
@@ -158,7 +158,7 @@
                                                 {
                                                     "title":  "CANDYMAN",
                                                     "start":  "2026-11-21T12:31:35.0000000Z",
-                                                    "stop":  "2026-11-21T14:10:31.0000000Z",
+                                                    "stop":  "2026-11-21T14:10:51.0000000Z",
                                                     "itemId":  "75bc45c9af5e154aea4dd68eb38e0354",
                                                     "poster":  "http://127.0.0.1:8096/Items/75bc45c9af5e154aea4dd68eb38e0354/Images/Primary",
                                                     "description":  "A Chicago artist\u0027s sanity starts to unravel, unleashing a terrifying wave of violence when he begins to explore the macabre history of the Candyman.",
@@ -185,7 +185,7 @@
                                                 {
                                                     "title":  "Blade II",
                                                     "start":  "2026-11-21T17:11:05.0000000Z",
-                                                    "stop":  "2026-11-21T19:08:05.0000000Z",
+                                                    "stop":  "2026-11-21T19:07:55.0000000Z",
                                                     "itemId":  "74e7a571bdb0578b253598a3f8b45f12",
                                                     "poster":  "http://127.0.0.1:8096/Items/74e7a571bdb0578b253598a3f8b45f12/Images/Primary",
                                                     "description":  "Blade forms an uneasy alliance with the vampire council in order to combat the Reapers, who are feeding on vampires.",
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "DEATH PROOF",
                                                     "start":  "2026-11-21T07:37:49.0000000Z",
-                                                    "stop":  "2026-11-21T09:31:42.0000000Z",
+                                                    "stop":  "2026-11-21T09:31:22.0000000Z",
                                                     "itemId":  "5220d04d46ddf5fa55aacae5d4916919",
                                                     "poster":  "http://127.0.0.1:8096/Items/5220d04d46ddf5fa55aacae5d4916919/Images/Primary",
                                                     "description":  "Austin\u0027s hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "Conan The Barbarian",
                                                     "start":  "2026-11-21T09:31:22.0000000Z",
-                                                    "stop":  "2026-11-21T11:41:44.0000000Z",
+                                                    "stop":  "2026-11-21T11:42:04.0000000Z",
                                                     "itemId":  "d0a933c7f9688726a8f9a30f309399ad",
                                                     "poster":  "http://127.0.0.1:8096/Items/d0a933c7f9688726a8f9a30f309399ad/Images/Primary",
                                                     "description":  "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "Rambo First Blood",
                                                     "start":  "2026-11-21T17:21:41.0000000Z",
-                                                    "stop":  "2026-11-21T18:55:00.0000000Z",
+                                                    "stop":  "2026-11-21T18:54:50.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "Commando",
                                                     "start":  "2026-11-21T18:54:50.0000000Z",
-                                                    "stop":  "2026-11-21T20:25:03.0000000Z",
+                                                    "stop":  "2026-11-21T20:25:13.0000000Z",
                                                     "itemId":  "4d57925cf6d4f5a046509bad0a68d29f",
                                                     "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
                                                     "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
@@ -581,11 +581,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "After H0uRs",
-                                                  "start":  "2026-11-21T03:38:08.0000000Z",
-                                                  "stop":  "2026-11-21T04:16:10.0000000Z",
-                                                  "itemId":  "150bbae732cd647eeed3060cd67b032f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
+                                                  "title":  "BloodJoke",
+                                                  "start":  "2026-11-21T03:58:52.0000000Z",
+                                                  "stop":  "2026-11-21T04:09:04.0000000Z",
+                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-11-21T04:09:16.0000000Z",
-                                                    "stop":  "2026-11-21T04:33:29.0000000Z",
+                                                    "stop":  "2026-11-21T04:10:15.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-11-21T04:10:15.0000000Z",
-                                                    "stop":  "2026-11-21T04:52:02.0000000Z",
+                                                    "stop":  "2026-11-21T04:30:37.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-11-21T04:11:56.0000000Z",
-                                                    "stop":  "2026-11-21T05:03:59.0000000Z",
+                                                    "stop":  "2026-11-21T04:15:53.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-11-21T04:15:53.0000000Z",
-                                                    "stop":  "2026-11-21T04:18:05.0000000Z",
+                                                    "stop":  "2026-11-21T04:26:38.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-11-21T04:18:05.0000000Z",
-                                                    "stop":  "2026-11-21T04:55:39.0000000Z",
+                                                    "stop":  "2026-11-21T04:27:20.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-11-21T04:18:47.0000000Z",
-                                                    "stop":  "2026-11-21T04:19:36.0000000Z",
+                                                    "stop":  "2026-11-21T04:28:09.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-11-21T04:19:36.0000000Z",
-                                                    "stop":  "2026-11-21T04:50:22.0000000Z",
+                                                    "stop":  "2026-11-21T04:48:24.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
