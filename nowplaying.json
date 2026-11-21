@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-21T13:01:05.7608823Z",
+    "updated":  "2026-11-21T13:02:05.7787610Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -112,7 +112,7 @@
                                "upNext":  {
                                               "title":  "A Nightmare on Elm Street 2 Freddy\u0027s Revenge",
                                               "start":  "2026-11-21T14:10:31.0000000Z",
-                                              "stop":  "2026-11-21T15:36:25.0000000Z",
+                                              "stop":  "2026-11-21T15:36:05.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
@@ -122,7 +122,7 @@
                                                 {
                                                     "title":  "A Nightmare on Elm Street 2 Freddy\u0027s Revenge",
                                                     "start":  "2026-11-21T14:10:31.0000000Z",
-                                                    "stop":  "2026-11-21T15:36:25.0000000Z",
+                                                    "stop":  "2026-11-21T15:36:05.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -131,7 +131,7 @@
                                                 {
                                                     "title":  "The Blob",
                                                     "start":  "2026-11-21T15:36:05.0000000Z",
-                                                    "stop":  "2026-11-21T17:11:05.0000000Z",
+                                                    "stop":  "2026-11-21T17:11:25.0000000Z",
                                                     "itemId":  "5dc1ff349ca7c8caaf1ecfe4f830a683",
                                                     "poster":  "http://127.0.0.1:8096/Items/5dc1ff349ca7c8caaf1ecfe4f830a683/Images/Primary",
                                                     "description":  "In Arborville, California, three high school students try to protect their hometown from a gelatinous alien life form that engulfs everything it touches.",
@@ -149,7 +149,7 @@
                                                 {
                                                     "title":  "World War Z",
                                                     "start":  "2026-11-21T19:07:55.0000000Z",
-                                                    "stop":  "2026-11-21T21:11:19.0000000Z",
+                                                    "stop":  "2026-11-21T21:10:59.0000000Z",
                                                     "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
                                                     "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
                                                     "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
@@ -158,7 +158,7 @@
                                                 {
                                                     "title":  "Resident Evil",
                                                     "start":  "2026-11-21T21:10:59.0000000Z",
-                                                    "stop":  "2026-11-21T22:51:30.0000000Z",
+                                                    "stop":  "2026-11-21T22:51:50.0000000Z",
                                                     "itemId":  "760d913661074a3a3f5a58738842a2f8",
                                                     "poster":  "http://127.0.0.1:8096/Items/760d913661074a3a3f5a58738842a2f8/Images/Primary",
                                                     "description":  "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
@@ -185,7 +185,7 @@
                                                 {
                                                     "title":  "End of Days",
                                                     "start":  "2026-11-22T02:33:55.0000000Z",
-                                                    "stop":  "2026-11-22T04:36:30.0000000Z",
+                                                    "stop":  "2026-11-22T04:36:10.0000000Z",
                                                     "itemId":  "6e5ccc599868e8e4908111e8e00356ea",
                                                     "poster":  "http://127.0.0.1:8096/Items/6e5ccc599868e8e4908111e8e00356ea/Images/Primary",
                                                     "description":  "Cynical bodyguard Jericho is hired by a man possessed by Satan, who is in search of his bride. When Jericho realizes what is happening, he must do everything he can to save the woman and the world.",
@@ -581,18 +581,18 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Oz",
-                                                  "start":  "2026-11-21T12:42:00.0000000Z",
-                                                  "stop":  "2026-11-21T13:20:54.0000000Z",
-                                                  "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                                  "title":  "JamminG",
+                                                  "start":  "2026-11-21T12:56:46.0000000Z",
+                                                  "stop":  "2026-11-21T13:09:20.0000000Z",
+                                                  "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Ninja Now",
                                               "start":  "2026-11-21T13:02:55.0000000Z",
-                                              "stop":  "2026-11-21T13:39:51.0000000Z",
+                                              "stop":  "2026-11-21T13:03:37.0000000Z",
                                               "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                               "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-11-21T13:02:55.0000000Z",
-                                                    "stop":  "2026-11-21T13:39:51.0000000Z",
+                                                    "stop":  "2026-11-21T13:03:37.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-11-21T13:03:37.0000000Z",
-                                                    "stop":  "2026-11-21T13:20:35.0000000Z",
+                                                    "stop":  "2026-11-21T13:04:26.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-11-21T13:04:26.0000000Z",
-                                                    "stop":  "2026-11-21T13:22:04.0000000Z",
+                                                    "stop":  "2026-11-21T13:24:34.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "0Ld Sc00L",
                                                     "start":  "2026-11-21T13:05:54.0000000Z",
-                                                    "stop":  "2026-11-21T13:38:10.0000000Z",
+                                                    "stop":  "2026-11-21T13:06:42.0000000Z",
                                                     "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
                                                     "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "After H0uRs",
                                                     "start":  "2026-11-21T13:06:42.0000000Z",
-                                                    "stop":  "2026-11-21T13:31:12.0000000Z",
+                                                    "stop":  "2026-11-21T13:16:04.0000000Z",
                                                     "itemId":  "150bbae732cd647eeed3060cd67b032f",
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-11-21T13:07:31.0000000Z",
-                                                    "stop":  "2026-11-21T13:13:27.0000000Z",
+                                                    "stop":  "2026-11-21T13:22:00.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-11-21T13:13:27.0000000Z",
-                                                    "stop":  "2026-11-21T13:37:33.0000000Z",
+                                                    "stop":  "2026-11-21T13:22:41.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Chingadasos",
                                                     "start":  "2026-11-21T13:14:08.0000000Z",
-                                                    "stop":  "2026-11-21T13:55:33.0000000Z",
+                                                    "stop":  "2026-11-21T13:43:19.0000000Z",
                                                     "itemId":  "8988d98fd90679aab5aff5b786344b1c",
                                                     "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
                                                     "description":  null,
