@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-11-21T05:01:17.4186452Z",
+    "updated":  "2026-11-21T05:02:06.8586896Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Blade Trinity",
-                                                  "start":  "2026-11-21T03:08:42.0000000Z",
-                                                  "stop":  "2026-11-21T05:01:45.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "BATMAN BEGINS",
+                                                  "start":  "2026-11-21T05:01:45.0000000Z",
+                                                  "stop":  "2026-11-21T07:21:56.0000000Z",
+                                                  "itemId":  "40cf44019306b29674462340007b5e1a",
+                                                  "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
+                                                  "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+                                                  "year":  2005
                                               },
                                "upNext":  {
-                                              "title":  "BATMAN BEGINS",
-                                              "start":  "2026-11-21T05:01:45.0000000Z",
-                                              "stop":  "2026-11-21T07:21:56.0000000Z",
-                                              "itemId":  "40cf44019306b29674462340007b5e1a",
-                                              "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
-                                              "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
-                                              "year":  2005
+                                              "title":  "Wrong Turn",
+                                              "start":  "2026-11-21T07:21:56.0000000Z",
+                                              "stop":  "2026-11-21T08:46:19.0000000Z",
+                                              "itemId":  "58d332deb67464546d571f7fda1cd63c",
+                                              "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
+                                              "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
+                                              "year":  2003
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "BATMAN BEGINS",
-                                                    "start":  "2026-11-21T05:01:45.0000000Z",
-                                                    "stop":  "2026-11-21T07:21:56.0000000Z",
-                                                    "itemId":  "40cf44019306b29674462340007b5e1a",
-                                                    "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
-                                                    "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
-                                                    "year":  2005
-                                                },
                                                 {
                                                     "title":  "Wrong Turn",
                                                     "start":  "2026-11-21T07:21:56.0000000Z",
@@ -90,6 +81,15 @@
                                                     "title":  "Jacky Brown",
                                                     "start":  "2026-11-21T17:44:09.0000000Z",
                                                     "stop":  "2026-11-21T20:18:40.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Resident Evil- Apocalypse",
+                                                    "start":  "2026-11-21T20:18:40.0000000Z",
+                                                    "stop":  "2026-11-21T21:52:40.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -581,37 +581,28 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Oz",
-                                                  "start":  "2026-11-21T04:40:54.0000000Z",
-                                                  "stop":  "2026-11-21T05:19:49.0000000Z",
-                                                  "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                                  "title":  "Never 3Nding",
+                                                  "start":  "2026-11-21T04:59:37.0000000Z",
+                                                  "stop":  "2026-11-21T05:10:26.0000000Z",
+                                                  "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                                  "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                   "description":  null,
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Ninja Now",
-                                              "start":  "2026-11-21T05:01:49.0000000Z",
-                                              "stop":  "2026-11-21T05:38:45.0000000Z",
-                                              "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                              "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                              "title":  "SSBI4649",
+                                              "start":  "2026-11-21T05:02:31.0000000Z",
+                                              "stop":  "2026-11-21T05:03:20.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
                                                 {
-                                                    "title":  "Ninja Now",
-                                                    "start":  "2026-11-21T05:01:49.0000000Z",
-                                                    "stop":  "2026-11-21T05:38:45.0000000Z",
-                                                    "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-11-21T05:02:31.0000000Z",
-                                                    "stop":  "2026-11-21T05:19:29.0000000Z",
+                                                    "stop":  "2026-11-21T05:03:20.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -620,7 +611,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-11-21T05:03:20.0000000Z",
-                                                    "stop":  "2026-11-21T05:20:58.0000000Z",
+                                                    "stop":  "2026-11-21T05:04:48.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
@@ -629,7 +620,7 @@
                                                 {
                                                     "title":  "0Ld Sc00L",
                                                     "start":  "2026-11-21T05:04:48.0000000Z",
-                                                    "stop":  "2026-11-21T05:37:05.0000000Z",
+                                                    "stop":  "2026-11-21T05:24:17.0000000Z",
                                                     "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
                                                     "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                                     "description":  null,
@@ -638,7 +629,7 @@
                                                 {
                                                     "title":  "After H0uRs",
                                                     "start":  "2026-11-21T05:05:36.0000000Z",
-                                                    "stop":  "2026-11-21T05:30:07.0000000Z",
+                                                    "stop":  "2026-11-21T05:06:25.0000000Z",
                                                     "itemId":  "150bbae732cd647eeed3060cd67b032f",
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
@@ -647,7 +638,7 @@
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-11-21T05:06:25.0000000Z",
-                                                    "stop":  "2026-11-21T05:12:21.0000000Z",
+                                                    "stop":  "2026-11-21T05:20:54.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                     "description":  null,
@@ -656,7 +647,7 @@
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-11-21T05:12:21.0000000Z",
-                                                    "stop":  "2026-11-21T05:36:28.0000000Z",
+                                                    "stop":  "2026-11-21T05:21:35.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
@@ -665,9 +656,18 @@
                                                 {
                                                     "title":  "Chingadasos",
                                                     "start":  "2026-11-21T05:13:02.0000000Z",
-                                                    "stop":  "2026-11-21T05:54:27.0000000Z",
+                                                    "stop":  "2026-11-21T05:23:27.0000000Z",
                                                     "itemId":  "8988d98fd90679aab5aff5b786344b1c",
                                                     "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Mr J-Carry",
+                                                    "start":  "2026-11-21T05:14:54.0000000Z",
+                                                    "stop":  "2026-11-21T05:43:10.0000000Z",
+                                                    "itemId":  "56c94066e018711311e81d6a3f6cc139",
+                                                    "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
