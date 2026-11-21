@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-21T17:01:05.6041956Z",
+    "updated":  "2026-11-21T17:02:05.5937263Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,37 +581,28 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "SSBI4649",
-                                                  "start":  "2026-11-21T16:42:18.0000000Z",
-                                                  "stop":  "2026-11-21T17:20:20.0000000Z",
+                                                  "title":  "FL MIXTAPE",
+                                                  "start":  "2026-11-21T17:00:00.0000000Z",
+                                                  "stop":  "2026-11-21T17:09:46.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "COKCE6139",
-                                              "start":  "2026-11-21T17:01:09.0000000Z",
-                                              "stop":  "2026-11-21T17:34:48.0000000Z",
-                                              "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
-                                              "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
+                                              "title":  "MrPayo",
+                                              "start":  "2026-11-21T17:03:19.0000000Z",
+                                              "stop":  "2026-11-21T17:04:25.0000000Z",
+                                              "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
+                                              "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
                                                 {
-                                                    "title":  "COKCE6139",
-                                                    "start":  "2026-11-21T17:01:09.0000000Z",
-                                                    "stop":  "2026-11-21T17:34:48.0000000Z",
-                                                    "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
-                                                    "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
-                                                {
                                                     "title":  "MrPayo",
                                                     "start":  "2026-11-21T17:03:19.0000000Z",
-                                                    "stop":  "2026-11-21T17:28:06.0000000Z",
+                                                    "stop":  "2026-11-21T17:04:25.0000000Z",
                                                     "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
                                                     "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
                                                     "description":  null,
@@ -629,7 +620,7 @@
                                                 {
                                                     "title":  "BloodJoke",
                                                     "start":  "2026-11-21T17:06:06.0000000Z",
-                                                    "stop":  "2026-11-21T17:31:07.0000000Z",
+                                                    "stop":  "2026-11-21T17:26:33.0000000Z",
                                                     "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
                                                     "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                                     "description":  null,
@@ -638,7 +629,7 @@
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-11-21T17:07:47.0000000Z",
-                                                    "stop":  "2026-11-21T17:56:04.0000000Z",
+                                                    "stop":  "2026-11-21T17:15:25.0000000Z",
                                                     "itemId":  "ed83754111f4ed370a338cab8345534d",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                     "description":  null,
@@ -647,7 +638,7 @@
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-11-21T17:15:25.0000000Z",
-                                                    "stop":  "2026-11-21T18:04:42.0000000Z",
+                                                    "stop":  "2026-11-21T17:25:09.0000000Z",
                                                     "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                                     "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                     "description":  null,
@@ -656,7 +647,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-11-21T17:16:31.0000000Z",
-                                                    "stop":  "2026-11-21T17:17:18.0000000Z",
+                                                    "stop":  "2026-11-21T17:25:56.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -665,9 +656,18 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-11-21T17:17:29.0000000Z",
-                                                    "stop":  "2026-11-21T17:55:30.0000000Z",
+                                                    "stop":  "2026-11-21T17:27:33.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "JamminG",
+                                                    "start":  "2026-11-21T17:19:11.0000000Z",
+                                                    "stop":  "2026-11-21T17:50:27.0000000Z",
+                                                    "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                                    "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
