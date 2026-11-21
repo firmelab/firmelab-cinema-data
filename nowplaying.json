@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-21T07:37:10.5157463Z",
+    "updated":  "2026-11-21T07:38:12.1213800Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -197,33 +197,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "Sherlock Holmes",
-                                                  "start":  "2026-11-21T05:29:20.0000000Z",
-                                                  "stop":  "2026-11-21T07:37:49.0000000Z",
-                                                  "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
-                                                  "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
-                                                  "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
-                                                  "year":  2009
+                                                  "title":  "DEATH PROOF",
+                                                  "start":  "2026-11-21T07:37:49.0000000Z",
+                                                  "stop":  "2026-11-21T09:31:22.0000000Z",
+                                                  "itemId":  "5220d04d46ddf5fa55aacae5d4916919",
+                                                  "poster":  "http://127.0.0.1:8096/Items/5220d04d46ddf5fa55aacae5d4916919/Images/Primary",
+                                                  "description":  "Austin\u0027s hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
+                                                  "year":  2007
                                               },
                                "upNext":  {
-                                              "title":  "DEATH PROOF",
-                                              "start":  "2026-11-21T07:37:49.0000000Z",
-                                              "stop":  "2026-11-21T09:31:22.0000000Z",
-                                              "itemId":  "5220d04d46ddf5fa55aacae5d4916919",
-                                              "poster":  "http://127.0.0.1:8096/Items/5220d04d46ddf5fa55aacae5d4916919/Images/Primary",
-                                              "description":  "Austin\u0027s hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
-                                              "year":  2007
+                                              "title":  "Conan The Barbarian",
+                                              "start":  "2026-11-21T09:31:22.0000000Z",
+                                              "stop":  "2026-11-21T11:41:44.0000000Z",
+                                              "itemId":  "d0a933c7f9688726a8f9a30f309399ad",
+                                              "poster":  "http://127.0.0.1:8096/Items/d0a933c7f9688726a8f9a30f309399ad/Images/Primary",
+                                              "description":  "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
+                                              "year":  1982
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "DEATH PROOF",
-                                                    "start":  "2026-11-21T07:37:49.0000000Z",
-                                                    "stop":  "2026-11-21T09:31:22.0000000Z",
-                                                    "itemId":  "5220d04d46ddf5fa55aacae5d4916919",
-                                                    "poster":  "http://127.0.0.1:8096/Items/5220d04d46ddf5fa55aacae5d4916919/Images/Primary",
-                                                    "description":  "Austin\u0027s hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
-                                                    "year":  2007
-                                                },
                                                 {
                                                     "title":  "Conan The Barbarian",
                                                     "start":  "2026-11-21T09:31:22.0000000Z",
@@ -286,6 +277,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Brightburn",
+                                                    "start":  "2026-11-21T22:12:09.0000000Z",
+                                                    "stop":  "2026-11-21T23:42:39.0000000Z",
+                                                    "itemId":  "a562e465a7ff31b0113aee613a779bf2",
+                                                    "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
+                                                    "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
+                                                    "year":  2019
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "BloodJoke",
-                                              "start":  "2026-11-21T07:37:32.0000000Z",
-                                              "stop":  "2026-11-21T08:16:21.0000000Z",
-                                              "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                              "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                              "title":  "Carrito",
+                                              "start":  "2026-11-21T07:39:13.0000000Z",
+                                              "stop":  "2026-11-21T08:13:03.0000000Z",
+                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "BloodJoke",
-                                                    "start":  "2026-11-21T07:37:32.0000000Z",
-                                                    "stop":  "2026-11-21T08:16:21.0000000Z",
-                                                    "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-11-21T07:39:13.0000000Z",
@@ -670,6 +661,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "SSBI4649",
+                                                    "start":  "2026-11-21T07:57:28.0000000Z",
+                                                    "stop":  "2026-11-21T08:34:53.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
@@ -677,33 +677,24 @@
                                "number":  8,
                                "name":  "FIRMELAB FRONTIER",
                                "nowPlaying":  {
-                                                  "title":  "The Patriot",
-                                                  "start":  "2026-11-21T04:53:17.0000000Z",
-                                                  "stop":  "2026-11-21T07:38:04.0000000Z",
-                                                  "itemId":  "17b673273650da7e33ae51350e123fb0",
-                                                  "poster":  "http://127.0.0.1:8096/Items/17b673273650da7e33ae51350e123fb0/Images/Primary",
-                                                  "description":  "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
-                                                  "year":  2000
+                                                  "title":  "Master and Commander",
+                                                  "start":  "2026-11-21T07:38:04.0000000Z",
+                                                  "stop":  "2026-11-21T09:56:25.0000000Z",
+                                                  "itemId":  "5fcc6b3e811cdcaf000036c06aef62b9",
+                                                  "poster":  "http://127.0.0.1:8096/Items/5fcc6b3e811cdcaf000036c06aef62b9/Images/Primary",
+                                                  "description":  "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship\u0027s thoughtful surgeon, his best friend.",
+                                                  "year":  2003
                                               },
                                "upNext":  {
-                                              "title":  "Master and Commander",
-                                              "start":  "2026-11-21T07:38:04.0000000Z",
-                                              "stop":  "2026-11-21T09:56:25.0000000Z",
-                                              "itemId":  "5fcc6b3e811cdcaf000036c06aef62b9",
-                                              "poster":  "http://127.0.0.1:8096/Items/5fcc6b3e811cdcaf000036c06aef62b9/Images/Primary",
-                                              "description":  "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship\u0027s thoughtful surgeon, his best friend.",
-                                              "year":  2003
+                                              "title":  "Brave Heart",
+                                              "start":  "2026-11-21T09:56:25.0000000Z",
+                                              "stop":  "2026-11-21T12:54:05.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Master and Commander",
-                                                    "start":  "2026-11-21T07:38:04.0000000Z",
-                                                    "stop":  "2026-11-21T09:56:25.0000000Z",
-                                                    "itemId":  "5fcc6b3e811cdcaf000036c06aef62b9",
-                                                    "poster":  "http://127.0.0.1:8096/Items/5fcc6b3e811cdcaf000036c06aef62b9/Images/Primary",
-                                                    "description":  "After an abrupt and violent encounter with a French warship inflicts severe damage upon his ship, a captain of the British Royal Navy begins a chase over two oceans to capture or destroy the enemy, though he must weigh his commitment to duty and ferocious pursuit of glory against the safety of his devoted crew, including the ship\u0027s thoughtful surgeon, his best friend.",
-                                                    "year":  2003
-                                                },
                                                 {
                                                     "title":  "Brave Heart",
                                                     "start":  "2026-11-21T09:56:25.0000000Z",
@@ -766,6 +757,15 @@
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Young Guns",
+                                                    "start":  "2026-11-22T03:04:08.0000000Z",
+                                                    "stop":  "2026-11-22T04:50:54.0000000Z",
+                                                    "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
+                                                    "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
+                                                    "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
+                                                    "year":  1988
                                                 }
                                             ]
                            }
