@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-23T02:01:06.0786965Z",
+    "updated":  "2026-11-23T02:02:05.2114284Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -112,7 +112,7 @@
                                "upNext":  {
                                               "title":  "Critters 2",
                                               "start":  "2026-11-23T03:02:59.0000000Z",
-                                              "stop":  "2026-11-23T04:29:15.0000000Z",
+                                              "stop":  "2026-11-23T04:28:55.0000000Z",
                                               "itemId":  "54493e812aba3ee1edef65108ed95c05",
                                               "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
                                               "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
@@ -122,7 +122,7 @@
                                                 {
                                                     "title":  "Critters 2",
                                                     "start":  "2026-11-23T03:02:59.0000000Z",
-                                                    "stop":  "2026-11-23T04:29:15.0000000Z",
+                                                    "stop":  "2026-11-23T04:28:55.0000000Z",
                                                     "itemId":  "54493e812aba3ee1edef65108ed95c05",
                                                     "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
                                                     "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
@@ -131,7 +131,7 @@
                                                 {
                                                     "title":  "Blade",
                                                     "start":  "2026-11-23T04:28:55.0000000Z",
-                                                    "stop":  "2026-11-23T06:29:09.0000000Z",
+                                                    "stop":  "2026-11-23T06:29:29.0000000Z",
                                                     "itemId":  "b15fb14f946bc7e00478a81aa4943fdf",
                                                     "poster":  "http://127.0.0.1:8096/Items/b15fb14f946bc7e00478a81aa4943fdf/Images/Primary",
                                                     "description":  "The Daywalker known as \"Blade\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",
@@ -149,7 +149,7 @@
                                                 {
                                                     "title":  "Underworld Evolution",
                                                     "start":  "2026-11-23T08:02:29.0000000Z",
-                                                    "stop":  "2026-11-23T09:49:03.0000000Z",
+                                                    "stop":  "2026-11-23T09:48:53.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -158,7 +158,7 @@
                                                 {
                                                     "title":  "CHRISTINE",
                                                     "start":  "2026-11-23T09:48:53.0000000Z",
-                                                    "stop":  "2026-11-23T11:38:55.0000000Z",
+                                                    "stop":  "2026-11-23T11:39:05.0000000Z",
                                                     "itemId":  "91dc7dc3ea26a9c92725048bc480729c",
                                                     "poster":  "http://127.0.0.1:8096/Items/91dc7dc3ea26a9c92725048bc480729c/Images/Primary",
                                                     "description":  "Nerdy high schooler Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory. As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty. Arnie\u0027s girlfriend Leigh and best friend Dennis reach out to him, only to be met by a Fury like no other.",
@@ -185,7 +185,7 @@
                                                 {
                                                     "title":  "A Nightmare on Elm Street 2 Freddy\u0027s Revenge",
                                                     "start":  "2026-11-23T14:42:37.0000000Z",
-                                                    "stop":  "2026-11-23T16:08:20.0000000Z",
+                                                    "stop":  "2026-11-23T16:08:10.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -581,18 +581,18 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Mr J-Carry",
-                                                  "start":  "2026-11-23T01:42:46.0000000Z",
-                                                  "stop":  "2026-11-23T02:20:33.0000000Z",
-                                                  "itemId":  "56c94066e018711311e81d6a3f6cc139",
-                                                  "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
+                                                  "title":  "Carrito",
+                                                  "start":  "2026-11-23T01:55:53.0000000Z",
+                                                  "stop":  "2026-11-23T02:12:03.0000000Z",
+                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Dancing Cobra",
                                               "start":  "2026-11-23T02:03:32.0000000Z",
-                                              "stop":  "2026-11-23T02:20:46.0000000Z",
+                                              "stop":  "2026-11-23T02:04:37.0000000Z",
                                               "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                               "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-11-23T02:03:32.0000000Z",
-                                                    "stop":  "2026-11-23T02:20:46.0000000Z",
+                                                    "stop":  "2026-11-23T02:04:37.0000000Z",
                                                     "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                                     "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                     "description":  null,
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-11-23T02:04:37.0000000Z",
-                                                    "stop":  "2026-11-23T02:21:34.0000000Z",
+                                                    "stop":  "2026-11-23T02:05:35.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-11-23T02:05:35.0000000Z",
-                                                    "stop":  "2026-11-23T02:38:13.0000000Z",
+                                                    "stop":  "2026-11-23T02:07:17.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-11-23T02:07:17.0000000Z",
-                                                    "stop":  "2026-11-23T02:34:50.0000000Z",
+                                                    "stop":  "2026-11-23T02:29:54.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-11-23T02:13:26.0000000Z",
-                                                    "stop":  "2026-11-23T02:37:34.0000000Z",
+                                                    "stop":  "2026-11-23T02:22:41.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-11-23T02:14:08.0000000Z",
-                                                    "stop":  "2026-11-23T02:55:36.0000000Z",
+                                                    "stop":  "2026-11-23T02:23:30.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-11-23T02:14:57.0000000Z",
-                                                    "stop":  "2026-11-23T03:04:36.0000000Z",
+                                                    "stop":  "2026-11-23T02:24:58.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
