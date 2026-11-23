@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-23T20:34:11.1214995Z",
+    "updated":  "2026-11-23T20:35:08.1161174Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,91 +101,91 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "World War Z",
-                                                  "start":  "2026-11-23T19:40:00.0000000Z",
-                                                  "stop":  "2026-11-23T21:43:04.0000000Z",
-                                                  "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
-                                                  "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                                  "year":  2013
+                                                  "title":  "FRIGHT NIGHT",
+                                                  "start":  "2026-11-23T19:11:09.0000000Z",
+                                                  "stop":  "2026-11-23T20:57:50.0000000Z",
+                                                  "itemId":  "8bda9bd3955398694e4a57e90f6c4904",
+                                                  "poster":  "http://127.0.0.1:8096/Items/8bda9bd3955398694e4a57e90f6c4904/Images/Primary",
+                                                  "description":  "Charley Brewster, a high school student, accidentally discovers the true and creepy nature of Jerry Dandrige, his dashing and enigmatic new neighbor; but no one seems willing to believe him.",
+                                                  "year":  1985
                                               },
                                "upNext":  {
-                                              "title":  "Resident Evil",
-                                              "start":  "2026-11-23T21:43:04.0000000Z",
-                                              "stop":  "2026-11-23T23:23:45.0000000Z",
-                                              "itemId":  "760d913661074a3a3f5a58738842a2f8",
-                                              "poster":  "http://127.0.0.1:8096/Items/760d913661074a3a3f5a58738842a2f8/Images/Primary",
-                                              "description":  "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
-                                              "year":  2002
+                                              "title":  "WISHMASTER part 2",
+                                              "start":  "2026-11-23T20:57:50.0000000Z",
+                                              "stop":  "2026-11-23T22:33:50.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
                                                 {
-                                                    "title":  "Resident Evil",
-                                                    "start":  "2026-11-23T21:43:04.0000000Z",
-                                                    "stop":  "2026-11-23T23:23:45.0000000Z",
-                                                    "itemId":  "760d913661074a3a3f5a58738842a2f8",
-                                                    "poster":  "http://127.0.0.1:8096/Items/760d913661074a3a3f5a58738842a2f8/Images/Primary",
-                                                    "description":  "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
-                                                    "year":  2002
-                                                },
-                                                {
-                                                    "title":  "Blade Trinity",
-                                                    "start":  "2026-11-23T23:23:45.0000000Z",
-                                                    "stop":  "2026-11-24T01:16:48.0000000Z",
+                                                    "title":  "WISHMASTER part 2",
+                                                    "start":  "2026-11-23T20:57:50.0000000Z",
+                                                    "stop":  "2026-11-23T22:33:50.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
                                                 },
                                                 {
-                                                    "title":  "Dawn of the Dead",
-                                                    "start":  "2026-11-24T01:16:38.0000000Z",
-                                                    "stop":  "2026-11-24T03:06:00.0000000Z",
-                                                    "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
-                                                    "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
-                                                    "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
-                                                    "year":  2004
+                                                    "title":  "Boogeyman",
+                                                    "start":  "2026-11-23T22:33:50.0000000Z",
+                                                    "stop":  "2026-11-24T00:02:50.0000000Z",
+                                                    "itemId":  "aeca6bf22dba1b5a77922fbf9c6ce148",
+                                                    "poster":  "http://127.0.0.1:8096/Items/aeca6bf22dba1b5a77922fbf9c6ce148/Images/Primary",
+                                                    "description":  "Every culture has one – the horrible monster fueling young children\u0027s nightmares. But for Tim, the Boogeyman still lives in his memories as a creature that devoured his father 16 years ago. Is the Boogeyman real, or did Tim make it up to explain why his father abandoned his family?",
+                                                    "year":  2005
                                                 },
                                                 {
-                                                    "title":  "End of Days",
-                                                    "start":  "2026-11-24T03:06:00.0000000Z",
-                                                    "stop":  "2026-11-24T05:08:15.0000000Z",
-                                                    "itemId":  "6e5ccc599868e8e4908111e8e00356ea",
-                                                    "poster":  "http://127.0.0.1:8096/Items/6e5ccc599868e8e4908111e8e00356ea/Images/Primary",
-                                                    "description":  "Cynical bodyguard Jericho is hired by a man possessed by Satan, who is in search of his bride. When Jericho realizes what is happening, he must do everything he can to save the woman and the world.",
-                                                    "year":  1999
+                                                    "title":  "WISHMASTER",
+                                                    "start":  "2026-11-24T00:02:40.0000000Z",
+                                                    "stop":  "2026-11-24T01:32:36.0000000Z",
+                                                    "itemId":  "58d933a690c3d71b883c09370fa30d07",
+                                                    "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
+                                                    "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
+                                                    "year":  1997
                                                 },
                                                 {
-                                                    "title":  "D1_t00",
-                                                    "start":  "2026-11-24T05:08:15.0000000Z",
-                                                    "stop":  "2026-11-24T07:20:03.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
+                                                    "title":  "A Nightmare on Elm Street",
+                                                    "start":  "2026-11-24T01:32:36.0000000Z",
+                                                    "stop":  "2026-11-24T03:04:09.0000000Z",
+                                                    "itemId":  "c79ef56b1b57aea8237d2575aba106ee",
+                                                    "poster":  "http://127.0.0.1:8096/Items/c79ef56b1b57aea8237d2575aba106ee/Images/Primary",
+                                                    "description":  "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop\u0027s daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers\u0027 children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
+                                                    "year":  1984
                                                 },
                                                 {
-                                                    "title":  "DEMON KNIGHT",
-                                                    "start":  "2026-11-24T07:19:53.0000000Z",
-                                                    "stop":  "2026-11-24T08:52:25.0000000Z",
-                                                    "itemId":  "a5a1f15c45eb562ac5f7621a94c12742",
-                                                    "poster":  "http://127.0.0.1:8096/Items/a5a1f15c45eb562ac5f7621a94c12742/Images/Primary",
-                                                    "description":  "Ex-soldier Frank Brayker is the guardian of an ancient key that can unlock tremendous evil; the sinister Collector is a demon who wants the key so he can initiate the apocalypse. On the run from wicked mercenaries for almost 90 years, Brayker finally stops in at a boarding house in New Mexico where — with the help of its residents — he plans to face off against the Collector and his band of ghouls, preventing them from ever seizing the key.",
-                                                    "year":  1995
-                                                },
-                                                {
-                                                    "title":  "Dusk Till Dawn",
-                                                    "start":  "2026-11-24T08:52:25.0000000Z",
-                                                    "stop":  "2026-11-24T10:40:15.0000000Z",
-                                                    "itemId":  "648811d2182191a63ce32eb861ad9020",
-                                                    "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
-                                                    "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
+                                                    "title":  "BORDELLO OF BLOOD",
+                                                    "start":  "2026-11-24T03:04:09.0000000Z",
+                                                    "stop":  "2026-11-24T04:30:50.0000000Z",
+                                                    "itemId":  "b03986ae5fac22e258cf02b8c89bc7a4",
+                                                    "poster":  "http://127.0.0.1:8096/Items/b03986ae5fac22e258cf02b8c89bc7a4/Images/Primary",
+                                                    "description":  "Private eye Rafe Guttman is hired by repressed, born-again Katherine to find her missing bad-boy brother. The trail leads him to a whorehouse run by a thousand-year-old vampire and secretly backed by Katherine\u0027s boss, televangelist Jimmy Current.",
                                                     "year":  1996
                                                 },
                                                 {
-                                                    "title":  "Critters",
-                                                    "start":  "2026-11-24T10:40:15.0000000Z",
-                                                    "stop":  "2026-11-24T12:06:07.0000000Z",
+                                                    "title":  "Land of the Dead",
+                                                    "start":  "2026-11-24T04:30:40.0000000Z",
+                                                    "stop":  "2026-11-24T06:07:30.0000000Z",
+                                                    "itemId":  "696910e7019f27143fdc83d7dc3e26c5",
+                                                    "poster":  "http://127.0.0.1:8096/Items/696910e7019f27143fdc83d7dc3e26c5/Images/Primary",
+                                                    "description":  "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
+                                                    "year":  2005
+                                                },
+                                                {
+                                                    "title":  "Resident Evil- Apocalypse",
+                                                    "start":  "2026-11-24T06:07:30.0000000Z",
+                                                    "stop":  "2026-11-24T07:41:19.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Critters 2",
+                                                    "start":  "2026-11-24T07:41:19.0000000Z",
+                                                    "stop":  "2026-11-24T09:07:14.0000000Z",
                                                     "itemId":  "54493e812aba3ee1edef65108ed95c05",
                                                     "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
                                                     "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
@@ -583,7 +583,7 @@
                                "nowPlaying":  {
                                                   "title":  "JamminG",
                                                   "start":  "2026-11-23T20:20:40.0000000Z",
-                                                  "stop":  "2026-11-23T20:51:57.0000000Z",
+                                                  "stop":  "2026-11-23T20:52:14.0000000Z",
                                                   "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                   "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                   "description":  null,
