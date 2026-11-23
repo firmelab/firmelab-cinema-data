@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-23T04:01:05.0841501Z",
+    "updated":  "2026-11-23T04:02:05.0845578Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -112,7 +112,7 @@
                                "upNext":  {
                                               "title":  "Blade",
                                               "start":  "2026-11-23T04:28:55.0000000Z",
-                                              "stop":  "2026-11-23T06:29:29.0000000Z",
+                                              "stop":  "2026-11-23T06:29:09.0000000Z",
                                               "itemId":  "b15fb14f946bc7e00478a81aa4943fdf",
                                               "poster":  "http://127.0.0.1:8096/Items/b15fb14f946bc7e00478a81aa4943fdf/Images/Primary",
                                               "description":  "The Daywalker known as \"Blade\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",
@@ -122,7 +122,7 @@
                                                 {
                                                     "title":  "Blade",
                                                     "start":  "2026-11-23T04:28:55.0000000Z",
-                                                    "stop":  "2026-11-23T06:29:29.0000000Z",
+                                                    "stop":  "2026-11-23T06:29:09.0000000Z",
                                                     "itemId":  "b15fb14f946bc7e00478a81aa4943fdf",
                                                     "poster":  "http://127.0.0.1:8096/Items/b15fb14f946bc7e00478a81aa4943fdf/Images/Primary",
                                                     "description":  "The Daywalker known as \"Blade\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",
@@ -131,7 +131,7 @@
                                                 {
                                                     "title":  "Nightmare on Elm Street 4 Dream Master",
                                                     "start":  "2026-11-23T06:29:09.0000000Z",
-                                                    "stop":  "2026-11-23T08:02:29.0000000Z",
+                                                    "stop":  "2026-11-23T08:02:49.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -149,7 +149,7 @@
                                                 {
                                                     "title":  "CHRISTINE",
                                                     "start":  "2026-11-23T09:48:53.0000000Z",
-                                                    "stop":  "2026-11-23T11:39:05.0000000Z",
+                                                    "stop":  "2026-11-23T11:38:55.0000000Z",
                                                     "itemId":  "91dc7dc3ea26a9c92725048bc480729c",
                                                     "poster":  "http://127.0.0.1:8096/Items/91dc7dc3ea26a9c92725048bc480729c/Images/Primary",
                                                     "description":  "Nerdy high schooler Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory. As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty. Arnie\u0027s girlfriend Leigh and best friend Dennis reach out to him, only to be met by a Fury like no other.",
@@ -158,7 +158,7 @@
                                                 {
                                                     "title":  "Critters 3",
                                                     "start":  "2026-11-23T11:38:55.0000000Z",
-                                                    "stop":  "2026-11-23T13:03:40.0000000Z",
+                                                    "stop":  "2026-11-23T13:04:00.0000000Z",
                                                     "itemId":  "f9168c1a730f0cc71fd31a7f22c4663f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f9168c1a730f0cc71fd31a7f22c4663f/Images/Primary",
                                                     "description":  "As fanged, furious furballs viciously invade an L.A. apartment building and sink their teeth into the low-rent tenants, Josh leads the battle to beat back the conniving critters and save the planet.",
@@ -185,7 +185,7 @@
                                                 {
                                                     "title":  "The Blob",
                                                     "start":  "2026-11-23T16:08:10.0000000Z",
-                                                    "stop":  "2026-11-23T17:43:20.0000000Z",
+                                                    "stop":  "2026-11-23T17:43:10.0000000Z",
                                                     "itemId":  "5dc1ff349ca7c8caaf1ecfe4f830a683",
                                                     "poster":  "http://127.0.0.1:8096/Items/5dc1ff349ca7c8caaf1ecfe4f830a683/Images/Primary",
                                                     "description":  "In Arborville, California, three high school students try to protect their hometown from a gelatinous alien life form that engulfs everything it touches.",
@@ -581,9 +581,9 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "SSBI4649",
-                                                  "start":  "2026-11-23T03:41:36.0000000Z",
-                                                  "stop":  "2026-11-23T04:19:38.0000000Z",
+                                                  "title":  "FL MIXTAPE",
+                                                  "start":  "2026-11-23T04:00:00.0000000Z",
+                                                  "stop":  "2026-11-23T04:09:05.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
@@ -592,7 +592,7 @@
                                "upNext":  {
                                               "title":  "MrPayo",
                                               "start":  "2026-11-23T04:02:38.0000000Z",
-                                              "stop":  "2026-11-23T04:27:25.0000000Z",
+                                              "stop":  "2026-11-23T04:03:44.0000000Z",
                                               "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
                                               "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "MrPayo",
                                                     "start":  "2026-11-23T04:02:38.0000000Z",
-                                                    "stop":  "2026-11-23T04:27:25.0000000Z",
+                                                    "stop":  "2026-11-23T04:03:44.0000000Z",
                                                     "itemId":  "0b12be9ee205d9ce9424ae1a99da0987",
                                                     "poster":  "http://127.0.0.1:8096/Items/0b12be9ee205d9ce9424ae1a99da0987/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "BloodJoke",
                                                     "start":  "2026-11-23T04:05:25.0000000Z",
-                                                    "stop":  "2026-11-23T04:30:26.0000000Z",
+                                                    "stop":  "2026-11-23T04:25:52.0000000Z",
                                                     "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
                                                     "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-11-23T04:07:05.0000000Z",
-                                                    "stop":  "2026-11-23T04:55:22.0000000Z",
+                                                    "stop":  "2026-11-23T04:14:44.0000000Z",
                                                     "itemId":  "ed83754111f4ed370a338cab8345534d",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-11-23T04:14:44.0000000Z",
-                                                    "stop":  "2026-11-23T05:04:01.0000000Z",
+                                                    "stop":  "2026-11-23T04:24:28.0000000Z",
                                                     "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                                     "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-11-23T04:15:50.0000000Z",
-                                                    "stop":  "2026-11-23T04:16:36.0000000Z",
+                                                    "stop":  "2026-11-23T04:25:14.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-11-23T04:16:48.0000000Z",
-                                                    "stop":  "2026-11-23T04:54:49.0000000Z",
+                                                    "stop":  "2026-11-23T04:26:52.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-11-23T04:18:29.0000000Z",
-                                                    "stop":  "2026-11-23T04:22:21.0000000Z",
+                                                    "stop":  "2026-11-23T04:49:46.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
