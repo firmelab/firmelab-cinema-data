@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-23T19:22:22.5184728Z",
+    "updated":  "2026-11-23T19:23:09.5591987Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,13 +581,13 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "After H0uRs",
-                                                  "start":  "2026-11-23T19:03:08.0000000Z",
-                                                  "stop":  "2026-11-23T19:22:38.0000000Z",
-                                                  "itemId":  "150bbae732cd647eeed3060cd67b032f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
+                                                  "title":  "T2",
+                                                  "start":  "2026-11-23T19:13:22.0000000Z",
+                                                  "stop":  "2026-11-23T19:41:14.0000000Z",
+                                                  "itemId":  "1315943017e226076a7899408d36dec5",
+                                                  "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
                                               "title":  "BloodJoke",
