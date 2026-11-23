@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-23T13:03:05.0048623Z",
+    "updated":  "2026-11-23T13:04:05.0275689Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,33 +101,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "Critters 3",
-                                                  "start":  "2026-11-23T11:38:55.0000000Z",
-                                                  "stop":  "2026-11-23T13:03:40.0000000Z",
-                                                  "itemId":  "f9168c1a730f0cc71fd31a7f22c4663f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f9168c1a730f0cc71fd31a7f22c4663f/Images/Primary",
-                                                  "description":  "As fanged, furious furballs viciously invade an L.A. apartment building and sink their teeth into the low-rent tenants, Josh leads the battle to beat back the conniving critters and save the planet.",
-                                                  "year":  1991
+                                                  "title":  "CANDYMAN",
+                                                  "start":  "2026-11-23T13:03:40.0000000Z",
+                                                  "stop":  "2026-11-23T14:42:37.0000000Z",
+                                                  "itemId":  "75bc45c9af5e154aea4dd68eb38e0354",
+                                                  "poster":  "http://127.0.0.1:8096/Items/75bc45c9af5e154aea4dd68eb38e0354/Images/Primary",
+                                                  "description":  "A Chicago artist\u0027s sanity starts to unravel, unleashing a terrifying wave of violence when he begins to explore the macabre history of the Candyman.",
+                                                  "year":  2021
                                               },
                                "upNext":  {
-                                              "title":  "CANDYMAN",
-                                              "start":  "2026-11-23T13:03:40.0000000Z",
-                                              "stop":  "2026-11-23T14:42:37.0000000Z",
-                                              "itemId":  "75bc45c9af5e154aea4dd68eb38e0354",
-                                              "poster":  "http://127.0.0.1:8096/Items/75bc45c9af5e154aea4dd68eb38e0354/Images/Primary",
-                                              "description":  "A Chicago artist\u0027s sanity starts to unravel, unleashing a terrifying wave of violence when he begins to explore the macabre history of the Candyman.",
-                                              "year":  2021
+                                              "title":  "A Nightmare on Elm Street 2 Freddy\u0027s Revenge",
+                                              "start":  "2026-11-23T14:42:37.0000000Z",
+                                              "stop":  "2026-11-23T16:08:30.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "CANDYMAN",
-                                                    "start":  "2026-11-23T13:03:40.0000000Z",
-                                                    "stop":  "2026-11-23T14:42:37.0000000Z",
-                                                    "itemId":  "75bc45c9af5e154aea4dd68eb38e0354",
-                                                    "poster":  "http://127.0.0.1:8096/Items/75bc45c9af5e154aea4dd68eb38e0354/Images/Primary",
-                                                    "description":  "A Chicago artist\u0027s sanity starts to unravel, unleashing a terrifying wave of violence when he begins to explore the macabre history of the Candyman.",
-                                                    "year":  2021
-                                                },
                                                 {
                                                     "title":  "A Nightmare on Elm Street 2 Freddy\u0027s Revenge",
                                                     "start":  "2026-11-23T14:42:37.0000000Z",
@@ -190,6 +181,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
                                                     "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
                                                     "year":  2004
+                                                },
+                                                {
+                                                    "title":  "End of Days",
+                                                    "start":  "2026-11-24T03:06:00.0000000Z",
+                                                    "stop":  "2026-11-24T05:08:35.0000000Z",
+                                                    "itemId":  "6e5ccc599868e8e4908111e8e00356ea",
+                                                    "poster":  "http://127.0.0.1:8096/Items/6e5ccc599868e8e4908111e8e00356ea/Images/Primary",
+                                                    "description":  "Cynical bodyguard Jericho is hired by a man possessed by Satan, who is in search of his bride. When Jericho realizes what is happening, he must do everything he can to save the woman and the world.",
+                                                    "year":  1999
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "JamminG",
-                                              "start":  "2026-11-23T13:03:19.0000000Z",
-                                              "stop":  "2026-11-23T13:07:16.0000000Z",
-                                              "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
-                                              "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
+                                              "title":  "Never 3Nding",
+                                              "start":  "2026-11-23T13:07:16.0000000Z",
+                                              "stop":  "2026-11-23T13:28:08.0000000Z",
+                                              "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                              "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                               "description":  null,
-                                              "year":  null
+                                              "year":  2026
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "JamminG",
-                                                    "start":  "2026-11-23T13:03:19.0000000Z",
-                                                    "stop":  "2026-11-23T13:07:16.0000000Z",
-                                                    "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
-                                                    "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-11-23T13:07:16.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-11-23T13:20:00.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Biggie Mobbing",
+                                                    "start":  "2026-11-23T13:20:00.0000000Z",
+                                                    "stop":  "2026-11-23T13:29:13.0000000Z",
+                                                    "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
