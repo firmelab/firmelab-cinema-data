@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-23T00:01:05.2137005Z",
+    "updated":  "2026-11-23T00:02:05.1609963Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -112,7 +112,7 @@
                                "upNext":  {
                                               "title":  "Resident Evil- Apocalypse",
                                               "start":  "2026-11-23T01:29:11.0000000Z",
-                                              "stop":  "2026-11-23T03:03:09.0000000Z",
+                                              "stop":  "2026-11-23T03:02:59.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
@@ -122,7 +122,7 @@
                                                 {
                                                     "title":  "Resident Evil- Apocalypse",
                                                     "start":  "2026-11-23T01:29:11.0000000Z",
-                                                    "stop":  "2026-11-23T03:03:09.0000000Z",
+                                                    "stop":  "2026-11-23T03:02:59.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -131,7 +131,7 @@
                                                 {
                                                     "title":  "Critters 2",
                                                     "start":  "2026-11-23T03:02:59.0000000Z",
-                                                    "stop":  "2026-11-23T04:28:55.0000000Z",
+                                                    "stop":  "2026-11-23T04:29:15.0000000Z",
                                                     "itemId":  "54493e812aba3ee1edef65108ed95c05",
                                                     "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
                                                     "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
@@ -149,7 +149,7 @@
                                                 {
                                                     "title":  "Nightmare on Elm Street 4 Dream Master",
                                                     "start":  "2026-11-23T06:29:09.0000000Z",
-                                                    "stop":  "2026-11-23T08:02:39.0000000Z",
+                                                    "stop":  "2026-11-23T08:02:29.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -158,7 +158,7 @@
                                                 {
                                                     "title":  "Underworld Evolution",
                                                     "start":  "2026-11-23T08:02:29.0000000Z",
-                                                    "stop":  "2026-11-23T09:48:53.0000000Z",
+                                                    "stop":  "2026-11-23T09:49:03.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -185,7 +185,7 @@
                                                 {
                                                     "title":  "CANDYMAN",
                                                     "start":  "2026-11-23T13:03:40.0000000Z",
-                                                    "stop":  "2026-11-23T14:42:47.0000000Z",
+                                                    "stop":  "2026-11-23T14:42:37.0000000Z",
                                                     "itemId":  "75bc45c9af5e154aea4dd68eb38e0354",
                                                     "poster":  "http://127.0.0.1:8096/Items/75bc45c9af5e154aea4dd68eb38e0354/Images/Primary",
                                                     "description":  "A Chicago artist\u0027s sanity starts to unravel, unleashing a terrifying wave of violence when he begins to explore the macabre history of the Candyman.",
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "Rambo First Blood",
                                                     "start":  "2026-11-23T02:53:16.0000000Z",
-                                                    "stop":  "2026-11-23T04:26:46.0000000Z",
+                                                    "stop":  "2026-11-23T04:26:26.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "Commando",
                                                     "start":  "2026-11-23T04:26:26.0000000Z",
-                                                    "stop":  "2026-11-23T05:56:39.0000000Z",
+                                                    "stop":  "2026-11-23T05:56:59.0000000Z",
                                                     "itemId":  "4d57925cf6d4f5a046509bad0a68d29f",
                                                     "poster":  "http://127.0.0.1:8096/Items/4d57925cf6d4f5a046509bad0a68d29f/Images/Primary",
                                                     "description":  "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she\u0027s killed.",
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "Bourne Supremacy",
                                                     "start":  "2026-11-23T10:55:28.0000000Z",
-                                                    "stop":  "2026-11-23T12:44:21.0000000Z",
+                                                    "stop":  "2026-11-23T12:44:01.0000000Z",
                                                     "itemId":  "031faf0da71af121647ff2d37294b07a",
                                                     "poster":  "http://127.0.0.1:8096/Items/031faf0da71af121647ff2d37294b07a/Images/Primary",
                                                     "description":  "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "BATMAN BEGINS",
                                                     "start":  "2026-11-23T12:44:01.0000000Z",
-                                                    "stop":  "2026-11-23T15:04:02.0000000Z",
+                                                    "stop":  "2026-11-23T15:04:22.0000000Z",
                                                     "itemId":  "40cf44019306b29674462340007b5e1a",
                                                     "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
                                                     "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
@@ -581,18 +581,18 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Oz",
-                                                  "start":  "2026-11-22T23:41:19.0000000Z",
-                                                  "stop":  "2026-11-23T00:20:13.0000000Z",
-                                                  "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                                  "title":  "FL MIXTAPE",
+                                                  "start":  "2026-11-23T00:00:00.0000000Z",
+                                                  "stop":  "2026-11-23T00:08:39.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Ninja Now",
                                               "start":  "2026-11-23T00:02:13.0000000Z",
-                                              "stop":  "2026-11-23T00:39:10.0000000Z",
+                                              "stop":  "2026-11-23T00:02:56.0000000Z",
                                               "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                               "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-11-23T00:02:13.0000000Z",
-                                                    "stop":  "2026-11-23T00:39:10.0000000Z",
+                                                    "stop":  "2026-11-23T00:02:56.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-11-23T00:02:56.0000000Z",
-                                                    "stop":  "2026-11-23T00:19:53.0000000Z",
+                                                    "stop":  "2026-11-23T00:03:45.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-11-23T00:03:45.0000000Z",
-                                                    "stop":  "2026-11-23T00:21:23.0000000Z",
+                                                    "stop":  "2026-11-23T00:23:53.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "0Ld Sc00L",
                                                     "start":  "2026-11-23T00:05:12.0000000Z",
-                                                    "stop":  "2026-11-23T00:37:29.0000000Z",
+                                                    "stop":  "2026-11-23T00:06:01.0000000Z",
                                                     "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
                                                     "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "After H0uRs",
                                                     "start":  "2026-11-23T00:06:01.0000000Z",
-                                                    "stop":  "2026-11-23T00:30:31.0000000Z",
+                                                    "stop":  "2026-11-23T00:15:23.0000000Z",
                                                     "itemId":  "150bbae732cd647eeed3060cd67b032f",
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-11-23T00:06:50.0000000Z",
-                                                    "stop":  "2026-11-23T00:12:45.0000000Z",
+                                                    "stop":  "2026-11-23T00:21:18.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-11-23T00:12:45.0000000Z",
-                                                    "stop":  "2026-11-23T00:36:52.0000000Z",
+                                                    "stop":  "2026-11-23T00:21:59.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Chingadasos",
                                                     "start":  "2026-11-23T00:13:27.0000000Z",
-                                                    "stop":  "2026-11-23T00:54:51.0000000Z",
+                                                    "stop":  "2026-11-23T00:42:38.0000000Z",
                                                     "itemId":  "8988d98fd90679aab5aff5b786344b1c",
                                                     "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
                                                     "description":  null,
