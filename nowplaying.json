@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-11-24T01:48:11.1324779Z",
+    "updated":  "2026-11-24T01:49:13.9949321Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Undercover Brother",
-                                                  "start":  "2026-11-24T00:22:35.0000000Z",
-                                                  "stop":  "2026-11-24T01:49:04.0000000Z",
-                                                  "itemId":  "6317b8f6b30a049091764b8311c08279",
-                                                  "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
-                                                  "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
-                                                  "year":  2002
+                                                  "title":  "D1_t00",
+                                                  "start":  "2026-11-24T01:48:53.0000000Z",
+                                                  "stop":  "2026-11-24T04:00:43.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "D1_t00",
-                                              "start":  "2026-11-24T01:48:53.0000000Z",
-                                              "stop":  "2026-11-24T04:00:43.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Brightburn",
+                                              "start":  "2026-11-24T04:00:43.0000000Z",
+                                              "stop":  "2026-11-24T05:31:24.0000000Z",
+                                              "itemId":  "a562e465a7ff31b0113aee613a779bf2",
+                                              "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
+                                              "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
+                                              "year":  2019
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "D1_t00",
-                                                    "start":  "2026-11-24T01:48:53.0000000Z",
-                                                    "stop":  "2026-11-24T04:00:43.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Brightburn",
                                                     "start":  "2026-11-24T04:00:43.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/f6b5fc1a94fb32ecc9a9bff1ff06a6a4/Images/Primary",
                                                     "description":  "FBI Agent Will Graham, retired after catching notorious cannibal Hannibal Lecter, returns to duty to engage in a risky cat-and-mouse game with Lecter to capture a new killer.",
                                                     "year":  1986
+                                                },
+                                                {
+                                                    "title":  "Critters 3",
+                                                    "start":  "2026-11-24T15:39:18.0000000Z",
+                                                    "stop":  "2026-11-24T17:04:13.0000000Z",
+                                                    "itemId":  "f9168c1a730f0cc71fd31a7f22c4663f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f9168c1a730f0cc71fd31a7f22c4663f/Images/Primary",
+                                                    "description":  "As fanged, furious furballs viciously invade an L.A. apartment building and sink their teeth into the low-rent tenants, Josh leads the battle to beat back the conniving critters and save the planet.",
+                                                    "year":  1991
                                                 }
                                             ]
                            },
