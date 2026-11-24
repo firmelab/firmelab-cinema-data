@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-11-24T13:37:05.9653588Z",
+    "updated":  "2026-11-24T13:38:07.0706489Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Seventh Sign",
-                                                  "start":  "2026-11-24T12:00:16.0000000Z",
-                                                  "stop":  "2026-11-24T13:37:37.0000000Z",
-                                                  "itemId":  "ee279419a64df59247370e38f4f0deea",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ee279419a64df59247370e38f4f0deea/Images/Primary",
-                                                  "description":  "Abby is a pregnant woman with a curious new boarder in the apartment over her garage. Turns out he\u0027s heaven-sent and is speeding along the Apocalypse by bloodying rivers, egging on plagues and following scripture word for word.",
-                                                  "year":  1988
+                                                  "title":  "Manhunter",
+                                                  "start":  "2026-11-24T13:37:26.0000000Z",
+                                                  "stop":  "2026-11-24T15:39:18.0000000Z",
+                                                  "itemId":  "f6b5fc1a94fb32ecc9a9bff1ff06a6a4",
+                                                  "poster":  "http://127.0.0.1:8096/Items/f6b5fc1a94fb32ecc9a9bff1ff06a6a4/Images/Primary",
+                                                  "description":  "FBI Agent Will Graham, retired after catching notorious cannibal Hannibal Lecter, returns to duty to engage in a risky cat-and-mouse game with Lecter to capture a new killer.",
+                                                  "year":  1986
                                               },
                                "upNext":  {
-                                              "title":  "Manhunter",
-                                              "start":  "2026-11-24T13:37:26.0000000Z",
-                                              "stop":  "2026-11-24T15:39:18.0000000Z",
-                                              "itemId":  "f6b5fc1a94fb32ecc9a9bff1ff06a6a4",
-                                              "poster":  "http://127.0.0.1:8096/Items/f6b5fc1a94fb32ecc9a9bff1ff06a6a4/Images/Primary",
-                                              "description":  "FBI Agent Will Graham, retired after catching notorious cannibal Hannibal Lecter, returns to duty to engage in a risky cat-and-mouse game with Lecter to capture a new killer.",
-                                              "year":  1986
+                                              "title":  "Critters 3",
+                                              "start":  "2026-11-24T15:39:18.0000000Z",
+                                              "stop":  "2026-11-24T17:04:25.0000000Z",
+                                              "itemId":  "f9168c1a730f0cc71fd31a7f22c4663f",
+                                              "poster":  "http://127.0.0.1:8096/Items/f9168c1a730f0cc71fd31a7f22c4663f/Images/Primary",
+                                              "description":  "As fanged, furious furballs viciously invade an L.A. apartment building and sink their teeth into the low-rent tenants, Josh leads the battle to beat back the conniving critters and save the planet.",
+                                              "year":  1991
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Manhunter",
-                                                    "start":  "2026-11-24T13:37:26.0000000Z",
-                                                    "stop":  "2026-11-24T15:39:18.0000000Z",
-                                                    "itemId":  "f6b5fc1a94fb32ecc9a9bff1ff06a6a4",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f6b5fc1a94fb32ecc9a9bff1ff06a6a4/Images/Primary",
-                                                    "description":  "FBI Agent Will Graham, retired after catching notorious cannibal Hannibal Lecter, returns to duty to engage in a risky cat-and-mouse game with Lecter to capture a new killer.",
-                                                    "year":  1986
-                                                },
                                                 {
                                                     "title":  "Critters 3",
                                                     "start":  "2026-11-24T15:39:18.0000000Z",
@@ -90,6 +81,15 @@
                                                     "title":  "B1_t00",
                                                     "start":  "2026-11-25T02:52:25.0000000Z",
                                                     "stop":  "2026-11-25T04:51:51.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "FightPlan",
+                                                    "start":  "2026-11-25T04:51:39.0000000Z",
+                                                    "stop":  "2026-11-25T06:29:53.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -590,24 +590,15 @@
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "BloodJoke",
-                                              "start":  "2026-11-24T13:37:15.0000000Z",
-                                              "stop":  "2026-11-24T14:16:04.0000000Z",
-                                              "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                              "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                              "title":  "Carrito",
+                                              "start":  "2026-11-24T13:38:56.0000000Z",
+                                              "stop":  "2026-11-24T14:12:46.0000000Z",
+                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "BloodJoke",
-                                                    "start":  "2026-11-24T13:37:15.0000000Z",
-                                                    "stop":  "2026-11-24T14:16:04.0000000Z",
-                                                    "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-11-24T13:38:56.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-11-24T13:57:11.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "SSBI4649",
+                                                    "start":  "2026-11-24T13:57:11.0000000Z",
+                                                    "stop":  "2026-11-24T14:34:36.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
                                                     "description":  null,
                                                     "year":  null
                                                 }
