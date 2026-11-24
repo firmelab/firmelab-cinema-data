@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-24T08:00:53.7023632Z",
+    "updated":  "2026-11-24T08:01:22.9048887Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -7,7 +7,7 @@
                                "nowPlaying":  {
                                                   "title":  "CB4",
                                                   "start":  "2026-11-24T07:01:51.0000000Z",
-                                                  "stop":  "2026-11-24T08:30:21.0000000Z",
+                                                  "stop":  "2026-11-24T08:30:32.0000000Z",
                                                   "itemId":  "aaf87b319e700aef20429fed5429cdee",
                                                   "poster":  "http://127.0.0.1:8096/Items/aaf87b319e700aef20429fed5429cdee/Images/Primary",
                                                   "description":  "A \"rockumentary\", covering the rise to fame of MC Gusto, Stab Master Arson, and Dead Mike: members of the rap group \"CB4\". We soon learn that these three are not what they seem and don\u0027t appear to know as much about rap music as they claim... but a lack of musical ability in an artist never hurts sales, does it? You\u0027ve just got to play the part of a rap star...",
@@ -16,7 +16,7 @@
                                "upNext":  {
                                               "title":  "Robocop",
                                               "start":  "2026-11-24T08:30:21.0000000Z",
-                                              "stop":  "2026-11-24T10:13:31.0000000Z",
+                                              "stop":  "2026-11-24T10:13:19.0000000Z",
                                               "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
                                               "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
                                               "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
@@ -26,7 +26,7 @@
                                                 {
                                                     "title":  "Robocop",
                                                     "start":  "2026-11-24T08:30:21.0000000Z",
-                                                    "stop":  "2026-11-24T10:13:31.0000000Z",
+                                                    "stop":  "2026-11-24T10:13:19.0000000Z",
                                                     "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
                                                     "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
                                                     "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
@@ -35,7 +35,7 @@
                                                 {
                                                     "title":  "Young Guns",
                                                     "start":  "2026-11-24T10:13:19.0000000Z",
-                                                    "stop":  "2026-11-24T12:00:16.0000000Z",
+                                                    "stop":  "2026-11-24T12:00:28.0000000Z",
                                                     "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
                                                     "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
                                                     "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
@@ -44,7 +44,7 @@
                                                 {
                                                     "title":  "Seventh Sign",
                                                     "start":  "2026-11-24T12:00:16.0000000Z",
-                                                    "stop":  "2026-11-24T13:37:38.0000000Z",
+                                                    "stop":  "2026-11-24T13:37:26.0000000Z",
                                                     "itemId":  "ee279419a64df59247370e38f4f0deea",
                                                     "poster":  "http://127.0.0.1:8096/Items/ee279419a64df59247370e38f4f0deea/Images/Primary",
                                                     "description":  "Abby is a pregnant woman with a curious new boarder in the apartment over her garage. Turns out he\u0027s heaven-sent and is speeding along the Apocalypse by bloodying rivers, egging on plagues and following scripture word for word.",
@@ -53,7 +53,7 @@
                                                 {
                                                     "title":  "Manhunter",
                                                     "start":  "2026-11-24T13:37:26.0000000Z",
-                                                    "stop":  "2026-11-24T15:39:18.0000000Z",
+                                                    "stop":  "2026-11-24T15:39:30.0000000Z",
                                                     "itemId":  "f6b5fc1a94fb32ecc9a9bff1ff06a6a4",
                                                     "poster":  "http://127.0.0.1:8096/Items/f6b5fc1a94fb32ecc9a9bff1ff06a6a4/Images/Primary",
                                                     "description":  "FBI Agent Will Graham, retired after catching notorious cannibal Hannibal Lecter, returns to duty to engage in a risky cat-and-mouse game with Lecter to capture a new killer.",
@@ -62,7 +62,7 @@
                                                 {
                                                     "title":  "Critters 3",
                                                     "start":  "2026-11-24T15:39:18.0000000Z",
-                                                    "stop":  "2026-11-24T17:04:25.0000000Z",
+                                                    "stop":  "2026-11-24T17:04:13.0000000Z",
                                                     "itemId":  "f9168c1a730f0cc71fd31a7f22c4663f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f9168c1a730f0cc71fd31a7f22c4663f/Images/Primary",
                                                     "description":  "As fanged, furious furballs viciously invade an L.A. apartment building and sink their teeth into the low-rent tenants, Josh leads the battle to beat back the conniving critters and save the planet.",
@@ -71,7 +71,7 @@
                                                 {
                                                     "title":  "Inglorius Bastards",
                                                     "start":  "2026-11-24T17:04:13.0000000Z",
-                                                    "stop":  "2026-11-24T19:37:24.0000000Z",
+                                                    "stop":  "2026-11-24T19:37:36.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -89,7 +89,7 @@
                                                 {
                                                     "title":  "Conan The Barbarian",
                                                     "start":  "2026-11-24T21:31:08.0000000Z",
-                                                    "stop":  "2026-11-24T23:41:42.0000000Z",
+                                                    "stop":  "2026-11-24T23:41:53.0000000Z",
                                                     "itemId":  "d0a933c7f9688726a8f9a30f309399ad",
                                                     "poster":  "http://127.0.0.1:8096/Items/d0a933c7f9688726a8f9a30f309399ad/Images/Primary",
                                                     "description":  "A horde of rampaging warriors massacre the parents of young Conan and enslave the young child for years on The Wheel of Pain. As the sole survivor of the childhood massacre, Conan is released from slavery and taught the ancient arts of fighting. Transforming himself into a killing machine, Conan travels into the wilderness to seek vengeance on Thulsa Doom, the man responsible for killing his family. In the wilderness, Conan takes up with the thieves Valeria and Subotai. The group comes upon King Osric, who wants the trio of warriors to help rescue his daughter who has joined Doom in the hills.",
@@ -581,18 +581,18 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "XocoBruja",
-                                                  "start":  "2026-11-24T07:39:40.0000000Z",
-                                                  "stop":  "2026-11-24T08:19:15.0000000Z",
-                                                  "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
-                                                  "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
+                                                  "title":  "FL MIXTAPE",
+                                                  "start":  "2026-11-24T08:00:00.0000000Z",
+                                                  "stop":  "2026-11-24T08:09:04.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Never 3Nding",
                                               "start":  "2026-11-24T08:04:24.0000000Z",
-                                              "stop":  "2026-11-24T08:22:46.0000000Z",
+                                              "stop":  "2026-11-24T08:06:36.0000000Z",
                                               "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                               "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-11-24T08:04:24.0000000Z",
-                                                    "stop":  "2026-11-24T08:22:46.0000000Z",
+                                                    "stop":  "2026-11-24T08:06:36.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-11-24T08:06:36.0000000Z",
-                                                    "stop":  "2026-11-24T08:38:46.0000000Z",
+                                                    "stop":  "2026-11-24T08:07:18.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-11-24T08:07:18.0000000Z",
-                                                    "stop":  "2026-11-24T08:31:48.0000000Z",
+                                                    "stop":  "2026-11-24T08:26:47.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "0Ld Sc00L",
                                                     "start":  "2026-11-24T08:09:35.0000000Z",
-                                                    "stop":  "2026-11-24T08:33:48.0000000Z",
+                                                    "stop":  "2026-11-24T08:18:56.0000000Z",
                                                     "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
                                                     "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "After H0uRs",
                                                     "start":  "2026-11-24T08:10:23.0000000Z",
-                                                    "stop":  "2026-11-24T08:51:50.0000000Z",
+                                                    "stop":  "2026-11-24T08:19:45.0000000Z",
                                                     "itemId":  "150bbae732cd647eeed3060cd67b032f",
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-11-24T08:11:12.0000000Z",
-                                                    "stop":  "2026-11-24T09:05:19.0000000Z",
+                                                    "stop":  "2026-11-24T08:25:40.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-11-24T08:17:08.0000000Z",
-                                                    "stop":  "2026-11-24T08:17:49.0000000Z",
+                                                    "stop":  "2026-11-24T08:45:09.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
