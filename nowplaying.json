@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-24T05:01:07.2523942Z",
+    "updated":  "2026-11-24T05:02:05.6316468Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -7,7 +7,7 @@
                                "nowPlaying":  {
                                                   "title":  "Brightburn",
                                                   "start":  "2026-11-24T04:00:43.0000000Z",
-                                                  "stop":  "2026-11-24T05:31:24.0000000Z",
+                                                  "stop":  "2026-11-24T05:31:36.0000000Z",
                                                   "itemId":  "a562e465a7ff31b0113aee613a779bf2",
                                                   "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
                                                   "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
@@ -16,7 +16,7 @@
                                "upNext":  {
                                               "title":  "WISHMASTER",
                                               "start":  "2026-11-24T05:31:24.0000000Z",
-                                              "stop":  "2026-11-24T07:02:03.0000000Z",
+                                              "stop":  "2026-11-24T07:01:51.0000000Z",
                                               "itemId":  "58d933a690c3d71b883c09370fa30d07",
                                               "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
                                               "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
@@ -26,7 +26,7 @@
                                                 {
                                                     "title":  "WISHMASTER",
                                                     "start":  "2026-11-24T05:31:24.0000000Z",
-                                                    "stop":  "2026-11-24T07:02:03.0000000Z",
+                                                    "stop":  "2026-11-24T07:01:51.0000000Z",
                                                     "itemId":  "58d933a690c3d71b883c09370fa30d07",
                                                     "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
                                                     "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
@@ -35,7 +35,7 @@
                                                 {
                                                     "title":  "CB4",
                                                     "start":  "2026-11-24T07:01:51.0000000Z",
-                                                    "stop":  "2026-11-24T08:30:21.0000000Z",
+                                                    "stop":  "2026-11-24T08:30:33.0000000Z",
                                                     "itemId":  "aaf87b319e700aef20429fed5429cdee",
                                                     "poster":  "http://127.0.0.1:8096/Items/aaf87b319e700aef20429fed5429cdee/Images/Primary",
                                                     "description":  "A \"rockumentary\", covering the rise to fame of MC Gusto, Stab Master Arson, and Dead Mike: members of the rap group \"CB4\". We soon learn that these three are not what they seem and don\u0027t appear to know as much about rap music as they claim... but a lack of musical ability in an artist never hurts sales, does it? You\u0027ve just got to play the part of a rap star...",
@@ -44,7 +44,7 @@
                                                 {
                                                     "title":  "Robocop",
                                                     "start":  "2026-11-24T08:30:21.0000000Z",
-                                                    "stop":  "2026-11-24T10:13:31.0000000Z",
+                                                    "stop":  "2026-11-24T10:13:19.0000000Z",
                                                     "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
                                                     "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
                                                     "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
@@ -53,7 +53,7 @@
                                                 {
                                                     "title":  "Young Guns",
                                                     "start":  "2026-11-24T10:13:19.0000000Z",
-                                                    "stop":  "2026-11-24T12:00:16.0000000Z",
+                                                    "stop":  "2026-11-24T12:00:28.0000000Z",
                                                     "itemId":  "3976ccec8fa75f5e29e4c4eff8d5a0f1",
                                                     "poster":  "http://127.0.0.1:8096/Items/3976ccec8fa75f5e29e4c4eff8d5a0f1/Images/Primary",
                                                     "description":  "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "ROBOCOP 3",
                                                     "start":  "2026-11-24T08:41:45.0000000Z",
-                                                    "stop":  "2026-11-24T10:26:56.0000000Z",
+                                                    "stop":  "2026-11-24T10:26:36.0000000Z",
                                                     "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
                                                     "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
                                                     "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "Bourne Identity",
                                                     "start":  "2026-11-24T10:26:36.0000000Z",
-                                                    "stop":  "2026-11-24T12:24:52.0000000Z",
+                                                    "stop":  "2026-11-24T12:25:12.0000000Z",
                                                     "itemId":  "ad22fba25f4ceaee407d76b5620443de",
                                                     "poster":  "http://127.0.0.1:8096/Items/ad22fba25f4ceaee407d76b5620443de/Images/Primary",
                                                     "description":  "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "Brightburn",
                                                     "start":  "2026-11-24T17:15:21.0000000Z",
-                                                    "stop":  "2026-11-24T18:46:11.0000000Z",
+                                                    "stop":  "2026-11-24T18:45:51.0000000Z",
                                                     "itemId":  "a562e465a7ff31b0113aee613a779bf2",
                                                     "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
                                                     "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "John Wick",
                                                     "start":  "2026-11-24T18:45:51.0000000Z",
-                                                    "stop":  "2026-11-24T20:27:04.0000000Z",
+                                                    "stop":  "2026-11-24T20:27:24.0000000Z",
                                                     "itemId":  "84b70d75a3d957b57b02cf83796504a8",
                                                     "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
                                                     "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
@@ -581,37 +581,28 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "T2",
-                                                  "start":  "2026-11-24T04:41:56.0000000Z",
-                                                  "stop":  "2026-11-24T05:19:18.0000000Z",
-                                                  "itemId":  "1315943017e226076a7899408d36dec5",
-                                                  "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
+                                                  "title":  "Carrito",
+                                                  "start":  "2026-11-24T04:54:06.0000000Z",
+                                                  "stop":  "2026-11-24T05:10:17.0000000Z",
+                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Dancing Cobra",
-                                              "start":  "2026-11-24T05:01:45.0000000Z",
-                                              "stop":  "2026-11-24T05:39:04.0000000Z",
-                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
+                                              "title":  "DnBaPCsht",
+                                              "start":  "2026-11-24T05:02:50.0000000Z",
+                                              "stop":  "2026-11-24T05:03:49.0000000Z",
+                                              "itemId":  "d2296bca99a831548bbada0bb3bac719",
+                                              "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
                                                 {
-                                                    "title":  "Dancing Cobra",
-                                                    "start":  "2026-11-24T05:01:45.0000000Z",
-                                                    "stop":  "2026-11-24T05:39:04.0000000Z",
-                                                    "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-11-24T05:02:50.0000000Z",
-                                                    "stop":  "2026-11-24T05:19:46.0000000Z",
+                                                    "stop":  "2026-11-24T05:03:49.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -620,7 +611,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-11-24T05:03:49.0000000Z",
-                                                    "stop":  "2026-11-24T05:21:08.0000000Z",
+                                                    "stop":  "2026-11-24T05:05:30.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -629,7 +620,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-11-24T05:05:30.0000000Z",
-                                                    "stop":  "2026-11-24T05:40:50.0000000Z",
+                                                    "stop":  "2026-11-24T05:28:08.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -638,7 +629,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-11-24T05:09:27.0000000Z",
-                                                    "stop":  "2026-11-24T05:35:20.0000000Z",
+                                                    "stop":  "2026-11-24T05:11:39.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -647,7 +638,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-11-24T05:11:39.0000000Z",
-                                                    "stop":  "2026-11-24T05:12:21.0000000Z",
+                                                    "stop":  "2026-11-24T05:20:54.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +647,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-11-24T05:12:21.0000000Z",
-                                                    "stop":  "2026-11-24T05:36:36.0000000Z",
+                                                    "stop":  "2026-11-24T05:21:43.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -665,11 +656,20 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-11-24T05:13:10.0000000Z",
-                                                    "stop":  "2026-11-24T05:55:16.0000000Z",
+                                                    "stop":  "2026-11-24T05:23:11.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "0Ld Sc00L",
+                                                    "start":  "2026-11-24T05:14:38.0000000Z",
+                                                    "stop":  "2026-11-24T05:42:46.0000000Z",
+                                                    "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
