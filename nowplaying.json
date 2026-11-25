@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-25T18:10:22.8854528Z",
+    "updated":  "2026-11-25T18:47:29.0592675Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -197,33 +197,24 @@
                                "number":  3,
                                "name":  "FIRMELAB ACTION",
                                "nowPlaying":  {
-                                                  "title":  "ROBOCOP 2",
-                                                  "start":  "2026-11-25T16:16:31.0000000Z",
-                                                  "stop":  "2026-11-25T18:13:20.0000000Z",
-                                                  "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
-                                                  "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
-                                                  "year":  1990
+                                                  "title":  "ROBOCOP 3",
+                                                  "start":  "2026-11-25T18:13:20.0000000Z",
+                                                  "stop":  "2026-11-25T19:58:11.0000000Z",
+                                                  "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
+                                                  "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
+                                                  "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
+                                                  "year":  1993
                                               },
                                "upNext":  {
-                                              "title":  "ROBOCOP 3",
-                                              "start":  "2026-11-25T18:13:20.0000000Z",
-                                              "stop":  "2026-11-25T19:58:11.0000000Z",
-                                              "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
-                                              "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
-                                              "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
-                                              "year":  1993
+                                              "title":  "Bourne Identity",
+                                              "start":  "2026-11-25T19:58:11.0000000Z",
+                                              "stop":  "2026-11-25T21:56:28.0000000Z",
+                                              "itemId":  "ad22fba25f4ceaee407d76b5620443de",
+                                              "poster":  "http://127.0.0.1:8096/Items/ad22fba25f4ceaee407d76b5620443de/Images/Primary",
+                                              "description":  "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
+                                              "year":  2002
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "ROBOCOP 3",
-                                                    "start":  "2026-11-25T18:13:20.0000000Z",
-                                                    "stop":  "2026-11-25T19:58:11.0000000Z",
-                                                    "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
-                                                    "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
-                                                    "year":  1993
-                                                },
                                                 {
                                                     "title":  "Bourne Identity",
                                                     "start":  "2026-11-25T19:58:11.0000000Z",
@@ -286,6 +277,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/031faf0da71af121647ff2d37294b07a/Images/Primary",
                                                     "description":  "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
                                                     "year":  2004
+                                                },
+                                                {
+                                                    "title":  "BATMAN BEGINS",
+                                                    "start":  "2026-11-26T07:47:12.0000000Z",
+                                                    "stop":  "2026-11-26T10:07:14.0000000Z",
+                                                    "itemId":  "40cf44019306b29674462340007b5e1a",
+                                                    "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
+                                                    "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+                                                    "year":  2005
                                                 }
                                             ]
                            },
@@ -581,28 +581,37 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Carrito",
-                                                  "start":  "2026-11-25T18:04:37.0000000Z",
-                                                  "stop":  "2026-11-25T18:31:08.0000000Z",
-                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                                  "title":  "Never 3Nding",
+                                                  "start":  "2026-11-25T18:19:58.0000000Z",
+                                                  "stop":  "2026-11-25T18:49:30.0000000Z",
+                                                  "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                                  "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Dancing Cobra",
-                                              "start":  "2026-11-25T18:12:16.0000000Z",
-                                              "stop":  "2026-11-25T18:13:21.0000000Z",
-                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
-                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
+                                              "title":  "Carrito",
+                                              "start":  "2026-11-25T18:48:21.0000000Z",
+                                              "stop":  "2026-11-25T18:56:00.0000000Z",
+                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
                                                 {
+                                                    "title":  "Carrito",
+                                                    "start":  "2026-11-25T18:48:21.0000000Z",
+                                                    "stop":  "2026-11-25T18:56:00.0000000Z",
+                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
                                                     "title":  "Dancing Cobra",
-                                                    "start":  "2026-11-25T18:12:16.0000000Z",
-                                                    "stop":  "2026-11-25T18:13:21.0000000Z",
+                                                    "start":  "2026-11-25T18:56:00.0000000Z",
+                                                    "stop":  "2026-11-25T18:57:06.0000000Z",
                                                     "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                                     "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                     "description":  null,
@@ -610,8 +619,8 @@
                                                 },
                                                 {
                                                     "title":  "DnBaPCsht",
-                                                    "start":  "2026-11-25T18:13:21.0000000Z",
-                                                    "stop":  "2026-11-25T18:22:46.0000000Z",
+                                                    "start":  "2026-11-25T18:57:06.0000000Z",
+                                                    "stop":  "2026-11-25T18:57:52.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -619,8 +628,8 @@
                                                 },
                                                 {
                                                     "title":  "Duende",
-                                                    "start":  "2026-11-25T18:14:20.0000000Z",
-                                                    "stop":  "2026-11-25T18:24:29.0000000Z",
+                                                    "start":  "2026-11-25T18:58:04.0000000Z",
+                                                    "stop":  "2026-11-25T19:35:27.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -628,8 +637,8 @@
                                                 },
                                                 {
                                                     "title":  "JamminG",
-                                                    "start":  "2026-11-25T18:16:01.0000000Z",
-                                                    "stop":  "2026-11-25T18:28:31.0000000Z",
+                                                    "start":  "2026-11-25T18:59:45.0000000Z",
+                                                    "stop":  "2026-11-25T19:19:46.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -637,8 +646,8 @@
                                                 },
                                                 {
                                                     "title":  "Never 3Nding",
-                                                    "start":  "2026-11-25T18:19:58.0000000Z",
-                                                    "stop":  "2026-11-25T18:49:30.0000000Z",
+                                                    "start":  "2026-11-25T19:03:42.0000000Z",
+                                                    "stop":  "2026-11-25T19:22:05.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -646,8 +655,8 @@
                                                 },
                                                 {
                                                     "title":  "Ninja Now",
-                                                    "start":  "2026-11-25T18:22:10.0000000Z",
-                                                    "stop":  "2026-11-25T18:22:52.0000000Z",
+                                                    "start":  "2026-11-25T19:05:54.0000000Z",
+                                                    "stop":  "2026-11-25T19:38:05.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -655,21 +664,12 @@
                                                 },
                                                 {
                                                     "title":  "SSBI4649",
-                                                    "start":  "2026-11-25T18:22:52.0000000Z",
-                                                    "stop":  "2026-11-25T18:32:13.0000000Z",
+                                                    "start":  "2026-11-25T19:06:37.0000000Z",
+                                                    "stop":  "2026-11-25T19:31:07.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
-                                                },
-                                                {
-                                                    "title":  "Arnold Dynamite",
-                                                    "start":  "2026-11-25T18:23:41.0000000Z",
-                                                    "stop":  "2026-11-25T18:25:09.0000000Z",
-                                                    "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
-                                                    "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
                                                 }
                                             ]
                            },
