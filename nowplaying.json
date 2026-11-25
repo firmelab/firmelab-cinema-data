@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-11-25T02:52:08.9023148Z",
+    "updated":  "2026-11-25T02:53:06.1874102Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "CANDYMAN",
-                                                  "start":  "2026-11-25T01:13:17.0000000Z",
-                                                  "stop":  "2026-11-25T02:52:36.0000000Z",
-                                                  "itemId":  "75bc45c9af5e154aea4dd68eb38e0354",
-                                                  "poster":  "http://127.0.0.1:8096/Items/75bc45c9af5e154aea4dd68eb38e0354/Images/Primary",
-                                                  "description":  "A Chicago artist\u0027s sanity starts to unravel, unleashing a terrifying wave of violence when he begins to explore the macabre history of the Candyman.",
-                                                  "year":  2021
+                                                  "title":  "B1_t00",
+                                                  "start":  "2026-11-25T02:52:25.0000000Z",
+                                                  "stop":  "2026-11-25T04:51:39.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "B1_t00",
-                                              "start":  "2026-11-25T02:52:25.0000000Z",
-                                              "stop":  "2026-11-25T04:51:39.0000000Z",
+                                              "title":  "FightPlan",
+                                              "start":  "2026-11-25T04:51:39.0000000Z",
+                                              "stop":  "2026-11-25T06:30:05.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "B1_t00",
-                                                    "start":  "2026-11-25T02:52:25.0000000Z",
-                                                    "stop":  "2026-11-25T04:51:39.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "FightPlan",
                                                     "start":  "2026-11-25T04:51:39.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/ee279419a64df59247370e38f4f0deea/Images/Primary",
                                                     "description":  "Abby is a pregnant woman with a curious new boarder in the apartment over her garage. Turns out he\u0027s heaven-sent and is speeding along the Apocalypse by bloodying rivers, egging on plagues and following scripture word for word.",
                                                     "year":  1988
+                                                },
+                                                {
+                                                    "title":  "The Count Monte Cristos",
+                                                    "start":  "2026-11-25T17:39:17.0000000Z",
+                                                    "stop":  "2026-11-25T19:50:43.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
