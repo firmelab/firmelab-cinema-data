@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-25T15:26:06.0337595Z",
+    "updated":  "2026-11-25T15:27:06.0194623Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,13 +581,13 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Oz",
-                                                  "start":  "2026-11-25T15:06:19.0000000Z",
-                                                  "stop":  "2026-11-25T15:26:52.0000000Z",
-                                                  "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                                  "title":  "DnBaPCsht",
+                                                  "start":  "2026-11-25T15:18:25.0000000Z",
+                                                  "stop":  "2026-11-25T15:27:50.0000000Z",
+                                                  "itemId":  "d2296bca99a831548bbada0bb3bac719",
+                                                  "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Ninja Now",
