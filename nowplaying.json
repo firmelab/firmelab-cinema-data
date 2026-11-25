@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-25T18:01:06.4633588Z",
+    "updated":  "2026-11-25T18:02:06.0430385Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -7,7 +7,7 @@
                                "nowPlaying":  {
                                                   "title":  "The Count Monte Cristos",
                                                   "start":  "2026-11-25T17:39:17.0000000Z",
-                                                  "stop":  "2026-11-25T19:50:43.0000000Z",
+                                                  "stop":  "2026-11-25T19:50:55.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
@@ -16,7 +16,7 @@
                                "upNext":  {
                                               "title":  "D1_t00",
                                               "start":  "2026-11-25T19:50:43.0000000Z",
-                                              "stop":  "2026-11-25T22:02:45.0000000Z",
+                                              "stop":  "2026-11-25T22:02:33.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
@@ -26,7 +26,7 @@
                                                 {
                                                     "title":  "D1_t00",
                                                     "start":  "2026-11-25T19:50:43.0000000Z",
-                                                    "stop":  "2026-11-25T22:02:45.0000000Z",
+                                                    "stop":  "2026-11-25T22:02:33.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -35,7 +35,7 @@
                                                 {
                                                     "title":  "CHRISTINE",
                                                     "start":  "2026-11-25T22:02:33.0000000Z",
-                                                    "stop":  "2026-11-25T23:52:47.0000000Z",
+                                                    "stop":  "2026-11-25T23:52:59.0000000Z",
                                                     "itemId":  "91dc7dc3ea26a9c92725048bc480729c",
                                                     "poster":  "http://127.0.0.1:8096/Items/91dc7dc3ea26a9c92725048bc480729c/Images/Primary",
                                                     "description":  "Nerdy high schooler Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory. As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty. Arnie\u0027s girlfriend Leigh and best friend Dennis reach out to him, only to be met by a Fury like no other.",
@@ -44,7 +44,7 @@
                                                 {
                                                     "title":  "ROBOCOP 3",
                                                     "start":  "2026-11-25T23:52:47.0000000Z",
-                                                    "stop":  "2026-11-26T01:38:01.0000000Z",
+                                                    "stop":  "2026-11-26T01:37:49.0000000Z",
                                                     "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
                                                     "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
                                                     "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
@@ -53,7 +53,7 @@
                                                 {
                                                     "title":  "Reservor Dogs",
                                                     "start":  "2026-11-26T01:37:49.0000000Z",
-                                                    "stop":  "2026-11-26T03:17:06.0000000Z",
+                                                    "stop":  "2026-11-26T03:17:18.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -62,7 +62,7 @@
                                                 {
                                                     "title":  "A1_t00",
                                                     "start":  "2026-11-26T03:17:06.0000000Z",
-                                                    "stop":  "2026-11-26T04:53:32.0000000Z",
+                                                    "stop":  "2026-11-26T04:53:20.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -71,7 +71,7 @@
                                                 {
                                                     "title":  "Wrong Turn",
                                                     "start":  "2026-11-26T04:53:20.0000000Z",
-                                                    "stop":  "2026-11-26T06:17:44.0000000Z",
+                                                    "stop":  "2026-11-26T06:17:56.0000000Z",
                                                     "itemId":  "58d332deb67464546d571f7fda1cd63c",
                                                     "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
                                                     "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
@@ -80,7 +80,7 @@
                                                 {
                                                     "title":  "Get Shorty",
                                                     "start":  "2026-11-26T06:17:44.0000000Z",
-                                                    "stop":  "2026-11-26T08:02:55.0000000Z",
+                                                    "stop":  "2026-11-26T08:02:44.0000000Z",
                                                     "itemId":  "746531a34dc012efd97b57703e1903af",
                                                     "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
                                                     "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
@@ -89,7 +89,7 @@
                                                 {
                                                     "title":  "HALF BAKED",
                                                     "start":  "2026-11-26T08:02:44.0000000Z",
-                                                    "stop":  "2026-11-26T09:25:00.0000000Z",
+                                                    "stop":  "2026-11-26T09:25:11.0000000Z",
                                                     "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
                                                     "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
                                                     "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
@@ -581,37 +581,28 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "After H0uRs",
-                                                  "start":  "2026-11-25T17:42:13.0000000Z",
-                                                  "stop":  "2026-11-25T18:20:15.0000000Z",
-                                                  "itemId":  "150bbae732cd647eeed3060cd67b032f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
+                                                  "title":  "FL MIXTAPE",
+                                                  "start":  "2026-11-25T18:00:00.0000000Z",
+                                                  "stop":  "2026-11-25T18:08:47.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Oz",
-                                              "start":  "2026-11-25T18:01:15.0000000Z",
-                                              "stop":  "2026-11-25T18:19:07.0000000Z",
-                                              "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                              "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
+                                              "title":  "BloodJoke",
+                                              "start":  "2026-11-25T18:02:57.0000000Z",
+                                              "stop":  "2026-11-25T18:04:32.0000000Z",
+                                              "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                              "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                               "description":  null,
-                                              "year":  2026
+                                              "year":  null
                                           },
                                "upcoming":  [
                                                 {
-                                                    "title":  "Oz",
-                                                    "start":  "2026-11-25T18:01:15.0000000Z",
-                                                    "stop":  "2026-11-25T18:19:07.0000000Z",
-                                                    "itemId":  "f332ba1673f9273e5349cd38b640cf51",
-                                                    "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  2026
-                                                },
-                                                {
                                                     "title":  "BloodJoke",
                                                     "start":  "2026-11-25T18:02:57.0000000Z",
-                                                    "stop":  "2026-11-25T18:36:00.0000000Z",
+                                                    "stop":  "2026-11-25T18:04:32.0000000Z",
                                                     "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
                                                     "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                                     "description":  null,
@@ -620,7 +611,7 @@
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-11-25T18:04:37.0000000Z",
-                                                    "stop":  "2026-11-25T18:35:57.0000000Z",
+                                                    "stop":  "2026-11-25T18:31:08.0000000Z",
                                                     "itemId":  "ed83754111f4ed370a338cab8345534d",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                     "description":  null,
@@ -638,7 +629,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-11-25T18:13:21.0000000Z",
-                                                    "stop":  "2026-11-25T18:37:34.0000000Z",
+                                                    "stop":  "2026-11-25T18:22:46.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -647,7 +638,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-11-25T18:14:20.0000000Z",
-                                                    "stop":  "2026-11-25T18:56:07.0000000Z",
+                                                    "stop":  "2026-11-25T18:24:29.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -656,7 +647,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-11-25T18:16:01.0000000Z",
-                                                    "stop":  "2026-11-25T19:08:05.0000000Z",
+                                                    "stop":  "2026-11-25T18:28:31.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -665,11 +656,20 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-11-25T18:19:58.0000000Z",
-                                                    "stop":  "2026-11-25T18:22:10.0000000Z",
+                                                    "stop":  "2026-11-25T18:49:30.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
+                                                },
+                                                {
+                                                    "title":  "Ninja Now",
+                                                    "start":  "2026-11-25T18:22:10.0000000Z",
+                                                    "stop":  "2026-11-25T18:22:52.0000000Z",
+                                                    "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
