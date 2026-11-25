@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-25T22:01:29.7404810Z",
+    "updated":  "2026-11-25T22:02:13.0522461Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "Fast N Furious",
                                                     "start":  "2026-11-26T00:59:51.0000000Z",
-                                                    "stop":  "2026-11-26T02:47:16.0000000Z",
+                                                    "stop":  "2026-11-26T02:46:56.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "Brightburn",
                                                     "start":  "2026-11-26T02:46:56.0000000Z",
-                                                    "stop":  "2026-11-26T04:17:26.0000000Z",
+                                                    "stop":  "2026-11-26T04:17:46.0000000Z",
                                                     "itemId":  "a562e465a7ff31b0113aee613a779bf2",
                                                     "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
                                                     "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "Total Recall",
                                                     "start":  "2026-11-26T10:07:14.0000000Z",
-                                                    "stop":  "2026-11-26T12:01:04.0000000Z",
+                                                    "stop":  "2026-11-26T12:00:44.0000000Z",
                                                     "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
                                                     "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
                                                     "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "Robocop",
                                                     "start":  "2026-11-26T12:00:44.0000000Z",
-                                                    "stop":  "2026-11-26T13:43:30.0000000Z",
+                                                    "stop":  "2026-11-26T13:43:50.0000000Z",
                                                     "itemId":  "3c527a6f041ff85e54c7d223fb05ecc8",
                                                     "poster":  "http://127.0.0.1:8096/Items/3c527a6f041ff85e54c7d223fb05ecc8/Images/Primary",
                                                     "description":  "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company\u0027s nefarious plans, he turns on his masters.",
@@ -581,37 +581,28 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "BloodJoke",
-                                                  "start":  "2026-11-25T21:41:37.0000000Z",
-                                                  "stop":  "2026-11-25T22:20:26.0000000Z",
-                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
+                                                  "title":  "Never 3Nding",
+                                                  "start":  "2026-11-25T21:58:39.0000000Z",
+                                                  "stop":  "2026-11-25T22:09:28.0000000Z",
+                                                  "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
+                                                  "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "SSBI4649",
-                                              "start":  "2026-11-25T22:01:33.0000000Z",
-                                              "stop":  "2026-11-25T22:38:36.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
+                                              "title":  "Arnold Dynamite",
+                                              "start":  "2026-11-25T22:02:22.0000000Z",
+                                              "stop":  "2026-11-25T22:03:50.0000000Z",
+                                              "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
+                                              "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                               "description":  null,
-                                              "year":  null
+                                              "year":  2026
                                           },
                                "upcoming":  [
                                                 {
-                                                    "title":  "SSBI4649",
-                                                    "start":  "2026-11-25T22:01:33.0000000Z",
-                                                    "stop":  "2026-11-25T22:38:36.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
-                                                {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-11-25T22:02:22.0000000Z",
-                                                    "stop":  "2026-11-25T22:19:59.0000000Z",
+                                                    "stop":  "2026-11-25T22:03:50.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
@@ -620,7 +611,7 @@
                                                 {
                                                     "title":  "0Ld Sc00L",
                                                     "start":  "2026-11-25T22:03:50.0000000Z",
-                                                    "stop":  "2026-11-25T22:20:49.0000000Z",
+                                                    "stop":  "2026-11-25T22:23:19.0000000Z",
                                                     "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
                                                     "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                                     "description":  null,
@@ -629,7 +620,7 @@
                                                 {
                                                     "title":  "After H0uRs",
                                                     "start":  "2026-11-25T22:04:38.0000000Z",
-                                                    "stop":  "2026-11-25T22:36:55.0000000Z",
+                                                    "stop":  "2026-11-25T22:05:27.0000000Z",
                                                     "itemId":  "150bbae732cd647eeed3060cd67b032f",
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
@@ -638,7 +629,7 @@
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-11-25T22:05:27.0000000Z",
-                                                    "stop":  "2026-11-25T22:35:04.0000000Z",
+                                                    "stop":  "2026-11-25T22:19:56.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                     "description":  null,
@@ -647,7 +638,7 @@
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-11-25T22:11:23.0000000Z",
-                                                    "stop":  "2026-11-25T22:12:04.0000000Z",
+                                                    "stop":  "2026-11-25T22:20:37.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
@@ -656,7 +647,7 @@
                                                 {
                                                     "title":  "Chingadasos",
                                                     "start":  "2026-11-25T22:12:04.0000000Z",
-                                                    "stop":  "2026-11-25T22:36:16.0000000Z",
+                                                    "stop":  "2026-11-25T22:22:28.0000000Z",
                                                     "itemId":  "8988d98fd90679aab5aff5b786344b1c",
                                                     "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
                                                     "description":  null,
@@ -665,9 +656,18 @@
                                                 {
                                                     "title":  "Mr J-Carry",
                                                     "start":  "2026-11-25T22:13:56.0000000Z",
-                                                    "stop":  "2026-11-25T22:55:06.0000000Z",
+                                                    "stop":  "2026-11-25T22:42:12.0000000Z",
                                                     "itemId":  "56c94066e018711311e81d6a3f6cc139",
                                                     "poster":  "http://127.0.0.1:8096/Items/56c94066e018711311e81d6a3f6cc139/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
+                                                },
+                                                {
+                                                    "title":  "T2",
+                                                    "start":  "2026-11-25T22:14:52.0000000Z",
+                                                    "stop":  "2026-11-25T22:15:24.0000000Z",
+                                                    "itemId":  "1315943017e226076a7899408d36dec5",
+                                                    "poster":  "http://127.0.0.1:8096/Items/1315943017e226076a7899408d36dec5/Images/Primary",
                                                     "description":  null,
                                                     "year":  2026
                                                 }
