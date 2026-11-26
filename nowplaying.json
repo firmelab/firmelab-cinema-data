@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-26T20:21:09.1302922Z",
+    "updated":  "2026-11-26T20:22:09.3722261Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,33 +101,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "FRIGHT NIGHT",
-                                                  "start":  "2026-11-26T18:34:58.0000000Z",
-                                                  "stop":  "2026-11-26T20:21:29.0000000Z",
-                                                  "itemId":  "8bda9bd3955398694e4a57e90f6c4904",
-                                                  "poster":  "http://127.0.0.1:8096/Items/8bda9bd3955398694e4a57e90f6c4904/Images/Primary",
-                                                  "description":  "Charley Brewster, a high school student, accidentally discovers the true and creepy nature of Jerry Dandrige, his dashing and enigmatic new neighbor; but no one seems willing to believe him.",
-                                                  "year":  1985
+                                                  "title":  "B1_t00",
+                                                  "start":  "2026-11-26T20:21:29.0000000Z",
+                                                  "stop":  "2026-11-26T22:20:33.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "B1_t00",
-                                              "start":  "2026-11-26T20:21:29.0000000Z",
-                                              "stop":  "2026-11-26T22:20:33.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "Blade II",
+                                              "start":  "2026-11-26T22:20:33.0000000Z",
+                                              "stop":  "2026-11-27T00:17:23.0000000Z",
+                                              "itemId":  "74e7a571bdb0578b253598a3f8b45f12",
+                                              "poster":  "http://127.0.0.1:8096/Items/74e7a571bdb0578b253598a3f8b45f12/Images/Primary",
+                                              "description":  "Blade forms an uneasy alliance with the vampire council in order to combat the Reapers, who are feeding on vampires.",
+                                              "year":  2002
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "B1_t00",
-                                                    "start":  "2026-11-26T20:21:29.0000000Z",
-                                                    "stop":  "2026-11-26T22:20:33.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Blade II",
                                                     "start":  "2026-11-26T22:20:33.0000000Z",
@@ -190,6 +181,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/648811d2182191a63ce32eb861ad9020/Images/Primary",
                                                     "description":  "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
                                                     "year":  1996
+                                                },
+                                                {
+                                                    "title":  "Nightmare on Elm Street 4 Dream Master",
+                                                    "start":  "2026-11-27T10:12:41.0000000Z",
+                                                    "stop":  "2026-11-27T11:46:01.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
