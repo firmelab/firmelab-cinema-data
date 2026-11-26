@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-11-26T20:27:07.7609227Z",
+    "updated":  "2026-11-26T20:28:07.1245531Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "BULLITT_SPECIAL_EDITION_DISC_1-B4_t00",
-                                                  "start":  "2026-11-26T18:33:58.0000000Z",
-                                                  "stop":  "2026-11-26T20:28:05.0000000Z",
-                                                  "itemId":  null,
-                                                  "poster":  null,
-                                                  "description":  null,
-                                                  "year":  null
+                                                  "title":  "John Wick",
+                                                  "start":  "2026-11-26T20:27:54.0000000Z",
+                                                  "stop":  "2026-11-26T22:09:30.0000000Z",
+                                                  "itemId":  "84b70d75a3d957b57b02cf83796504a8",
+                                                  "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
+                                                  "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+                                                  "year":  2014
                                               },
                                "upNext":  {
-                                              "title":  "John Wick",
-                                              "start":  "2026-11-26T20:27:54.0000000Z",
-                                              "stop":  "2026-11-26T22:09:30.0000000Z",
-                                              "itemId":  "84b70d75a3d957b57b02cf83796504a8",
-                                              "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
-                                              "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
-                                              "year":  2014
+                                              "title":  "Firmelab Cinema",
+                                              "start":  "2026-11-26T22:09:30.0000000Z",
+                                              "stop":  "2026-11-27T00:25:42.0000000Z",
+                                              "itemId":  null,
+                                              "poster":  null,
+                                              "description":  null,
+                                              "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "John Wick",
-                                                    "start":  "2026-11-26T20:27:54.0000000Z",
-                                                    "stop":  "2026-11-26T22:09:30.0000000Z",
-                                                    "itemId":  "84b70d75a3d957b57b02cf83796504a8",
-                                                    "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
-                                                    "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
-                                                    "year":  2014
-                                                },
                                                 {
                                                     "title":  "Firmelab Cinema",
                                                     "start":  "2026-11-26T22:09:30.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/a5a1f15c45eb562ac5f7621a94c12742/Images/Primary",
                                                     "description":  "Ex-soldier Frank Brayker is the guardian of an ancient key that can unlock tremendous evil; the sinister Collector is a demon who wants the key so he can initiate the apocalypse. On the run from wicked mercenaries for almost 90 years, Brayker finally stops in at a boarding house in New Mexico where — with the help of its residents — he plans to face off against the Collector and his band of ghouls, preventing them from ever seizing the key.",
                                                     "year":  1995
+                                                },
+                                                {
+                                                    "title":  "Uncut Gems",
+                                                    "start":  "2026-11-27T10:35:14.0000000Z",
+                                                    "stop":  "2026-11-27T12:50:32.0000000Z",
+                                                    "itemId":  "45595e0d5e2d1d1e536514ebf9b1deaf",
+                                                    "poster":  "http://127.0.0.1:8096/Items/45595e0d5e2d1d1e536514ebf9b1deaf/Images/Primary",
+                                                    "description":  "A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.",
+                                                    "year":  2019
                                                 }
                                             ]
                            },
@@ -590,24 +590,15 @@
                                                   "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "DnBaPCsht",
-                                              "start":  "2026-11-26T20:27:51.0000000Z",
-                                              "stop":  "2026-11-26T20:28:37.0000000Z",
-                                              "itemId":  "d2296bca99a831548bbada0bb3bac719",
-                                              "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
+                                              "title":  "Duende",
+                                              "start":  "2026-11-26T20:28:49.0000000Z",
+                                              "stop":  "2026-11-26T20:29:58.0000000Z",
+                                              "itemId":  "80d6feb8f0c835e935a80db3275c5412",
+                                              "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "DnBaPCsht",
-                                                    "start":  "2026-11-26T20:27:51.0000000Z",
-                                                    "stop":  "2026-11-26T20:28:37.0000000Z",
-                                                    "itemId":  "d2296bca99a831548bbada0bb3bac719",
-                                                    "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-11-26T20:28:49.0000000Z",
@@ -668,6 +659,15 @@
                                                     "stop":  "2026-11-26T20:40:27.0000000Z",
                                                     "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
                                                     "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "After H0uRs",
+                                                    "start":  "2026-11-26T20:40:27.0000000Z",
+                                                    "stop":  "2026-11-26T21:18:28.0000000Z",
+                                                    "itemId":  "150bbae732cd647eeed3060cd67b032f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
                                                     "year":  null
                                                 }
