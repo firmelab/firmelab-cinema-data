@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-26T16:01:06.6518697Z",
+    "updated":  "2026-11-26T16:02:06.5354174Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -7,7 +7,7 @@
                                "nowPlaying":  {
                                                   "title":  "Brave Heart",
                                                   "start":  "2026-11-26T15:36:08.0000000Z",
-                                                  "stop":  "2026-11-26T18:33:58.0000000Z",
+                                                  "stop":  "2026-11-26T18:34:10.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
@@ -16,7 +16,7 @@
                                "upNext":  {
                                               "title":  "BULLITT_SPECIAL_EDITION_DISC_1-B4_t00",
                                               "start":  "2026-11-26T18:33:58.0000000Z",
-                                              "stop":  "2026-11-26T20:28:06.0000000Z",
+                                              "stop":  "2026-11-26T20:27:54.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
@@ -26,7 +26,7 @@
                                                 {
                                                     "title":  "BULLITT_SPECIAL_EDITION_DISC_1-B4_t00",
                                                     "start":  "2026-11-26T18:33:58.0000000Z",
-                                                    "stop":  "2026-11-26T20:28:06.0000000Z",
+                                                    "stop":  "2026-11-26T20:27:54.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -35,7 +35,7 @@
                                                 {
                                                     "title":  "John Wick",
                                                     "start":  "2026-11-26T20:27:54.0000000Z",
-                                                    "stop":  "2026-11-26T22:09:30.0000000Z",
+                                                    "stop":  "2026-11-26T22:09:42.0000000Z",
                                                     "itemId":  "84b70d75a3d957b57b02cf83796504a8",
                                                     "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
                                                     "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
@@ -44,7 +44,7 @@
                                                 {
                                                     "title":  "Firmelab Cinema",
                                                     "start":  "2026-11-26T22:09:30.0000000Z",
-                                                    "stop":  "2026-11-27T00:25:42.0000000Z",
+                                                    "stop":  "2026-11-27T00:25:30.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -53,7 +53,7 @@
                                                 {
                                                     "title":  "Critters",
                                                     "start":  "2026-11-27T00:25:42.0000000Z",
-                                                    "stop":  "2026-11-27T01:51:33.0000000Z",
+                                                    "stop":  "2026-11-27T01:51:45.0000000Z",
                                                     "itemId":  "54493e812aba3ee1edef65108ed95c05",
                                                     "poster":  "http://127.0.0.1:8096/Items/54493e812aba3ee1edef65108ed95c05/Images/Primary",
                                                     "description":  "Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.",
@@ -62,7 +62,7 @@
                                                 {
                                                     "title":  "CHRISTINE",
                                                     "start":  "2026-11-27T01:51:45.0000000Z",
-                                                    "stop":  "2026-11-27T03:41:59.0000000Z",
+                                                    "stop":  "2026-11-27T03:41:47.0000000Z",
                                                     "itemId":  "91dc7dc3ea26a9c92725048bc480729c",
                                                     "poster":  "http://127.0.0.1:8096/Items/91dc7dc3ea26a9c92725048bc480729c/Images/Primary",
                                                     "description":  "Nerdy high schooler Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory. As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty. Arnie\u0027s girlfriend Leigh and best friend Dennis reach out to him, only to be met by a Fury like no other.",
@@ -71,7 +71,7 @@
                                                 {
                                                     "title":  "B1_t00",
                                                     "start":  "2026-11-27T03:41:59.0000000Z",
-                                                    "stop":  "2026-11-27T05:22:29.0000000Z",
+                                                    "stop":  "2026-11-27T05:22:41.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -581,18 +581,18 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Chingadasos",
-                                                  "start":  "2026-11-26T15:41:43.0000000Z",
-                                                  "stop":  "2026-11-26T16:20:25.0000000Z",
-                                                  "itemId":  "8988d98fd90679aab5aff5b786344b1c",
-                                                  "poster":  "http://127.0.0.1:8096/Items/8988d98fd90679aab5aff5b786344b1c/Images/Primary",
+                                                  "title":  "Carrito",
+                                                  "start":  "2026-11-26T15:56:42.0000000Z",
+                                                  "stop":  "2026-11-26T16:12:52.0000000Z",
+                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Dancing Cobra",
                                               "start":  "2026-11-26T16:04:20.0000000Z",
-                                              "stop":  "2026-11-26T16:21:36.0000000Z",
+                                              "stop":  "2026-11-26T16:05:26.0000000Z",
                                               "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                               "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-11-26T16:04:20.0000000Z",
-                                                    "stop":  "2026-11-26T16:21:36.0000000Z",
+                                                    "stop":  "2026-11-26T16:05:26.0000000Z",
                                                     "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                                     "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                     "description":  null,
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-11-26T16:05:26.0000000Z",
-                                                    "stop":  "2026-11-26T16:37:41.0000000Z",
+                                                    "stop":  "2026-11-26T16:06:24.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-11-26T16:06:24.0000000Z",
-                                                    "stop":  "2026-11-26T16:31:14.0000000Z",
+                                                    "stop":  "2026-11-26T16:08:05.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-11-26T16:08:05.0000000Z",
-                                                    "stop":  "2026-11-26T16:11:57.0000000Z",
+                                                    "stop":  "2026-11-26T16:30:43.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-11-26T16:12:02.0000000Z",
-                                                    "stop":  "2026-11-26T16:37:40.0000000Z",
+                                                    "stop":  "2026-11-26T16:14:14.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-11-26T16:14:14.0000000Z",
-                                                    "stop":  "2026-11-26T16:55:35.0000000Z",
+                                                    "stop":  "2026-11-26T16:23:30.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-11-26T16:14:57.0000000Z",
-                                                    "stop":  "2026-11-26T17:03:57.0000000Z",
+                                                    "stop":  "2026-11-26T16:24:19.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-11-26T16:15:46.0000000Z",
-                                                    "stop":  "2026-11-26T16:17:13.0000000Z",
+                                                    "stop":  "2026-11-26T16:25:46.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
