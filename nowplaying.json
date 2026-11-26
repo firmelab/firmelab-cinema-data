@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-11-26T15:36:05.8694496Z",
+    "updated":  "2026-11-26T15:37:06.0015591Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Jacky Brown",
-                                                  "start":  "2026-11-26T13:01:36.0000000Z",
-                                                  "stop":  "2026-11-26T15:36:19.0000000Z",
+                                                  "title":  "Brave Heart",
+                                                  "start":  "2026-11-26T15:36:08.0000000Z",
+                                                  "stop":  "2026-11-26T18:33:58.0000000Z",
                                                   "itemId":  null,
                                                   "poster":  null,
                                                   "description":  null,
                                                   "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Brave Heart",
-                                              "start":  "2026-11-26T15:36:08.0000000Z",
-                                              "stop":  "2026-11-26T18:33:58.0000000Z",
+                                              "title":  "BULLITT_SPECIAL_EDITION_DISC_1-B4_t00",
+                                              "start":  "2026-11-26T18:33:58.0000000Z",
+                                              "stop":  "2026-11-26T20:28:06.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Brave Heart",
-                                                    "start":  "2026-11-26T15:36:08.0000000Z",
-                                                    "stop":  "2026-11-26T18:33:58.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "BULLITT_SPECIAL_EDITION_DISC_1-B4_t00",
                                                     "start":  "2026-11-26T18:33:58.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/760d913661074a3a3f5a58738842a2f8/Images/Primary",
                                                     "description":  "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
                                                     "year":  2002
+                                                },
+                                                {
+                                                    "title":  "B1_t00",
+                                                    "start":  "2026-11-27T07:03:23.0000000Z",
+                                                    "stop":  "2026-11-27T09:02:39.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
