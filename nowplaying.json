@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-26T00:00:05.3952495Z",
+    "updated":  "2026-11-26T00:01:05.3253062Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,33 +101,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "BORDELLO OF BLOOD",
-                                                  "start":  "2026-11-25T22:34:24.0000000Z",
-                                                  "stop":  "2026-11-26T00:00:55.0000000Z",
-                                                  "itemId":  "b03986ae5fac22e258cf02b8c89bc7a4",
-                                                  "poster":  "http://127.0.0.1:8096/Items/b03986ae5fac22e258cf02b8c89bc7a4/Images/Primary",
-                                                  "description":  "Private eye Rafe Guttman is hired by repressed, born-again Katherine to find her missing bad-boy brother. The trail leads him to a whorehouse run by a thousand-year-old vampire and secretly backed by Katherine\u0027s boss, televangelist Jimmy Current.",
-                                                  "year":  1996
+                                                  "title":  "B1_t00",
+                                                  "start":  "2026-11-26T00:00:55.0000000Z",
+                                                  "stop":  "2026-11-26T02:04:58.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "B1_t00",
-                                              "start":  "2026-11-26T00:00:55.0000000Z",
-                                              "stop":  "2026-11-26T02:04:58.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "CHRISTINE",
+                                              "start":  "2026-11-26T02:04:58.0000000Z",
+                                              "stop":  "2026-11-26T03:54:59.0000000Z",
+                                              "itemId":  "91dc7dc3ea26a9c92725048bc480729c",
+                                              "poster":  "http://127.0.0.1:8096/Items/91dc7dc3ea26a9c92725048bc480729c/Images/Primary",
+                                              "description":  "Nerdy high schooler Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory. As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty. Arnie\u0027s girlfriend Leigh and best friend Dennis reach out to him, only to be met by a Fury like no other.",
+                                              "year":  1983
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "B1_t00",
-                                                    "start":  "2026-11-26T00:00:55.0000000Z",
-                                                    "stop":  "2026-11-26T02:04:58.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "CHRISTINE",
                                                     "start":  "2026-11-26T02:04:58.0000000Z",
@@ -186,6 +177,15 @@
                                                     "title":  "Resident Evil- Apocalypse",
                                                     "start":  "2026-11-26T12:34:01.0000000Z",
                                                     "stop":  "2026-11-26T14:07:49.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "A Nightmare on Elm Street 2 Freddy\u0027s Revenge",
+                                                    "start":  "2026-11-26T14:07:49.0000000Z",
+                                                    "stop":  "2026-11-26T15:33:23.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
