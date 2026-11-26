@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-11-26T11:28:05.7266922Z",
+    "updated":  "2026-11-26T11:29:05.7799677Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "World War Z",
-                                                  "start":  "2026-11-26T09:25:00.0000000Z",
-                                                  "stop":  "2026-11-26T11:28:26.0000000Z",
-                                                  "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
-                                                  "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
-                                                  "year":  2013
+                                                  "title":  "Rambo First Blood",
+                                                  "start":  "2026-11-26T11:28:15.0000000Z",
+                                                  "stop":  "2026-11-26T13:01:36.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Rambo First Blood",
-                                              "start":  "2026-11-26T11:28:15.0000000Z",
-                                              "stop":  "2026-11-26T13:01:36.0000000Z",
+                                              "title":  "Jacky Brown",
+                                              "start":  "2026-11-26T13:01:36.0000000Z",
+                                              "stop":  "2026-11-26T15:36:20.0000000Z",
                                               "itemId":  null,
                                               "poster":  null,
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Rambo First Blood",
-                                                    "start":  "2026-11-26T11:28:15.0000000Z",
-                                                    "stop":  "2026-11-26T13:01:36.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Jacky Brown",
                                                     "start":  "2026-11-26T13:01:36.0000000Z",
@@ -94,6 +85,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/91dc7dc3ea26a9c92725048bc480729c/Images/Primary",
                                                     "description":  "Nerdy high schooler Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory. As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty. Arnie\u0027s girlfriend Leigh and best friend Dennis reach out to him, only to be met by a Fury like no other.",
                                                     "year":  1983
+                                                },
+                                                {
+                                                    "title":  "B1_t00",
+                                                    "start":  "2026-11-27T03:41:59.0000000Z",
+                                                    "stop":  "2026-11-27T05:22:29.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
