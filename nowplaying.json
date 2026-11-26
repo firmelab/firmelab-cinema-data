@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-26T05:01:05.6733197Z",
+    "updated":  "2026-11-26T05:02:05.6727215Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -7,7 +7,7 @@
                                "nowPlaying":  {
                                                   "title":  "Wrong Turn",
                                                   "start":  "2026-11-26T04:53:20.0000000Z",
-                                                  "stop":  "2026-11-26T06:17:44.0000000Z",
+                                                  "stop":  "2026-11-26T06:17:56.0000000Z",
                                                   "itemId":  "58d332deb67464546d571f7fda1cd63c",
                                                   "poster":  "http://127.0.0.1:8096/Items/58d332deb67464546d571f7fda1cd63c/Images/Primary",
                                                   "description":  "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they\u0027re hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
@@ -16,7 +16,7 @@
                                "upNext":  {
                                               "title":  "Get Shorty",
                                               "start":  "2026-11-26T06:17:44.0000000Z",
-                                              "stop":  "2026-11-26T08:02:56.0000000Z",
+                                              "stop":  "2026-11-26T08:02:44.0000000Z",
                                               "itemId":  "746531a34dc012efd97b57703e1903af",
                                               "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
                                               "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
@@ -26,7 +26,7 @@
                                                 {
                                                     "title":  "Get Shorty",
                                                     "start":  "2026-11-26T06:17:44.0000000Z",
-                                                    "stop":  "2026-11-26T08:02:56.0000000Z",
+                                                    "stop":  "2026-11-26T08:02:44.0000000Z",
                                                     "itemId":  "746531a34dc012efd97b57703e1903af",
                                                     "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
                                                     "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
@@ -35,7 +35,7 @@
                                                 {
                                                     "title":  "HALF BAKED",
                                                     "start":  "2026-11-26T08:02:44.0000000Z",
-                                                    "stop":  "2026-11-26T09:25:00.0000000Z",
+                                                    "stop":  "2026-11-26T09:25:12.0000000Z",
                                                     "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
                                                     "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
                                                     "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
@@ -44,7 +44,7 @@
                                                 {
                                                     "title":  "World War Z",
                                                     "start":  "2026-11-26T09:25:00.0000000Z",
-                                                    "stop":  "2026-11-26T11:28:27.0000000Z",
+                                                    "stop":  "2026-11-26T11:28:15.0000000Z",
                                                     "itemId":  "f06f1c3339ca4b03a2778cabeda70a50",
                                                     "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
                                                     "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
@@ -53,7 +53,7 @@
                                                 {
                                                     "title":  "Rambo First Blood",
                                                     "start":  "2026-11-26T11:28:15.0000000Z",
-                                                    "stop":  "2026-11-26T13:01:36.0000000Z",
+                                                    "stop":  "2026-11-26T13:01:48.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -62,7 +62,7 @@
                                                 {
                                                     "title":  "Jacky Brown",
                                                     "start":  "2026-11-26T13:01:36.0000000Z",
-                                                    "stop":  "2026-11-26T15:36:20.0000000Z",
+                                                    "stop":  "2026-11-26T15:36:08.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -71,7 +71,7 @@
                                                 {
                                                     "title":  "Brave Heart",
                                                     "start":  "2026-11-26T15:36:08.0000000Z",
-                                                    "stop":  "2026-11-26T18:33:58.0000000Z",
+                                                    "stop":  "2026-11-26T18:34:10.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -80,7 +80,7 @@
                                                 {
                                                     "title":  "BULLITT_SPECIAL_EDITION_DISC_1-B4_t00",
                                                     "start":  "2026-11-26T18:33:58.0000000Z",
-                                                    "stop":  "2026-11-26T20:28:05.0000000Z",
+                                                    "stop":  "2026-11-26T20:27:54.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -89,7 +89,7 @@
                                                 {
                                                     "title":  "John Wick",
                                                     "start":  "2026-11-26T20:27:54.0000000Z",
-                                                    "stop":  "2026-11-26T22:09:30.0000000Z",
+                                                    "stop":  "2026-11-26T22:09:42.0000000Z",
                                                     "itemId":  "84b70d75a3d957b57b02cf83796504a8",
                                                     "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
                                                     "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "BATMAN BEGINS",
                                                     "start":  "2026-11-26T07:47:12.0000000Z",
-                                                    "stop":  "2026-11-26T10:07:34.0000000Z",
+                                                    "stop":  "2026-11-26T10:07:14.0000000Z",
                                                     "itemId":  "40cf44019306b29674462340007b5e1a",
                                                     "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
                                                     "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "Total Recall",
                                                     "start":  "2026-11-26T10:07:14.0000000Z",
-                                                    "stop":  "2026-11-26T12:00:44.0000000Z",
+                                                    "stop":  "2026-11-26T12:01:04.0000000Z",
                                                     "itemId":  "297d6caf76aca34e37bdacb452d5b8b0",
                                                     "poster":  "http://127.0.0.1:8096/Items/297d6caf76aca34e37bdacb452d5b8b0/Images/Primary",
                                                     "description":  "Construction worker Douglas Quaid\u0027s obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid\u0027s memory implant procedure, his life turns upside down, leading him to question what is reality and what isn\u0027t.",
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "Conan The Destroyer",
                                                     "start":  "2026-11-26T17:54:25.0000000Z",
-                                                    "stop":  "2026-11-26T19:35:53.0000000Z",
+                                                    "stop":  "2026-11-26T19:35:33.0000000Z",
                                                     "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
                                                     "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
                                                     "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "Sherlock Holmes",
                                                     "start":  "2026-11-26T19:35:43.0000000Z",
-                                                    "stop":  "2026-11-26T21:44:12.0000000Z",
+                                                    "stop":  "2026-11-26T21:44:32.0000000Z",
                                                     "itemId":  "13f15ebe16c0eb3f08c61c87a837dbf9",
                                                     "poster":  "http://127.0.0.1:8096/Items/13f15ebe16c0eb3f08c61c87a837dbf9/Images/Primary",
                                                     "description":  "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
@@ -581,11 +581,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "After H0uRs",
-                                                  "start":  "2026-11-26T04:38:15.0000000Z",
-                                                  "stop":  "2026-11-26T05:16:17.0000000Z",
-                                                  "itemId":  "150bbae732cd647eeed3060cd67b032f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
+                                                  "title":  "BloodJoke",
+                                                  "start":  "2026-11-26T04:58:59.0000000Z",
+                                                  "stop":  "2026-11-26T05:09:11.0000000Z",
+                                                  "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-11-26T05:09:24.0000000Z",
-                                                    "stop":  "2026-11-26T05:33:36.0000000Z",
+                                                    "stop":  "2026-11-26T05:10:22.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-11-26T05:10:22.0000000Z",
-                                                    "stop":  "2026-11-26T05:52:09.0000000Z",
+                                                    "stop":  "2026-11-26T05:30:44.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-11-26T05:12:03.0000000Z",
-                                                    "stop":  "2026-11-26T06:04:07.0000000Z",
+                                                    "stop":  "2026-11-26T05:16:00.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-11-26T05:16:00.0000000Z",
-                                                    "stop":  "2026-11-26T05:18:12.0000000Z",
+                                                    "stop":  "2026-11-26T05:26:45.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-11-26T05:18:12.0000000Z",
-                                                    "stop":  "2026-11-26T05:55:46.0000000Z",
+                                                    "stop":  "2026-11-26T05:27:27.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-11-26T05:18:55.0000000Z",
-                                                    "stop":  "2026-11-26T05:19:44.0000000Z",
+                                                    "stop":  "2026-11-26T05:28:16.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Arnold Dynamite",
                                                     "start":  "2026-11-26T05:19:44.0000000Z",
-                                                    "stop":  "2026-11-26T05:50:29.0000000Z",
+                                                    "stop":  "2026-11-26T05:48:31.0000000Z",
                                                     "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
                                                     "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
                                                     "description":  null,
