@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-26T03:01:05.6583570Z",
+    "updated":  "2026-11-26T03:02:05.6031116Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "Bourne Supremacy",
                                                     "start":  "2026-11-26T05:58:40.0000000Z",
-                                                    "stop":  "2026-11-26T07:47:32.0000000Z",
+                                                    "stop":  "2026-11-26T07:47:12.0000000Z",
                                                     "itemId":  "031faf0da71af121647ff2d37294b07a",
                                                     "poster":  "http://127.0.0.1:8096/Items/031faf0da71af121647ff2d37294b07a/Images/Primary",
                                                     "description":  "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "BATMAN BEGINS",
                                                     "start":  "2026-11-26T07:47:12.0000000Z",
-                                                    "stop":  "2026-11-26T10:07:14.0000000Z",
+                                                    "stop":  "2026-11-26T10:07:34.0000000Z",
                                                     "itemId":  "40cf44019306b29674462340007b5e1a",
                                                     "poster":  "http://127.0.0.1:8096/Items/40cf44019306b29674462340007b5e1a/Images/Primary",
                                                     "description":  "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "Predator",
                                                     "start":  "2026-11-26T16:07:51.0000000Z",
-                                                    "stop":  "2026-11-26T17:54:45.0000000Z",
+                                                    "stop":  "2026-11-26T17:54:25.0000000Z",
                                                     "itemId":  "9745bbd80aedfd3750130547f37af704",
                                                     "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
                                                     "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "Conan The Destroyer",
                                                     "start":  "2026-11-26T17:54:25.0000000Z",
-                                                    "stop":  "2026-11-26T19:35:33.0000000Z",
+                                                    "stop":  "2026-11-26T19:35:53.0000000Z",
                                                     "itemId":  "f7f5b407ffed5f20e83d9a10bf467ca3",
                                                     "poster":  "http://127.0.0.1:8096/Items/f7f5b407ffed5f20e83d9a10bf467ca3/Images/Primary",
                                                     "description":  "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen\u0027s plans fail to take into consideration Conan\u0027s strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
@@ -293,33 +293,24 @@
                                "number":  4,
                                "name":  "FIRMELAB COMEDY",
                                "nowPlaying":  {
-                                                  "title":  "UP IN SMOKE",
-                                                  "start":  "2026-11-26T01:35:30.0000000Z",
-                                                  "stop":  "2026-11-26T03:01:21.0000000Z",
-                                                  "itemId":  "8cdfd7487741b0bc0664b162c33bb08a",
-                                                  "poster":  "http://127.0.0.1:8096/Items/8cdfd7487741b0bc0664b162c33bb08a/Images/Primary",
-                                                  "description":  "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\"",
-                                                  "year":  1978
+                                                  "title":  "HALF BAKED",
+                                                  "start":  "2026-11-26T03:01:21.0000000Z",
+                                                  "stop":  "2026-11-26T04:23:27.0000000Z",
+                                                  "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
+                                                  "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
+                                                  "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
+                                                  "year":  1998
                                               },
                                "upNext":  {
-                                              "title":  "HALF BAKED",
-                                              "start":  "2026-11-26T03:01:21.0000000Z",
-                                              "stop":  "2026-11-26T04:23:27.0000000Z",
-                                              "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
-                                              "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
-                                              "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
-                                              "year":  1998
+                                              "title":  "Get Shorty",
+                                              "start":  "2026-11-26T04:23:27.0000000Z",
+                                              "stop":  "2026-11-26T06:08:15.0000000Z",
+                                              "itemId":  "746531a34dc012efd97b57703e1903af",
+                                              "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
+                                              "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
+                                              "year":  1995
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "HALF BAKED",
-                                                    "start":  "2026-11-26T03:01:21.0000000Z",
-                                                    "stop":  "2026-11-26T04:23:27.0000000Z",
-                                                    "itemId":  "32fde7791b03ca98479b5172ad2f18c9",
-                                                    "poster":  "http://127.0.0.1:8096/Items/32fde7791b03ca98479b5172ad2f18c9/Images/Primary",
-                                                    "description":  "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
-                                                    "year":  1998
-                                                },
                                                 {
                                                     "title":  "Get Shorty",
                                                     "start":  "2026-11-26T04:23:27.0000000Z",
@@ -382,6 +373,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/746531a34dc012efd97b57703e1903af/Images/Primary",
                                                     "description":  "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry\u0027s leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren\u0027t all that different.",
                                                     "year":  1995
+                                                },
+                                                {
+                                                    "title":  "Undercover Brother",
+                                                    "start":  "2026-11-26T15:13:42.0000000Z",
+                                                    "stop":  "2026-11-26T16:39:48.0000000Z",
+                                                    "itemId":  "6317b8f6b30a049091764b8311c08279",
+                                                    "poster":  "http://127.0.0.1:8096/Items/6317b8f6b30a049091764b8311c08279/Images/Primary",
+                                                    "description":  "An Afro-American organization, the B.R.O.T.H.E.R.H.O.O.D., is in permanent fight against a white organization \"The Man\" defending the values of the black people in North America. When the Afro-American candidate Gen. Warren Boutwell behaves strangely in his presidential campaign, Undercover Brother is hired to work undercover for \"The Man\" and find what happened with the potential candidate.",
+                                                    "year":  2002
                                                 }
                                             ]
                            },
@@ -581,18 +581,18 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "XocoBruja",
-                                                  "start":  "2026-11-26T02:40:04.0000000Z",
-                                                  "stop":  "2026-11-26T03:19:39.0000000Z",
-                                                  "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
-                                                  "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
+                                                  "title":  "Duende",
+                                                  "start":  "2026-11-26T02:59:09.0000000Z",
+                                                  "stop":  "2026-11-26T03:09:28.0000000Z",
+                                                  "itemId":  "80d6feb8f0c835e935a80db3275c5412",
+                                                  "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Never 3Nding",
                                               "start":  "2026-11-26T03:04:48.0000000Z",
-                                              "stop":  "2026-11-26T03:23:10.0000000Z",
+                                              "stop":  "2026-11-26T03:07:00.0000000Z",
                                               "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                               "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-11-26T03:04:48.0000000Z",
-                                                    "stop":  "2026-11-26T03:23:10.0000000Z",
+                                                    "stop":  "2026-11-26T03:07:00.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -611,7 +611,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-11-26T03:07:00.0000000Z",
-                                                    "stop":  "2026-11-26T03:39:10.0000000Z",
+                                                    "stop":  "2026-11-26T03:07:42.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-11-26T03:07:42.0000000Z",
-                                                    "stop":  "2026-11-26T03:32:12.0000000Z",
+                                                    "stop":  "2026-11-26T03:27:12.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "0Ld Sc00L",
                                                     "start":  "2026-11-26T03:09:59.0000000Z",
-                                                    "stop":  "2026-11-26T03:34:13.0000000Z",
+                                                    "stop":  "2026-11-26T03:19:20.0000000Z",
                                                     "itemId":  "1cfb20978adb7b78ed63d2c4e73b3499",
                                                     "poster":  "http://127.0.0.1:8096/Items/1cfb20978adb7b78ed63d2c4e73b3499/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "After H0uRs",
                                                     "start":  "2026-11-26T03:10:47.0000000Z",
-                                                    "stop":  "2026-11-26T03:52:15.0000000Z",
+                                                    "stop":  "2026-11-26T03:20:09.0000000Z",
                                                     "itemId":  "150bbae732cd647eeed3060cd67b032f",
                                                     "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "Ass Kicker Bruce",
                                                     "start":  "2026-11-26T03:11:36.0000000Z",
-                                                    "stop":  "2026-11-26T04:05:43.0000000Z",
+                                                    "stop":  "2026-11-26T03:26:05.0000000Z",
                                                     "itemId":  "96ef399026bee200d406b0d57e3e2b4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/96ef399026bee200d406b0d57e3e2b4c/Images/Primary",
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Biggie Mobbing",
                                                     "start":  "2026-11-26T03:17:32.0000000Z",
-                                                    "stop":  "2026-11-26T03:18:13.0000000Z",
+                                                    "stop":  "2026-11-26T03:45:33.0000000Z",
                                                     "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
                                                     "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
                                                     "description":  null,
