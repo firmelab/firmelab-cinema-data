@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-27T13:15:05.5508680Z",
+    "updated":  "2026-11-27T13:16:05.2629925Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,33 +101,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "WISHMASTER",
-                                                  "start":  "2026-11-27T11:46:01.0000000Z",
-                                                  "stop":  "2026-11-27T13:15:57.0000000Z",
-                                                  "itemId":  "58d933a690c3d71b883c09370fa30d07",
-                                                  "poster":  "http://127.0.0.1:8096/Items/58d933a690c3d71b883c09370fa30d07/Images/Primary",
-                                                  "description":  "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
-                                                  "year":  1997
+                                                  "title":  "Underworld Evolution",
+                                                  "start":  "2026-11-27T13:15:57.0000000Z",
+                                                  "stop":  "2026-11-27T15:02:21.0000000Z",
+                                                  "itemId":  null,
+                                                  "poster":  null,
+                                                  "description":  null,
+                                                  "year":  null
                                               },
                                "upNext":  {
-                                              "title":  "Underworld Evolution",
-                                              "start":  "2026-11-27T13:15:57.0000000Z",
-                                              "stop":  "2026-11-27T15:02:21.0000000Z",
-                                              "itemId":  null,
-                                              "poster":  null,
-                                              "description":  null,
-                                              "year":  null
+                                              "title":  "DEMON KNIGHT",
+                                              "start":  "2026-11-27T15:02:21.0000000Z",
+                                              "stop":  "2026-11-27T16:34:54.0000000Z",
+                                              "itemId":  "a5a1f15c45eb562ac5f7621a94c12742",
+                                              "poster":  "http://127.0.0.1:8096/Items/a5a1f15c45eb562ac5f7621a94c12742/Images/Primary",
+                                              "description":  "Ex-soldier Frank Brayker is the guardian of an ancient key that can unlock tremendous evil; the sinister Collector is a demon who wants the key so he can initiate the apocalypse. On the run from wicked mercenaries for almost 90 years, Brayker finally stops in at a boarding house in New Mexico where — with the help of its residents — he plans to face off against the Collector and his band of ghouls, preventing them from ever seizing the key.",
+                                              "year":  1995
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Underworld Evolution",
-                                                    "start":  "2026-11-27T13:15:57.0000000Z",
-                                                    "stop":  "2026-11-27T15:02:21.0000000Z",
-                                                    "itemId":  null,
-                                                    "poster":  null,
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "DEMON KNIGHT",
                                                     "start":  "2026-11-27T15:02:21.0000000Z",
@@ -190,6 +181,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/c79ef56b1b57aea8237d2575aba106ee/Images/Primary",
                                                     "description":  "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop\u0027s daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers\u0027 children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
                                                     "year":  1984
+                                                },
+                                                {
+                                                    "title":  "Dawn of the Dead",
+                                                    "start":  "2026-11-28T02:39:26.0000000Z",
+                                                    "stop":  "2026-11-28T04:28:38.0000000Z",
+                                                    "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
+                                                    "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
+                                                    "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
+                                                    "year":  2004
                                                 }
                                             ]
                            },
