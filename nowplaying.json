@@ -1,37 +1,28 @@
 {
-    "updated":  "2026-11-27T22:45:12.0892103Z",
+    "updated":  "2026-11-27T22:46:05.8062610Z",
     "channels":  {
                      "1":  {
                                "number":  1,
                                "name":  "FIRMELAB CINEMA",
                                "nowPlaying":  {
-                                                  "title":  "Dawn of the Dead",
-                                                  "start":  "2026-11-27T20:56:33.0000000Z",
-                                                  "stop":  "2026-11-27T22:45:56.0000000Z",
-                                                  "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
-                                                  "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
-                                                  "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
-                                                  "year":  2004
+                                                  "title":  "Predator",
+                                                  "start":  "2026-11-27T22:45:56.0000000Z",
+                                                  "stop":  "2026-11-28T00:32:42.0000000Z",
+                                                  "itemId":  "9745bbd80aedfd3750130547f37af704",
+                                                  "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
+                                                  "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+                                                  "year":  1987
                                               },
                                "upNext":  {
-                                              "title":  "Predator",
-                                              "start":  "2026-11-27T22:45:56.0000000Z",
-                                              "stop":  "2026-11-28T00:32:42.0000000Z",
-                                              "itemId":  "9745bbd80aedfd3750130547f37af704",
-                                              "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
-                                              "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
-                                              "year":  1987
+                                              "title":  "Bourne Supremacy",
+                                              "start":  "2026-11-28T00:32:42.0000000Z",
+                                              "stop":  "2026-11-28T02:21:24.0000000Z",
+                                              "itemId":  "031faf0da71af121647ff2d37294b07a",
+                                              "poster":  "http://127.0.0.1:8096/Items/031faf0da71af121647ff2d37294b07a/Images/Primary",
+                                              "description":  "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
+                                              "year":  2004
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Predator",
-                                                    "start":  "2026-11-27T22:45:56.0000000Z",
-                                                    "stop":  "2026-11-28T00:32:42.0000000Z",
-                                                    "itemId":  "9745bbd80aedfd3750130547f37af704",
-                                                    "poster":  "http://127.0.0.1:8096/Items/9745bbd80aedfd3750130547f37af704/Images/Primary",
-                                                    "description":  "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
-                                                    "year":  1987
-                                                },
                                                 {
                                                     "title":  "Bourne Supremacy",
                                                     "start":  "2026-11-28T00:32:42.0000000Z",
@@ -90,6 +81,15 @@
                                                     "title":  "WISHMASTER part 2",
                                                     "start":  "2026-11-28T12:46:41.0000000Z",
                                                     "stop":  "2026-11-28T14:22:53.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
+                                                },
+                                                {
+                                                    "title":  "Kickboxer-B1_t00",
+                                                    "start":  "2026-11-28T14:22:53.0000000Z",
+                                                    "stop":  "2026-11-28T16:00:36.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -581,13 +581,13 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Biggie Mobbing",
-                                                  "start":  "2026-11-27T22:17:56.0000000Z",
-                                                  "stop":  "2026-11-27T22:45:57.0000000Z",
-                                                  "itemId":  "ea55dc3bb77329e31430bf9c8f091753",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ea55dc3bb77329e31430bf9c8f091753/Images/Primary",
+                                                  "title":  "DnBaPCsht",
+                                                  "start":  "2026-11-27T22:42:20.0000000Z",
+                                                  "stop":  "2026-11-27T23:20:19.0000000Z",
+                                                  "itemId":  "d2296bca99a831548bbada0bb3bac719",
+                                                  "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                   "description":  null,
-                                                  "year":  2026
+                                                  "year":  null
                                               },
                                "upNext":  {
                                               "title":  "Never 3Nding",
