@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-27T02:01:06.6024999Z",
+    "updated":  "2026-11-27T02:02:06.6671575Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "Bourne Identity",
                                                     "start":  "2026-11-27T05:29:47.0000000Z",
-                                                    "stop":  "2026-11-27T07:28:24.0000000Z",
+                                                    "stop":  "2026-11-27T07:28:04.0000000Z",
                                                     "itemId":  "ad22fba25f4ceaee407d76b5620443de",
                                                     "poster":  "http://127.0.0.1:8096/Items/ad22fba25f4ceaee407d76b5620443de/Images/Primary",
                                                     "description":  "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "Rambo First Blood",
                                                     "start":  "2026-11-27T07:28:04.0000000Z",
-                                                    "stop":  "2026-11-27T09:01:13.0000000Z",
+                                                    "stop":  "2026-11-27T09:01:33.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "John Wick",
                                                     "start":  "2026-11-27T13:49:02.0000000Z",
-                                                    "stop":  "2026-11-27T15:30:36.0000000Z",
+                                                    "stop":  "2026-11-27T15:30:16.0000000Z",
                                                     "itemId":  "84b70d75a3d957b57b02cf83796504a8",
                                                     "poster":  "http://127.0.0.1:8096/Items/84b70d75a3d957b57b02cf83796504a8/Images/Primary",
                                                     "description":  "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "Bourne Supremacy",
                                                     "start":  "2026-11-27T15:30:16.0000000Z",
-                                                    "stop":  "2026-11-27T17:18:48.0000000Z",
+                                                    "stop":  "2026-11-27T17:19:08.0000000Z",
                                                     "itemId":  "031faf0da71af121647ff2d37294b07a",
                                                     "poster":  "http://127.0.0.1:8096/Items/031faf0da71af121647ff2d37294b07a/Images/Primary",
                                                     "description":  "A CIA operation to purchase classified Russian documents is blown by a rival agent, who then shows up in the sleepy seaside village where Bourne and Marie have been living. The pair run for their lives and Bourne, who promised retaliation should anyone from his former life attempt contact, is forced to once again take up his life as a trained assassin to survive.",
@@ -581,18 +581,18 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Ninja Now",
-                                                  "start":  "2026-11-27T01:42:48.0000000Z",
-                                                  "stop":  "2026-11-27T02:20:43.0000000Z",
-                                                  "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
+                                                  "title":  "XocoBruja",
+                                                  "start":  "2026-11-27T01:59:37.0000000Z",
+                                                  "stop":  "2026-11-27T02:10:59.0000000Z",
+                                                  "itemId":  "6e690f4cd06924a9d194727a9eedc39e",
+                                                  "poster":  "http://127.0.0.1:8096/Items/6e690f4cd06924a9d194727a9eedc39e/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
                                               "title":  "COKCE6139",
                                               "start":  "2026-11-27T02:02:22.0000000Z",
-                                              "stop":  "2026-11-27T02:28:13.0000000Z",
+                                              "stop":  "2026-11-27T02:04:32.0000000Z",
                                               "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
                                               "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
                                               "description":  null,
@@ -602,7 +602,7 @@
                                                 {
                                                     "title":  "COKCE6139",
                                                     "start":  "2026-11-27T02:02:22.0000000Z",
-                                                    "stop":  "2026-11-27T02:28:13.0000000Z",
+                                                    "stop":  "2026-11-27T02:04:32.0000000Z",
                                                     "itemId":  "a2ab4a36aa1ebefb308c38359f8d0a4c",
                                                     "poster":  "http://127.0.0.1:8096/Items/a2ab4a36aa1ebefb308c38359f8d0a4c/Images/Primary",
                                                     "description":  null,
@@ -620,7 +620,7 @@
                                                 {
                                                     "title":  "Oz",
                                                     "start":  "2026-11-27T02:05:38.0000000Z",
-                                                    "stop":  "2026-11-27T02:30:44.0000000Z",
+                                                    "stop":  "2026-11-27T02:07:19.0000000Z",
                                                     "itemId":  "f332ba1673f9273e5349cd38b640cf51",
                                                     "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                                     "description":  null,
@@ -629,7 +629,7 @@
                                                 {
                                                     "title":  "BloodJoke",
                                                     "start":  "2026-11-27T02:07:19.0000000Z",
-                                                    "stop":  "2026-11-27T02:49:33.0000000Z",
+                                                    "stop":  "2026-11-27T02:27:46.0000000Z",
                                                     "itemId":  "ab147d9166b415b8684bbdb5457ea0c3",
                                                     "poster":  "http://127.0.0.1:8096/Items/ab147d9166b415b8684bbdb5457ea0c3/Images/Primary",
                                                     "description":  null,
@@ -638,7 +638,7 @@
                                                 {
                                                     "title":  "Carrito",
                                                     "start":  "2026-11-27T02:09:00.0000000Z",
-                                                    "stop":  "2026-11-27T03:04:50.0000000Z",
+                                                    "stop":  "2026-11-27T02:16:38.0000000Z",
                                                     "itemId":  "ed83754111f4ed370a338cab8345534d",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
                                                     "description":  null,
@@ -647,7 +647,7 @@
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-11-27T02:16:38.0000000Z",
-                                                    "stop":  "2026-11-27T02:17:44.0000000Z",
+                                                    "stop":  "2026-11-27T02:26:22.0000000Z",
                                                     "itemId":  "d8d2eb04b653c09af53f616165b15809",
                                                     "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                                     "description":  null,
@@ -656,7 +656,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-11-27T02:17:44.0000000Z",
-                                                    "stop":  "2026-11-27T02:55:22.0000000Z",
+                                                    "stop":  "2026-11-27T02:27:09.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -665,7 +665,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-11-27T02:18:42.0000000Z",
-                                                    "stop":  "2026-11-27T02:19:51.0000000Z",
+                                                    "stop":  "2026-11-27T02:28:46.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
