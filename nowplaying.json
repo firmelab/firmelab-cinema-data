@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-28T01:07:05.2776263Z",
+    "updated":  "2026-11-28T01:08:05.3091581Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,33 +101,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "CANDYMAN",
-                                                  "start":  "2026-11-27T23:28:56.0000000Z",
-                                                  "stop":  "2026-11-28T01:08:02.0000000Z",
-                                                  "itemId":  "75bc45c9af5e154aea4dd68eb38e0354",
-                                                  "poster":  "http://127.0.0.1:8096/Items/75bc45c9af5e154aea4dd68eb38e0354/Images/Primary",
-                                                  "description":  "A Chicago artist\u0027s sanity starts to unravel, unleashing a terrifying wave of violence when he begins to explore the macabre history of the Candyman.",
-                                                  "year":  2021
+                                                  "title":  "A Nightmare on Elm Street",
+                                                  "start":  "2026-11-28T01:08:02.0000000Z",
+                                                  "stop":  "2026-11-28T02:39:26.0000000Z",
+                                                  "itemId":  "c79ef56b1b57aea8237d2575aba106ee",
+                                                  "poster":  "http://127.0.0.1:8096/Items/c79ef56b1b57aea8237d2575aba106ee/Images/Primary",
+                                                  "description":  "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop\u0027s daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers\u0027 children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
+                                                  "year":  1984
                                               },
                                "upNext":  {
-                                              "title":  "A Nightmare on Elm Street",
-                                              "start":  "2026-11-28T01:08:02.0000000Z",
-                                              "stop":  "2026-11-28T02:39:26.0000000Z",
-                                              "itemId":  "c79ef56b1b57aea8237d2575aba106ee",
-                                              "poster":  "http://127.0.0.1:8096/Items/c79ef56b1b57aea8237d2575aba106ee/Images/Primary",
-                                              "description":  "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop\u0027s daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers\u0027 children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
-                                              "year":  1984
+                                              "title":  "Dawn of the Dead",
+                                              "start":  "2026-11-28T02:39:26.0000000Z",
+                                              "stop":  "2026-11-28T04:28:38.0000000Z",
+                                              "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
+                                              "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
+                                              "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
+                                              "year":  2004
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "A Nightmare on Elm Street",
-                                                    "start":  "2026-11-28T01:08:02.0000000Z",
-                                                    "stop":  "2026-11-28T02:39:26.0000000Z",
-                                                    "itemId":  "c79ef56b1b57aea8237d2575aba106ee",
-                                                    "poster":  "http://127.0.0.1:8096/Items/c79ef56b1b57aea8237d2575aba106ee/Images/Primary",
-                                                    "description":  "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop\u0027s daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers\u0027 children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
-                                                    "year":  1984
-                                                },
                                                 {
                                                     "title":  "Dawn of the Dead",
                                                     "start":  "2026-11-28T02:39:26.0000000Z",
@@ -190,6 +181,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/f06f1c3339ca4b03a2778cabeda70a50/Images/Primary",
                                                     "description":  "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
                                                     "year":  2013
+                                                },
+                                                {
+                                                    "title":  "End of Days",
+                                                    "start":  "2026-11-28T15:18:17.0000000Z",
+                                                    "stop":  "2026-11-28T17:20:42.0000000Z",
+                                                    "itemId":  "6e5ccc599868e8e4908111e8e00356ea",
+                                                    "poster":  "http://127.0.0.1:8096/Items/6e5ccc599868e8e4908111e8e00356ea/Images/Primary",
+                                                    "description":  "Cynical bodyguard Jericho is hired by a man possessed by Satan, who is in search of his bride. When Jericho realizes what is happening, he must do everything he can to save the woman and the world.",
+                                                    "year":  1999
                                                 }
                                             ]
                            },
