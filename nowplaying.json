@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-28T02:39:05.9295482Z",
+    "updated":  "2026-11-28T02:40:05.9947295Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -101,33 +101,24 @@
                                "number":  2,
                                "name":  "HELLA HORROR",
                                "nowPlaying":  {
-                                                  "title":  "A Nightmare on Elm Street",
-                                                  "start":  "2026-11-28T01:08:02.0000000Z",
-                                                  "stop":  "2026-11-28T02:39:26.0000000Z",
-                                                  "itemId":  "c79ef56b1b57aea8237d2575aba106ee",
-                                                  "poster":  "http://127.0.0.1:8096/Items/c79ef56b1b57aea8237d2575aba106ee/Images/Primary",
-                                                  "description":  "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop\u0027s daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers\u0027 children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
-                                                  "year":  1984
+                                                  "title":  "Dawn of the Dead",
+                                                  "start":  "2026-11-28T02:39:26.0000000Z",
+                                                  "stop":  "2026-11-28T04:28:38.0000000Z",
+                                                  "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
+                                                  "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
+                                                  "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
+                                                  "year":  2004
                                               },
                                "upNext":  {
-                                              "title":  "Dawn of the Dead",
-                                              "start":  "2026-11-28T02:39:26.0000000Z",
-                                              "stop":  "2026-11-28T04:28:38.0000000Z",
-                                              "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
-                                              "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
-                                              "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
-                                              "year":  2004
+                                              "title":  "Critters 3",
+                                              "start":  "2026-11-28T04:28:38.0000000Z",
+                                              "stop":  "2026-11-28T05:53:24.0000000Z",
+                                              "itemId":  "f9168c1a730f0cc71fd31a7f22c4663f",
+                                              "poster":  "http://127.0.0.1:8096/Items/f9168c1a730f0cc71fd31a7f22c4663f/Images/Primary",
+                                              "description":  "As fanged, furious furballs viciously invade an L.A. apartment building and sink their teeth into the low-rent tenants, Josh leads the battle to beat back the conniving critters and save the planet.",
+                                              "year":  1991
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Dawn of the Dead",
-                                                    "start":  "2026-11-28T02:39:26.0000000Z",
-                                                    "stop":  "2026-11-28T04:28:38.0000000Z",
-                                                    "itemId":  "81128dc83639caeaf0dc4a9ce1d693c0",
-                                                    "poster":  "http://127.0.0.1:8096/Items/81128dc83639caeaf0dc4a9ce1d693c0/Images/Primary",
-                                                    "description":  "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
-                                                    "year":  2004
-                                                },
                                                 {
                                                     "title":  "Critters 3",
                                                     "start":  "2026-11-28T04:28:38.0000000Z",
@@ -190,6 +181,15 @@
                                                     "poster":  "http://127.0.0.1:8096/Items/6e5ccc599868e8e4908111e8e00356ea/Images/Primary",
                                                     "description":  "Cynical bodyguard Jericho is hired by a man possessed by Satan, who is in search of his bride. When Jericho realizes what is happening, he must do everything he can to save the woman and the world.",
                                                     "year":  1999
+                                                },
+                                                {
+                                                    "title":  "Resident Evil- Apocalypse",
+                                                    "start":  "2026-11-28T17:20:42.0000000Z",
+                                                    "stop":  "2026-11-28T18:54:30.0000000Z",
+                                                    "itemId":  null,
+                                                    "poster":  null,
+                                                    "description":  null,
+                                                    "year":  null
                                                 }
                                             ]
                            },
