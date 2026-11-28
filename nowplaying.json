@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-28T08:01:09.3127953Z",
+    "updated":  "2026-11-28T08:02:09.0129451Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -227,7 +227,7 @@
                                                 {
                                                     "title":  "ROBOCOP 2",
                                                     "start":  "2026-11-28T11:19:43.0000000Z",
-                                                    "stop":  "2026-11-28T13:16:52.0000000Z",
+                                                    "stop":  "2026-11-28T13:16:32.0000000Z",
                                                     "itemId":  "ed168cd8ea7f8fe92d65fc7fcafe4ce2",
                                                     "poster":  "http://127.0.0.1:8096/Items/ed168cd8ea7f8fe92d65fc7fcafe4ce2/Images/Primary",
                                                     "description":  "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP\u0027s path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
@@ -236,7 +236,7 @@
                                                 {
                                                     "title":  "ROBOCOP 3",
                                                     "start":  "2026-11-28T13:16:32.0000000Z",
-                                                    "stop":  "2026-11-28T15:01:23.0000000Z",
+                                                    "stop":  "2026-11-28T15:01:43.0000000Z",
                                                     "itemId":  "f702ea47ed0b775642c709d33df0fbb7",
                                                     "poster":  "http://127.0.0.1:8096/Items/f702ea47ed0b775642c709d33df0fbb7/Images/Primary",
                                                     "description":  "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
@@ -272,7 +272,7 @@
                                                 {
                                                     "title":  "Fast N Furious",
                                                     "start":  "2026-11-28T20:03:02.0000000Z",
-                                                    "stop":  "2026-11-28T21:50:18.0000000Z",
+                                                    "stop":  "2026-11-28T21:50:08.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
@@ -281,7 +281,7 @@
                                                 {
                                                     "title":  "Brightburn",
                                                     "start":  "2026-11-28T21:50:08.0000000Z",
-                                                    "stop":  "2026-11-28T23:20:38.0000000Z",
+                                                    "stop":  "2026-11-28T23:20:48.0000000Z",
                                                     "itemId":  "a562e465a7ff31b0113aee613a779bf2",
                                                     "poster":  "http://127.0.0.1:8096/Items/a562e465a7ff31b0113aee613a779bf2/Images/Primary",
                                                     "description":  "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
@@ -581,33 +581,24 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "After H0uRs",
-                                                  "start":  "2026-11-28T07:39:45.0000000Z",
-                                                  "stop":  "2026-11-28T08:17:47.0000000Z",
-                                                  "itemId":  "150bbae732cd647eeed3060cd67b032f",
-                                                  "poster":  "http://127.0.0.1:8096/Items/150bbae732cd647eeed3060cd67b032f/Images/Primary",
+                                                  "title":  "Oz",
+                                                  "start":  "2026-11-28T07:58:47.0000000Z",
+                                                  "stop":  "2026-11-28T08:09:06.0000000Z",
+                                                  "itemId":  "f332ba1673f9273e5349cd38b640cf51",
+                                                  "poster":  "http://127.0.0.1:8096/Items/f332ba1673f9273e5349cd38b640cf51/Images/Primary",
                                                   "description":  null,
-                                                  "year":  null
+                                                  "year":  2026
                                               },
                                "upNext":  {
-                                              "title":  "Carrito",
-                                              "start":  "2026-11-28T08:02:09.0000000Z",
-                                              "stop":  "2026-11-28T08:33:29.0000000Z",
-                                              "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                              "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                              "title":  "Dancing Cobra",
+                                              "start":  "2026-11-28T08:09:48.0000000Z",
+                                              "stop":  "2026-11-28T08:10:53.0000000Z",
+                                              "itemId":  "d8d2eb04b653c09af53f616165b15809",
+                                              "poster":  "http://127.0.0.1:8096/Items/d8d2eb04b653c09af53f616165b15809/Images/Primary",
                                               "description":  null,
                                               "year":  null
                                           },
                                "upcoming":  [
-                                                {
-                                                    "title":  "Carrito",
-                                                    "start":  "2026-11-28T08:02:09.0000000Z",
-                                                    "stop":  "2026-11-28T08:33:29.0000000Z",
-                                                    "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                                    "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
-                                                    "description":  null,
-                                                    "year":  null
-                                                },
                                                 {
                                                     "title":  "Dancing Cobra",
                                                     "start":  "2026-11-28T08:09:48.0000000Z",
@@ -620,7 +611,7 @@
                                                 {
                                                     "title":  "DnBaPCsht",
                                                     "start":  "2026-11-28T08:10:53.0000000Z",
-                                                    "stop":  "2026-11-28T08:35:06.0000000Z",
+                                                    "stop":  "2026-11-28T08:30:32.0000000Z",
                                                     "itemId":  "d2296bca99a831548bbada0bb3bac719",
                                                     "poster":  "http://127.0.0.1:8096/Items/d2296bca99a831548bbada0bb3bac719/Images/Primary",
                                                     "description":  null,
@@ -629,7 +620,7 @@
                                                 {
                                                     "title":  "Duende",
                                                     "start":  "2026-11-28T08:11:52.0000000Z",
-                                                    "stop":  "2026-11-28T08:53:39.0000000Z",
+                                                    "stop":  "2026-11-28T08:13:33.0000000Z",
                                                     "itemId":  "80d6feb8f0c835e935a80db3275c5412",
                                                     "poster":  "http://127.0.0.1:8096/Items/80d6feb8f0c835e935a80db3275c5412/Images/Primary",
                                                     "description":  null,
@@ -638,7 +629,7 @@
                                                 {
                                                     "title":  "JamminG",
                                                     "start":  "2026-11-28T08:13:33.0000000Z",
-                                                    "stop":  "2026-11-28T09:05:36.0000000Z",
+                                                    "stop":  "2026-11-28T08:26:03.0000000Z",
                                                     "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
                                                     "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                     "description":  null,
@@ -647,7 +638,7 @@
                                                 {
                                                     "title":  "Never 3Nding",
                                                     "start":  "2026-11-28T08:17:30.0000000Z",
-                                                    "stop":  "2026-11-28T08:19:42.0000000Z",
+                                                    "stop":  "2026-11-28T08:28:15.0000000Z",
                                                     "itemId":  "b0bd5e4d3bc1b6e8bf514feea3ca14b6",
                                                     "poster":  "http://127.0.0.1:8096/Items/b0bd5e4d3bc1b6e8bf514feea3ca14b6/Images/Primary",
                                                     "description":  null,
@@ -656,7 +647,7 @@
                                                 {
                                                     "title":  "Ninja Now",
                                                     "start":  "2026-11-28T08:19:42.0000000Z",
-                                                    "stop":  "2026-11-28T08:57:16.0000000Z",
+                                                    "stop":  "2026-11-28T08:28:57.0000000Z",
                                                     "itemId":  "f25fab92641c380c3ad5f0e4bd8f564f",
                                                     "poster":  "http://127.0.0.1:8096/Items/f25fab92641c380c3ad5f0e4bd8f564f/Images/Primary",
                                                     "description":  null,
@@ -665,11 +656,20 @@
                                                 {
                                                     "title":  "SSBI4649",
                                                     "start":  "2026-11-28T08:20:24.0000000Z",
-                                                    "stop":  "2026-11-28T08:21:13.0000000Z",
+                                                    "stop":  "2026-11-28T08:48:33.0000000Z",
                                                     "itemId":  null,
                                                     "poster":  null,
                                                     "description":  null,
                                                     "year":  null
+                                                },
+                                                {
+                                                    "title":  "Arnold Dynamite",
+                                                    "start":  "2026-11-28T08:21:13.0000000Z",
+                                                    "stop":  "2026-11-28T08:22:41.0000000Z",
+                                                    "itemId":  "a94cc09438ee0989a8e020ffa3a9ae4f",
+                                                    "poster":  "http://127.0.0.1:8096/Items/a94cc09438ee0989a8e020ffa3a9ae4f/Images/Primary",
+                                                    "description":  null,
+                                                    "year":  2026
                                                 }
                                             ]
                            },
