@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-28T03:12:05.2631708Z",
+    "updated":  "2026-11-28T03:13:05.2854158Z",
     "channels":  {
                      "1":  {
                                "number":  1,
@@ -581,11 +581,11 @@
                                "number":  7,
                                "name":  "FIRMELAB MIXTAPE",
                                "nowPlaying":  {
-                                                  "title":  "Carrito",
-                                                  "start":  "2026-11-28T02:56:00.0000000Z",
-                                                  "stop":  "2026-11-28T03:12:11.0000000Z",
-                                                  "itemId":  "ed83754111f4ed370a338cab8345534d",
-                                                  "poster":  "http://127.0.0.1:8096/Items/ed83754111f4ed370a338cab8345534d/Images/Primary",
+                                                  "title":  "JamminG",
+                                                  "start":  "2026-11-28T03:07:24.0000000Z",
+                                                  "stop":  "2026-11-28T03:30:02.0000000Z",
+                                                  "itemId":  "b2cecf0dccc5ae5acdccd615e14dc5a3",
+                                                  "poster":  "http://127.0.0.1:8096/Items/b2cecf0dccc5ae5acdccd615e14dc5a3/Images/Primary",
                                                   "description":  null,
                                                   "year":  null
                                               },
